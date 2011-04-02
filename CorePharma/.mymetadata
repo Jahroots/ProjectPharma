@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="CorePharma"
+  id="myeclipse.1301738061158"
+  context-root="/CorePharma"
+  j2ee-spec="5.0"
+  archive="CorePharma.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebContent" />
+  </attributes>
+</project-module>
+
