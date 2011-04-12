@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+"-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+"http://struts.apache.org/dtds/struts-2.0.dtd">
+ 
+<struts>
+ 	<!-- Exemple jasper reports  -->
+	<package name="jasperpackage" namespace="/" extends="jasperreports-default">
+	    <action name="myJasperTest" class="com.acme.test.action.JasperAction">
+	        <result name="success" type="jasper">
+	            <param name="location">/jasper/our_compiled_template.jasper</param>
+	            <param name="dataSource">myList</param>
+	            <param name="format">PDF</param>
+	        </result>
+	    </action>
+	</package>
+ 
+</struts>
