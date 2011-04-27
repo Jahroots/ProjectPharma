@@ -14,8 +14,19 @@
 	<property name="transaction.factory_class">org.hibernate.transaction.JDBCTransactionFactory</property>
 	<property name="hibernate.show_sql">true</property>
 	<!--  <property name="myeclipse.connection.profile">MysqlConnectorDB</property> -->
-	<mapping class="com.domain.User" />
-	<mapping class="com.domain.Produits" />
+	<!-- <mapping class="com.domain.User" /> -->
+		<!-- Mapping Resources -->
+	<mapping resource="hibernate-mapping-class/Categorieutilisateurs.hbm.xml" />
+	<mapping resource="hibernate-mapping-class/Clients.hbm.xml" />
+	<mapping resource="hibernate-mapping-class/Commandesproduits.hbm.xml" />
+	<mapping resource="hibernate-mapping-class/Comptesbancaires.hbm.xml" />
+	<mapping resource="hibernate-mapping-class/Fournisseurs.hbm.xml" />
+	<mapping resource="hibernate-mapping-class/Pharmacies.hbm.xml" />
+	<mapping resource="hibernate-mapping-class/Produits.hbm.xml" />
+	<mapping resource="hibernate-mapping-class/Produitsfournisseurs.hbm.xml" />
+	<mapping resource="hibernate-mapping-class/Utilisateurs.hbm.xml" />
+	<mapping resource="hibernate-mapping-class/Venteproduit.hbm.xml" />
+	<mapping resource="hibernate-mapping-class/Ventes.hbm.xml" />
 </session-factory>
 
 </hibernate-configuration>
