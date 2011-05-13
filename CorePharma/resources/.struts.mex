@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Struts2Diagram version="2.0">
+  <package name="default" location="0,0" size="0,0">
+    <action name="addUser" location="0,0" size="0,0">
+      <result name="success" />
+    </action>
+    <action name="index" location="0,0" size="0,0">
+      <result name="success" />
+    </action>
+    <action name="listUser" location="0,0" size="0,0">
+      <result name="success" />
+    </action>
+    <action name="ajaxdemo" location="0,0" size="0,0">
+      <result name="success" />
+    </action>
+    <action name="venteproduits" location="0,0" size="0,0">
+      <result name="success" />
+    </action>
+    <action name="terminervente" location="0,0" size="0,0">
+      <result name="success" />
+    </action>
+    <action name="testformulaire" location="0,0" size="0,0">
+      <result name="success" />
+    </action>
+    <action name="testGetForm" location="0,0" size="0,0">
+      <result name="success" />
+    </action>
+  </package>
+</Struts2Diagram>
+

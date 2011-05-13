@@ -1,0 +1,42 @@
+body
+{
+	background-image:url("../../images/bk_body.jpg");	
+}
+
+/* MENU */
+#zone-menu_{margin:0 0 15px 0;background:#67A897;}
+
+ul#menu{list-style-type:none;width:100%;position:relative;height:27px;font-family:"Trebuchet MS",Arial,sans-serif;font-size:11px;font-weight:bold;margin:0;padding:2px 0 0 0;}
+
+ul#menu li{display:block;float:left;margin:0 0 0 4px;height:27px;}
+
+ul#menu li.left{margin:0;}
+
+ul#menu li a{display:block;float:left;color:#fff;background:#4A6867;line-height:27px;text-decoration:none;padding:0 17px 0;height:27px;}
+
+ul#menu li a.right{padding-right:19px;}
+
+ul#menu li a:hover{background:#2E4560;}
+
+ul#menu li a.current{color:#2E4560;background:#fff;}
+
+ul#menu li a.current:hover{color:#2E4560;background:#fff;}
+
+/* Sous Menu */
+#zone-sous-menu_{margin:0 0 15px 0;background:#67A897;}
+
+ul#sousmenu{list-style-type:none;width:100%;position:relative;height:27px;font-family:"Trebuchet MS",Arial,sans-serif;font-size:11px;font-weight:bold;margin:0;padding:2px 0 0 0;}
+
+ul#sousmenu li{display:block;float:left;margin:0 0 0 4px;height:27px;}
+
+ul#sousmenu li.left{margin:0;}
+
+ul#sousmenu li a{display:block;float:left;color:#fff;background:#393;line-height:27px;text-decoration:none;padding:0 15px 0;height:27px;border-left:1px solid #fff;}
+
+ul#sousmenu li a.right{padding-right:19px;}
+
+ul#sousmenu li a:hover{background:#C06;}
+
+ul#sousmenu li a.current{color:#FFFF00;background:#C06;}
+
+ul#sousmenu li a.current:hover{color:#2E4560;background:#fff;}
