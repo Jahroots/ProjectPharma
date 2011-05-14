@@ -4,6 +4,9 @@
     <action name="addUser" location="0,0" size="0,0">
       <result name="success" />
     </action>
+    <action name="produits" location="0,0" size="0,0">
+      <result name="success" />
+    </action>
     <action name="index" location="0,0" size="0,0">
       <result name="success" />
     </action>

@@ -3,34 +3,32 @@
     "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
     "http://struts.apache.org/dtds/struts-2.0.dtd">
  
-<struts>
-    <!-- Exemple fichier struts.xml -->
-    <constant name="struts.enable.DynamicMethodInvocation" value="false" />
+<struts>  
     
-    <constant name="struts.devMode" value="true" />  
+    <package name="produits" namespace="/produits" extends="hibernate-default">
     
-    <package name="default" namespace="/" extends="hibernate-default">
+	    <action name="produits_sous_menu_01">
+			    <result>home/produits/produits_sous_menu_01.jsp</result>	
+		</action>
+		
+		<action name="produits_sous_menu_02">
+			    <result>home/produits/produits_sous_menu_02.jsp</result>	
+		</action>
     
     	<!-- <result-types>
     		<result-type name="jasper" class="org.apache.struts2.views.jasperreports.JasperReportsResult"/>
     	</result-types> -->
 	    
-        <action name="addUser" method="add" class="com.web.UserAction">
+        <!-- <action name="addUser" method="add" class="com.web.UserAction">
         
             <result name="success" type="redirect">listUser</result>
         
-        </action>
+        </action> -->
         
-        <action name="produits">
-            <result>>/home/produits/produits_sous_menu_01.jsp</result>
-        </action>
+        <!-- <action name="index">
         
-        <action name="index">
             <result>index.jsp</result>
-        </action>
-		
-		<action name="home">
-            <result>home/ndex.jsp</result>
+        
         </action>
         
         <action name="listUser" method="list" class="com.web.UserAction">
@@ -69,7 +67,7 @@
 		
 		</action>
 		
-		<!-- <action name="afficherPDF" class="com.rapport.JasperProduits">
+		 <action name="afficherPDF" class="com.rapport.JasperProduits">
 			
 			<result name="success" type="jasper">
 			
@@ -86,10 +84,5 @@
 		</action> -->
 	    
     </package>
-    
-    <!-- <include file="user/struts-user.xml"></include> -->
-    <include file="struts-jasper.xml"></include>
 
-	<include file="struts-modules/struts-produits.xml"></include>
-	
 </struts>
