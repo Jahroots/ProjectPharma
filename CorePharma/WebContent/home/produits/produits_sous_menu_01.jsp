@@ -6,7 +6,6 @@
 <title>CorePharma - Produits - Sous Menu 1</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 
-<!-- <link href="<s:url value="/css/main.css"/>" rel="stylesheet" type="text/css"/>-->
 <link href="<s:url value="/home/cssmodules/style.css"/>" rel="stylesheet" type="text/css"/>
 <link href="<s:url value="/home/cssmodules/menu/menu_style.css"/>" rel="stylesheet" type="text/css"/>
 

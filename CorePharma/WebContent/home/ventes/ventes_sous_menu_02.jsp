@@ -1,12 +1,14 @@
+<%@ taglib prefix="s" uri="/struts-tags" %>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <title>CorePharma - Ventes - Sous Menu 2</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 
-<link rel="stylesheet" type="text/css" href="../cssmodules/style.css">
+<link href="<s:url value="/home/cssmodules/style.css"/>" rel="stylesheet" type="text/css"/>
+<link href="<s:url value="/home/cssmodules/menu/menu_style.css"/>" rel="stylesheet" type="text/css"/>
 
-<link rel="stylesheet" href="../cssmodules/menu/menu_style.css" type="text/css">
 <style type="text/css">
 <!--
 
@@ -40,7 +42,7 @@
 	top:71px;
 	width:652px;
 	height:29px;
-	background-image: url(images/zone_menu.png);
+	background-image: url(<s:url value="/home/ventes/images/zone_menu.png"/>);
 }
 
 #indexSlice004_ {
@@ -65,7 +67,7 @@
 	top:74px;
 	width:96px;
 	height:28px;
-	background-image: url(images/zone_aff_login.png);
+	background-image: url(<s:url value="/home/ventes/images/zone_aff_login.png"/>);
 }
 
 #indexSlice007_ {
@@ -82,7 +84,7 @@
 	top:74px;
 	width:89px;
 	height:17px;
-	background-image: url(images/zone_texte_logout.png);
+	background-image: url(<s:url value="/home/ventes/images/zone_texte_logout.png"/>);
 }
 
 #indexSlice009_ {
@@ -155,7 +157,7 @@
 	top:104px;
 	width:484px;
 	height:30px;
-	background-image: url(images/zone_sous_menu.png);
+	background-image: url(<s:url value="/home/ventes/images/zone_sous_menu.png"/>);
 }
 
 #indexSlice018_ {
@@ -172,7 +174,7 @@
 	top:108px;
 	width:202px;
 	height:23px;
-	background-image: url(images/titre_page.png);
+	background-image: url(<s:url value="/home/ventes/images/titre_page.png"/>);
 }
 
 #indexSlice020_ {
@@ -206,7 +208,7 @@
 	width:937px;
 	height:1081px;
 	background-color:#EA1200;
-	background-image: url(images/zone_principal.jpg);
+	background-image: url(<s:url value="/home/ventes/images/zone_principal.jpg"/>);
 }
 
 #indexSlice024_ {
@@ -249,10 +251,10 @@
 <center>
 <div id="Table_01">
 	<div id="indexSlice_">
-		<img id="indexSlice" src="images/indexSlice.png" width="1156" height="71" alt="" />
+		<img id="indexSlice" src="<s:url value="/home/ventes/images/indexSlice.png"/>" width="1156" height="71" alt="" />
 	</div>
 	<div id="indexSlice002_">
-		<img id="indexSlice002" src="images/indexSlice-02.png" width="100" height="1329" alt="" />
+		<img id="indexSlice002" src="<s:url value="/home/ventes/images/indexSlice-02.png"/>" width="100" height="1329" alt="" />
 	</div>
 	<div id="zone-menu_">
     	<!--<ul id="menu">
@@ -311,43 +313,43 @@
         </div>
 	</div>
 	<div id="indexSlice004_">
-		<img id="indexSlice004" src="images/indexSlice-04.png" width="404" height="3" alt="" />
+		<img id="indexSlice004" src="<s:url value="/home/ventes/images/indexSlice-04.png"/>" width="404" height="3" alt="" />
 	</div>
 	<div id="indexSlice005_">
-		<img id="indexSlice005" src="images/indexSlice-05.png" width="76" height="70" alt="" />
+		<img id="indexSlice005" src="<s:url value="/home/ventes/images/indexSlice-05.png"/>" width="76" height="70" alt="" />
 	</div>
 	<div id="zone-aff-login_">
 		Caissier 1
 	</div>
 	<div id="indexSlice007_">
-		<img id="indexSlice007" src="images/indexSlice-07.png" width="17" height="34" alt="" />
+		<img id="indexSlice007" src="<s:url value="/home/ventes/images/indexSlice-07.png"/>" width="17" height="34" alt="" />
 	</div>
 	<div id="zone-texte-logout_">
     	Déconnexion
 	</div>
 	<div id="indexSlice009_">
-		<img id="indexSlice009" src="images/indexSlice-09.png" width="4" height="70" alt="" />
+		<img id="indexSlice009" src="<s:url value="/home/ventes/images/indexSlice-09.png"/>" width="4" height="70" alt="" />
 	</div>
 	<div id="img-logout_">
-		<img id="img_logout" src="images/img_logout.png" width="13" height="17" alt="" />
+		<img id="img_logout" src="<s:url value="/home/ventes/images/img_logout.png"/>" width="13" height="17" alt="" />
 	</div>
 	<div id="indexSlice011_">
-		<img id="indexSlice011" src="images/indexSlice-11.png" width="109" height="1175" alt="" />
+		<img id="indexSlice011" src="<s:url value="/home/ventes/images/indexSlice-11.png"/>" width="109" height="1175" alt="" />
 	</div>
 	<div id="indexSlice012_">
-		<img id="indexSlice012" src="images/indexSlice-12.png" width="89" height="17" alt="" />
+		<img id="indexSlice012" src="<s:url value="/home/ventes/images/indexSlice-12.png"/>" width="89" height="17" alt="" />
 	</div>
 	<div id="indexSlice013_">
-		<img id="indexSlice013" src="images/indexSlice-13.png" width="13" height="53" alt="" />
+		<img id="indexSlice013" src="<s:url value="/home/ventes/images/indexSlice-13.png"/>" width="13" height="53" alt="" />
 	</div>
 	<div id="indexSlice014_">
-		<img id="indexSlice014" src="images/indexSlice-14.png" width="652" height="4" alt="" />
+		<img id="indexSlice014" src="<s:url value="/home/ventes/images/indexSlice-14.png"/>" width="652" height="4" alt="" />
 	</div>
 	<div id="indexSlice015_">
-		<img id="indexSlice015" src="images/indexSlice-15.png" width="96" height="6" alt="" />
+		<img id="indexSlice015" src="<s:url value="/home/ventes/images/indexSlice-15.png"/>" width="96" height="6" alt="" />
 	</div>
 	<div id="indexSlice016_">
-		<img id="indexSlice016" src="images/indexSlice-16.png" width="2" height="1296" alt="" />
+		<img id="indexSlice016" src="<s:url value="/home/ventes/images/indexSlice-16.png"/>" width="2" height="1296" alt="" />
 	</div>
 	<div id="zone-sous-menu_">
     	<ul id="sousmenu">
@@ -356,34 +358,34 @@
 		</ul>
 	</div>
 	<div id="indexSlice018_">
-		<img id="indexSlice018" src="images/indexSlice-18.png" width="166" height="40" alt="" />
+		<img id="indexSlice018" src="<s:url value="/home/ventes/images/indexSlice-18.png"/>" width="166" height="40" alt="" />
 	</div>
 	<div id="titre-page_">
 	  <span>Ventes - Sous Menu 2</span>
 	</div>
 	<div id="indexSlice020_">
-		<img id="indexSlice020" src="images/indexSlice-20.png" width="202" height="13" alt="" />
+		<img id="indexSlice020" src="<s:url value="/home/ventes/images/indexSlice-20.png"/>" width="202" height="13" alt="" />
 	</div>
 	<div id="indexSlice021_">
-		<img id="indexSlice021" src="images/indexSlice-21.png" width="484" height="10" alt="" />
+		<img id="indexSlice021" src="<s:url value="/home/ventes/images/indexSlice-21.png"/>" width="484" height="10" alt="" />
 	</div>
 	<div id="indexSlice022_">
-		<img id="indexSlice022" src="images/indexSlice-22.png" width="8" height="1105" alt="" />
+		<img id="indexSlice022" src="<s:url value="/home/ventes/images/indexSlice-22.png"/>" width="8" height="1105" alt="" />
 	</div>
 	<div id="zone-principal_">
     	zone principale
 	</div>
 	<div id="indexSlice024_">
-		<img id="indexSlice024" src="images/indexSlice-24.png" width="937" height="24" alt="" />
+		<img id="indexSlice024" src="<s:url value="/home/ventes/images/indexSlice-24.png"/>" width="937" height="24" alt="" />
 	</div>
 	<div id="bas-de-page_">
-		<img id="bas_de_page" src="images/bas_de_page.png" width="958" height="143" alt="" />
+		<img id="bas_de_page" src="<s:url value="/home/ventes/images/bas_de_page.png"/>" width="958" height="143" alt="" />
 	</div>
 	<div id="indexSlice026_">
-		<img id="indexSlice026" src="images/indexSlice-26.png" width="96" height="151" alt="" />
+		<img id="indexSlice026" src="<s:url value="/home/ventes/images/indexSlice-26.png"/>" width="96" height="151" alt="" />
 	</div>
 	<div id="indexSlice027_">
-		<img id="indexSlice027" src="images/indexSlice-27.png" width="958" height="8" alt="" />
+		<img id="indexSlice027" src="<s:url value="/home/ventes/images/indexSlice-27.png"/>" width="958" height="8" alt="" />
 	</div>
 </div>
 </center>
