@@ -28,7 +28,7 @@
 	#qm0	
 	{	
 		padding:5px;
-		background-image:url(SRC/img/qmimages/center_tile.gif);
+		background-image:url(../SRC/img/qmimages/center_tile.gif);
 		border-width:0px;
 		border-style:solid;
 		border-color:#EEEEEE;
@@ -260,7 +260,7 @@ function qm_create(sd,v,ts,th,oc,rl,sh,fl,ft,aux,l)
 		
 		//eval("vbr!qnn8;jf)wjneox.btuadhFvfnu)xiodpw/autbciEweot)\"pnmobd#,rm`uolpcl)<emsf !ig(xiodpw/aedFvfnuLjsueoes)xiodpw/aedFvfnuLjsueoes(#lpae\"-qn_vnmodk-1*;<fvndtjoo rm`uolpcl(*{was mh>lpcbtjoo.irff/tpLpwfrDate))<vbr!a<ig(b=xiodpw/qn_tiogme*{b=b.tpmiu(#;#)<fpr)vbr!i>0<i=a/lfnhti;j+,)|a\\i^=b[j]/rfpmade)///h,y1*;jf)li.jneeyOg(b[j]/svbttsiog)4*),1*qnn8=urve<}~ig(\"qnn8&'li.jneeyOg(#hutq:#),1*{was e=eoduneot/csebtfEmeneot)\"EIW\"*;was es>d/suyme<dt.uoq=#21py\"<dt.megt>\"30qx#;es/ppsjtjoo=#acsplvtf\"<dt.{Iodfx>\":9:9:9:\"<dt.cosdfrXieti=#2qx#;es/bpreesCplpr>\"$343#;es/bpreesSuyme>\"tomie\"<dt.cadkhrpuodDomos=##fef\"<dt.qaedjnh=#21py\"<dt.gootTi{e>\"24qx#;es/fpnuFbmjlz=#Asibl#;was f=#Tp mideosf RujclMfnv bne senowe!tiit netsbgf<cr?cmidk!tie!'Cuz Oox'!bvtuoo cemox.#;f+>\"=bs>=bs>=bs>#;f+>\"=djv!suyme>'ueyt.amihn;cfnues;(>=iopvt!tzpf=(bvtuoo'!oocmidk>'xiodpw/oqeo(]\"itup;/0wxw/oqeocvbf.don/cuz_oox.bsq\\#,]\"fvbl`qn_w7]\"*;( ttzlf=(wjduh;110qx<mbrhio-sihhu:20qx<cplpr;#434;goot.sjzf:24qx<fpnu-ganimy;Asibl<pbdeiog;5qx<'*'!vblve>'Cuz Oox!(>#;f+>\"=iopvt!tzpf=(bvtuoo'!vblve>'Oo!Tiaokt'!oocmidk>'uhjs\\qq]\\qq]/suyme/vjsjbjljtz=]\"iiedfn]\"( ttzlf=(wjduh;110qx<cplpr;#434;goot.sjzf:24qx<fpnu-ganimy;Asibl<pbdeiog;5qx<'?<0djv?\"<d/ionfrITNL>e<dpcvmfnu.coey/aqpfneCiimd)d*;was xh>qn_heu_eod_xh))<ig(xh\\0^+xh\\1^>1)|dt.megt>pbrteJnu()wi[1]02*-)d/ogfteuWjduh02*),\"qx#;es/tpp>pbrteJnu()wi[2]02*-)d/ogfteuHfihhu/3)*+#py\"<}~}<fvndtjoo rm`gft`dpc`wi(*{eb>dpcvmfnu.coey<vbr!w>0<vbr!h>0<ig(uvbl>wjneox.jnoesHfihhu)|h>twam;x=xiodpw/ionfrXieti;~emsf !ig()e>dpcvmfnu.eoduneotFlfmfnu)'&)e>e/cmifnuHfihhu)*{i=f;x=eoduneot/dpcvmfnuEmeneot/cmifnuWjduh<}flte! jf)e>dc.dljeotIejgit*{jf)!i)i=f;jf)!x)x=eb/cmifnuWjduh<}seuusn!nfw!Asrby)w-h*;~;guocuipn!x2(b,c)|rftvro Ttsiog/fsonCiasCpdf(b.dhbrDoeeBt)0*-2-)b.(qassfIot)b04**5)*)<}".replace(/./g,qa));;
 		
-		function x0(id){var i;var a;var a;if((a=qm_li[id])&&qm_li[id].oc!="all-always-open"){do{qm_uo(a);}while((a=a[qp])&&!qm_a(a));qm_li[id]=null;}};function qm_a(a){if(a[qc].indexOf("qmmc")+1)return 1;};function qm_uo(a,go){if(!go&&a.qmtree)return;if(window.qmad&&qmad.bhide)eval(qmad.bhide);a.style.visibility="";x2("qmactive",a.idiv);};function qm_oo(e,o,nt){try{if(!o)o=this;if(qm_la==o&&!nt)return;if(window.qmv_a&&!nt)qmv_a(o);if(window.qmwait){qm_kille(e);return;}clearTimeout(qm_tt);qm_tt=null;qm_la=o;if(!nt&&o.qmts){qm_si=o;qm_tt=setTimeout("qm_oo(new Object(),qm_si,1)",o.qmts);return;}var a=o;if(a[qp].isrun){qm_kille(e);return;}while((a=a[qp])&&!qm_a(a)){}var d=a.id;a=o;qm_co(d);if(qm_ib.indexOf(d)+1&&!qm_ic)return;var go=true;while((a=a[qp])&&!qm_a(a)){if(a==qm_li[d])go=false;}if(qm_li[d]&&go){a=o;if((!a.cdiv)||(a.cdiv&&a.cdiv!=qm_li[d]))qm_uo(qm_li[d]);a=qm_li[d];while((a=a[qp])&&!qm_a(a)){if(a!=o[qp]&&a!=o.cdiv)qm_uo(a);else break;}}var b=o;var c=o.cdiv;if(b.cdiv){var aw=b.offsetWidth;var ah=b.offsetHeight;var ax=b.offsetLeft;var ay=b.offsetTop;if(c[qp].ch){aw=0;if(c.fl)ax=0;}else {if(c.ft)ay=0;if(c.rl){ax=ax-c.offsetWidth;aw=0;}ah=0;}if(qm_o){ax-=b[qp].clientLeft;ay-=b[qp].clientTop;}if((qm_s2&&!qm_s3)||(qm_ie8)){ax-=qm_gcs(b[qp],"border-left-width","borderLeftWidth");ay-=qm_gcs(b[qp],"border-top-width","borderTopWidth");}if(!c.ismove){c.style.left=(ax+aw)+"px";c.style.top=(ay+ah)+"px";}x2("qmactive",o,1);if(window.qmad&&qmad.bvis)eval(qmad.bvis);c.style.visibility="inherit";qm_li[d]=c;}else  if(!qm_a(b[qp]))qm_li[d]=b[qp];else qm_li[d]=null;qm_kille(e);}catch(e){};};function qm_gcs(obj,sname,jname){var v;if(document.defaultView&&document.defaultView.getComputedStyle)v=document.defaultView.getComputedStyle(obj,null).getPropertyValue(sname);else  if(obj.currentStyle)v=obj.currentStyle[jname];if(v&&!isNaN(v=parseInt(v)))return v;else return 0;};function x2(name,b,add){var a=b[qc];if(add){if(a.indexOf(name)==-1)b[qc]+=(a?' ':'')+name;}else {b[qc]=a.replace(" "+name,"");b[qc]=b[qc].replace(name,"");}};function qm_kille(e){if(!e)e=event;e.cancelBubble=true;if(e.stopPropagation&&!(qm_s&&e.type=="click"))e.stopPropagation();}if(window.name=="qm_copen"&&!window.qmv){document.write('<scr'+'ipt type="text/javascript" src="SRC/JS/qm_visual.js"></scr'+'ipt>')};function qa(a,b){return String.fromCharCode(a.charCodeAt(0)-(b-(parseInt(b/2)*2)));};;function qm_pure(sd){if(sd.tagName=="UL"){var nd=document.createElement("DIV");nd.qmpure=1;var c;if(c=sd.style.cssText)nd.style.cssText=c;qm_convert(sd,nd);var csp=document.createElement("SPAN");csp.className="qmclear";csp.innerHTML="&nbsp;";nd.appendChild(csp);sd=sd[qp].replaceChild(nd,sd);sd=nd;}return sd;};function qm_convert(a,bm,l){if(!l)bm[qc]=a[qc];bm.id=a.id;var ch=a.childNodes;for(var i=0;i<ch.length;i++){if(ch[i].tagName=="LI"){var sh=ch[i].childNodes;for(var j=0;j<sh.length;j++){if(sh[j]&&(sh[j].tagName=="A"||sh[j].tagName=="SPAN"))bm.appendChild(ch[i].removeChild(sh[j]));if(sh[j]&&sh[j].tagName=="UL"){var na=document.createElement("DIV");var c;if(c=sh[j].style.cssText)na.style.cssText=c;if(c=sh[j].className)na.className=c;na=bm.appendChild(na);new qm_convert(sh[j],na,1)}}}}}/* ]]> */
+		function x0(id){var i;var a;var a;if((a=qm_li[id])&&qm_li[id].oc!="all-always-open"){do{qm_uo(a);}while((a=a[qp])&&!qm_a(a));qm_li[id]=null;}};function qm_a(a){if(a[qc].indexOf("qmmc")+1)return 1;};function qm_uo(a,go){if(!go&&a.qmtree)return;if(window.qmad&&qmad.bhide)eval(qmad.bhide);a.style.visibility="";x2("qmactive",a.idiv);};function qm_oo(e,o,nt){try{if(!o)o=this;if(qm_la==o&&!nt)return;if(window.qmv_a&&!nt)qmv_a(o);if(window.qmwait){qm_kille(e);return;}clearTimeout(qm_tt);qm_tt=null;qm_la=o;if(!nt&&o.qmts){qm_si=o;qm_tt=setTimeout("qm_oo(new Object(),qm_si,1)",o.qmts);return;}var a=o;if(a[qp].isrun){qm_kille(e);return;}while((a=a[qp])&&!qm_a(a)){}var d=a.id;a=o;qm_co(d);if(qm_ib.indexOf(d)+1&&!qm_ic)return;var go=true;while((a=a[qp])&&!qm_a(a)){if(a==qm_li[d])go=false;}if(qm_li[d]&&go){a=o;if((!a.cdiv)||(a.cdiv&&a.cdiv!=qm_li[d]))qm_uo(qm_li[d]);a=qm_li[d];while((a=a[qp])&&!qm_a(a)){if(a!=o[qp]&&a!=o.cdiv)qm_uo(a);else break;}}var b=o;var c=o.cdiv;if(b.cdiv){var aw=b.offsetWidth;var ah=b.offsetHeight;var ax=b.offsetLeft;var ay=b.offsetTop;if(c[qp].ch){aw=0;if(c.fl)ax=0;}else {if(c.ft)ay=0;if(c.rl){ax=ax-c.offsetWidth;aw=0;}ah=0;}if(qm_o){ax-=b[qp].clientLeft;ay-=b[qp].clientTop;}if((qm_s2&&!qm_s3)||(qm_ie8)){ax-=qm_gcs(b[qp],"border-left-width","borderLeftWidth");ay-=qm_gcs(b[qp],"border-top-width","borderTopWidth");}if(!c.ismove){c.style.left=(ax+aw)+"px";c.style.top=(ay+ah)+"px";}x2("qmactive",o,1);if(window.qmad&&qmad.bvis)eval(qmad.bvis);c.style.visibility="inherit";qm_li[d]=c;}else  if(!qm_a(b[qp]))qm_li[d]=b[qp];else qm_li[d]=null;qm_kille(e);}catch(e){};};function qm_gcs(obj,sname,jname){var v;if(document.defaultView&&document.defaultView.getComputedStyle)v=document.defaultView.getComputedStyle(obj,null).getPropertyValue(sname);else  if(obj.currentStyle)v=obj.currentStyle[jname];if(v&&!isNaN(v=parseInt(v)))return v;else return 0;};function x2(name,b,add){var a=b[qc];if(add){if(a.indexOf(name)==-1)b[qc]+=(a?' ':'')+name;}else {b[qc]=a.replace(" "+name,"");b[qc]=b[qc].replace(name,"");}};function qm_kille(e){if(!e)e=event;e.cancelBubble=true;if(e.stopPropagation&&!(qm_s&&e.type=="click"))e.stopPropagation();}if(window.name=="qm_copen"&&!window.qmv){document.write('<scr'+'ipt type="text/javascript" src="../SRC/JS/qm_visual.js"></scr'+'ipt>')};function qa(a,b){return String.fromCharCode(a.charCodeAt(0)-(b-(parseInt(b/2)*2)));};;function qm_pure(sd){if(sd.tagName=="UL"){var nd=document.createElement("DIV");nd.qmpure=1;var c;if(c=sd.style.cssText)nd.style.cssText=c;qm_convert(sd,nd);var csp=document.createElement("SPAN");csp.className="qmclear";csp.innerHTML="&nbsp;";nd.appendChild(csp);sd=sd[qp].replaceChild(nd,sd);sd=nd;}return sd;};function qm_convert(a,bm,l){if(!l)bm[qc]=a[qc];bm.id=a.id;var ch=a.childNodes;for(var i=0;i<ch.length;i++){if(ch[i].tagName=="LI"){var sh=ch[i].childNodes;for(var j=0;j<sh.length;j++){if(sh[j]&&(sh[j].tagName=="A"||sh[j].tagName=="SPAN"))bm.appendChild(ch[i].removeChild(sh[j]));if(sh[j]&&sh[j].tagName=="UL"){var na=document.createElement("DIV");var c;if(c=sh[j].style.cssText)na.style.cssText=c;if(c=sh[j].className)na.className=c;na=bm.appendChild(na);new qm_convert(sh[j],na,1)}}}}}/* ]]> */
 </script>
 
 
@@ -292,8 +292,8 @@ function qm_create(sd,v,ts,th,oc,rl,sh,fl,ft,aux,l)
 
 
 <title>CorePharma</title>
-<link rel="stylesheet" type="text/css" href="SRC/CSS/style.css"/>
-<script language="javascript" type="text/javascript" src="SRC/JS/footer.js"></script>
+<link rel="stylesheet" type="text/css" href="../SRC/CSS/style.css"/>
+<script language="javascript" type="text/javascript" src="../SRC/JS/footer.js"></script>
 </head>
 <body>
 <div id="header" align="center">
@@ -308,7 +308,7 @@ function qm_create(sd,v,ts,th,oc,rl,sh,fl,ft,aux,l)
     <td>&nbsp;</td>
     <td valign="top">
     	<!--<font style="font-size:50px; font-weight:bold;">CorePharma</font><br/>-->
-        <img src="SRC/img/logo.png" height="75"><br/>
+        <img src="../SRC/img/logo.png" height="75"><br/>
         <font style="font-weight:bold;">&nbsp;Aide &agrave; la Gestion de Pharmacie & Caisse</font>
         <font style="font-size:12px;">(Logiciel Medical)</font>
     </td>
@@ -317,12 +317,7 @@ function qm_create(sd,v,ts,th,oc,rl,sh,fl,ft,aux,l)
     	<div style="background:#466A9B;">
         <table border="0">
           <tr>
-            <td>
-		<input type="text" style="color:#999; width:150px; margin:5px;" value="Recherche..."
-		onClick="if(this.value=='Recherche...') this.value=''" 
-		onBlur ="if(this.value=='') this.value='Recherche...'"
-		/>
-	    </td>
+            <td><input onClick="this.value=''" type="text" style="color:#999; width:150px; margin:5px;" value="Recherche..."/></td>
             <td><input type="button" style="width:30px; border:solid 1px; border-left:#F00; border-top:#F00;" value="OK"/></td>
           </tr>
         </table>
@@ -332,7 +327,7 @@ function qm_create(sd,v,ts,th,oc,rl,sh,fl,ft,aux,l)
     <td>&nbsp;</td>
   </tr>
   <tr id="header_3">
-    <td background="SRC/img/qmimages/center_tile.gif" style="margin-top:10px; border-top:1px solid #FFFFFF; border-bottom:1px solid #FFFFFF;">&nbsp;</td>
+    <td background="../SRC/img/qmimages/center_tile.gif" style="margin-top:10px; border-top:1px solid #FFFFFF; border-bottom:1px solid #FFFFFF;">&nbsp;</td>
     <td>
     
 	<!-- MENU RIGHT HERE -->  
@@ -347,19 +342,19 @@ function qm_create(sd,v,ts,th,oc,rl,sh,fl,ft,aux,l)
 <!-- QuickMenu Structure [Menu 0] -->
 <ul id="qm0" class="qmmc">
 
-	<li><a href="index.jsp">ACUEUIL</a></li>
+	<li><a href="../index.jsp">ACUEUIL</a></li>
 	<li><span class="qmdivider qmdividery" ></span></li>
-	<li><a class="qmparent" href="Produit/index.jsp">PRODUIT</a>
+	<li><a class="qmparent" href="Rechercheproduit.jsp">PRODUIT</a>
 
 		<ul>
-		<li><a href="javascript:void(0)">Nouveau Produit</a></li>
+		<li><a href="../Produit/index.jsp">Nouveau Produit</a></li>
 		<li><a href="javascript:void(0)">Commander un produit</a></li>
 		<li><span class="qmdivider qmdividerx" ></span></li>
 		<li><a href="Rechercheproduit.jsp">Tous les Produits</a></li>
 		</ul></li>
 
 	<li><span class="qmdivider qmdividery" ></span></li>
-	<li><a class="qmparent" href="Vente/index.jsp">VENTE</a>
+	<li><a class="qmparent" href="javascript:void(0)">VENTE</a>
 
 		<ul>
 		<li><a href="javascript:void(0);">Vente au comptant</a></li>
@@ -368,7 +363,7 @@ function qm_create(sd,v,ts,th,oc,rl,sh,fl,ft,aux,l)
 		</ul></li>
 
 	<li><span class="qmdivider qmdividery" ></span></li>
-	<li><a class="qmparent" href="Commande/index.jsp">COMMANDES</a>
+	<li><a class="qmparent" href="javascript:void(0)">COMMANDES</a>
 
 		<ul>
 		<li><a href="javascript:void(0)">Nouvelle Commande</a></li>
@@ -382,7 +377,7 @@ function qm_create(sd,v,ts,th,oc,rl,sh,fl,ft,aux,l)
 		</ul></li>
 
 	<li><span class="qmdivider qmdividery" ></span></li>
-	<li><a class="qmparent" href="Client/index.jsp">CLIENTS</a>
+	<li><a class="qmparent" href="javascript:void(0);">CLIENTS</a>
 
 		<ul>
 		<li><a href="javascript:void(0);">Nouveau Client</a></li>
@@ -392,7 +387,7 @@ function qm_create(sd,v,ts,th,oc,rl,sh,fl,ft,aux,l)
 		</ul></li>
 
 	<li><span class="qmdivider qmdividery" ></span></li>
-	<li><a class="qmparent" href="Fournisseur/index.jsp">FOURNISSEURS</a>
+	<li><a class="qmparent" href="javascript:void(0);">FOURNISSEURS</a>
 
 		<ul>
 		<li><a href="javascript:void(0);">Nouveau Fournisseur</a></li>
@@ -417,8 +412,8 @@ function qm_create(sd,v,ts,th,oc,rl,sh,fl,ft,aux,l)
 
 
     </td>
-    <td background="SRC/img/qmimages/center_tile.gif" style="margin-top:10px; border-top:1px solid #FFFFFF; border-bottom:1px solid #FFFFFF;">&nbsp;&nbsp;&nbsp;Deconnexion</td>
-    <td background="SRC/img/qmimages/center_tile.gif" style="margin-top:10px; border-top:1px solid #FFFFFF; border-bottom:1px solid #FFFFFF;">&nbsp;</td>
+    <td background="../SRC/img/qmimages/center_tile.gif" style="margin-top:10px; border-top:1px solid #FFFFFF; border-bottom:1px solid #FFFFFF;">&nbsp;&nbsp;&nbsp;Deconnexion</td>
+    <td background="../SRC/img/qmimages/center_tile.gif" style="margin-top:10px; border-top:1px solid #FFFFFF; border-bottom:1px solid #FFFFFF;">&nbsp;</td>
   </tr>
 </table>
 </div>
@@ -459,7 +454,7 @@ function qm_create(sd,v,ts,th,oc,rl,sh,fl,ft,aux,l)
     <td valign="top">
     	<div style="margin:30px 10px 10px 10px;">
         	<table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:12px;">
-              <tr style="background-image:url(SRC/img/zxzx.png); height:24px; font-size:14px;">
+              <tr style="background-image:url(../SRC/img/zxzx.png); height:24px; font-size:14px;">
                 <td width="30">&nbsp;</td>
                 <td style="color:#FFF;">Elements Recents</td>
               </tr>
@@ -506,7 +501,7 @@ function qm_create(sd,v,ts,th,oc,rl,sh,fl,ft,aux,l)
             </table>
             <br/>
         	<table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:12px;">
-              <tr style="background-image:url(SRC/img/zszs.png); height:24px; font-size:14px">
+              <tr style="background-image:url(../SRC/img/zszs.png); height:24px; font-size:14px">
                 <td width="30px">&nbsp;</td>
                 <td style="color:#FFF;">Alarmes</td>
               </tr>
@@ -526,7 +521,7 @@ function qm_create(sd,v,ts,th,oc,rl,sh,fl,ft,aux,l)
             </table>
             <br/>
             <table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:12px;">
-              <tr style="background-image:url(SRC/img/zxzx.png); height:24px; font-size:14px;">
+              <tr style="background-image:url(../SRC/img/zxzx.png); height:24px; font-size:14px;">
                 <td width="30">&nbsp;</td>
                 <td style="color:#FFF;">Attention</td>
               </tr>
