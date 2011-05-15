@@ -317,12 +317,7 @@ function qm_create(sd,v,ts,th,oc,rl,sh,fl,ft,aux,l)
     	<div style="background:#466A9B;">
         <table border="0">
           <tr>
-            <td>
-		<input type="text" style="color:#999; width:150px; margin:5px;" value="Recherche..."
-		onClick="if(this.value=='Recherche...') this.value=''" 
-		onBlur ="if(this.value=='') this.value='Recherche...'"
-		/>
-	    </td>
+            <td><input onClick="this.value=''" type="text" style="color:#999; width:150px; margin:5px;" value="Recherche..."/></td>
             <td><input type="button" style="width:30px; border:solid 1px; border-left:#F00; border-top:#F00;" value="OK"/></td>
           </tr>
         </table>
@@ -349,7 +344,7 @@ function qm_create(sd,v,ts,th,oc,rl,sh,fl,ft,aux,l)
 
 	<li><a href="index.html">ACUEUIL</a></li>
 	<li><span class="qmdivider qmdividery" ></span></li>
-	<li><a class="qmparent" href="Produit/index.html">PRODUIT</a>
+	<li><a class="qmparent" href="RechercheProduit.html">PRODUIT</a>
 
 		<ul>
 		<li><a href="javascript:void(0)">Nouveau Produit</a></li>
@@ -359,7 +354,7 @@ function qm_create(sd,v,ts,th,oc,rl,sh,fl,ft,aux,l)
 		</ul></li>
 
 	<li><span class="qmdivider qmdividery" ></span></li>
-	<li><a class="qmparent" href="Vente/index.html">VENTE</a>
+	<li><a class="qmparent" href="javascript:void(0)">VENTE</a>
 
 		<ul>
 		<li><a href="javascript:void(0);">Vente au comptant</a></li>
@@ -368,7 +363,7 @@ function qm_create(sd,v,ts,th,oc,rl,sh,fl,ft,aux,l)
 		</ul></li>
 
 	<li><span class="qmdivider qmdividery" ></span></li>
-	<li><a class="qmparent" href="Commande/index.html">COMMANDES</a>
+	<li><a class="qmparent" href="javascript:void(0)">COMMANDES</a>
 
 		<ul>
 		<li><a href="javascript:void(0)">Nouvelle Commande</a></li>
@@ -382,7 +377,7 @@ function qm_create(sd,v,ts,th,oc,rl,sh,fl,ft,aux,l)
 		</ul></li>
 
 	<li><span class="qmdivider qmdividery" ></span></li>
-	<li><a class="qmparent" href="Client/index.html">CLIENTS</a>
+	<li><a class="qmparent" href="javascript:void(0);">CLIENTS</a>
 
 		<ul>
 		<li><a href="javascript:void(0);">Nouveau Client</a></li>
@@ -392,7 +387,7 @@ function qm_create(sd,v,ts,th,oc,rl,sh,fl,ft,aux,l)
 		</ul></li>
 
 	<li><span class="qmdivider qmdividery" ></span></li>
-	<li><a class="qmparent" href="Fournisseur/index.html">FOURNISSEURS</a>
+	<li><a class="qmparent" href="javascript:void(0);">FOURNISSEURS</a>
 
 		<ul>
 		<li><a href="javascript:void(0);">Nouveau Fournisseur</a></li>
