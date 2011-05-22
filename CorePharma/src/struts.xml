@@ -27,6 +27,10 @@
             <result>home/ndex.jsp</result>
         </action>
         
+        <action name="clients">
+            <result>Client/index.jsp</result>
+        </action>
+        
         <!-- <action name="listUser" method="list" class="com.web.UserAction">
             <result name="success">/index.jsp</result>
         </action>
