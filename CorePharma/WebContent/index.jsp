@@ -1,3 +1,4 @@
+<%@ taglib prefix="s" uri="/struts-tags" %>
 <html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
@@ -23,7 +24,7 @@
     <td>&nbsp;</td>
     <td valign="top">
     	<!--<font style="font-size:50px; font-weight:bold;">CorePharma</font><br/>-->
-        <img src="<s:url value='/img/logo.png'/>" height="75"><br/>
+        <img src="<s:url value='/SRC/img/logo.png'/>" height="75"><br/>
         <font style="font-weight:bold;">&nbsp;Aide &agrave; la Gestion de Pharmacie & Caisse</font>
         <font style="font-size:12px;">(Logiciel Medical)</font>
     </td>
