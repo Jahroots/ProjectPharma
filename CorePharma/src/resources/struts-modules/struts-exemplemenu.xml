@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+    "http://struts.apache.org/dtds/struts-2.0.dtd">
+ 
+<struts>  
+
+	<package name="exemplemenu" namespace="/exemplemenu" extends="struts-default">
+	
+		<action name="page_tablo">
+			<result>/application/exemplemenu/page_tablo.jsp</result>
+		</action>
+		
+		<action name="page_form">
+			<result>/application/exemplemenu/page_form.jsp</result>
+		</action>
+		
+	</package>
+	
+</struts>
