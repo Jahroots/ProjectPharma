@@ -19,17 +19,20 @@
             <result name="success" type="redirect">listUser</result>
         </action> -->
         
-        <action name="index">
-            <result>index.jsp</result>
+        <action name="tableau_de_bord">
+            <result>application/tableau_de_bord.jsp</result>
         </action>
 		
-		<action name="home">
-            <result>home/ndex.jsp</result>
+		<action name="index">
+            <result>index.jsp</result>
         </action>
         
-        <action name="clients">
-            <result>Client/index.jsp</result>
-        </action>
+		<action name="deconnexion">
+			<result type="redirectAction">
+				<param name="actionName">index</param>
+				<param name="namespace">/</param>
+			</result>
+		</action>
         
         <!-- <action name="listUser" method="list" class="com.web.UserAction">
             <result name="success">/index.jsp</result>
@@ -86,5 +89,6 @@
     <!-- Fichier de configuration des différents modules -->
     <!-- <include file="resources/struts-jasper.xml"></include>-->
 	<include file="resources/struts-modules/struts-produits.xml"></include>
+	<include file="resources/struts-modules/struts-exemplemenu.xml"></include>
 	
 </struts>
