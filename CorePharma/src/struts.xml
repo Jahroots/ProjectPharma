@@ -20,10 +20,13 @@
             <result name="success" type="redirect">listUser</result>
         </action> -->
         
-        <action name="tableau_de_bord">
+        <!--<action name="tableau_de_bord">
             <result>application/tableau_de_bord.jsp</result>
+        </action>-->
+        <action name="tableau_de_bord" method="afficheTableauDeBord" class="corepharma.action.TableauDeBordAction">
+            <result name="success">application/tableau_de_bord.jsp</result>
         </action>
-        <!--<action name="tableau_de_bord" method="tableauDeBord" class="corepharma.action.TableauDeBordAction">
+        <!-- <action name="tableau_de_bord" method="afficheTableauDeBord" class="corepharma.action.TableauDeBordAction">
             <result name="success">/application/tableau_de_bord.jsp</result>
         </action>-->
 		
