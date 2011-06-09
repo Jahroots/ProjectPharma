@@ -1,34 +1,33 @@
-<?xml version="1.0"?>
-<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
-"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
-	<!-- Generated 27 avr. 2011 12:11:52 by Hibernate Tools 3.4.0.CR1 -->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 27 avr. 2011 12:11:52 by Hibernate Tools 3.4.0.CR1 -->
 <hibernate-mapping>
-	<class name="Utilisateurs" table="utilisateurs" catalog="corepharma">
-		<id name="idUtilisateur" type="java.lang.Integer">
-			<column name="idUtilisateur" not-null="true"/>
-			<generator class="identity" />
-		</id>
-		<property name="idCategorie" type="java.lang.Integer">
-			<column name="idCategorie" />
-		</property>
-		<property name="nom" type="string">
-			<column name="nom" length="254" />
-		</property>
-		<property name="prenom" type="string">
-			<column name="prenom" length="254" />
-		</property>
-		<property name="tel" type="string">
-			<column name="tel" length="254" />
-		</property>
-		<property name="email" type="string">
-			<column name="email" length="254" />
-		</property>
-		<property name="motdepasse" type="string">
-			<column name="motdepasse" length="254" />
-		</property>
-		<bag name="categories" table="categorieutilisateurs" inverse="true">
-			<key column="idUtilisateur" />
-			<many-to-many class="Categorieutilisateurs" column="idCategorie" />
-		</bag>
-	</class>
+  <class catalog="corepharma" name="Utilisateurs" table="utilisateurs">
+    <id name="idUtilisateur" type="java.lang.Integer">
+      <column name="idUtilisateur" not-null="true"/>
+      <generator class="identity"/>
+    </id>
+    <property name="idCategorie" type="java.lang.Integer">
+      <column name="idCategorie"/>
+    </property>
+    <property name="nom" type="string">
+      <column length="254" name="nom"/>
+    </property>
+    <property name="prenom" type="string">
+      <column length="254" name="prenom"/>
+    </property>
+    <property name="tel" type="string">
+      <column length="254" name="tel"/>
+    </property>
+    <property name="email" type="string">
+      <column length="254" name="email"/>
+    </property>
+    <property name="motdepasse" type="string">
+      <column length="254" name="motdepasse"/>
+    </property>
+    <bag inverse="true" name="categories" table="categorieutilisateurs">
+      <key column="idUtilisateur"/>
+      <many-to-many class="Categorieutilisateurs" column="idCategorie"/>
+    </bag>
+  </class>
 </hibernate-mapping>

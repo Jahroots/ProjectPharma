@@ -9,7 +9,8 @@
     
     <constant name="struts.devMode" value="true" />  
     
-    <package name="default" namespace="/" extends="hibernate-default">
+    <!--<package name="default" namespace="/" extends="hibernate-default">-->
+    <package name="default" namespace="/" extends="struts-default">
     
     	<!-- <result-types>
     		<result-type name="jasper" class="org.apache.struts2.views.jasperreports.JasperReportsResult"/>
@@ -22,6 +23,9 @@
         <action name="tableau_de_bord">
             <result>application/tableau_de_bord.jsp</result>
         </action>
+        <!--<action name="tableau_de_bord" method="tableauDeBord" class="corepharma.action.TableauDeBordAction">
+            <result name="success">/application/tableau_de_bord.jsp</result>
+        </action>-->
 		
 		<action name="index">
             <result>index.jsp</result>

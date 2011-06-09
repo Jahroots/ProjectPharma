@@ -1,18 +1,17 @@
-<?xml version="1.0"?>
-<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
-"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
 <!-- Generated 27 avr. 2011 12:11:52 by Hibernate Tools 3.4.0.CR1 -->
 <hibernate-mapping>
-    <class name="Produitsfournisseurs" table="produitsfournisseurs" catalog="corepharma">
-        <id name="idProduitsFournisseurs" type="java.lang.Integer">
-            <column name="idProduitsFournisseurs" />
-            <generator class="identity" />
-        </id>
-        <property name="idProduit" type="java.lang.Integer">
-            <column name="idProduit" />
-        </property>
-        <property name="idFournisseur" type="java.lang.Integer">
-            <column name="idFournisseur" />
-        </property>
-    </class>
+  <class catalog="corepharma" name="Produitsfournisseurs" table="produitsfournisseurs">
+    <id name="idProduitsFournisseurs" type="java.lang.Integer">
+      <column name="idProduitsFournisseurs"/>
+      <generator class="identity"/>
+    </id>
+    <property name="idProduit" type="java.lang.Integer">
+      <column name="idProduit"/>
+    </property>
+    <property name="idFournisseur" type="java.lang.Integer">
+      <column name="idFournisseur"/>
+    </property>
+  </class>
 </hibernate-mapping>

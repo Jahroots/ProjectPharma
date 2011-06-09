@@ -1,20 +1,18 @@
-<?xml version="1.0"?>
-<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
-"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
-	<!-- Generated 27 avr. 2011 12:11:52 by Hibernate Tools 3.4.0.CR1 -->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 27 avr. 2011 12:11:52 by Hibernate Tools 3.4.0.CR1 -->
 <hibernate-mapping>
-	<class name="Categorieutilisateurs" table="categorieutilisateurs"
-		catalog="corepharma">
-		<id name="idCategorie" type="java.lang.Integer">
-			<column name="idCategorie" not-null="true"/>
-			<generator class="identity" />
-		</id>
-		<property name="nomCategorie" type="string">
-			<column name="nomCategorie" length="254" />
-		</property>
-		<bag name="users" table="utilisateurs">
-			<key column="idCategorie" />
-			<many-to-many class="Utilisateurs" column="idUtilisateur" />
-		</bag>
-	</class>
+  <class catalog="corepharma" name="Categorieutilisateurs" table="categorieutilisateurs">
+    <id name="idCategorie" type="java.lang.Integer">
+      <column name="idCategorie" not-null="true"/>
+      <generator class="identity"/>
+    </id>
+    <property name="nomCategorie" type="string">
+      <column length="254" name="nomCategorie"/>
+    </property>
+    <bag name="users" table="utilisateurs">
+      <key column="idCategorie"/>
+      <many-to-many class="Utilisateurs" column="idUtilisateur"/>
+    </bag>
+  </class>
 </hibernate-mapping>
