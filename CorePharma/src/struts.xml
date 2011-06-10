@@ -12,85 +12,24 @@
     <!--<package name="default" namespace="/" extends="hibernate-default">-->
     <package name="default" namespace="/" extends="struts-default">
     
-    	<!-- <result-types>
-    		<result-type name="jasper" class="org.apache.struts2.views.jasperreports.JasperReportsResult"/>
-    	</result-types> -->
-	    
-        <!-- <action name="addUser" method="add" class="com.web.UserAction">
-            <result name="success" type="redirect">listUser</result>
-        </action> -->
-        
-        <!--<action name="tableau_de_bord">
-            <result>application/tableau_de_bord.jsp</result>
-        </action>-->
+        <!--Action pour accéder au tableau de bord de l'application-->
         <action name="tableau_de_bord" method="afficheTableauDeBord" class="corepharma.action.TableauDeBordAction">
             <result name="success">application/tableau_de_bord.jsp</result>
         </action>
-        <!-- <action name="tableau_de_bord" method="afficheTableauDeBord" class="corepharma.action.TableauDeBordAction">
-            <result name="success">/application/tableau_de_bord.jsp</result>
-        </action>-->
-		
-		<action name="index">
+	
+        <!--Action pour la page d'acceuil (Page d'identification)-->
+	<action name="index">
             <result>index.jsp</result>
         </action>
         
-		<action name="deconnexion">
-			<result type="redirectAction">
-				<param name="actionName">index</param>
-				<param name="namespace">/</param>
-			</result>
-		</action>
-        
-        <!-- <action name="listUser" method="list" class="com.web.UserAction">
-            <result name="success">/index.jsp</result>
+        <!--Action pour la déconnexion-->
+        <action name="deconnexion">
+            <result type="redirectAction">
+                    <param name="actionName">index</param>
+                    <param name="namespace">/</param>
+            </result>
         </action>
-        
-        <action name="ajaxdemo" class="com.autocomplete.UserAutoComplete">
-		    
-		    <result name="success">/AjaxMysqlHibernate.jsp</result>
-		
-		</action>
-		
-		<action name="venteproduits" class="com.web.ProduitsAction" method="listProduits">
-		    
-		    <result name="success">/VenteProduits.jsp</result>
-		
-		</action>
-		
-		<action name="terminervente" class="com.web.ProduitsAction" method="terminerVente">
-		    
-		    <result name="success" type="redirectAction">venteproduits</result>
-		
-		</action>
-		
-		<action name="testformulaire">
-		    
-		    <result name="success">/TestFormulaire.jsp</result>
-		
-		</action>
-		
-		<action name="testGetForm" class="com.web.TestFormulaireAction">
-		    
-		    <result name="success">/TestFormulaire.jsp</result>
-		
-		</action>
-		
-		<action name="afficherPDF" class="com.rapport.JasperProduits">
-			
-			<result name="success" type="jasper">
-			
-				<param name="location">rapports\ficheProduit.jasper</param>
-				
-				<param name="dataSource">produitDetails</param>
-				
-				<param name="format">PDF</param>
-				
-				<param name="reportParameters">paramsRapport</param>
-			
-			</result>
-		
-		</action> -->
-	    
+          
     </package>
     
     <!-- Fichier de configuration des différents modules -->

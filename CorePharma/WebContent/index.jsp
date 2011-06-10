@@ -27,7 +27,7 @@
 			
 			<div id="login-content">
 				
-				<form action="tableau_de_bord">
+				<form action="tableaudebord">
 				
 					<div class="notification information png_bg">
 						<div align="center">
