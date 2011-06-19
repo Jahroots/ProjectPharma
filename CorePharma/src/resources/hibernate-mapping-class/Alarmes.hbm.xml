@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 15 juin 2011 16:02:57 by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping package="corepharma.domain">
+    <class name="Alarmes" table="alarmes" catalog="corepharma">
+        <id name="idAlarme" type="java.lang.Integer">
+            <column name="idAlarme" />
+            <generator class="identity" />
+        </id>
+        <property name="typeAlarme" type="string">
+            <column name="typeAlarme" length="254" />
+        </property>
+        <property name="dateCreation" type="string">
+            <column name="dateCreation" length="254" />
+        </property>
+        <property name="dateModification" type="string">
+            <column name="dateModification" length="254" />
+        </property>
+        <property name="nombreDemande" type="string">
+            <column name="nombreDemande" length="254" />
+        </property>
+    </class>
+</hibernate-mapping>

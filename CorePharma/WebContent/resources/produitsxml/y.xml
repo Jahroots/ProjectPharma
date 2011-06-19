@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<root>
+<row idProduit="10372">
+<idAlarme>7713</idAlarme>
+<nomProduit>YAZ 0,02 mg/3 mg cp pellic</nomProduit>
+<codeProduit>f8c216</codeProduit>
+<prixProduit>499.0</prixProduit>
+<quantiteActuel>2987</quantiteActuel>
+<quantiteAlarme>436</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Valenzuela</auteurCreation>
+<auteurModification>Bertha
+</auteurModification>
+</row>
+<row idProduit="10373">
+<idAlarme>3027</idAlarme>
+<nomProduit>YERBALAXA tis en sach</nomProduit>
+<codeProduit>e11ed7</codeProduit>
+<prixProduit>1474.0</prixProduit>
+<quantiteActuel>2698</quantiteActuel>
+<quantiteAlarme>288</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Larson</auteurCreation>
+<auteurModification>Zeus
+</auteurModification>
+</row>
+<row idProduit="10374">
+<idAlarme>3370</idAlarme>
+<nomProduit>YOCORAL 5 mg cp</nomProduit>
+<codeProduit>19ca19</codeProduit>
+<prixProduit>616.0</prixProduit>
+<quantiteActuel>1922</quantiteActuel>
+<quantiteAlarme>129</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-06-30</dateModification>
+<auteurCreation>Fuller</auteurCreation>
+<auteurModification>Jescie
+</auteurModification>
+</row>
+<row idProduit="10375">
+<idAlarme>8933</idAlarme>
+<nomProduit>YOHIMBINE HOUDE 2 mg cp</nomProduit>
+<codeProduit>797f67</codeProduit>
+<prixProduit>1097.0</prixProduit>
+<quantiteActuel>2295</quantiteActuel>
+<quantiteAlarme>478</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-09-13</dateModification>
+<auteurCreation>Brennan</auteurCreation>
+<auteurModification>Brennan
+</auteurModification>
+</row>
+<row idProduit="10376">
+<idAlarme>6197</idAlarme>
+<nomProduit>YONDELIS 0,25mg pdre p sol diluer p perf</nomProduit>
+<codeProduit>cf4bd4</codeProduit>
+<prixProduit>507.0</prixProduit>
+<quantiteActuel>2398</quantiteActuel>
+<quantiteAlarme>358</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-06-29</dateModification>
+<auteurCreation>Madden</auteurCreation>
+<auteurModification>Gretchen
+</auteurModification>
+</row>
+<row idProduit="10377">
+<idAlarme>7268</idAlarme>
+<nomProduit>YONDELIS 1mg pdre p sol diluer p perf</nomProduit>
+<codeProduit>d37a5a</codeProduit>
+<prixProduit>628.0</prixProduit>
+<quantiteActuel>1591</quantiteActuel>
+<quantiteAlarme>436</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-10-05</dateModification>
+<auteurCreation>Chang</auteurCreation>
+<auteurModification>Tanek
+</auteurModification>
+</row>
+<row idProduit="10378">
+<idAlarme>9719</idAlarme>
+<nomProduit>YRANICID ARSENICAL pate p us dent</nomProduit>
+<codeProduit>65b1b8</codeProduit>
+<prixProduit>620.0</prixProduit>
+<quantiteActuel>2083</quantiteActuel>
+<quantiteAlarme>112</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-06-17</dateModification>
+<auteurCreation>Roberson</auteurCreation>
+<auteurModification>Melvin
+</auteurModification>
+</row>
+<row idProduit="10379">
+<idAlarme>10195</idAlarme>
+<nomProduit>YRANICID SANS ARSENIC pate p us dent</nomProduit>
+<codeProduit>8cb164</codeProduit>
+<prixProduit>952.0</prixProduit>
+<quantiteActuel>2140</quantiteActuel>
+<quantiteAlarme>410</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-08-21</dateModification>
+<auteurCreation>Kramer</auteurCreation>
+<auteurModification>Brandon
+</auteurModification>
+</row>
+<row idProduit="10380">
+<idAlarme>9773</idAlarme>
+<nomProduit>YRANOL EUGENOLE sol p us dent</nomProduit>
+<codeProduit>d9df44</codeProduit>
+<prixProduit>379.0</prixProduit>
+<quantiteActuel>2797</quantiteActuel>
+<quantiteAlarme>162</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Fuentes</auteurCreation>
+<auteurModification>Honorato
+</auteurModification>
+</row>
+<row idProduit="10381">
+<idAlarme>7117</idAlarme>
+<nomProduit>YSOMEGA 1g caps molle</nomProduit>
+<codeProduit>a77044</codeProduit>
+<prixProduit>530.0</prixProduit>
+<quantiteActuel>2978</quantiteActuel>
+<quantiteAlarme>467</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-07-13</dateModification>
+<auteurCreation>Jarvis</auteurCreation>
+<auteurModification>Mercedes
+</auteurModification>
+</row>
+<row idProduit="10382">
+<idAlarme>1862</idAlarme>
+<nomProduit>YTRACIS precurseur radiopharma</nomProduit>
+<codeProduit>b6a341</codeProduit>
+<prixProduit>1482.0</prixProduit>
+<quantiteActuel>1519</quantiteActuel>
+<quantiteAlarme>187</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-06-23</dateModification>
+<auteurCreation>Pittman</auteurCreation>
+<auteurModification>Halee
+</auteurModification>
+</row>
+</root>

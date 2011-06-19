@@ -11,9 +11,19 @@
     
     <package name="ventes" namespace="/ventes" extends="hibernate-default">
     
-	    <action name="index">
-			    <result>home/ventes/index.jsp</result>	
+	     <action name="vente_produits">
+			<result>/application/ventes/vente_produits.jsp</result>
 		</action>
+		
+		<!-- <action name="vente_produits" class="corepharma.action.ProduitsAction" method="listeProduits">
+			<result name="success">/application/ventes/vente_produits.jsp</result>
+		</action>-->
+		
+		<!-- <action name="venteproduits" class="com.web.ProduitsAction" method="listProduits">
+		    
+		    <result name="success">/VenteProduits.jsp</result>
+		
+		</action>-->
     
     	<!-- <result-types>
     		<result-type name="jasper" class="org.apache.struts2.views.jasperreports.JasperReportsResult"/>

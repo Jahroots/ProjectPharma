@@ -1,62 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
-<!-- Generated 27 avr. 2011 12:11:52 by Hibernate Tools 3.4.0.CR1 -->
-<hibernate-mapping>
-  <class catalog="corepharma" name="Fournisseurs" table="fournisseurs">
-    <id name="idFournisseur" type="java.lang.Integer">
-      <column name="idFournisseur" not-null="true"/>
-      <generator class="identity"/>
-    </id>
-    <property name="idCompte" type="java.lang.Integer">
-      <column name="idCompte"/>
-    </property>
-    <property name="idAlarme" type="java.lang.Integer">
-      <column name="idAlarme"/>
-    </property>
-    <property name="nomFournisseur" type="string">
-      <column length="254" name="nomFournisseur"/>
-    </property>
-    <property name="codeFournisseur" type="string">
-      <column length="254" name="codeFournisseur"/>
-    </property>
-    <property name="idNumeroCompte" type="java.lang.Integer">
-      <column name="idNumeroCompte"/>
-    </property>
-    <property name="tel" type="string">
-      <column length="254" name="tel"/>
-    </property>
-    <property name="adresse" type="string">
-      <column length="254" name="adresse"/>
-    </property>
-    <property name="jourLivraison" type="string">
-      <column length="254" name="jourLivraison"/>
-    </property>
-    <property name="etatFournisseur" type="java.lang.Boolean">
-      <column name="etatFournisseur"/>
-    </property>
-    <property name="dateCreation" type="string">
-      <column length="254" name="dateCreation"/>
-    </property>
-    <property name="dateModification" type="string">
-      <column length="254" name="dateModification"/>
-    </property>
-    <property name="auteurCreation" type="string">
-      <column length="254" name="auteurCreation"/>
-    </property>
-    <property name="auteurModification" type="string">
-      <column length="254" name="auteurModification"/>
-    </property>
-    <set cascade="all" inverse="true" lazy="true" name="commandesProduits">
-      <key>
-        <column name="idFournisseur" not-null="true"/>
-      </key>
-      <one-to-many class="Commandesproduits"/>
-    </set>
-    <set cascade="all" inverse="true" lazy="true" name="comptesbancaires">
-      <key>
-        <column name="idFournisseur" not-null="true"/>
-      </key>
-      <one-to-many class="Comptesbancaires"/>
-    </set>
-  </class>
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 15 juin 2011 16:02:57 by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping package="corepharma.domain">
+    <class name="Fournisseurs" table="fournisseurs" catalog="corepharma">
+        <id name="idFournisseur" type="java.lang.Integer">
+            <column name="idFournisseur" />
+            <generator class="identity" />
+        </id>
+        <property name="idCompte" type="java.lang.Integer">
+            <column name="idCompte" />
+        </property>
+        <property name="idAlarme" type="java.lang.Integer">
+            <column name="idAlarme" />
+        </property>
+        <property name="nomFournisseur" type="string">
+            <column name="nomFournisseur" length="254" />
+        </property>
+        <property name="codeFournisseur" type="string">
+            <column name="codeFournisseur" length="254" />
+        </property>
+        <property name="idNumeroCompte" type="java.lang.Integer">
+            <column name="idNumeroCompte" />
+        </property>
+        <property name="tel" type="string">
+            <column name="tel" length="254" />
+        </property>
+        <property name="adresse" type="string">
+            <column name="adresse" length="254" />
+        </property>
+        <property name="jourLivraison" type="string">
+            <column name="jourLivraison" length="254" />
+        </property>
+        <property name="etatFournisseur" type="java.lang.Boolean">
+            <column name="etatFournisseur" />
+        </property>
+        <property name="dateCreation" type="string">
+            <column name="dateCreation" length="254" />
+        </property>
+        <property name="dateModification" type="string">
+            <column name="dateModification" length="254" />
+        </property>
+        <property name="auteurCreation" type="string">
+            <column name="auteurCreation" length="254" />
+        </property>
+        <property name="auteurModification" type="string">
+            <column name="auteurModification" length="254" />
+        </property>
+    </class>
 </hibernate-mapping>

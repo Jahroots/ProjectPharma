@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<root>
+<row idProduit="10315">
+<idAlarme>5350</idAlarme>
+<nomProduit>XAGRID 0,5mg gel</nomProduit>
+<codeProduit>f305e3</codeProduit>
+<prixProduit>390.0</prixProduit>
+<quantiteActuel>2056</quantiteActuel>
+<quantiteAlarme>475</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-07-27</dateModification>
+<auteurCreation>Snyder</auteurCreation>
+<auteurModification>Quail
+</auteurModification>
+</row>
+<row idProduit="10316">
+<idAlarme>9463</idAlarme>
+<nomProduit>XALACOM collyre</nomProduit>
+<codeProduit>dc1a10</codeProduit>
+<prixProduit>1085.0</prixProduit>
+<quantiteActuel>2659</quantiteActuel>
+<quantiteAlarme>200</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-08-05</dateModification>
+<auteurCreation>Soto</auteurCreation>
+<auteurModification>Whilemina
+</auteurModification>
+</row>
+<row idProduit="10317">
+<idAlarme>5076</idAlarme>
+<nomProduit>XALATAN 0,005 % collyre</nomProduit>
+<codeProduit>994888</codeProduit>
+<prixProduit>604.0</prixProduit>
+<quantiteActuel>2189</quantiteActuel>
+<quantiteAlarme>356</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-07-09</dateModification>
+<auteurCreation>Sandoval</auteurCreation>
+<auteurModification>Marsden
+</auteurModification>
+</row>
+<row idProduit="10318">
+<idAlarme>1058</idAlarme>
+<nomProduit>XAMIOL 50 ug/0,5 mg/g gel</nomProduit>
+<codeProduit>ad0b87</codeProduit>
+<prixProduit>1152.0</prixProduit>
+<quantiteActuel>1722</quantiteActuel>
+<quantiteAlarme>112</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-09-17</dateModification>
+<auteurCreation>Vincent</auteurCreation>
+<auteurModification>Justin
+</auteurModification>
+</row>
+<row idProduit="10319">
+<idAlarme>1065</idAlarme>
+<nomProduit>XANAX 0,25 mg cp sec</nomProduit>
+<codeProduit>d69834</codeProduit>
+<prixProduit>893.0</prixProduit>
+<quantiteActuel>1633</quantiteActuel>
+<quantiteAlarme>139</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-18</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Cunningham</auteurCreation>
+<auteurModification>Dante
+</auteurModification>
+</row>
+<row idProduit="10320">
+<idAlarme>10215</idAlarme>
+<nomProduit>XANAX 0,5 mg cp sec</nomProduit>
+<codeProduit>fe9ae9</codeProduit>
+<prixProduit>1398.0</prixProduit>
+<quantiteActuel>2060</quantiteActuel>
+<quantiteAlarme>261</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-06-23</dateModification>
+<auteurCreation>Medina</auteurCreation>
+<auteurModification>Dennis
+</auteurModification>
+</row>
+<row idProduit="10321">
+<idAlarme>3172</idAlarme>
+<nomProduit>XANAX 1 mg cp sec</nomProduit>
+<codeProduit>b5b7d0</codeProduit>
+<prixProduit>718.0</prixProduit>
+<quantiteActuel>1615</quantiteActuel>
+<quantiteAlarme>146</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-06-30</dateModification>
+<auteurCreation>Hamilton</auteurCreation>
+<auteurModification>Hyacinth
+</auteurModification>
+</row>
+<row idProduit="10322">
+<idAlarme>2747</idAlarme>
+<nomProduit>XANTHIUM 200 mg gel LP</nomProduit>
+<codeProduit>2bf49d</codeProduit>
+<prixProduit>1466.0</prixProduit>
+<quantiteActuel>1844</quantiteActuel>
+<quantiteAlarme>287</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-06-23</dateModification>
+<auteurCreation>Reid</auteurCreation>
+<auteurModification>Chloe
+</auteurModification>
+</row>
+<row idProduit="10323">
+<idAlarme>1130</idAlarme>
+<nomProduit>XANTHIUM 300 mg gel LP</nomProduit>
+<codeProduit>2e9cd0</codeProduit>
+<prixProduit>251.0</prixProduit>
+<quantiteActuel>2444</quantiteActuel>
+<quantiteAlarme>421</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-08-31</dateModification>
+<auteurCreation>Mendoza</auteurCreation>
+<auteurModification>Jesse
+</auteurModification>
+</row>
+<row idProduit="10324">
+<idAlarme>10121</idAlarme>
+<nomProduit>XANTHIUM 400 mg gel LP</nomProduit>
+<codeProduit>a8acd3</codeProduit>
+<prixProduit>925.0</prixProduit>
+<quantiteActuel>2784</quantiteActuel>
+<quantiteAlarme>308</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-09-28</dateModification>
+<auteurCreation>Clark</auteurCreation>
+<auteurModification>Curran
+</auteurModification>
+</row>
+<row idProduit="10325">
+<idAlarme>4135</idAlarme>
+<nomProduit>XARELTO 10 mg cp pellic</nomProduit>
+<codeProduit>821982</codeProduit>
+<prixProduit>1080.0</prixProduit>
+<quantiteActuel>2773</quantiteActuel>
+<quantiteAlarme>255</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-09-02</dateModification>
+<auteurCreation>Burnett</auteurCreation>
+<auteurModification>Fulton
+</auteurModification>
+</row>
+<row idProduit="10326">
+<idAlarme>127</idAlarme>
+<nomProduit>XATRAL 10 mg cp LP</nomProduit>
+<codeProduit>506860</codeProduit>
+<prixProduit>1401.0</prixProduit>
+<quantiteActuel>2762</quantiteActuel>
+<quantiteAlarme>336</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-07-29</dateModification>
+<auteurCreation>Sloan</auteurCreation>
+<auteurModification>Nero
+</auteurModification>
+</row>
+<row idProduit="10327">
+<idAlarme>6536</idAlarme>
+<nomProduit>XATRAL 10mg cp LP</nomProduit>
+<codeProduit>e73482</codeProduit>
+<prixProduit>1232.0</prixProduit>
+<quantiteActuel>1564</quantiteActuel>
+<quantiteAlarme>178</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Hubbard</auteurCreation>
+<auteurModification>Olympia
+</auteurModification>
+</row>
+<row idProduit="10328">
+<idAlarme>933</idAlarme>
+<nomProduit>XATRAL 2,5mg cp pellic</nomProduit>
+<codeProduit>3516b3</codeProduit>
+<prixProduit>533.0</prixProduit>
+<quantiteActuel>1677</quantiteActuel>
+<quantiteAlarme>207</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-06-23</dateModification>
+<auteurCreation>Franklin</auteurCreation>
+<auteurModification>Alisa
+</auteurModification>
+</row>
+<row idProduit="10329">
+<idAlarme>6314</idAlarme>
+<nomProduit>XATRAL LP 10 mg cp LP</nomProduit>
+<codeProduit>0bb47e</codeProduit>
+<prixProduit>755.0</prixProduit>
+<quantiteActuel>1585</quantiteActuel>
+<quantiteAlarme>342</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Mckenzie</auteurCreation>
+<auteurModification>Clayton
+</auteurModification>
+</row>
+<row idProduit="10330">
+<idAlarme>3425</idAlarme>
+<nomProduit>XELEVIA 100mg cp pellic</nomProduit>
+<codeProduit>f6fe51</codeProduit>
+<prixProduit>1078.0</prixProduit>
+<quantiteActuel>1762</quantiteActuel>
+<quantiteAlarme>389</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-09-17</dateModification>
+<auteurCreation>Merritt</auteurCreation>
+<auteurModification>Graham
+</auteurModification>
+</row>
+<row idProduit="10331">
+<idAlarme>2437</idAlarme>
+<nomProduit>XELODA 150mg cp pellic</nomProduit>
+<codeProduit>5b43f4</codeProduit>
+<prixProduit>231.0</prixProduit>
+<quantiteActuel>2655</quantiteActuel>
+<quantiteAlarme>194</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Patrick</auteurCreation>
+<auteurModification>Alexander
+</auteurModification>
+</row>
+<row idProduit="10332">
+<idAlarme>798</idAlarme>
+<nomProduit>XELODA 500mg cp pellic</nomProduit>
+<codeProduit>2708b2</codeProduit>
+<prixProduit>602.0</prixProduit>
+<quantiteActuel>2839</quantiteActuel>
+<quantiteAlarme>178</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-09-18</dateModification>
+<auteurCreation>Dillard</auteurCreation>
+<auteurModification>Victoria
+</auteurModification>
+</row>
+<row idProduit="10333">
+<idAlarme>2782</idAlarme>
+<nomProduit>XENAZINE 25mg cp sec</nomProduit>
+<codeProduit>3b227d</codeProduit>
+<prixProduit>183.0</prixProduit>
+<quantiteActuel>1945</quantiteActuel>
+<quantiteAlarme>116</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Good</auteurCreation>
+<auteurModification>Barry
+</auteurModification>
+</row>
+<row idProduit="10334">
+<idAlarme>7032</idAlarme>
+<nomProduit>XENETIX 250mg Iode/ml sol inj</nomProduit>
+<codeProduit>38bf98</codeProduit>
+<prixProduit>578.0</prixProduit>
+<quantiteActuel>2812</quantiteActuel>
+<quantiteAlarme>186</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-09-10</dateModification>
+<auteurCreation>Newton</auteurCreation>
+<auteurModification>Baker
+</auteurModification>
+</row>
+<row idProduit="10335">
+<idAlarme>379</idAlarme>
+<nomProduit>XENETIX 300mg Iode/ml sol inj</nomProduit>
+<codeProduit>40dfd3</codeProduit>
+<prixProduit>1185.0</prixProduit>
+<quantiteActuel>1787</quantiteActuel>
+<quantiteAlarme>310</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-09-06</dateModification>
+<auteurCreation>Chavez</auteurCreation>
+<auteurModification>Graiden
+</auteurModification>
+</row>
+<row idProduit="10336">
+<idAlarme>1467</idAlarme>
+<nomProduit>XENETIX 350mg Iode/ml sol inj</nomProduit>
+<codeProduit>a52c37</codeProduit>
+<prixProduit>912.0</prixProduit>
+<quantiteActuel>1822</quantiteActuel>
+<quantiteAlarme>209</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-09-05</dateModification>
+<auteurCreation>Velazquez</auteurCreation>
+<auteurModification>Maxine
+</auteurModification>
+</row>
+<row idProduit="10337">
+<idAlarme>2445</idAlarme>
+<nomProduit>XENICAL 120mg gel</nomProduit>
+<codeProduit>acbe40</codeProduit>
+<prixProduit>1003.0</prixProduit>
+<quantiteActuel>1991</quantiteActuel>
+<quantiteAlarme>249</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-09-02</dateModification>
+<auteurCreation>Gregory</auteurCreation>
+<auteurModification>Sybil
+</auteurModification>
+</row>
+<row idProduit="10338">
+<idAlarme>62</idAlarme>
+<nomProduit>XENID 1% gel</nomProduit>
+<codeProduit>84b2c2</codeProduit>
+<prixProduit>447.0</prixProduit>
+<quantiteActuel>2688</quantiteActuel>
+<quantiteAlarme>301</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-11</dateCreation>
+<dateModification>2010-08-31</dateModification>
+<auteurCreation>Ryan</auteurCreation>
+<auteurModification>Winter
+</auteurModification>
+</row>
+<row idProduit="10339">
+<idAlarme>6630</idAlarme>
+<nomProduit>XENID 50mg cp enr gastroresis</nomProduit>
+<codeProduit>a517dc</codeProduit>
+<prixProduit>852.0</prixProduit>
+<quantiteActuel>2011</quantiteActuel>
+<quantiteAlarme>142</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Lancaster</auteurCreation>
+<auteurModification>Cairo
+</auteurModification>
+</row>
+<row idProduit="10340">
+<idAlarme>10528</idAlarme>
+<nomProduit>XEOMIN 100 U DL50 pdre p sol inj</nomProduit>
+<codeProduit>12043a</codeProduit>
+<prixProduit>1231.0</prixProduit>
+<quantiteActuel>2448</quantiteActuel>
+<quantiteAlarme>304</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-07-01</dateModification>
+<auteurCreation>Rojas</auteurCreation>
+<auteurModification>Rahim
+</auteurModification>
+</row>
+<row idProduit="10341">
+<idAlarme>8934</idAlarme>
+<nomProduit>XIGRIS 20mg pdre p sol p perf</nomProduit>
+<codeProduit>084403</codeProduit>
+<prixProduit>182.0</prixProduit>
+<quantiteActuel>2535</quantiteActuel>
+<quantiteAlarme>204</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-09-30</dateModification>
+<auteurCreation>Fry</auteurCreation>
+<auteurModification>Hashim
+</auteurModification>
+</row>
+<row idProduit="10342">
+<idAlarme>8576</idAlarme>
+<nomProduit>XIGRIS 5mg pdre p sol p perf</nomProduit>
+<codeProduit>285ad3</codeProduit>
+<prixProduit>1319.0</prixProduit>
+<quantiteActuel>2445</quantiteActuel>
+<quantiteAlarme>265</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-07-13</dateModification>
+<auteurCreation>Golden</auteurCreation>
+<auteurModification>Aretha
+</auteurModification>
+</row>
+<row idProduit="10343">
+<idAlarme>1067</idAlarme>
+<nomProduit>XOGEL gel gingiv adulte</nomProduit>
+<codeProduit>9a42d2</codeProduit>
+<prixProduit>674.0</prixProduit>
+<quantiteActuel>1861</quantiteActuel>
+<quantiteAlarme>284</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Hopper</auteurCreation>
+<auteurModification>Rajah
+</auteurModification>
+</row>
+<row idProduit="10344">
+<idAlarme>9176</idAlarme>
+<nomProduit>XOGEL gel gingiv enfant</nomProduit>
+<codeProduit>bcf7e1</codeProduit>
+<prixProduit>1370.0</prixProduit>
+<quantiteActuel>2340</quantiteActuel>
+<quantiteAlarme>224</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-09-23</dateModification>
+<auteurCreation>Irwin</auteurCreation>
+<auteurModification>Leandra
+</auteurModification>
+</row>
+<row idProduit="10345">
+<idAlarme>10041</idAlarme>
+<nomProduit>XOLAAM cp a croquer/sucer</nomProduit>
+<codeProduit>7e6c4b</codeProduit>
+<prixProduit>387.0</prixProduit>
+<quantiteActuel>2568</quantiteActuel>
+<quantiteAlarme>478</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-09-17</dateModification>
+<auteurCreation>Kramer</auteurCreation>
+<auteurModification>Burton
+</auteurModification>
+</row>
+<row idProduit="10346">
+<idAlarme>575</idAlarme>
+<nomProduit>XOLAAM susp buv en fl</nomProduit>
+<codeProduit>b8535e</codeProduit>
+<prixProduit>603.0</prixProduit>
+<quantiteActuel>2843</quantiteActuel>
+<quantiteAlarme>241</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-09-16</dateModification>
+<auteurCreation>Booker</auteurCreation>
+<auteurModification>Michael
+</auteurModification>
+</row>
+<row idProduit="10347">
+<idAlarme>514</idAlarme>
+<nomProduit>XOLAIR 150mg pdre/solv p sol inj</nomProduit>
+<codeProduit>c05782</codeProduit>
+<prixProduit>949.0</prixProduit>
+<quantiteActuel>1923</quantiteActuel>
+<quantiteAlarme>397</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-09-10</dateModification>
+<auteurCreation>Lynch</auteurCreation>
+<auteurModification>Oren
+</auteurModification>
+</row>
+<row idProduit="10348">
+<idAlarme>4999</idAlarme>
+<nomProduit>X-PREP pdre p sol buv</nomProduit>
+<codeProduit>7b560c</codeProduit>
+<prixProduit>1158.0</prixProduit>
+<quantiteActuel>2657</quantiteActuel>
+<quantiteAlarme>247</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-10-06</dateModification>
+<auteurCreation>Obrien</auteurCreation>
+<auteurModification>Maggie
+</auteurModification>
+</row>
+<row idProduit="10349">
+<idAlarme>9395</idAlarme>
+<nomProduit>XYLOCAINE 2% gel uretral sterile</nomProduit>
+<codeProduit>494f87</codeProduit>
+<prixProduit>1422.0</prixProduit>
+<quantiteActuel>2843</quantiteActuel>
+<quantiteAlarme>490</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-10-01</dateModification>
+<auteurCreation>Workman</auteurCreation>
+<auteurModification>James
+</auteurModification>
+</row>
+<row idProduit="10350">
+<idAlarme>2120</idAlarme>
+<nomProduit>XYLOCAINE ADRENALINE 1 % (200mg/20 ml) sol inj</nomProduit>
+<codeProduit>bfad7d</codeProduit>
+<prixProduit>1302.0</prixProduit>
+<quantiteActuel>2556</quantiteActuel>
+<quantiteAlarme>146</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-07-15</dateModification>
+<auteurCreation>Wood</auteurCreation>
+<auteurModification>Hadassah
+</auteurModification>
+</row>
+<row idProduit="10351">
+<idAlarme>5962</idAlarme>
+<nomProduit>XYLOCAINE ADRENALINE 2 % (400 mg/ 20 ml) sol inj</nomProduit>
+<codeProduit>56feeb</codeProduit>
+<prixProduit>469.0</prixProduit>
+<quantiteActuel>1810</quantiteActuel>
+<quantiteAlarme>326</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-18</dateCreation>
+<dateModification>2010-08-20</dateModification>
+<auteurCreation>Baird</auteurCreation>
+<auteurModification>Vanna
+</auteurModification>
+</row>
+<row idProduit="10352">
+<idAlarme>307</idAlarme>
+<nomProduit>XYLOCAINE NAPHAZOLINE 5% sol p appl loc</nomProduit>
+<codeProduit>0aa549</codeProduit>
+<prixProduit>1209.0</prixProduit>
+<quantiteActuel>1974</quantiteActuel>
+<quantiteAlarme>357</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Holman</auteurCreation>
+<auteurModification>Yvette
+</auteurModification>
+</row>
+<row idProduit="10353">
+<idAlarme>5348</idAlarme>
+<nomProduit>XYLOCAINE NEBULISEUR 5 % sol p pulv bucc</nomProduit>
+<codeProduit>b39441</codeProduit>
+<prixProduit>1453.0</prixProduit>
+<quantiteActuel>1653</quantiteActuel>
+<quantiteAlarme>198</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-09-09</dateModification>
+<auteurCreation>Bender</auteurCreation>
+<auteurModification>Jessica
+</auteurModification>
+</row>
+<row idProduit="10354">
+<idAlarme>2325</idAlarme>
+<nomProduit>XYLOCAINE sans conservateur 0,5 % (5mg/ml) sol inj</nomProduit>
+<codeProduit>b2b9d8</codeProduit>
+<prixProduit>961.0</prixProduit>
+<quantiteActuel>2602</quantiteActuel>
+<quantiteAlarme>125</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Bean</auteurCreation>
+<auteurModification>Zachary
+</auteurModification>
+</row>
+<row idProduit="10355">
+<idAlarme>2563</idAlarme>
+<nomProduit>XYLOCAINE sans conservateur 1 % (10mg/ml) sol inj</nomProduit>
+<codeProduit>dc9931</codeProduit>
+<prixProduit>1284.0</prixProduit>
+<quantiteActuel>2456</quantiteActuel>
+<quantiteAlarme>105</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-06-29</dateModification>
+<auteurCreation>Estrada</auteurCreation>
+<auteurModification>Miriam
+</auteurModification>
+</row>
+<row idProduit="10356">
+<idAlarme>2687</idAlarme>
+<nomProduit>XYLOCAINE sans conservateur 2 % (20 mg/ml) sol inj</nomProduit>
+<codeProduit>792e10</codeProduit>
+<prixProduit>750.0</prixProduit>
+<quantiteActuel>2858</quantiteActuel>
+<quantiteAlarme>205</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-09-13</dateModification>
+<auteurCreation>Matthews</auteurCreation>
+<auteurModification>Ethan
+</auteurModification>
+</row>
+<row idProduit="10357">
+<idAlarme>1527</idAlarme>
+<nomProduit>XYLOCAINE VISQUEUSE 2% gel oral</nomProduit>
+<codeProduit>eb68b0</codeProduit>
+<prixProduit>1419.0</prixProduit>
+<quantiteActuel>1869</quantiteActuel>
+<quantiteAlarme>344</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-10-02</dateModification>
+<auteurCreation>Mcclain</auteurCreation>
+<auteurModification>Patrick
+</auteurModification>
+</row>
+<row idProduit="10358">
+<idAlarme>6138</idAlarme>
+<nomProduit>XYLOCARD 20 mg/ml INTRAVEINEUX sol inj</nomProduit>
+<codeProduit>4b6c20</codeProduit>
+<prixProduit>174.0</prixProduit>
+<quantiteActuel>2413</quantiteActuel>
+<quantiteAlarme>104</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-08-25</dateModification>
+<auteurCreation>Gregory</auteurCreation>
+<auteurModification>Maggie
+</auteurModification>
+</row>
+<row idProduit="10359">
+<idAlarme>1866</idAlarme>
+<nomProduit>XYLOCARD 50 mg/ml sol inj p perf</nomProduit>
+<codeProduit>a3c411</codeProduit>
+<prixProduit>279.0</prixProduit>
+<quantiteActuel>1805</quantiteActuel>
+<quantiteAlarme>456</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-07-15</dateModification>
+<auteurCreation>Garner</auteurCreation>
+<auteurModification>Hall
+</auteurModification>
+</row>
+<row idProduit="10360">
+<idAlarme>3892</idAlarme>
+<nomProduit>XYLOCONTACT creme p us dent</nomProduit>
+<codeProduit>b8bdb2</codeProduit>
+<prixProduit>648.0</prixProduit>
+<quantiteActuel>2294</quantiteActuel>
+<quantiteAlarme>277</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-09-16</dateModification>
+<auteurCreation>Bray</auteurCreation>
+<auteurModification>Judith
+</auteurModification>
+</row>
+<row idProduit="10361">
+<idAlarme>6840</idAlarme>
+<nomProduit>XYLONOR 20 mg/ml ADRENALINEE au 1/80 000 sol inj p us dent</nomProduit>
+<codeProduit>cfffb4</codeProduit>
+<prixProduit>742.0</prixProduit>
+<quantiteActuel>2703</quantiteActuel>
+<quantiteAlarme>233</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-06-22</dateModification>
+<auteurCreation>Conway</auteurCreation>
+<auteurModification>Giselle
+</auteurModification>
+</row>
+<row idProduit="10362">
+<idAlarme>2673</idAlarme>
+<nomProduit>XYLONOR 20 mg/ml NORADRENALINEE au 1/25 000 sol inj p us dent</nomProduit>
+<codeProduit>e1ee0b</codeProduit>
+<prixProduit>1021.0</prixProduit>
+<quantiteActuel>2235</quantiteActuel>
+<quantiteAlarme>301</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-10-06</dateModification>
+<auteurCreation>Ratliff</auteurCreation>
+<auteurModification>Leandra
+</auteurModification>
+</row>
+<row idProduit="10363">
+<idAlarme>10138</idAlarme>
+<nomProduit>XYLONOR 30 mg/ml NORADRENALINEE au 1/25 000 sol inj p us dent</nomProduit>
+<codeProduit>d77018</codeProduit>
+<prixProduit>534.0</prixProduit>
+<quantiteActuel>2224</quantiteActuel>
+<quantiteAlarme>390</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-08-01</dateModification>
+<auteurCreation>Blackburn</auteurCreation>
+<auteurModification>Marsden
+</auteurModification>
+</row>
+<row idProduit="10364">
+<idAlarme>953</idAlarme>
+<nomProduit>XYLONOR compres impreg</nomProduit>
+<codeProduit>c520e8</codeProduit>
+<prixProduit>1070.0</prixProduit>
+<quantiteActuel>2257</quantiteActuel>
+<quantiteAlarme>356</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Mcfarland</auteurCreation>
+<auteurModification>Lynn
+</auteurModification>
+</row>
+<row idProduit="10365">
+<idAlarme>3802</idAlarme>
+<nomProduit>XYLONOR gel gingiv</nomProduit>
+<codeProduit>e95db3</codeProduit>
+<prixProduit>935.0</prixProduit>
+<quantiteActuel>1625</quantiteActuel>
+<quantiteAlarme>368</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-07-11</dateModification>
+<auteurCreation>Rosa</auteurCreation>
+<auteurModification>Delilah
+</auteurModification>
+</row>
+<row idProduit="10366">
+<idAlarme>7434</idAlarme>
+<nomProduit>XYLONOR sol p us dent</nomProduit>
+<codeProduit>4f3493</codeProduit>
+<prixProduit>567.0</prixProduit>
+<quantiteActuel>2621</quantiteActuel>
+<quantiteAlarme>234</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Holland</auteurCreation>
+<auteurModification>Gwendolyn
+</auteurModification>
+</row>
+<row idProduit="10367">
+<idAlarme>7256</idAlarme>
+<nomProduit>XYLONOR sol p us dent en flacon pulverisateur</nomProduit>
+<codeProduit>09ef2e</codeProduit>
+<prixProduit>826.0</prixProduit>
+<quantiteActuel>1658</quantiteActuel>
+<quantiteAlarme>366</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-08-09</dateModification>
+<auteurCreation>Delacruz</auteurCreation>
+<auteurModification>Justine
+</auteurModification>
+</row>
+<row idProduit="10368">
+<idAlarme>6735</idAlarme>
+<nomProduit>XYLOROLLAND ADRENALINE sol inj p us dent</nomProduit>
+<codeProduit>8ad2e9</codeProduit>
+<prixProduit>929.0</prixProduit>
+<quantiteActuel>2954</quantiteActuel>
+<quantiteAlarme>363</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-09-29</dateModification>
+<auteurCreation>Mason</auteurCreation>
+<auteurModification>Serena
+</auteurModification>
+</row>
+<row idProduit="10369">
+<idAlarme>1322</idAlarme>
+<nomProduit>XYLOROLLAND SANS VASOCONTRICTEUR sol inj p us dent</nomProduit>
+<codeProduit>88a577</codeProduit>
+<prixProduit>987.0</prixProduit>
+<quantiteActuel>1873</quantiteActuel>
+<quantiteAlarme>492</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-09-28</dateModification>
+<auteurCreation>Carr</auteurCreation>
+<auteurModification>Ronan
+</auteurModification>
+</row>
+<row idProduit="10370">
+<idAlarme>9536</idAlarme>
+<nomProduit>XYREM 500mg/ml sol buv</nomProduit>
+<codeProduit>b6258d</codeProduit>
+<prixProduit>1160.0</prixProduit>
+<quantiteActuel>1818</quantiteActuel>
+<quantiteAlarme>343</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-09-29</dateModification>
+<auteurCreation>Clarke</auteurCreation>
+<auteurModification>Xanthus
+</auteurModification>
+</row>
+<row idProduit="10371">
+<idAlarme>10043</idAlarme>
+<nomProduit>XYZALL 5mg cp pellic</nomProduit>
+<codeProduit>2b8fea</codeProduit>
+<prixProduit>1242.0</prixProduit>
+<quantiteActuel>1947</quantiteActuel>
+<quantiteAlarme>175</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-07-20</dateModification>
+<auteurCreation>Santana</auteurCreation>
+<auteurModification>Cain
+</auteurModification>
+</row>
+</root>

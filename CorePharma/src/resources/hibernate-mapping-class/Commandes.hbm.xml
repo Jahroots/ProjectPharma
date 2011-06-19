@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 15 juin 2011 16:02:57 by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping package="corepharma.domain">
+    <class name="Commandes" table="commandes" catalog="corepharma">
+        <id name="idCommande" type="java.lang.Integer">
+            <column name="idCommande" />
+            <generator class="identity" />
+        </id>
+        <property name="idClient" type="java.lang.Integer">
+            <column name="idClient" />
+        </property>
+        <property name="idFournisseur" type="java.lang.Integer">
+            <column name="idFournisseur" />
+        </property>
+        <property name="idAlarme" type="java.lang.Integer">
+            <column name="idAlarme" />
+        </property>
+        <property name="auteurModification" type="string">
+            <column name="auteurModification" length="254" />
+        </property>
+        <property name="numeroCommande" type="string">
+            <column name="numeroCommande" length="254" />
+        </property>
+        <property name="fournisseurCommande" type="string">
+            <column name="fournisseurCommande" length="254" />
+        </property>
+        <property name="etatCommande" type="string">
+            <column name="etatCommande" length="254" />
+        </property>
+        <property name="acompte" type="java.lang.Double">
+            <column name="acompte" precision="22" scale="0" />
+        </property>
+        <property name="soldeRestant" type="java.lang.Double">
+            <column name="soldeRestant" precision="22" scale="0" />
+        </property>
+        <property name="dateLivraisonSouhaite" type="string">
+            <column name="dateLivraisonSouhaite" length="254" />
+        </property>
+        <property name="dateLivraisonEffective" type="string">
+            <column name="dateLivraisonEffective" length="254" />
+        </property>
+        <property name="responsableCommande" type="string">
+            <column name="responsableCommande" length="254" />
+        </property>
+        <property name="dateCreation" type="string">
+            <column name="dateCreation" length="254" />
+        </property>
+        <property name="dateModification" type="string">
+            <column name="dateModification" length="254" />
+        </property>
+        <property name="auteurCreation" type="string">
+            <column name="auteurCreation" length="254" />
+        </property>
+    </class>
+</hibernate-mapping>

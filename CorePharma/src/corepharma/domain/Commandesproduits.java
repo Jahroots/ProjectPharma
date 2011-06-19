@@ -16,6 +16,7 @@ import javax.persistence.Table;
 @Table(name = "commandesproduits", catalog = "corepharma")
 public class Commandesproduits implements java.io.Serializable {
 
+	private static final long serialVersionUID = -1504512450276619261L;
 	private Integer idCommandesProduits;
 	private Integer idProduit;
 	private Integer idCommande;
@@ -48,7 +49,7 @@ public class Commandesproduits implements java.io.Serializable {
 		this.idProduit = idProduit;
 	}
 
-	@Column(name = "idCommande")
+	@Column(name = "idCommande"/*, updatable=false, insertable=false*/)
 	public Integer getIdCommande() {
 		return this.idCommande;
 	}

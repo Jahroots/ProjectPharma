@@ -27,7 +27,7 @@ public class TableauDeBordAction extends ActionSupport {
         if(logger.isDebugEnabled())
             logger.debug("Call Action <--- TableauDeBordAction OK");
         
-        return SUCCESS;
+        return "success";
     }
     
 }

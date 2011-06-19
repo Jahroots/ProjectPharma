@@ -1,0 +1,5617 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<root>
+<row idProduit="3231">
+<idAlarme>8524</idAlarme>
+<nomProduit>EAU OXYGENEE 10 VOLUMES EVOLUPHARM 10 vol sol p appl cut</nomProduit>
+<codeProduit>bb3ae7</codeProduit>
+<prixProduit>495.0</prixProduit>
+<quantiteActuel>2267</quantiteActuel>
+<quantiteAlarme>257</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-09-09</dateModification>
+<auteurCreation>Wilder</auteurCreation>
+<auteurModification>Roary
+</auteurModification>
+</row>
+<row idProduit="3232">
+<idAlarme>2436</idAlarme>
+<nomProduit>EAU OXYGENEE COOPER 10 volumes sol p appl cut</nomProduit>
+<codeProduit>91a391</codeProduit>
+<prixProduit>840.0</prixProduit>
+<quantiteActuel>1525</quantiteActuel>
+<quantiteAlarme>341</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-18</dateCreation>
+<dateModification>2010-10-01</dateModification>
+<auteurCreation>Kline</auteurCreation>
+<auteurModification>Amethyst
+</auteurModification>
+</row>
+<row idProduit="3233">
+<idAlarme>2507</idAlarme>
+<nomProduit>EAU OXYGENEE GIFRER 10 vol sol p appl loc</nomProduit>
+<codeProduit>52ad12</codeProduit>
+<prixProduit>569.0</prixProduit>
+<quantiteActuel>2336</quantiteActuel>
+<quantiteAlarme>286</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-08-20</dateModification>
+<auteurCreation>Nguyen</auteurCreation>
+<auteurModification>Myles
+</auteurModification>
+</row>
+<row idProduit="3234">
+<idAlarme>6804</idAlarme>
+<nomProduit>EAU OXYGENEE GILBERT 10 vol sol p appl cut</nomProduit>
+<codeProduit>5140a6</codeProduit>
+<prixProduit>951.0</prixProduit>
+<quantiteActuel>1872</quantiteActuel>
+<quantiteAlarme>488</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-07-14</dateModification>
+<auteurCreation>Avila</auteurCreation>
+<auteurModification>Igor
+</auteurModification>
+</row>
+<row idProduit="3235">
+<idAlarme>2569</idAlarme>
+<nomProduit>EAU OXYGENEE GILBERT 10 vol sol p appl loc</nomProduit>
+<codeProduit>6eaf19</codeProduit>
+<prixProduit>1186.0</prixProduit>
+<quantiteActuel>1733</quantiteActuel>
+<quantiteAlarme>283</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Bolton</auteurCreation>
+<auteurModification>Gannon
+</auteurModification>
+</row>
+<row idProduit="3236">
+<idAlarme>610</idAlarme>
+<nomProduit>EAU POUR PREPARATIONS INJECTABLES MACOPHARMA solv p prep parenter</nomProduit>
+<codeProduit>2a3d37</codeProduit>
+<prixProduit>1127.0</prixProduit>
+<quantiteActuel>2663</quantiteActuel>
+<quantiteAlarme>241</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-08-29</dateModification>
+<auteurCreation>Patrick</auteurCreation>
+<auteurModification>Phelan
+</auteurModification>
+</row>
+<row idProduit="3237">
+<idAlarme>4707</idAlarme>
+<nomProduit>EAU POUR PREPARATIONS INJECTABLES PROAMP solv p prep parenter</nomProduit>
+<codeProduit>0c0e21</codeProduit>
+<prixProduit>470.0</prixProduit>
+<quantiteActuel>2043</quantiteActuel>
+<quantiteAlarme>429</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-11</dateCreation>
+<dateModification>2010-07-02</dateModification>
+<auteurCreation>Pate</auteurCreation>
+<auteurModification>Anthony
+</auteurModification>
+</row>
+<row idProduit="3238">
+<idAlarme>1792</idAlarme>
+<nomProduit>EAU POUR PREPARATIONS INJECTABLES VIAFLO solv p prep parenter</nomProduit>
+<codeProduit>a8c521</codeProduit>
+<prixProduit>961.0</prixProduit>
+<quantiteActuel>1691</quantiteActuel>
+<quantiteAlarme>277</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Floyd</auteurCreation>
+<auteurModification>Scarlet
+</auteurModification>
+</row>
+<row idProduit="3239">
+<idAlarme>634</idAlarme>
+<nomProduit>EAU PREPARATION INJECTABLE AGUETTANT sol ppi</nomProduit>
+<codeProduit>5bde7a</codeProduit>
+<prixProduit>1081.0</prixProduit>
+<quantiteActuel>2756</quantiteActuel>
+<quantiteAlarme>305</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-10-01</dateModification>
+<auteurCreation>Dennis</auteurCreation>
+<auteurModification>Guy
+</auteurModification>
+</row>
+<row idProduit="3240">
+<idAlarme>4207</idAlarme>
+<nomProduit>EAU PREPARATION INJECTABLE B BRAUN sol p perf</nomProduit>
+<codeProduit>f7b80d</codeProduit>
+<prixProduit>594.0</prixProduit>
+<quantiteActuel>1749</quantiteActuel>
+<quantiteAlarme>463</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-10-05</dateModification>
+<auteurCreation>Peck</auteurCreation>
+<auteurModification>Kadeem
+</auteurModification>
+</row>
+<row idProduit="3241">
+<idAlarme>6804</idAlarme>
+<nomProduit>EAU PREPARATION INJECTABLE B BRAUN solv p prep parenter</nomProduit>
+<codeProduit>1f4aa1</codeProduit>
+<prixProduit>917.0</prixProduit>
+<quantiteActuel>1997</quantiteActuel>
+<quantiteAlarme>156</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-06-29</dateModification>
+<auteurCreation>Duke</auteurCreation>
+<auteurModification>Lewis
+</auteurModification>
+</row>
+<row idProduit="3242">
+<idAlarme>6657</idAlarme>
+<nomProduit>EAU PREPARATION INJECTABLE COOPER sol inj</nomProduit>
+<codeProduit>25aa2c</codeProduit>
+<prixProduit>840.0</prixProduit>
+<quantiteActuel>1965</quantiteActuel>
+<quantiteAlarme>417</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-09-20</dateModification>
+<auteurCreation>Alvarado</auteurCreation>
+<auteurModification>Felicia
+</auteurModification>
+</row>
+<row idProduit="3243">
+<idAlarme>8989</idAlarme>
+<nomProduit>EAU PREPARATION INJECTABLE FRESENIUS sol ppi IV</nomProduit>
+<codeProduit>3d0243</codeProduit>
+<prixProduit>1301.0</prixProduit>
+<quantiteActuel>2256</quantiteActuel>
+<quantiteAlarme>313</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Navarro</auteurCreation>
+<auteurModification>Sonya
+</auteurModification>
+</row>
+<row idProduit="3244">
+<idAlarme>10257</idAlarme>
+<nomProduit>EAU PREPARATION INJECTABLE GILBERT sol ppi</nomProduit>
+<codeProduit>2e0811</codeProduit>
+<prixProduit>1044.0</prixProduit>
+<quantiteActuel>1720</quantiteActuel>
+<quantiteAlarme>192</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-07-13</dateModification>
+<auteurCreation>Brennan</auteurCreation>
+<auteurModification>Mallory
+</auteurModification>
+</row>
+<row idProduit="3245">
+<idAlarme>1869</idAlarme>
+<nomProduit>EAU PREPARATION INJECTABLE LAVOISIER sol ppi</nomProduit>
+<codeProduit>a032f4</codeProduit>
+<prixProduit>1160.0</prixProduit>
+<quantiteActuel>2593</quantiteActuel>
+<quantiteAlarme>387</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Arnold</auteurCreation>
+<auteurModification>Damian
+</auteurModification>
+</row>
+<row idProduit="3246">
+<idAlarme>5233</idAlarme>
+<nomProduit>EAU PREPARATION INJECTABLE RENAUDIN sol ppi</nomProduit>
+<codeProduit>00a14d</codeProduit>
+<prixProduit>520.0</prixProduit>
+<quantiteActuel>1746</quantiteActuel>
+<quantiteAlarme>404</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-07-17</dateModification>
+<auteurCreation>Barrera</auteurCreation>
+<auteurModification>Laurel
+</auteurModification>
+</row>
+<row idProduit="3247">
+<idAlarme>7508</idAlarme>
+<nomProduit>EBIXA 10mg cp pellic</nomProduit>
+<codeProduit>69d774</codeProduit>
+<prixProduit>996.0</prixProduit>
+<quantiteActuel>2418</quantiteActuel>
+<quantiteAlarme>340</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-08-04</dateModification>
+<auteurCreation>Lowery</auteurCreation>
+<auteurModification>Benjamin
+</auteurModification>
+</row>
+<row idProduit="3248">
+<idAlarme>10514</idAlarme>
+<nomProduit>EBIXA 20 mg cp pellic</nomProduit>
+<codeProduit>f305ce</codeProduit>
+<prixProduit>272.0</prixProduit>
+<quantiteActuel>2286</quantiteActuel>
+<quantiteAlarme>309</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-09-14</dateModification>
+<auteurCreation>Hendrix</auteurCreation>
+<auteurModification>Abbot
+</auteurModification>
+</row>
+<row idProduit="3249">
+<idAlarme>9368</idAlarme>
+<nomProduit>EBIXA 5 mg/pression sol buv</nomProduit>
+<codeProduit>676199</codeProduit>
+<prixProduit>1044.0</prixProduit>
+<quantiteActuel>2555</quantiteActuel>
+<quantiteAlarme>296</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-08-24</dateModification>
+<auteurCreation>Santana</auteurCreation>
+<auteurModification>Andrew
+</auteurModification>
+</row>
+<row idProduit="3250">
+<idAlarme>7747</idAlarme>
+<nomProduit>ECALTA 100mg pdre/solv p sol diluer p perf</nomProduit>
+<codeProduit>195f3a</codeProduit>
+<prixProduit>284.0</prixProduit>
+<quantiteActuel>1825</quantiteActuel>
+<quantiteAlarme>378</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Valenzuela</auteurCreation>
+<auteurModification>McKenzie
+</auteurModification>
+</row>
+<row idProduit="3251">
+<idAlarme>2460</idAlarme>
+<nomProduit>ECAZIDE cp sec</nomProduit>
+<codeProduit>639fc6</codeProduit>
+<prixProduit>472.0</prixProduit>
+<quantiteActuel>2591</quantiteActuel>
+<quantiteAlarme>245</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-05</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Chang</auteurCreation>
+<auteurModification>Cleo
+</auteurModification>
+</row>
+<row idProduit="3252">
+<idAlarme>2007</idAlarme>
+<nomProduit>ECLARAN 10 gel p appl loc</nomProduit>
+<codeProduit>75da94</codeProduit>
+<prixProduit>1326.0</prixProduit>
+<quantiteActuel>2138</quantiteActuel>
+<quantiteAlarme>450</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-09-01</dateModification>
+<auteurCreation>Orr</auteurCreation>
+<auteurModification>Geoffrey
+</auteurModification>
+</row>
+<row idProduit="3253">
+<idAlarme>1259</idAlarme>
+<nomProduit>ECLARAN 5 gel p appl loc</nomProduit>
+<codeProduit>7c8b9c</codeProduit>
+<prixProduit>684.0</prixProduit>
+<quantiteActuel>2905</quantiteActuel>
+<quantiteAlarme>441</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-09-14</dateModification>
+<auteurCreation>Glover</auteurCreation>
+<auteurModification>Aquila
+</auteurModification>
+</row>
+<row idProduit="3254">
+<idAlarme>8592</idAlarme>
+<nomProduit>ECOBEC 250ug/dose sol p inhal</nomProduit>
+<codeProduit>2e51a8</codeProduit>
+<prixProduit>538.0</prixProduit>
+<quantiteActuel>1753</quantiteActuel>
+<quantiteAlarme>322</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-08-13</dateModification>
+<auteurCreation>Guerra</auteurCreation>
+<auteurModification>Flynn
+</auteurModification>
+</row>
+<row idProduit="3255">
+<idAlarme>5392</idAlarme>
+<nomProduit>ECONAZOLE ARROW 1% creme</nomProduit>
+<codeProduit>0455ea</codeProduit>
+<prixProduit>234.0</prixProduit>
+<quantiteActuel>2740</quantiteActuel>
+<quantiteAlarme>399</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-07-20</dateModification>
+<auteurCreation>Delgado</auteurCreation>
+<auteurModification>Seth
+</auteurModification>
+</row>
+<row idProduit="3256">
+<idAlarme>8160</idAlarme>
+<nomProduit>ECONAZOLE ARROW 1% emuls p appl cut</nomProduit>
+<codeProduit>006312</codeProduit>
+<prixProduit>664.0</prixProduit>
+<quantiteActuel>1861</quantiteActuel>
+<quantiteAlarme>184</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-09-05</dateModification>
+<auteurCreation>Juarez</auteurCreation>
+<auteurModification>Orson
+</auteurModification>
+</row>
+<row idProduit="3257">
+<idAlarme>7562</idAlarme>
+<nomProduit>ECONAZOLE ARROW 1% pdre p appl cut</nomProduit>
+<codeProduit>87ac20</codeProduit>
+<prixProduit>537.0</prixProduit>
+<quantiteActuel>2649</quantiteActuel>
+<quantiteAlarme>125</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Rosales</auteurCreation>
+<auteurModification>Orlando
+</auteurModification>
+</row>
+<row idProduit="3258">
+<idAlarme>7436</idAlarme>
+<nomProduit>ECONAZOLE ARROW 1% sol p appl cut</nomProduit>
+<codeProduit>f2feb0</codeProduit>
+<prixProduit>163.0</prixProduit>
+<quantiteActuel>1827</quantiteActuel>
+<quantiteAlarme>477</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-09-28</dateModification>
+<auteurCreation>Mooney</auteurCreation>
+<auteurModification>Tyrone
+</auteurModification>
+</row>
+<row idProduit="3259">
+<idAlarme>1458</idAlarme>
+<nomProduit>ECONAZOLE ARROW LP 150mg ovule LP</nomProduit>
+<codeProduit>3d2c0b</codeProduit>
+<prixProduit>1063.0</prixProduit>
+<quantiteActuel>1543</quantiteActuel>
+<quantiteAlarme>211</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-10-06</dateModification>
+<auteurCreation>Foreman</auteurCreation>
+<auteurModification>Nicholas
+</auteurModification>
+</row>
+<row idProduit="3260">
+<idAlarme>4891</idAlarme>
+<nomProduit>ECONAZOLE BIOGARAN L.P. 150 mg ovule LP</nomProduit>
+<codeProduit>00e531</codeProduit>
+<prixProduit>507.0</prixProduit>
+<quantiteActuel>2250</quantiteActuel>
+<quantiteAlarme>177</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-09-18</dateModification>
+<auteurCreation>Madden</auteurCreation>
+<auteurModification>Rhona
+</auteurModification>
+</row>
+<row idProduit="3261">
+<idAlarme>235</idAlarme>
+<nomProduit>ECONAZOLE EG 1 % creme</nomProduit>
+<codeProduit>46e0a9</codeProduit>
+<prixProduit>361.0</prixProduit>
+<quantiteActuel>1967</quantiteActuel>
+<quantiteAlarme>487</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-09-28</dateModification>
+<auteurCreation>Richard</auteurCreation>
+<auteurModification>Nicole
+</auteurModification>
+</row>
+<row idProduit="3262">
+<idAlarme>9228</idAlarme>
+<nomProduit>ECONAZOLE EG 1 % emuls p appl cut</nomProduit>
+<codeProduit>9b3a36</codeProduit>
+<prixProduit>1452.0</prixProduit>
+<quantiteActuel>1726</quantiteActuel>
+<quantiteAlarme>382</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Sloan</auteurCreation>
+<auteurModification>Jorden
+</auteurModification>
+</row>
+<row idProduit="3263">
+<idAlarme>2204</idAlarme>
+<nomProduit>ECONAZOLE EG 1 % pdre p appl cut</nomProduit>
+<codeProduit>7a522c</codeProduit>
+<prixProduit>324.0</prixProduit>
+<quantiteActuel>1551</quantiteActuel>
+<quantiteAlarme>414</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Hebert</auteurCreation>
+<auteurModification>Morgan
+</auteurModification>
+</row>
+<row idProduit="3264">
+<idAlarme>5065</idAlarme>
+<nomProduit>ECONAZOLE EG 1 % sol p appl cut</nomProduit>
+<codeProduit>ac0866</codeProduit>
+<prixProduit>1184.0</prixProduit>
+<quantiteActuel>2159</quantiteActuel>
+<quantiteAlarme>433</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Duffy</auteurCreation>
+<auteurModification>Fuller
+</auteurModification>
+</row>
+<row idProduit="3265">
+<idAlarme>9301</idAlarme>
+<nomProduit>ECONAZOLE EG LP 150mg ovule LP</nomProduit>
+<codeProduit>522ebd</codeProduit>
+<prixProduit>336.0</prixProduit>
+<quantiteActuel>1519</quantiteActuel>
+<quantiteAlarme>386</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-05</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Riddle</auteurCreation>
+<auteurModification>Scarlet
+</auteurModification>
+</row>
+<row idProduit="3266">
+<idAlarme>3082</idAlarme>
+<nomProduit>ECONAZOLE MYLAN 1 % creme</nomProduit>
+<codeProduit>3f957d</codeProduit>
+<prixProduit>905.0</prixProduit>
+<quantiteActuel>1895</quantiteActuel>
+<quantiteAlarme>376</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-09-26</dateModification>
+<auteurCreation>Morris</auteurCreation>
+<auteurModification>Dylan
+</auteurModification>
+</row>
+<row idProduit="3267">
+<idAlarme>3342</idAlarme>
+<nomProduit>ECONAZOLE MYLAN 1 % emuls p appl cut</nomProduit>
+<codeProduit>164baf</codeProduit>
+<prixProduit>784.0</prixProduit>
+<quantiteActuel>1881</quantiteActuel>
+<quantiteAlarme>354</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-08-20</dateModification>
+<auteurCreation>Monroe</auteurCreation>
+<auteurModification>Amethyst
+</auteurModification>
+</row>
+<row idProduit="3268">
+<idAlarme>5713</idAlarme>
+<nomProduit>ECONAZOLE MYLAN 1 % pdre p appl cut</nomProduit>
+<codeProduit>e45991</codeProduit>
+<prixProduit>895.0</prixProduit>
+<quantiteActuel>2928</quantiteActuel>
+<quantiteAlarme>449</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Compton</auteurCreation>
+<auteurModification>Alec
+</auteurModification>
+</row>
+<row idProduit="3269">
+<idAlarme>6717</idAlarme>
+<nomProduit>ECONAZOLE MYLAN 1 % sol p appl loc</nomProduit>
+<codeProduit>888d34</codeProduit>
+<prixProduit>176.0</prixProduit>
+<quantiteActuel>2862</quantiteActuel>
+<quantiteAlarme>486</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-10-04</dateModification>
+<auteurCreation>Garrison</auteurCreation>
+<auteurModification>Wade
+</auteurModification>
+</row>
+<row idProduit="3270">
+<idAlarme>4504</idAlarme>
+<nomProduit>ECONAZOLE MYLAN L.P. 150 mg ovule LP</nomProduit>
+<codeProduit>8091db</codeProduit>
+<prixProduit>1248.0</prixProduit>
+<quantiteActuel>1829</quantiteActuel>
+<quantiteAlarme>436</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-08-12</dateModification>
+<auteurCreation>Barton</auteurCreation>
+<auteurModification>Craig
+</auteurModification>
+</row>
+<row idProduit="3271">
+<idAlarme>5861</idAlarme>
+<nomProduit>ECONAZOLE QUALIMED LP 150mg ovule LP</nomProduit>
+<codeProduit>e7018a</codeProduit>
+<prixProduit>220.0</prixProduit>
+<quantiteActuel>2286</quantiteActuel>
+<quantiteAlarme>448</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-07-21</dateModification>
+<auteurCreation>Chan</auteurCreation>
+<auteurModification>Deacon
+</auteurModification>
+</row>
+<row idProduit="3272">
+<idAlarme>9145</idAlarme>
+<nomProduit>ECONAZOLE RANBAXY L.P. 150 mg ovule LP</nomProduit>
+<codeProduit>d2d70e</codeProduit>
+<prixProduit>1127.0</prixProduit>
+<quantiteActuel>2636</quantiteActuel>
+<quantiteAlarme>389</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-22</dateCreation>
+<dateModification>2010-07-21</dateModification>
+<auteurCreation>Lancaster</auteurCreation>
+<auteurModification>Daria
+</auteurModification>
+</row>
+<row idProduit="3273">
+<idAlarme>1391</idAlarme>
+<nomProduit>ECONAZOLE RATIOPHARM 1 % creme</nomProduit>
+<codeProduit>87ee19</codeProduit>
+<prixProduit>1121.0</prixProduit>
+<quantiteActuel>1939</quantiteActuel>
+<quantiteAlarme>472</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-07-01</dateModification>
+<auteurCreation>Lane</auteurCreation>
+<auteurModification>Celeste
+</auteurModification>
+</row>
+<row idProduit="3274">
+<idAlarme>2606</idAlarme>
+<nomProduit>ECONAZOLE RATIOPHARM 1 % emuls p appl cut</nomProduit>
+<codeProduit>3b437b</codeProduit>
+<prixProduit>766.0</prixProduit>
+<quantiteActuel>2965</quantiteActuel>
+<quantiteAlarme>159</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-05</dateCreation>
+<dateModification>2010-06-29</dateModification>
+<auteurCreation>Mcneil</auteurCreation>
+<auteurModification>Josiah
+</auteurModification>
+</row>
+<row idProduit="3275">
+<idAlarme>5473</idAlarme>
+<nomProduit>ECONAZOLE RATIOPHARM 1 % pdre p appl cut</nomProduit>
+<codeProduit>13ba5a</codeProduit>
+<prixProduit>160.0</prixProduit>
+<quantiteActuel>2900</quantiteActuel>
+<quantiteAlarme>450</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-08-17</dateModification>
+<auteurCreation>Whitley</auteurCreation>
+<auteurModification>Fitzgerald
+</auteurModification>
+</row>
+<row idProduit="3276">
+<idAlarme>1834</idAlarme>
+<nomProduit>ECONAZOLE RATIOPHARM 1 % sol p appl cut</nomProduit>
+<codeProduit>2c6c8f</codeProduit>
+<prixProduit>834.0</prixProduit>
+<quantiteActuel>2034</quantiteActuel>
+<quantiteAlarme>423</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-05</dateCreation>
+<dateModification>2010-07-27</dateModification>
+<auteurCreation>Doyle</auteurCreation>
+<auteurModification>Miranda
+</auteurModification>
+</row>
+<row idProduit="3277">
+<idAlarme>7509</idAlarme>
+<nomProduit>ECONAZOLE RATIOPHARM L.P. 150mg ovule LP</nomProduit>
+<codeProduit>0d8c73</codeProduit>
+<prixProduit>1455.0</prixProduit>
+<quantiteActuel>1548</quantiteActuel>
+<quantiteAlarme>177</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-07-27</dateModification>
+<auteurCreation>Wagner</auteurCreation>
+<auteurModification>Ella
+</auteurModification>
+</row>
+<row idProduit="3278">
+<idAlarme>2336</idAlarme>
+<nomProduit>ECONAZOLE RPG 1 % creme</nomProduit>
+<codeProduit>d18a13</codeProduit>
+<prixProduit>395.0</prixProduit>
+<quantiteActuel>2663</quantiteActuel>
+<quantiteAlarme>492</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-09-26</dateModification>
+<auteurCreation>Mcdowell</auteurCreation>
+<auteurModification>Jerome
+</auteurModification>
+</row>
+<row idProduit="3279">
+<idAlarme>3168</idAlarme>
+<nomProduit>ECONAZOLE RPG 1% emuls p appl cut</nomProduit>
+<codeProduit>b8f44c</codeProduit>
+<prixProduit>656.0</prixProduit>
+<quantiteActuel>2207</quantiteActuel>
+<quantiteAlarme>251</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-09-07</dateModification>
+<auteurCreation>Camacho</auteurCreation>
+<auteurModification>Hilel
+</auteurModification>
+</row>
+<row idProduit="3280">
+<idAlarme>7204</idAlarme>
+<nomProduit>ECONAZOLE RPG 1% pdre p appl cut</nomProduit>
+<codeProduit>dba703</codeProduit>
+<prixProduit>478.0</prixProduit>
+<quantiteActuel>2333</quantiteActuel>
+<quantiteAlarme>236</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-09-18</dateModification>
+<auteurCreation>Bailey</auteurCreation>
+<auteurModification>Drake
+</auteurModification>
+</row>
+<row idProduit="3281">
+<idAlarme>2306</idAlarme>
+<nomProduit>ECONAZOLE SANDOZ 1 % creme</nomProduit>
+<codeProduit>a00585</codeProduit>
+<prixProduit>626.0</prixProduit>
+<quantiteActuel>2520</quantiteActuel>
+<quantiteAlarme>181</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-09-06</dateModification>
+<auteurCreation>Kirby</auteurCreation>
+<auteurModification>Cade
+</auteurModification>
+</row>
+<row idProduit="3282">
+<idAlarme>3366</idAlarme>
+<nomProduit>ECONAZOLE SANDOZ 1% emuls p appl loc</nomProduit>
+<codeProduit>c57089</codeProduit>
+<prixProduit>593.0</prixProduit>
+<quantiteActuel>1911</quantiteActuel>
+<quantiteAlarme>365</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-08-01</dateModification>
+<auteurCreation>Bridges</auteurCreation>
+<auteurModification>Carla
+</auteurModification>
+</row>
+<row idProduit="3283">
+<idAlarme>5213</idAlarme>
+<nomProduit>ECONAZOLE SANDOZ 1% pdre p appl cut</nomProduit>
+<codeProduit>fc09d6</codeProduit>
+<prixProduit>1249.0</prixProduit>
+<quantiteActuel>1727</quantiteActuel>
+<quantiteAlarme>171</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-08-12</dateModification>
+<auteurCreation>Buckner</auteurCreation>
+<auteurModification>Jordan
+</auteurModification>
+</row>
+<row idProduit="3284">
+<idAlarme>1172</idAlarme>
+<nomProduit>ECONAZOLE SANDOZ 1% sol p appl loc</nomProduit>
+<codeProduit>867e53</codeProduit>
+<prixProduit>1445.0</prixProduit>
+<quantiteActuel>2149</quantiteActuel>
+<quantiteAlarme>459</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Craft</auteurCreation>
+<auteurModification>Melvin
+</auteurModification>
+</row>
+<row idProduit="3285">
+<idAlarme>10527</idAlarme>
+<nomProduit>ECONAZOLE SANDOZ LP 150mg ovule LP</nomProduit>
+<codeProduit>8e4f2a</codeProduit>
+<prixProduit>1478.0</prixProduit>
+<quantiteActuel>2298</quantiteActuel>
+<quantiteAlarme>290</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-10-06</dateModification>
+<auteurCreation>Rogers</auteurCreation>
+<auteurModification>Judah
+</auteurModification>
+</row>
+<row idProduit="3286">
+<idAlarme>86</idAlarme>
+<nomProduit>ECONAZOLE TEVA 1 % creme</nomProduit>
+<codeProduit>6ef3bd</codeProduit>
+<prixProduit>1443.0</prixProduit>
+<quantiteActuel>2148</quantiteActuel>
+<quantiteAlarme>141</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Pearson</auteurCreation>
+<auteurModification>Michelle
+</auteurModification>
+</row>
+<row idProduit="3287">
+<idAlarme>2041</idAlarme>
+<nomProduit>ECONAZOLE TEVA 1 % emuls p appl cut</nomProduit>
+<codeProduit>9b26b0</codeProduit>
+<prixProduit>1404.0</prixProduit>
+<quantiteActuel>2893</quantiteActuel>
+<quantiteAlarme>394</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-07-06</dateModification>
+<auteurCreation>Shepard</auteurCreation>
+<auteurModification>Fitzgerald
+</auteurModification>
+</row>
+<row idProduit="3288">
+<idAlarme>7160</idAlarme>
+<nomProduit>ECONAZOLE TEVA 1 % pdre p appl cut</nomProduit>
+<codeProduit>e9bcf1</codeProduit>
+<prixProduit>756.0</prixProduit>
+<quantiteActuel>2505</quantiteActuel>
+<quantiteAlarme>206</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Chapman</auteurCreation>
+<auteurModification>Harriet
+</auteurModification>
+</row>
+<row idProduit="3289">
+<idAlarme>9407</idAlarme>
+<nomProduit>ECONAZOLE TEVA 1 % sol p appl cut</nomProduit>
+<codeProduit>40db0a</codeProduit>
+<prixProduit>776.0</prixProduit>
+<quantiteActuel>1513</quantiteActuel>
+<quantiteAlarme>322</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Randall</auteurCreation>
+<auteurModification>Wade
+</auteurModification>
+</row>
+<row idProduit="3290">
+<idAlarme>2724</idAlarme>
+<nomProduit>ECONAZOLE TEVA LP 150mg ovule LP</nomProduit>
+<codeProduit>bdcf34</codeProduit>
+<prixProduit>698.0</prixProduit>
+<quantiteActuel>1934</quantiteActuel>
+<quantiteAlarme>370</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-06-21</dateModification>
+<auteurCreation>Glover</auteurCreation>
+<auteurModification>Damian
+</auteurModification>
+</row>
+<row idProduit="3291">
+<idAlarme>10479</idAlarme>
+<nomProduit>ECONAZOLE WINTHROP L.P. 150mg ovule LP</nomProduit>
+<codeProduit>ba463c</codeProduit>
+<prixProduit>446.0</prixProduit>
+<quantiteActuel>1667</quantiteActuel>
+<quantiteAlarme>293</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-07-06</dateModification>
+<auteurCreation>Horn</auteurCreation>
+<auteurModification>Peter
+</auteurModification>
+</row>
+<row idProduit="3292">
+<idAlarme>1087</idAlarme>
+<nomProduit>ECONAZOLE ZYDUS L.P. 150 mg ovule LP</nomProduit>
+<codeProduit>a21154</codeProduit>
+<prixProduit>644.0</prixProduit>
+<quantiteActuel>2201</quantiteActuel>
+<quantiteAlarme>157</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-08-07</dateModification>
+<auteurCreation>House</auteurCreation>
+<auteurModification>Liberty
+</auteurModification>
+</row>
+<row idProduit="3293">
+<idAlarme>2576</idAlarme>
+<nomProduit>ECOVITAMINE B12 0,05% collyre sol</nomProduit>
+<codeProduit>b5da1e</codeProduit>
+<prixProduit>1184.0</prixProduit>
+<quantiteActuel>2707</quantiteActuel>
+<quantiteAlarme>219</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-07-17</dateModification>
+<auteurCreation>Morris</auteurCreation>
+<auteurModification>Charde
+</auteurModification>
+</row>
+<row idProduit="3294">
+<idAlarme>5671</idAlarme>
+<nomProduit>EDETATE DE CHROME AMERSHAM sol inj IV</nomProduit>
+<codeProduit>d05fd7</codeProduit>
+<prixProduit>271.0</prixProduit>
+<quantiteActuel>1571</quantiteActuel>
+<quantiteAlarme>371</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-08-04</dateModification>
+<auteurCreation>Reyes</auteurCreation>
+<auteurModification>Wade
+</auteurModification>
+</row>
+<row idProduit="3295">
+<idAlarme>10400</idAlarme>
+<nomProduit>EDEX 10ug/1ml pdre/solv p sol inj</nomProduit>
+<codeProduit>19f97e</codeProduit>
+<prixProduit>397.0</prixProduit>
+<quantiteActuel>2118</quantiteActuel>
+<quantiteAlarme>156</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-07-18</dateModification>
+<auteurCreation>Chapman</auteurCreation>
+<auteurModification>Yael
+</auteurModification>
+</row>
+<row idProduit="3296">
+<idAlarme>6374</idAlarme>
+<nomProduit>EDEX 20ug/1ml pdre/solv p sol inj</nomProduit>
+<codeProduit>ccc2a1</codeProduit>
+<prixProduit>691.0</prixProduit>
+<quantiteActuel>2928</quantiteActuel>
+<quantiteAlarme>204</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-07-13</dateModification>
+<auteurCreation>Cherry</auteurCreation>
+<auteurModification>Rhonda
+</auteurModification>
+</row>
+<row idProduit="3297">
+<idAlarme>9497</idAlarme>
+<nomProduit>EDISTON 200 mg gel</nomProduit>
+<codeProduit>4afb2b</codeProduit>
+<prixProduit>734.0</prixProduit>
+<quantiteActuel>1895</quantiteActuel>
+<quantiteAlarme>137</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-07-03</dateModification>
+<auteurCreation>Faulkner</auteurCreation>
+<auteurModification>Audrey
+</auteurModification>
+</row>
+<row idProduit="3298">
+<idAlarme>8598</idAlarme>
+<nomProduit>EDUCTYL suppos ad</nomProduit>
+<codeProduit>772eb1</codeProduit>
+<prixProduit>1296.0</prixProduit>
+<quantiteActuel>2504</quantiteActuel>
+<quantiteAlarme>416</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-08-02</dateModification>
+<auteurCreation>Boyer</auteurCreation>
+<auteurModification>Mufutau
+</auteurModification>
+</row>
+<row idProduit="3299">
+<idAlarme>8074</idAlarme>
+<nomProduit>EDUCTYL suppos enf</nomProduit>
+<codeProduit>31e69b</codeProduit>
+<prixProduit>628.0</prixProduit>
+<quantiteActuel>2252</quantiteActuel>
+<quantiteAlarme>395</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-09-05</dateModification>
+<auteurCreation>Dennis</auteurCreation>
+<auteurModification>Julian
+</auteurModification>
+</row>
+<row idProduit="3300">
+<idAlarme>9497</idAlarme>
+<nomProduit>EFEZIAL 75ug/20ug cp enr</nomProduit>
+<codeProduit>caae8d</codeProduit>
+<prixProduit>242.0</prixProduit>
+<quantiteActuel>2953</quantiteActuel>
+<quantiteAlarme>381</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-06-17</dateModification>
+<auteurCreation>Cross</auteurCreation>
+<auteurModification>Eric
+</auteurModification>
+</row>
+<row idProduit="3301">
+<idAlarme>2130</idAlarme>
+<nomProduit>EFEZIAL 75ug/30ug cp enr</nomProduit>
+<codeProduit>1b611f</codeProduit>
+<prixProduit>445.0</prixProduit>
+<quantiteActuel>2691</quantiteActuel>
+<quantiteAlarme>479</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Floyd</auteurCreation>
+<auteurModification>Burke
+</auteurModification>
+</row>
+<row idProduit="3302">
+<idAlarme>5896</idAlarme>
+<nomProduit>EFFACNE 2,5 % gel</nomProduit>
+<codeProduit>981af2</codeProduit>
+<prixProduit>1059.0</prixProduit>
+<quantiteActuel>2260</quantiteActuel>
+<quantiteAlarme>161</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Dillard</auteurCreation>
+<auteurModification>Colton
+</auteurModification>
+</row>
+<row idProduit="3303">
+<idAlarme>4490</idAlarme>
+<nomProduit>EFFACNE 5 % gel</nomProduit>
+<codeProduit>3e7668</codeProduit>
+<prixProduit>546.0</prixProduit>
+<quantiteActuel>2533</quantiteActuel>
+<quantiteAlarme>358</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-09-02</dateModification>
+<auteurCreation>Bolton</auteurCreation>
+<auteurModification>Warren
+</auteurModification>
+</row>
+<row idProduit="3304">
+<idAlarme>2207</idAlarme>
+<nomProduit>EFFEDERM 0,05 % creme</nomProduit>
+<codeProduit>3b36fc</codeProduit>
+<prixProduit>867.0</prixProduit>
+<quantiteActuel>2551</quantiteActuel>
+<quantiteAlarme>375</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-08-29</dateModification>
+<auteurCreation>Gould</auteurCreation>
+<auteurModification>Yoshio
+</auteurModification>
+</row>
+<row idProduit="3305">
+<idAlarme>10495</idAlarme>
+<nomProduit>EFFEDERM 0,05 % sol p appl cut</nomProduit>
+<codeProduit>809731</codeProduit>
+<prixProduit>1468.0</prixProduit>
+<quantiteActuel>1992</quantiteActuel>
+<quantiteAlarme>160</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-06-27</dateModification>
+<auteurCreation>Stokes</auteurCreation>
+<auteurModification>Brandon
+</auteurModification>
+</row>
+<row idProduit="3306">
+<idAlarme>7791</idAlarme>
+<nomProduit>EFFENTORA 100ug cp gingiv</nomProduit>
+<codeProduit>a6748f</codeProduit>
+<prixProduit>1321.0</prixProduit>
+<quantiteActuel>1565</quantiteActuel>
+<quantiteAlarme>158</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-08-25</dateModification>
+<auteurCreation>Reese</auteurCreation>
+<auteurModification>Walker
+</auteurModification>
+</row>
+<row idProduit="3307">
+<idAlarme>5917</idAlarme>
+<nomProduit>EFFENTORA 200ug cp gingiv</nomProduit>
+<codeProduit>7740b0</codeProduit>
+<prixProduit>1350.0</prixProduit>
+<quantiteActuel>1692</quantiteActuel>
+<quantiteAlarme>198</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-09-08</dateModification>
+<auteurCreation>Rollins</auteurCreation>
+<auteurModification>Chaney
+</auteurModification>
+</row>
+<row idProduit="3308">
+<idAlarme>2649</idAlarme>
+<nomProduit>EFFENTORA 400ug cp gingiv</nomProduit>
+<codeProduit>4e0dc5</codeProduit>
+<prixProduit>1297.0</prixProduit>
+<quantiteActuel>1945</quantiteActuel>
+<quantiteAlarme>283</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-07-23</dateModification>
+<auteurCreation>Charles</auteurCreation>
+<auteurModification>Carson
+</auteurModification>
+</row>
+<row idProduit="3309">
+<idAlarme>6550</idAlarme>
+<nomProduit>EFFENTORA 600ug cp gingiv</nomProduit>
+<codeProduit>4e99de</codeProduit>
+<prixProduit>191.0</prixProduit>
+<quantiteActuel>2405</quantiteActuel>
+<quantiteAlarme>152</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-12</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Hubbard</auteurCreation>
+<auteurModification>Colleen
+</auteurModification>
+</row>
+<row idProduit="3310">
+<idAlarme>8677</idAlarme>
+<nomProduit>EFFENTORA 800ug cp gingiv</nomProduit>
+<codeProduit>1b0682</codeProduit>
+<prixProduit>602.0</prixProduit>
+<quantiteActuel>1903</quantiteActuel>
+<quantiteAlarme>489</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-07-20</dateModification>
+<auteurCreation>Ortega</auteurCreation>
+<auteurModification>Adam
+</auteurModification>
+</row>
+<row idProduit="3311">
+<idAlarme>2786</idAlarme>
+<nomProduit>EFFERALGAN 1 g cp efferv</nomProduit>
+<codeProduit>bd732f</codeProduit>
+<prixProduit>169.0</prixProduit>
+<quantiteActuel>1886</quantiteActuel>
+<quantiteAlarme>480</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-08-20</dateModification>
+<auteurCreation>Hunt</auteurCreation>
+<auteurModification>Aiko
+</auteurModification>
+</row>
+<row idProduit="3312">
+<idAlarme>2575</idAlarme>
+<nomProduit>EFFERALGAN 500 mg cp</nomProduit>
+<codeProduit>fe8b5d</codeProduit>
+<prixProduit>344.0</prixProduit>
+<quantiteActuel>2989</quantiteActuel>
+<quantiteAlarme>424</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-09-25</dateModification>
+<auteurCreation>Coleman</auteurCreation>
+<auteurModification>Tanisha
+</auteurModification>
+</row>
+<row idProduit="3313">
+<idAlarme>9760</idAlarme>
+<nomProduit>EFFERALGAN 500mg cp efferv sec</nomProduit>
+<codeProduit>28e5d5</codeProduit>
+<prixProduit>1162.0</prixProduit>
+<quantiteActuel>2156</quantiteActuel>
+<quantiteAlarme>234</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-07-16</dateModification>
+<auteurCreation>Boyer</auteurCreation>
+<auteurModification>Demetria
+</auteurModification>
+</row>
+<row idProduit="3314">
+<idAlarme>8222</idAlarme>
+<nomProduit>EFFERALGANODIS 500mg cp orodispers</nomProduit>
+<codeProduit>8c01ee</codeProduit>
+<prixProduit>547.0</prixProduit>
+<quantiteActuel>2016</quantiteActuel>
+<quantiteAlarme>423</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-09-24</dateModification>
+<auteurCreation>Lang</auteurCreation>
+<auteurModification>Amaya
+</auteurModification>
+</row>
+<row idProduit="3315">
+<idAlarme>1367</idAlarme>
+<nomProduit>EFFERALGANVITAMINEC 500mg/200mg cp efferv</nomProduit>
+<codeProduit>71e3fe</codeProduit>
+<prixProduit>1243.0</prixProduit>
+<quantiteActuel>1684</quantiteActuel>
+<quantiteAlarme>137</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-09-20</dateModification>
+<auteurCreation>Lee</auteurCreation>
+<auteurModification>Bernard
+</auteurModification>
+</row>
+<row idProduit="3316">
+<idAlarme>9574</idAlarme>
+<nomProduit>EFFEXOR 37,5mg gel LP</nomProduit>
+<codeProduit>e6c452</codeProduit>
+<prixProduit>586.0</prixProduit>
+<quantiteActuel>2703</quantiteActuel>
+<quantiteAlarme>206</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-06-21</dateModification>
+<auteurCreation>Sexton</auteurCreation>
+<auteurModification>Jared
+</auteurModification>
+</row>
+<row idProduit="3317">
+<idAlarme>2640</idAlarme>
+<nomProduit>EFFEXOR LP 75mg gel LP</nomProduit>
+<codeProduit>c6bd79</codeProduit>
+<prixProduit>345.0</prixProduit>
+<quantiteActuel>2482</quantiteActuel>
+<quantiteAlarme>279</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-07-31</dateModification>
+<auteurCreation>Dixon</auteurCreation>
+<auteurModification>Lars
+</auteurModification>
+</row>
+<row idProduit="3318">
+<idAlarme>818</idAlarme>
+<nomProduit>EFFICORT HYDROPHILE 0,127 % creme</nomProduit>
+<codeProduit>720f14</codeProduit>
+<prixProduit>735.0</prixProduit>
+<quantiteActuel>2559</quantiteActuel>
+<quantiteAlarme>111</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-09-16</dateModification>
+<auteurCreation>Harper</auteurCreation>
+<auteurModification>Sonya
+</auteurModification>
+</row>
+<row idProduit="3319">
+<idAlarme>2650</idAlarme>
+<nomProduit>EFFICORT LIPOPHILE 0,127 % creme</nomProduit>
+<codeProduit>10da54</codeProduit>
+<prixProduit>1157.0</prixProduit>
+<quantiteActuel>1790</quantiteActuel>
+<quantiteAlarme>328</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-07-21</dateModification>
+<auteurCreation>Vasquez</auteurCreation>
+<auteurModification>Oscar
+</auteurModification>
+</row>
+<row idProduit="3320">
+<idAlarme>4841</idAlarme>
+<nomProduit>EFFIPREV cp</nomProduit>
+<codeProduit>159f6b</codeProduit>
+<prixProduit>520.0</prixProduit>
+<quantiteActuel>2530</quantiteActuel>
+<quantiteAlarme>322</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-09-05</dateModification>
+<auteurCreation>Barrett</auteurCreation>
+<auteurModification>Francesca
+</auteurModification>
+</row>
+<row idProduit="3321">
+<idAlarme>4654</idAlarme>
+<nomProduit>EFFIZINC 15mg gel</nomProduit>
+<codeProduit>69ea1b</codeProduit>
+<prixProduit>1470.0</prixProduit>
+<quantiteActuel>1638</quantiteActuel>
+<quantiteAlarme>151</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Berg</auteurCreation>
+<auteurModification>Nissim
+</auteurModification>
+</row>
+<row idProduit="3322">
+<idAlarme>7250</idAlarme>
+<nomProduit>EFFORTIL 5 mg cp</nomProduit>
+<codeProduit>fbb783</codeProduit>
+<prixProduit>553.0</prixProduit>
+<quantiteActuel>2905</quantiteActuel>
+<quantiteAlarme>349</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-08-05</dateModification>
+<auteurCreation>Moon</auteurCreation>
+<auteurModification>Madaline
+</auteurModification>
+</row>
+<row idProduit="3323">
+<idAlarme>2344</idAlarme>
+<nomProduit>EFFORTIL sol buv</nomProduit>
+<codeProduit>e22705</codeProduit>
+<prixProduit>151.0</prixProduit>
+<quantiteActuel>2068</quantiteActuel>
+<quantiteAlarme>481</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Schneider</auteurCreation>
+<auteurModification>Hadley
+</auteurModification>
+</row>
+<row idProduit="3324">
+<idAlarme>6520</idAlarme>
+<nomProduit>EFIENT 10 mg cp pellic</nomProduit>
+<codeProduit>03bbfd</codeProduit>
+<prixProduit>316.0</prixProduit>
+<quantiteActuel>2275</quantiteActuel>
+<quantiteAlarme>263</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Tyson</auteurCreation>
+<auteurModification>Ivor
+</auteurModification>
+</row>
+<row idProduit="3325">
+<idAlarme>8875</idAlarme>
+<nomProduit>EFUDIX 5 % creme</nomProduit>
+<codeProduit>c4c969</codeProduit>
+<prixProduit>232.0</prixProduit>
+<quantiteActuel>2840</quantiteActuel>
+<quantiteAlarme>432</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-06-23</dateModification>
+<auteurCreation>Johnson</auteurCreation>
+<auteurModification>Stacy
+</auteurModification>
+</row>
+<row idProduit="3326">
+<idAlarme>795</idAlarme>
+<nomProduit>EGATEN 250 mg cp sec</nomProduit>
+<codeProduit>dbe53e</codeProduit>
+<prixProduit>463.0</prixProduit>
+<quantiteActuel>1716</quantiteActuel>
+<quantiteAlarme>219</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-09-12</dateModification>
+<auteurCreation>Mcfarland</auteurCreation>
+<auteurModification>Malcolm
+</auteurModification>
+</row>
+<row idProduit="3327">
+<idAlarme>1441</idAlarme>
+<nomProduit>EGERY 250 mg gel (ugle gastroresis)</nomProduit>
+<codeProduit>fc4f2e</codeProduit>
+<prixProduit>312.0</prixProduit>
+<quantiteActuel>2111</quantiteActuel>
+<quantiteAlarme>181</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Schwartz</auteurCreation>
+<auteurModification>Xena
+</auteurModification>
+</row>
+<row idProduit="3328">
+<idAlarme>6364</idAlarme>
+<nomProduit>ELAPRASE 2mg/ml sol diluer p perf</nomProduit>
+<codeProduit>60809a</codeProduit>
+<prixProduit>908.0</prixProduit>
+<quantiteActuel>2380</quantiteActuel>
+<quantiteAlarme>105</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-08-10</dateModification>
+<auteurCreation>Durham</auteurCreation>
+<auteurModification>Bianca
+</auteurModification>
+</row>
+<row idProduit="3329">
+<idAlarme>3095</idAlarme>
+<nomProduit>ELASE pom</nomProduit>
+<codeProduit>62f18f</codeProduit>
+<prixProduit>1383.0</prixProduit>
+<quantiteActuel>2080</quantiteActuel>
+<quantiteAlarme>410</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-08-19</dateModification>
+<auteurCreation>Wiley</auteurCreation>
+<auteurModification>Wylie
+</auteurModification>
+</row>
+<row idProduit="3330">
+<idAlarme>2237</idAlarme>
+<nomProduit>ELAVIL 25mg cp pellic</nomProduit>
+<codeProduit>257773</codeProduit>
+<prixProduit>1318.0</prixProduit>
+<quantiteActuel>2338</quantiteActuel>
+<quantiteAlarme>295</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-07-03</dateModification>
+<auteurCreation>Sexton</auteurCreation>
+<auteurModification>Erasmus
+</auteurModification>
+</row>
+<row idProduit="3331">
+<idAlarme>6208</idAlarme>
+<nomProduit>ELDISINE 1mg pdre p sol inj</nomProduit>
+<codeProduit>a28f00</codeProduit>
+<prixProduit>638.0</prixProduit>
+<quantiteActuel>2137</quantiteActuel>
+<quantiteAlarme>220</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-09-12</dateModification>
+<auteurCreation>Pitts</auteurCreation>
+<auteurModification>Zoe
+</auteurModification>
+</row>
+<row idProduit="3332">
+<idAlarme>1404</idAlarme>
+<nomProduit>ELDISINE 5mg pdre p sol inj</nomProduit>
+<codeProduit>ac6f0a</codeProduit>
+<prixProduit>524.0</prixProduit>
+<quantiteActuel>2115</quantiteActuel>
+<quantiteAlarme>207</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-06-17</dateModification>
+<auteurCreation>Terrell</auteurCreation>
+<auteurModification>Virginia
+</auteurModification>
+</row>
+<row idProduit="3333">
+<idAlarme>1501</idAlarme>
+<nomProduit>ELEVIT VITAMINE B9 cp pellic</nomProduit>
+<codeProduit>d79428</codeProduit>
+<prixProduit>292.0</prixProduit>
+<quantiteActuel>1541</quantiteActuel>
+<quantiteAlarme>324</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-07-16</dateModification>
+<auteurCreation>Weber</auteurCreation>
+<auteurModification>Norman
+</auteurModification>
+</row>
+<row idProduit="3334">
+<idAlarme>5968</idAlarme>
+<nomProduit>ELGYDIUM pate dentifr</nomProduit>
+<codeProduit>521f19</codeProduit>
+<prixProduit>785.0</prixProduit>
+<quantiteActuel>2330</quantiteActuel>
+<quantiteAlarme>428</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Norris</auteurCreation>
+<auteurModification>Doris
+</auteurModification>
+</row>
+<row idProduit="3335">
+<idAlarme>7078</idAlarme>
+<nomProduit>ELIGARD 22,5mg pdre/solv p sol inj</nomProduit>
+<codeProduit>acf4f5</codeProduit>
+<prixProduit>645.0</prixProduit>
+<quantiteActuel>2948</quantiteActuel>
+<quantiteAlarme>233</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-08-06</dateModification>
+<auteurCreation>Hester</auteurCreation>
+<auteurModification>Jeanette
+</auteurModification>
+</row>
+<row idProduit="3336">
+<idAlarme>4506</idAlarme>
+<nomProduit>ELIGARD 45mg pdre/solv p sol inj</nomProduit>
+<codeProduit>51dce5</codeProduit>
+<prixProduit>919.0</prixProduit>
+<quantiteActuel>2357</quantiteActuel>
+<quantiteAlarme>208</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-22</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Chan</auteurCreation>
+<auteurModification>Hammett
+</auteurModification>
+</row>
+<row idProduit="3337">
+<idAlarme>2443</idAlarme>
+<nomProduit>ELIGARD 7,5mg pdre/solv p sol inj</nomProduit>
+<codeProduit>93bdef</codeProduit>
+<prixProduit>470.0</prixProduit>
+<quantiteActuel>2979</quantiteActuel>
+<quantiteAlarme>454</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-07-31</dateModification>
+<auteurCreation>Sims</auteurCreation>
+<auteurModification>Kevin
+</auteurModification>
+</row>
+<row idProduit="3338">
+<idAlarme>1100</idAlarme>
+<nomProduit>ELISOR 10mg cp sec</nomProduit>
+<codeProduit>607d61</codeProduit>
+<prixProduit>745.0</prixProduit>
+<quantiteActuel>2038</quantiteActuel>
+<quantiteAlarme>347</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-06-20</dateModification>
+<auteurCreation>Fisher</auteurCreation>
+<auteurModification>Chadwick
+</auteurModification>
+</row>
+<row idProduit="3339">
+<idAlarme>10319</idAlarme>
+<nomProduit>ELISOR 20mg cp sec</nomProduit>
+<codeProduit>8a6296</codeProduit>
+<prixProduit>587.0</prixProduit>
+<quantiteActuel>1523</quantiteActuel>
+<quantiteAlarme>258</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Carr</auteurCreation>
+<auteurModification>Uma
+</auteurModification>
+</row>
+<row idProduit="3340">
+<idAlarme>2144</idAlarme>
+<nomProduit>ELISOR 40 mg cp sec</nomProduit>
+<codeProduit>a1b420</codeProduit>
+<prixProduit>198.0</prixProduit>
+<quantiteActuel>2892</quantiteActuel>
+<quantiteAlarme>175</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-07-03</dateModification>
+<auteurCreation>Talley</auteurCreation>
+<auteurModification>Rooney
+</auteurModification>
+</row>
+<row idProduit="3341">
+<idAlarme>9550</idAlarme>
+<nomProduit>ELIXIR BONJEAN sol buv</nomProduit>
+<codeProduit>24bee7</codeProduit>
+<prixProduit>1270.0</prixProduit>
+<quantiteActuel>2115</quantiteActuel>
+<quantiteAlarme>208</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-18</dateCreation>
+<dateModification>2010-08-05</dateModification>
+<auteurCreation>Wise</auteurCreation>
+<auteurModification>Tanek
+</auteurModification>
+</row>
+<row idProduit="3342">
+<idAlarme>3140</idAlarme>
+<nomProduit>ELIXIR SPARK sol buv</nomProduit>
+<codeProduit>258243</codeProduit>
+<prixProduit>1470.0</prixProduit>
+<quantiteActuel>2880</quantiteActuel>
+<quantiteAlarme>367</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-07-02</dateModification>
+<auteurCreation>French</auteurCreation>
+<auteurModification>Victoria
+</auteurModification>
+</row>
+<row idProduit="3343">
+<idAlarme>6364</idAlarme>
+<nomProduit>ELLAONE 30 mg cp</nomProduit>
+<codeProduit>bf0fc4</codeProduit>
+<prixProduit>420.0</prixProduit>
+<quantiteActuel>1720</quantiteActuel>
+<quantiteAlarme>345</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-07-12</dateModification>
+<auteurCreation>Benton</auteurCreation>
+<auteurModification>Norman
+</auteurModification>
+</row>
+<row idProduit="3344">
+<idAlarme>7184</idAlarme>
+<nomProduit>ELOXATINE 5mg/ml sol diluer p perf</nomProduit>
+<codeProduit>c05390</codeProduit>
+<prixProduit>1073.0</prixProduit>
+<quantiteActuel>1536</quantiteActuel>
+<quantiteAlarme>469</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-08-06</dateModification>
+<auteurCreation>Olsen</auteurCreation>
+<auteurModification>Danielle
+</auteurModification>
+</row>
+<row idProduit="3345">
+<idAlarme>59</idAlarme>
+<nomProduit>ELSEP 2mg/ml sol diluer p perf</nomProduit>
+<codeProduit>ddaf5c</codeProduit>
+<prixProduit>593.0</prixProduit>
+<quantiteActuel>1599</quantiteActuel>
+<quantiteAlarme>410</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-08-17</dateModification>
+<auteurCreation>Sanders</auteurCreation>
+<auteurModification>Kareem
+</auteurModification>
+</row>
+<row idProduit="3346">
+<idAlarme>1201</idAlarme>
+<nomProduit>ELUDRIL collut</nomProduit>
+<codeProduit>525dce</codeProduit>
+<prixProduit>533.0</prixProduit>
+<quantiteActuel>1563</quantiteActuel>
+<quantiteAlarme>127</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-09-16</dateModification>
+<auteurCreation>Bentley</auteurCreation>
+<auteurModification>Priscilla
+</auteurModification>
+</row>
+<row idProduit="3347">
+<idAlarme>1481</idAlarme>
+<nomProduit>ELUDRIL sol p bain bouch</nomProduit>
+<codeProduit>64b08c</codeProduit>
+<prixProduit>271.0</prixProduit>
+<quantiteActuel>2809</quantiteActuel>
+<quantiteAlarme>115</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Brock</auteurCreation>
+<auteurModification>Brandon
+</auteurModification>
+</row>
+<row idProduit="3348">
+<idAlarme>6100</idAlarme>
+<nomProduit>ELUMATIC III generateur</nomProduit>
+<codeProduit>5c1d56</codeProduit>
+<prixProduit>1105.0</prixProduit>
+<quantiteActuel>1862</quantiteActuel>
+<quantiteAlarme>229</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-07-23</dateModification>
+<auteurCreation>Bonner</auteurCreation>
+<auteurModification>Gareth
+</auteurModification>
+</row>
+<row idProduit="3349">
+<idAlarme>9269</idAlarme>
+<nomProduit>ELUSANES ARTICHAUT gel</nomProduit>
+<codeProduit>03e4a9</codeProduit>
+<prixProduit>187.0</prixProduit>
+<quantiteActuel>2147</quantiteActuel>
+<quantiteAlarme>349</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-09-14</dateModification>
+<auteurCreation>Rasmussen</auteurCreation>
+<auteurModification>David
+</auteurModification>
+</row>
+<row idProduit="3350">
+<idAlarme>230</idAlarme>
+<nomProduit>ELUSANES AUBEPINE gel</nomProduit>
+<codeProduit>945db9</codeProduit>
+<prixProduit>1397.0</prixProduit>
+<quantiteActuel>2204</quantiteActuel>
+<quantiteAlarme>125</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-29</dateCreation>
+<dateModification>2010-07-01</dateModification>
+<auteurCreation>Rivers</auteurCreation>
+<auteurModification>Timothy
+</auteurModification>
+</row>
+<row idProduit="3351">
+<idAlarme>7217</idAlarme>
+<nomProduit>ELUSANES BARDANE gel</nomProduit>
+<codeProduit>25d0c6</codeProduit>
+<prixProduit>1024.0</prixProduit>
+<quantiteActuel>1841</quantiteActuel>
+<quantiteAlarme>210</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-09-06</dateModification>
+<auteurCreation>Guerrero</auteurCreation>
+<auteurModification>MacKenzie
+</auteurModification>
+</row>
+<row idProduit="3352">
+<idAlarme>1202</idAlarme>
+<nomProduit>ELUSANES BOLDO gel</nomProduit>
+<codeProduit>2b7bc7</codeProduit>
+<prixProduit>424.0</prixProduit>
+<quantiteActuel>2302</quantiteActuel>
+<quantiteAlarme>247</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-09-27</dateModification>
+<auteurCreation>Schultz</auteurCreation>
+<auteurModification>Farrah
+</auteurModification>
+</row>
+<row idProduit="3353">
+<idAlarme>3860</idAlarme>
+<nomProduit>ELUSANES BUSSEROLE gel</nomProduit>
+<codeProduit>d0f48c</codeProduit>
+<prixProduit>1145.0</prixProduit>
+<quantiteActuel>1702</quantiteActuel>
+<quantiteAlarme>488</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-07-21</dateModification>
+<auteurCreation>Murray</auteurCreation>
+<auteurModification>Lynn
+</auteurModification>
+</row>
+<row idProduit="3354">
+<idAlarme>10456</idAlarme>
+<nomProduit>ELUSANES ESCHSCHOLTZIA gel</nomProduit>
+<codeProduit>e5dd6f</codeProduit>
+<prixProduit>1338.0</prixProduit>
+<quantiteActuel>2513</quantiteActuel>
+<quantiteAlarme>465</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-08-14</dateModification>
+<auteurCreation>Whitaker</auteurCreation>
+<auteurModification>Rinah
+</auteurModification>
+</row>
+<row idProduit="3355">
+<idAlarme>8726</idAlarme>
+<nomProduit>ELUSANES FRAGON gel</nomProduit>
+<codeProduit>a654e5</codeProduit>
+<prixProduit>1441.0</prixProduit>
+<quantiteActuel>1542</quantiteActuel>
+<quantiteAlarme>446</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Cotton</auteurCreation>
+<auteurModification>Mercedes
+</auteurModification>
+</row>
+<row idProduit="3356">
+<idAlarme>76</idAlarme>
+<nomProduit>ELUSANES FRENE gel</nomProduit>
+<codeProduit>8e7ef6</codeProduit>
+<prixProduit>1354.0</prixProduit>
+<quantiteActuel>1864</quantiteActuel>
+<quantiteAlarme>358</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-08-16</dateModification>
+<auteurCreation>Myers</auteurCreation>
+<auteurModification>Christen
+</auteurModification>
+</row>
+<row idProduit="3357">
+<idAlarme>8576</idAlarme>
+<nomProduit>ELUSANES FUMETERRE gel</nomProduit>
+<codeProduit>da8816</codeProduit>
+<prixProduit>284.0</prixProduit>
+<quantiteActuel>2477</quantiteActuel>
+<quantiteAlarme>105</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Simmons</auteurCreation>
+<auteurModification>Carly
+</auteurModification>
+</row>
+<row idProduit="3358">
+<idAlarme>5156</idAlarme>
+<nomProduit>ELUSANES Gattilier gel</nomProduit>
+<codeProduit>d687f1</codeProduit>
+<prixProduit>1233.0</prixProduit>
+<quantiteActuel>1690</quantiteActuel>
+<quantiteAlarme>214</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Vaughan</auteurCreation>
+<auteurModification>Keegan
+</auteurModification>
+</row>
+<row idProduit="3359">
+<idAlarme>6998</idAlarme>
+<nomProduit>ELUSANES GINSENG gel</nomProduit>
+<codeProduit>29349a</codeProduit>
+<prixProduit>172.0</prixProduit>
+<quantiteActuel>2410</quantiteActuel>
+<quantiteAlarme>316</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-08-10</dateModification>
+<auteurCreation>Hall</auteurCreation>
+<auteurModification>Reuben
+</auteurModification>
+</row>
+<row idProduit="3360">
+<idAlarme>5034</idAlarme>
+<nomProduit>ELUSANES GRANDE CAMOMILLE gel</nomProduit>
+<codeProduit>82d614</codeProduit>
+<prixProduit>428.0</prixProduit>
+<quantiteActuel>2933</quantiteActuel>
+<quantiteAlarme>184</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-09-09</dateModification>
+<auteurCreation>Osborn</auteurCreation>
+<auteurModification>Abel
+</auteurModification>
+</row>
+<row idProduit="3361">
+<idAlarme>652</idAlarme>
+<nomProduit>ELUSANES HARPAGOPHYTON gel</nomProduit>
+<codeProduit>5daac9</codeProduit>
+<prixProduit>556.0</prixProduit>
+<quantiteActuel>1751</quantiteActuel>
+<quantiteAlarme>459</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-09-24</dateModification>
+<auteurCreation>Watts</auteurCreation>
+<auteurModification>Brendan
+</auteurModification>
+</row>
+<row idProduit="3362">
+<idAlarme>5113</idAlarme>
+<nomProduit>ELUSANES KAOLIN 500 mg gel</nomProduit>
+<codeProduit>205488</codeProduit>
+<prixProduit>520.0</prixProduit>
+<quantiteActuel>2835</quantiteActuel>
+<quantiteAlarme>424</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Avila</auteurCreation>
+<auteurModification>Daria
+</auteurModification>
+</row>
+<row idProduit="3363">
+<idAlarme>8301</idAlarme>
+<nomProduit>ELUSANES MARRONNIER D&apos;INDE gel</nomProduit>
+<codeProduit>b72ea4</codeProduit>
+<prixProduit>234.0</prixProduit>
+<quantiteActuel>1634</quantiteActuel>
+<quantiteAlarme>139</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Washington</auteurCreation>
+<auteurModification>Caldwell
+</auteurModification>
+</row>
+<row idProduit="3364">
+<idAlarme>2548</idAlarme>
+<nomProduit>ELUSANES MILLEPERTUIS gel</nomProduit>
+<codeProduit>7f48ad</codeProduit>
+<prixProduit>1251.0</prixProduit>
+<quantiteActuel>2696</quantiteActuel>
+<quantiteAlarme>216</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-09-07</dateModification>
+<auteurCreation>Griffin</auteurCreation>
+<auteurModification>Michael
+</auteurModification>
+</row>
+<row idProduit="3365">
+<idAlarme>4831</idAlarme>
+<nomProduit>ELUSANES NATUDOR gel</nomProduit>
+<codeProduit>fa11fc</codeProduit>
+<prixProduit>519.0</prixProduit>
+<quantiteActuel>2088</quantiteActuel>
+<quantiteAlarme>153</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-06-29</dateModification>
+<auteurCreation>Morrow</auteurCreation>
+<auteurModification>Stuart
+</auteurModification>
+</row>
+<row idProduit="3366">
+<idAlarme>4720</idAlarme>
+<nomProduit>ELUSANES ORTHOSIPHON gel</nomProduit>
+<codeProduit>7c714e</codeProduit>
+<prixProduit>1097.0</prixProduit>
+<quantiteActuel>2142</quantiteActuel>
+<quantiteAlarme>318</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-08-13</dateModification>
+<auteurCreation>Kent</auteurCreation>
+<auteurModification>Aiko
+</auteurModification>
+</row>
+<row idProduit="3367">
+<idAlarme>3067</idAlarme>
+<nomProduit>ELUSANES ORTIE gel</nomProduit>
+<codeProduit>4c28bb</codeProduit>
+<prixProduit>909.0</prixProduit>
+<quantiteActuel>2658</quantiteActuel>
+<quantiteAlarme>357</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-06-30</dateModification>
+<auteurCreation>Vasquez</auteurCreation>
+<auteurModification>Quon
+</auteurModification>
+</row>
+<row idProduit="3368">
+<idAlarme>5485</idAlarme>
+<nomProduit>ELUSANES PASSIFLORE gel</nomProduit>
+<codeProduit>ff7503</codeProduit>
+<prixProduit>484.0</prixProduit>
+<quantiteActuel>2329</quantiteActuel>
+<quantiteAlarme>142</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-06-26</dateModification>
+<auteurCreation>Buckner</auteurCreation>
+<auteurModification>Hermione
+</auteurModification>
+</row>
+<row idProduit="3369">
+<idAlarme>8907</idAlarme>
+<nomProduit>ELUSANES PENSEE SAUVAGE gel</nomProduit>
+<codeProduit>149824</codeProduit>
+<prixProduit>1180.0</prixProduit>
+<quantiteActuel>1510</quantiteActuel>
+<quantiteAlarme>436</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-07-27</dateModification>
+<auteurCreation>Lynn</auteurCreation>
+<auteurModification>Noble
+</auteurModification>
+</row>
+<row idProduit="3370">
+<idAlarme>3647</idAlarme>
+<nomProduit>ELUSANES PILOSELLE gel</nomProduit>
+<codeProduit>eff14f</codeProduit>
+<prixProduit>1221.0</prixProduit>
+<quantiteActuel>2458</quantiteActuel>
+<quantiteAlarme>402</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-12</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Sharpe</auteurCreation>
+<auteurModification>Liberty
+</auteurModification>
+</row>
+<row idProduit="3371">
+<idAlarme>8123</idAlarme>
+<nomProduit>ELUSANES PRELE DES CHAMPS gel</nomProduit>
+<codeProduit>ed24c0</codeProduit>
+<prixProduit>1202.0</prixProduit>
+<quantiteActuel>1641</quantiteActuel>
+<quantiteAlarme>411</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-08-31</dateModification>
+<auteurCreation>Wagner</auteurCreation>
+<auteurModification>Dylan
+</auteurModification>
+</row>
+<row idProduit="3372">
+<idAlarme>319</idAlarme>
+<nomProduit>ELUSANES REINE DES PRES gel</nomProduit>
+<codeProduit>848dd1</codeProduit>
+<prixProduit>1430.0</prixProduit>
+<quantiteActuel>2933</quantiteActuel>
+<quantiteAlarme>108</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-07-10</dateModification>
+<auteurCreation>Mclaughlin</auteurCreation>
+<auteurModification>Sean
+</auteurModification>
+</row>
+<row idProduit="3373">
+<idAlarme>5952</idAlarme>
+<nomProduit>ELUSANES SALICAIRE gel</nomProduit>
+<codeProduit>99299d</codeProduit>
+<prixProduit>763.0</prixProduit>
+<quantiteActuel>2503</quantiteActuel>
+<quantiteAlarme>169</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-29</dateCreation>
+<dateModification>2010-09-14</dateModification>
+<auteurCreation>Davis</auteurCreation>
+<auteurModification>Alvin
+</auteurModification>
+</row>
+<row idProduit="3374">
+<idAlarme>6842</idAlarme>
+<nomProduit>ELUSANES STARPHYT gel</nomProduit>
+<codeProduit>e56e8b</codeProduit>
+<prixProduit>1054.0</prixProduit>
+<quantiteActuel>2563</quantiteActuel>
+<quantiteAlarme>375</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-26</dateCreation>
+<dateModification>2010-08-11</dateModification>
+<auteurCreation>Romero</auteurCreation>
+<auteurModification>Melyssa
+</auteurModification>
+</row>
+<row idProduit="3375">
+<idAlarme>3343</idAlarme>
+<nomProduit>ELUSANES VALERIANE gel</nomProduit>
+<codeProduit>5d441b</codeProduit>
+<prixProduit>302.0</prixProduit>
+<quantiteActuel>2938</quantiteActuel>
+<quantiteAlarme>256</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-09-27</dateModification>
+<auteurCreation>Solomon</auteurCreation>
+<auteurModification>Chancellor
+</auteurModification>
+</row>
+<row idProduit="3376">
+<idAlarme>10472</idAlarme>
+<nomProduit>ELUSANES VIGNE ROUGE gel</nomProduit>
+<codeProduit>17bf66</codeProduit>
+<prixProduit>1194.0</prixProduit>
+<quantiteActuel>2172</quantiteActuel>
+<quantiteAlarme>242</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-07-28</dateModification>
+<auteurCreation>Stanley</auteurCreation>
+<auteurModification>Tucker
+</auteurModification>
+</row>
+<row idProduit="3377">
+<idAlarme>4873</idAlarme>
+<nomProduit>ELVORINE 100mg/10ml sol inj</nomProduit>
+<codeProduit>f2e3ea</codeProduit>
+<prixProduit>1498.0</prixProduit>
+<quantiteActuel>2131</quantiteActuel>
+<quantiteAlarme>159</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-08-16</dateModification>
+<auteurCreation>Cole</auteurCreation>
+<auteurModification>Dolan
+</auteurModification>
+</row>
+<row idProduit="3378">
+<idAlarme>3417</idAlarme>
+<nomProduit>ELVORINE 175mg/17,5ml sol inj</nomProduit>
+<codeProduit>09f819</codeProduit>
+<prixProduit>1029.0</prixProduit>
+<quantiteActuel>2200</quantiteActuel>
+<quantiteAlarme>347</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-10-02</dateModification>
+<auteurCreation>Cote</auteurCreation>
+<auteurModification>Velma
+</auteurModification>
+</row>
+<row idProduit="3379">
+<idAlarme>5553</idAlarme>
+<nomProduit>ELVORINE 25mg/2,5ml sol inj</nomProduit>
+<codeProduit>f0fe80</codeProduit>
+<prixProduit>187.0</prixProduit>
+<quantiteActuel>2102</quantiteActuel>
+<quantiteAlarme>446</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-22</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Juarez</auteurCreation>
+<auteurModification>Grace
+</auteurModification>
+</row>
+<row idProduit="3380">
+<idAlarme>1306</idAlarme>
+<nomProduit>ELVORINE 50mg/5ml sol inj</nomProduit>
+<codeProduit>7dfaef</codeProduit>
+<prixProduit>314.0</prixProduit>
+<quantiteActuel>1776</quantiteActuel>
+<quantiteAlarme>255</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-09-10</dateModification>
+<auteurCreation>Brady</auteurCreation>
+<auteurModification>Eugenia
+</auteurModification>
+</row>
+<row idProduit="3381">
+<idAlarme>9300</idAlarme>
+<nomProduit>EMEND 125mg gel</nomProduit>
+<codeProduit>ec7aef</codeProduit>
+<prixProduit>793.0</prixProduit>
+<quantiteActuel>1679</quantiteActuel>
+<quantiteAlarme>447</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-07-17</dateModification>
+<auteurCreation>Slater</auteurCreation>
+<auteurModification>Howard
+</auteurModification>
+</row>
+<row idProduit="3382">
+<idAlarme>8880</idAlarme>
+<nomProduit>EMEND 125mg/80mg gel</nomProduit>
+<codeProduit>26b2af</codeProduit>
+<prixProduit>1156.0</prixProduit>
+<quantiteActuel>2784</quantiteActuel>
+<quantiteAlarme>242</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-09-27</dateModification>
+<auteurCreation>Reyes</auteurCreation>
+<auteurModification>Gail
+</auteurModification>
+</row>
+<row idProduit="3383">
+<idAlarme>5186</idAlarme>
+<nomProduit>EMEND 80mg gel</nomProduit>
+<codeProduit>713f6f</codeProduit>
+<prixProduit>165.0</prixProduit>
+<quantiteActuel>2016</quantiteActuel>
+<quantiteAlarme>301</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-07-30</dateModification>
+<auteurCreation>Long</auteurCreation>
+<auteurModification>Todd
+</auteurModification>
+</row>
+<row idProduit="3384">
+<idAlarme>6800</idAlarme>
+<nomProduit>EMLA 5 % creme</nomProduit>
+<codeProduit>c24a15</codeProduit>
+<prixProduit>873.0</prixProduit>
+<quantiteActuel>1838</quantiteActuel>
+<quantiteAlarme>276</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-27</dateCreation>
+<dateModification>2010-08-09</dateModification>
+<auteurCreation>Rojas</auteurCreation>
+<auteurModification>Solomon
+</auteurModification>
+</row>
+<row idProduit="3385">
+<idAlarme>7025</idAlarme>
+<nomProduit>EMLAPATCH 5 % pans medic</nomProduit>
+<codeProduit>440935</codeProduit>
+<prixProduit>176.0</prixProduit>
+<quantiteActuel>2007</quantiteActuel>
+<quantiteAlarme>263</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-07-24</dateModification>
+<auteurCreation>Adams</auteurCreation>
+<auteurModification>Dane
+</auteurModification>
+</row>
+<row idProduit="3386">
+<idAlarme>1786</idAlarme>
+<nomProduit>EMTRIVA 10mg/ml sol buv</nomProduit>
+<codeProduit>e33ac3</codeProduit>
+<prixProduit>170.0</prixProduit>
+<quantiteActuel>1733</quantiteActuel>
+<quantiteAlarme>233</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-09-07</dateModification>
+<auteurCreation>Stephens</auteurCreation>
+<auteurModification>Britanney
+</auteurModification>
+</row>
+<row idProduit="3387">
+<idAlarme>8509</idAlarme>
+<nomProduit>EMTRIVA 200mg gel</nomProduit>
+<codeProduit>0a9e7f</codeProduit>
+<prixProduit>1176.0</prixProduit>
+<quantiteActuel>2173</quantiteActuel>
+<quantiteAlarme>194</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-09-17</dateModification>
+<auteurCreation>Solomon</auteurCreation>
+<auteurModification>Jolie
+</auteurModification>
+</row>
+<row idProduit="3388">
+<idAlarme>2870</idAlarme>
+<nomProduit>ENALAPRIL ACTAVIS 20 mg cp sec</nomProduit>
+<codeProduit>862676</codeProduit>
+<prixProduit>1134.0</prixProduit>
+<quantiteActuel>1530</quantiteActuel>
+<quantiteAlarme>207</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Vinson</auteurCreation>
+<auteurModification>Robert
+</auteurModification>
+</row>
+<row idProduit="3389">
+<idAlarme>1679</idAlarme>
+<nomProduit>ENALAPRIL ACTAVIS 5 mg cp sec</nomProduit>
+<codeProduit>a693cd</codeProduit>
+<prixProduit>1348.0</prixProduit>
+<quantiteActuel>2418</quantiteActuel>
+<quantiteAlarme>131</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-22</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Blake</auteurCreation>
+<auteurModification>Fiona
+</auteurModification>
+</row>
+<row idProduit="3390">
+<idAlarme>8197</idAlarme>
+<nomProduit>ENALAPRIL ALMUS 20mg cp sec</nomProduit>
+<codeProduit>9d6be2</codeProduit>
+<prixProduit>488.0</prixProduit>
+<quantiteActuel>1773</quantiteActuel>
+<quantiteAlarme>245</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-08-04</dateModification>
+<auteurCreation>Moses</auteurCreation>
+<auteurModification>Germane
+</auteurModification>
+</row>
+<row idProduit="3391">
+<idAlarme>5956</idAlarme>
+<nomProduit>ENALAPRIL ARROW 20 mg cp sec</nomProduit>
+<codeProduit>e35665</codeProduit>
+<prixProduit>511.0</prixProduit>
+<quantiteActuel>2331</quantiteActuel>
+<quantiteAlarme>316</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-06-30</dateModification>
+<auteurCreation>Bartlett</auteurCreation>
+<auteurModification>Malachi
+</auteurModification>
+</row>
+<row idProduit="3392">
+<idAlarme>2385</idAlarme>
+<nomProduit>ENALAPRIL ARROW 5 mg cp sec</nomProduit>
+<codeProduit>bb98e2</codeProduit>
+<prixProduit>1482.0</prixProduit>
+<quantiteActuel>1808</quantiteActuel>
+<quantiteAlarme>255</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-09-02</dateModification>
+<auteurCreation>Evans</auteurCreation>
+<auteurModification>Vance
+</auteurModification>
+</row>
+<row idProduit="3393">
+<idAlarme>2167</idAlarme>
+<nomProduit>ENALAPRIL BIOGARAN 20 mg cp sec</nomProduit>
+<codeProduit>c6af1f</codeProduit>
+<prixProduit>1102.0</prixProduit>
+<quantiteActuel>2741</quantiteActuel>
+<quantiteAlarme>322</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>Huffman</auteurCreation>
+<auteurModification>Nathan
+</auteurModification>
+</row>
+<row idProduit="3394">
+<idAlarme>6670</idAlarme>
+<nomProduit>ENALAPRIL BIOGARAN 5 mg cp sec</nomProduit>
+<codeProduit>c2bf77</codeProduit>
+<prixProduit>524.0</prixProduit>
+<quantiteActuel>2983</quantiteActuel>
+<quantiteAlarme>252</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Herring</auteurCreation>
+<auteurModification>Eaton
+</auteurModification>
+</row>
+<row idProduit="3395">
+<idAlarme>3795</idAlarme>
+<nomProduit>ENALAPRIL CRISTERS 20 mg cp sec</nomProduit>
+<codeProduit>de9a81</codeProduit>
+<prixProduit>490.0</prixProduit>
+<quantiteActuel>1932</quantiteActuel>
+<quantiteAlarme>224</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Watts</auteurCreation>
+<auteurModification>Linus
+</auteurModification>
+</row>
+<row idProduit="3396">
+<idAlarme>2373</idAlarme>
+<nomProduit>ENALAPRIL CRISTERS 5 mg cp sec</nomProduit>
+<codeProduit>d87462</codeProduit>
+<prixProduit>478.0</prixProduit>
+<quantiteActuel>2694</quantiteActuel>
+<quantiteAlarme>451</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-06-23</dateModification>
+<auteurCreation>Flores</auteurCreation>
+<auteurModification>Jenette
+</auteurModification>
+</row>
+<row idProduit="3397">
+<idAlarme>1563</idAlarme>
+<nomProduit>ENALAPRIL EG 20 mg cp sec</nomProduit>
+<codeProduit>099801</codeProduit>
+<prixProduit>800.0</prixProduit>
+<quantiteActuel>1501</quantiteActuel>
+<quantiteAlarme>495</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-06-30</dateModification>
+<auteurCreation>Flowers</auteurCreation>
+<auteurModification>Daquan
+</auteurModification>
+</row>
+<row idProduit="3398">
+<idAlarme>2153</idAlarme>
+<nomProduit>ENALAPRIL EG 5 mg cp sec</nomProduit>
+<codeProduit>35d750</codeProduit>
+<prixProduit>979.0</prixProduit>
+<quantiteActuel>2936</quantiteActuel>
+<quantiteAlarme>298</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-26</dateCreation>
+<dateModification>2010-07-20</dateModification>
+<auteurCreation>Mckee</auteurCreation>
+<auteurModification>Quentin
+</auteurModification>
+</row>
+<row idProduit="3399">
+<idAlarme>3016</idAlarme>
+<nomProduit>ENALAPRIL EVOLUGEN 20 mg cp sec</nomProduit>
+<codeProduit>5a621f</codeProduit>
+<prixProduit>313.0</prixProduit>
+<quantiteActuel>2821</quantiteActuel>
+<quantiteAlarme>104</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-09-25</dateModification>
+<auteurCreation>Norman</auteurCreation>
+<auteurModification>Kane
+</auteurModification>
+</row>
+<row idProduit="3400">
+<idAlarme>5145</idAlarme>
+<nomProduit>ENALAPRIL EVOLUGEN 5 mg cp sec</nomProduit>
+<codeProduit>681ef8</codeProduit>
+<prixProduit>675.0</prixProduit>
+<quantiteActuel>2491</quantiteActuel>
+<quantiteAlarme>366</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Brown</auteurCreation>
+<auteurModification>Mariko
+</auteurModification>
+</row>
+<row idProduit="3401">
+<idAlarme>8773</idAlarme>
+<nomProduit>ENALAPRIL MYLAN 20 mg cp sec</nomProduit>
+<codeProduit>b938c7</codeProduit>
+<prixProduit>1162.0</prixProduit>
+<quantiteActuel>2924</quantiteActuel>
+<quantiteAlarme>188</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-10-04</dateModification>
+<auteurCreation>Barry</auteurCreation>
+<auteurModification>Eaton
+</auteurModification>
+</row>
+<row idProduit="3402">
+<idAlarme>4874</idAlarme>
+<nomProduit>ENALAPRIL MYLAN 5 mg cp sec</nomProduit>
+<codeProduit>149ce2</codeProduit>
+<prixProduit>1040.0</prixProduit>
+<quantiteActuel>2756</quantiteActuel>
+<quantiteAlarme>235</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Spence</auteurCreation>
+<auteurModification>Gannon
+</auteurModification>
+</row>
+<row idProduit="3403">
+<idAlarme>9886</idAlarme>
+<nomProduit>ENALAPRIL QUALIMED 20 mg cp sec</nomProduit>
+<codeProduit>ca9402</codeProduit>
+<prixProduit>379.0</prixProduit>
+<quantiteActuel>2582</quantiteActuel>
+<quantiteAlarme>122</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-06-21</dateModification>
+<auteurCreation>Chavez</auteurCreation>
+<auteurModification>Hillary
+</auteurModification>
+</row>
+<row idProduit="3404">
+<idAlarme>7731</idAlarme>
+<nomProduit>ENALAPRIL QUALIMED 5 mg cp sec</nomProduit>
+<codeProduit>264713</codeProduit>
+<prixProduit>408.0</prixProduit>
+<quantiteActuel>1591</quantiteActuel>
+<quantiteAlarme>315</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-10-04</dateModification>
+<auteurCreation>Gilbert</auteurCreation>
+<auteurModification>Patience
+</auteurModification>
+</row>
+<row idProduit="3405">
+<idAlarme>6313</idAlarme>
+<nomProduit>ENALAPRIL RATIO 20mg cp sec</nomProduit>
+<codeProduit>75d84a</codeProduit>
+<prixProduit>1415.0</prixProduit>
+<quantiteActuel>2875</quantiteActuel>
+<quantiteAlarme>112</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Emerson</auteurCreation>
+<auteurModification>Mona
+</auteurModification>
+</row>
+<row idProduit="3406">
+<idAlarme>9223</idAlarme>
+<nomProduit>ENALAPRIL RATIO 5mg cp sec</nomProduit>
+<codeProduit>970dee</codeProduit>
+<prixProduit>1074.0</prixProduit>
+<quantiteActuel>1509</quantiteActuel>
+<quantiteAlarme>317</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-07-27</dateModification>
+<auteurCreation>Mays</auteurCreation>
+<auteurModification>Eric
+</auteurModification>
+</row>
+<row idProduit="3407">
+<idAlarme>4281</idAlarme>
+<nomProduit>ENALAPRIL RPG 20mg cp sec</nomProduit>
+<codeProduit>5470a9</codeProduit>
+<prixProduit>506.0</prixProduit>
+<quantiteActuel>2041</quantiteActuel>
+<quantiteAlarme>471</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-07-17</dateModification>
+<auteurCreation>Terrell</auteurCreation>
+<auteurModification>Timon
+</auteurModification>
+</row>
+<row idProduit="3408">
+<idAlarme>1885</idAlarme>
+<nomProduit>ENALAPRIL RPG 5mg cp sec</nomProduit>
+<codeProduit>d140bd</codeProduit>
+<prixProduit>870.0</prixProduit>
+<quantiteActuel>2466</quantiteActuel>
+<quantiteAlarme>156</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-10-02</dateModification>
+<auteurCreation>Preston</auteurCreation>
+<auteurModification>Charity
+</auteurModification>
+</row>
+<row idProduit="3409">
+<idAlarme>3090</idAlarme>
+<nomProduit>ENALAPRIL SANDOZ 20mg cp sec</nomProduit>
+<codeProduit>883e35</codeProduit>
+<prixProduit>210.0</prixProduit>
+<quantiteActuel>2357</quantiteActuel>
+<quantiteAlarme>355</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Puckett</auteurCreation>
+<auteurModification>Juliet
+</auteurModification>
+</row>
+<row idProduit="3410">
+<idAlarme>4314</idAlarme>
+<nomProduit>ENALAPRIL SANDOZ 5mg cp sec</nomProduit>
+<codeProduit>81ed3a</codeProduit>
+<prixProduit>795.0</prixProduit>
+<quantiteActuel>2410</quantiteActuel>
+<quantiteAlarme>247</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Donaldson</auteurCreation>
+<auteurModification>Sydney
+</auteurModification>
+</row>
+<row idProduit="3411">
+<idAlarme>3027</idAlarme>
+<nomProduit>ENALAPRIL TEVA 20mg cp sec</nomProduit>
+<codeProduit>97f686</codeProduit>
+<prixProduit>1391.0</prixProduit>
+<quantiteActuel>2374</quantiteActuel>
+<quantiteAlarme>334</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-12</dateCreation>
+<dateModification>2010-09-12</dateModification>
+<auteurCreation>Kemp</auteurCreation>
+<auteurModification>Lael
+</auteurModification>
+</row>
+<row idProduit="3412">
+<idAlarme>5749</idAlarme>
+<nomProduit>ENALAPRIL TEVA 5mg cp sec</nomProduit>
+<codeProduit>878950</codeProduit>
+<prixProduit>634.0</prixProduit>
+<quantiteActuel>2359</quantiteActuel>
+<quantiteAlarme>320</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-08-09</dateModification>
+<auteurCreation>Boyle</auteurCreation>
+<auteurModification>Norman
+</auteurModification>
+</row>
+<row idProduit="3413">
+<idAlarme>2733</idAlarme>
+<nomProduit>ENALAPRIL WINTHROP 20mg cp sec</nomProduit>
+<codeProduit>b50164</codeProduit>
+<prixProduit>1216.0</prixProduit>
+<quantiteActuel>2506</quantiteActuel>
+<quantiteAlarme>160</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Erickson</auteurCreation>
+<auteurModification>Gabriel
+</auteurModification>
+</row>
+<row idProduit="3414">
+<idAlarme>5653</idAlarme>
+<nomProduit>ENALAPRIL WINTHROP 5mg cp sec</nomProduit>
+<codeProduit>da70cf</codeProduit>
+<prixProduit>1075.0</prixProduit>
+<quantiteActuel>2505</quantiteActuel>
+<quantiteAlarme>351</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-07-31</dateModification>
+<auteurCreation>Madden</auteurCreation>
+<auteurModification>Sybil
+</auteurModification>
+</row>
+<row idProduit="3415">
+<idAlarme>7114</idAlarme>
+<nomProduit>ENALAPRIL ZYDUS 20mg cp sec</nomProduit>
+<codeProduit>e46c1a</codeProduit>
+<prixProduit>436.0</prixProduit>
+<quantiteActuel>1637</quantiteActuel>
+<quantiteAlarme>116</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-08-01</dateModification>
+<auteurCreation>Hutchinson</auteurCreation>
+<auteurModification>Chester
+</auteurModification>
+</row>
+<row idProduit="3416">
+<idAlarme>521</idAlarme>
+<nomProduit>ENALAPRIL/HYDROCHLOROTHIAZIDE ACTAVIS 20 mg/12,5 mg cp sec</nomProduit>
+<codeProduit>8ff584</codeProduit>
+<prixProduit>543.0</prixProduit>
+<quantiteActuel>2220</quantiteActuel>
+<quantiteAlarme>164</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-07-10</dateModification>
+<auteurCreation>Christensen</auteurCreation>
+<auteurModification>Duncan
+</auteurModification>
+</row>
+<row idProduit="3417">
+<idAlarme>3592</idAlarme>
+<nomProduit>ENALAPRIL/HYDROCHLOROTHIAZIDE ARROW 20mg/12,5mg cp sec</nomProduit>
+<codeProduit>471ed3</codeProduit>
+<prixProduit>1451.0</prixProduit>
+<quantiteActuel>2625</quantiteActuel>
+<quantiteAlarme>361</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-07-05</dateModification>
+<auteurCreation>Petersen</auteurCreation>
+<auteurModification>Lani
+</auteurModification>
+</row>
+<row idProduit="3418">
+<idAlarme>2353</idAlarme>
+<nomProduit>ENALAPRIL/HYDROCHLOROTHIAZIDE BIOGARAN 20mg/12,5mg cp sec</nomProduit>
+<codeProduit>db1f1f</codeProduit>
+<prixProduit>1479.0</prixProduit>
+<quantiteActuel>1808</quantiteActuel>
+<quantiteAlarme>415</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-07-21</dateModification>
+<auteurCreation>Delacruz</auteurCreation>
+<auteurModification>Keegan
+</auteurModification>
+</row>
+<row idProduit="3419">
+<idAlarme>1695</idAlarme>
+<nomProduit>ENALAPRIL/HYDROCHLOROTHIAZIDE BIOSTABILEX 20 mg/12,5 mg cp sec</nomProduit>
+<codeProduit>c7deb4</codeProduit>
+<prixProduit>265.0</prixProduit>
+<quantiteActuel>1920</quantiteActuel>
+<quantiteAlarme>415</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-22</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Norris</auteurCreation>
+<auteurModification>Malcolm
+</auteurModification>
+</row>
+<row idProduit="3420">
+<idAlarme>4345</idAlarme>
+<nomProduit>ENALAPRIL/HYDROCHLOROTHIAZIDE CRISTERS 20 mg/12,5 mg cp sec</nomProduit>
+<codeProduit>2c7c77</codeProduit>
+<prixProduit>994.0</prixProduit>
+<quantiteActuel>1984</quantiteActuel>
+<quantiteAlarme>202</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-08-21</dateModification>
+<auteurCreation>Montoya</auteurCreation>
+<auteurModification>Rhoda
+</auteurModification>
+</row>
+<row idProduit="3421">
+<idAlarme>9297</idAlarme>
+<nomProduit>ENALAPRIL/HYDROCHLOROTHIAZIDE EG 20mg/12,5mg cp sec</nomProduit>
+<codeProduit>fa6e3a</codeProduit>
+<prixProduit>887.0</prixProduit>
+<quantiteActuel>1638</quantiteActuel>
+<quantiteAlarme>324</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Evans</auteurCreation>
+<auteurModification>Kiara
+</auteurModification>
+</row>
+<row idProduit="3422">
+<idAlarme>9919</idAlarme>
+<nomProduit>ENALAPRIL/HYDROCHLOROTHIAZIDE MYLAN 20 mg/12,5 mg cp sec</nomProduit>
+<codeProduit>fa8578</codeProduit>
+<prixProduit>1350.0</prixProduit>
+<quantiteActuel>2847</quantiteActuel>
+<quantiteAlarme>209</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Hickman</auteurCreation>
+<auteurModification>Constance
+</auteurModification>
+</row>
+<row idProduit="3423">
+<idAlarme>8874</idAlarme>
+<nomProduit>ENALAPRIL/HYDROCHLOROTHIAZIDE QUALIMED 20mg/12,5mg cp sec</nomProduit>
+<codeProduit>8fb79e</codeProduit>
+<prixProduit>587.0</prixProduit>
+<quantiteActuel>1857</quantiteActuel>
+<quantiteAlarme>348</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-08-18</dateModification>
+<auteurCreation>Robinson</auteurCreation>
+<auteurModification>Keefe
+</auteurModification>
+</row>
+<row idProduit="3424">
+<idAlarme>8972</idAlarme>
+<nomProduit>ENALAPRIL/HYDROCHLOROTHIAZIDE RATIOPHARM 20mg/12,5mg cp sec</nomProduit>
+<codeProduit>4af480</codeProduit>
+<prixProduit>345.0</prixProduit>
+<quantiteActuel>1561</quantiteActuel>
+<quantiteAlarme>347</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-09-13</dateModification>
+<auteurCreation>Wiley</auteurCreation>
+<auteurModification>Deacon
+</auteurModification>
+</row>
+<row idProduit="3425">
+<idAlarme>7641</idAlarme>
+<nomProduit>ENALAPRIL/HYDROCHLOROTHIAZIDE RPG 20mg/12,5mg cp sec</nomProduit>
+<codeProduit>78b89c</codeProduit>
+<prixProduit>1054.0</prixProduit>
+<quantiteActuel>2724</quantiteActuel>
+<quantiteAlarme>171</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-08-01</dateModification>
+<auteurCreation>Slater</auteurCreation>
+<auteurModification>Haley
+</auteurModification>
+</row>
+<row idProduit="3426">
+<idAlarme>6907</idAlarme>
+<nomProduit>ENALAPRIL/HYDROCHLOROTHIAZIDE SANDOZ 20 mg/12,5 mg cp sec</nomProduit>
+<codeProduit>93e99e</codeProduit>
+<prixProduit>337.0</prixProduit>
+<quantiteActuel>1791</quantiteActuel>
+<quantiteAlarme>472</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-09-30</dateModification>
+<auteurCreation>Wilkins</auteurCreation>
+<auteurModification>Slade
+</auteurModification>
+</row>
+<row idProduit="3427">
+<idAlarme>3249</idAlarme>
+<nomProduit>ENALAPRIL/HYDROCHLOROTHIAZIDE SANDOZ 20mg/12,5mg cp sec</nomProduit>
+<codeProduit>cfd2fe</codeProduit>
+<prixProduit>912.0</prixProduit>
+<quantiteActuel>2049</quantiteActuel>
+<quantiteAlarme>129</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-07-31</dateModification>
+<auteurCreation>Cobb</auteurCreation>
+<auteurModification>Chava
+</auteurModification>
+</row>
+<row idProduit="3428">
+<idAlarme>878</idAlarme>
+<nomProduit>ENALAPRIL/HYDROCHLOROTHIAZIDE TEVA 20mg/12,5mg cp sec</nomProduit>
+<codeProduit>3ad036</codeProduit>
+<prixProduit>554.0</prixProduit>
+<quantiteActuel>1892</quantiteActuel>
+<quantiteAlarme>324</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-07-10</dateModification>
+<auteurCreation>Gamble</auteurCreation>
+<auteurModification>Elmo
+</auteurModification>
+</row>
+<row idProduit="3429">
+<idAlarme>2253</idAlarme>
+<nomProduit>ENALAPRIL/HYDROCHLOROTHIAZIDE WINTHROP 20mg/12,5mg cp sec</nomProduit>
+<codeProduit>a4e752</codeProduit>
+<prixProduit>888.0</prixProduit>
+<quantiteActuel>2149</quantiteActuel>
+<quantiteAlarme>113</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-08-05</dateModification>
+<auteurCreation>Hansen</auteurCreation>
+<auteurModification>Merrill
+</auteurModification>
+</row>
+<row idProduit="3430">
+<idAlarme>8824</idAlarme>
+<nomProduit>ENANTONE LP 11,25mg uspher/sol LP p us parenter IM/SC</nomProduit>
+<codeProduit>a50f98</codeProduit>
+<prixProduit>312.0</prixProduit>
+<quantiteActuel>2972</quantiteActuel>
+<quantiteAlarme>394</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Mullins</auteurCreation>
+<auteurModification>Xantha
+</auteurModification>
+</row>
+<row idProduit="3431">
+<idAlarme>6923</idAlarme>
+<nomProduit>ENANTONE LP 3,75mg pdre/solv p susp inj LP IM/SC</nomProduit>
+<codeProduit>ef68fc</codeProduit>
+<prixProduit>166.0</prixProduit>
+<quantiteActuel>2640</quantiteActuel>
+<quantiteAlarme>195</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-08-01</dateModification>
+<auteurCreation>Velasquez</auteurCreation>
+<auteurModification>Rae
+</auteurModification>
+</row>
+<row idProduit="3432">
+<idAlarme>3485</idAlarme>
+<nomProduit>ENANTONE LP 30mg pdre/solv p susp inj</nomProduit>
+<codeProduit>8960a0</codeProduit>
+<prixProduit>1413.0</prixProduit>
+<quantiteActuel>1879</quantiteActuel>
+<quantiteAlarme>258</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-09-08</dateModification>
+<auteurCreation>Townsend</auteurCreation>
+<auteurModification>Avye
+</auteurModification>
+</row>
+<row idProduit="3433">
+<idAlarme>2041</idAlarme>
+<nomProduit>ENBREL 25mg sol inj ser</nomProduit>
+<codeProduit>54f1c6</codeProduit>
+<prixProduit>1140.0</prixProduit>
+<quantiteActuel>1969</quantiteActuel>
+<quantiteAlarme>207</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-07-15</dateModification>
+<auteurCreation>Daniel</auteurCreation>
+<auteurModification>Adria
+</auteurModification>
+</row>
+<row idProduit="3434">
+<idAlarme>4781</idAlarme>
+<nomProduit>ENBREL 25mg/ml pdre/solv p sol inj p us pediat</nomProduit>
+<codeProduit>bd396a</codeProduit>
+<prixProduit>536.0</prixProduit>
+<quantiteActuel>2688</quantiteActuel>
+<quantiteAlarme>301</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-09-21</dateModification>
+<auteurCreation>Gates</auteurCreation>
+<auteurModification>Ian
+</auteurModification>
+</row>
+<row idProduit="3435">
+<idAlarme>5051</idAlarme>
+<nomProduit>ENBREL 50 mg sol inj en stylo prerempli</nomProduit>
+<codeProduit>cac1b9</codeProduit>
+<prixProduit>372.0</prixProduit>
+<quantiteActuel>1631</quantiteActuel>
+<quantiteAlarme>416</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-07-06</dateModification>
+<auteurCreation>Franco</auteurCreation>
+<auteurModification>Plato
+</auteurModification>
+</row>
+<row idProduit="3436">
+<idAlarme>3267</idAlarme>
+<nomProduit>ENBREL 50mg sol inj en ser</nomProduit>
+<codeProduit>21bb66</codeProduit>
+<prixProduit>468.0</prixProduit>
+<quantiteActuel>1581</quantiteActuel>
+<quantiteAlarme>481</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-06-29</dateModification>
+<auteurCreation>Hensley</auteurCreation>
+<auteurModification>Chanda
+</auteurModification>
+</row>
+<row idProduit="3437">
+<idAlarme>76</idAlarme>
+<nomProduit>ENCEPUR 1,5ug/0,5ml susp inj en ser preremplie</nomProduit>
+<codeProduit>b8ed98</codeProduit>
+<prixProduit>165.0</prixProduit>
+<quantiteActuel>2015</quantiteActuel>
+<quantiteAlarme>255</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-09-05</dateModification>
+<auteurCreation>Bray</auteurCreation>
+<auteurModification>Carla
+</auteurModification>
+</row>
+<row idProduit="3438">
+<idAlarme>10285</idAlarme>
+<nomProduit>ENDHOMETROL ovule</nomProduit>
+<codeProduit>8b8bb4</codeProduit>
+<prixProduit>1249.0</prixProduit>
+<quantiteActuel>2089</quantiteActuel>
+<quantiteAlarme>428</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-08-25</dateModification>
+<auteurCreation>Abbott</auteurCreation>
+<auteurModification>Edan
+</auteurModification>
+</row>
+<row idProduit="3439">
+<idAlarme>9178</idAlarme>
+<nomProduit>ENDIUM 300 mg pdre p sol buv</nomProduit>
+<codeProduit>9be640</codeProduit>
+<prixProduit>973.0</prixProduit>
+<quantiteActuel>2732</quantiteActuel>
+<quantiteAlarme>421</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-07-29</dateModification>
+<auteurCreation>Carson</auteurCreation>
+<auteurModification>Anthony
+</auteurModification>
+</row>
+<row idProduit="3440">
+<idAlarme>2534</idAlarme>
+<nomProduit>ENDIUM 600mg cp pellic</nomProduit>
+<codeProduit>1fd927</codeProduit>
+<prixProduit>536.0</prixProduit>
+<quantiteActuel>2660</quantiteActuel>
+<quantiteAlarme>185</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Stewart</auteurCreation>
+<auteurModification>Arthur
+</auteurModification>
+</row>
+<row idProduit="3441">
+<idAlarme>5265</idAlarme>
+<nomProduit>ENDOREM 11,2 mg Fe/mL susp diluer p perf</nomProduit>
+<codeProduit>007a49</codeProduit>
+<prixProduit>1188.0</prixProduit>
+<quantiteActuel>2340</quantiteActuel>
+<quantiteAlarme>311</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-27</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Blackwell</auteurCreation>
+<auteurModification>Beatrice
+</auteurModification>
+</row>
+<row idProduit="3442">
+<idAlarme>3892</idAlarme>
+<nomProduit>ENDOTELON 150 mg cp enr gastroresis</nomProduit>
+<codeProduit>8165ff</codeProduit>
+<prixProduit>1107.0</prixProduit>
+<quantiteActuel>2792</quantiteActuel>
+<quantiteAlarme>212</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-08-20</dateModification>
+<auteurCreation>Hewitt</auteurCreation>
+<auteurModification>Holly
+</auteurModification>
+</row>
+<row idProduit="3443">
+<idAlarme>4460</idAlarme>
+<nomProduit>ENDOTINE sol p us dent</nomProduit>
+<codeProduit>f896d9</codeProduit>
+<prixProduit>1282.0</prixProduit>
+<quantiteActuel>2156</quantiteActuel>
+<quantiteAlarme>110</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Combs</auteurCreation>
+<auteurModification>Yuli
+</auteurModification>
+</row>
+<row idProduit="3444">
+<idAlarme>8873</idAlarme>
+<nomProduit>ENDOXAN 1000mg pdre p sol inj</nomProduit>
+<codeProduit>340a25</codeProduit>
+<prixProduit>371.0</prixProduit>
+<quantiteActuel>1512</quantiteActuel>
+<quantiteAlarme>424</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-09-14</dateModification>
+<auteurCreation>Conway</auteurCreation>
+<auteurModification>Tad
+</auteurModification>
+</row>
+<row idProduit="3445">
+<idAlarme>125</idAlarme>
+<nomProduit>ENDOXAN 500 mg pdre p sol inj</nomProduit>
+<codeProduit>2b1bf4</codeProduit>
+<prixProduit>417.0</prixProduit>
+<quantiteActuel>1723</quantiteActuel>
+<quantiteAlarme>183</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-07-18</dateModification>
+<auteurCreation>Whitehead</auteurCreation>
+<auteurModification>Byron
+</auteurModification>
+</row>
+<row idProduit="3446">
+<idAlarme>1107</idAlarme>
+<nomProduit>ENDOXAN 50mg cp enr</nomProduit>
+<codeProduit>810f6c</codeProduit>
+<prixProduit>210.0</prixProduit>
+<quantiteActuel>2276</quantiteActuel>
+<quantiteAlarme>395</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-09-17</dateModification>
+<auteurCreation>Park</auteurCreation>
+<auteurModification>Lacy
+</auteurModification>
+</row>
+<row idProduit="3447">
+<idAlarme>2444</idAlarme>
+<nomProduit>ENERGITUM 2,5 g/10 ml sol buv</nomProduit>
+<codeProduit>a40230</codeProduit>
+<prixProduit>721.0</prixProduit>
+<quantiteActuel>2153</quantiteActuel>
+<quantiteAlarme>464</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-09-07</dateModification>
+<auteurCreation>Stein</auteurCreation>
+<auteurModification>Nina
+</auteurModification>
+</row>
+<row idProduit="3448">
+<idAlarme>3480</idAlarme>
+<nomProduit>ENGERIX B 10 ug/0,5 ml susp inj en seringue preremplie</nomProduit>
+<codeProduit>5ab773</codeProduit>
+<prixProduit>1368.0</prixProduit>
+<quantiteActuel>2168</quantiteActuel>
+<quantiteAlarme>336</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-07-13</dateModification>
+<auteurCreation>Hart</auteurCreation>
+<auteurModification>Carson
+</auteurModification>
+</row>
+<row idProduit="3449">
+<idAlarme>4118</idAlarme>
+<nomProduit>ENGERIX B 20 ug/1 ml susp inj en seringue preremplie</nomProduit>
+<codeProduit>669461</codeProduit>
+<prixProduit>350.0</prixProduit>
+<quantiteActuel>1870</quantiteActuel>
+<quantiteAlarme>176</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-09-12</dateModification>
+<auteurCreation>Cole</auteurCreation>
+<auteurModification>Zachery
+</auteurModification>
+</row>
+<row idProduit="3450">
+<idAlarme>1600</idAlarme>
+<nomProduit>ENOXOR 200mg cp pellic</nomProduit>
+<codeProduit>97bf3b</codeProduit>
+<prixProduit>563.0</prixProduit>
+<quantiteActuel>2958</quantiteActuel>
+<quantiteAlarme>103</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-07-30</dateModification>
+<auteurCreation>Kerr</auteurCreation>
+<auteurModification>Rooney
+</auteurModification>
+</row>
+<row idProduit="3451">
+<idAlarme>9396</idAlarme>
+<nomProduit>ENTECET cp enr</nomProduit>
+<codeProduit>38f15a</codeProduit>
+<prixProduit>359.0</prixProduit>
+<quantiteActuel>2628</quantiteActuel>
+<quantiteAlarme>468</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-05</dateCreation>
+<dateModification>2010-10-04</dateModification>
+<auteurCreation>Payne</auteurCreation>
+<auteurModification>Clark
+</auteurModification>
+</row>
+<row idProduit="3452">
+<idAlarme>4499</idAlarme>
+<nomProduit>ENTEROKINASUM COMPOSE BOIRON suppos</nomProduit>
+<codeProduit>1fb197</codeProduit>
+<prixProduit>398.0</prixProduit>
+<quantiteActuel>2592</quantiteActuel>
+<quantiteAlarme>261</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-08-14</dateModification>
+<auteurCreation>Flores</auteurCreation>
+<auteurModification>Quinlan
+</auteurModification>
+</row>
+<row idProduit="3453">
+<idAlarme>10318</idAlarme>
+<nomProduit>ENTOCORT 3mg gel (ugle gastroresis)</nomProduit>
+<codeProduit>f28c0d</codeProduit>
+<prixProduit>677.0</prixProduit>
+<quantiteActuel>1759</quantiteActuel>
+<quantiteAlarme>112</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-07-09</dateModification>
+<auteurCreation>Thornton</auteurCreation>
+<auteurModification>Ivor
+</auteurModification>
+</row>
+<row idProduit="3454">
+<idAlarme>10321</idAlarme>
+<nomProduit>ENTONOX gaz p inhal</nomProduit>
+<codeProduit>c60e9c</codeProduit>
+<prixProduit>582.0</prixProduit>
+<quantiteActuel>2015</quantiteActuel>
+<quantiteAlarme>158</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-08-02</dateModification>
+<auteurCreation>Short</auteurCreation>
+<auteurModification>Flynn
+</auteurModification>
+</row>
+<row idProduit="3455">
+<idAlarme>5194</idAlarme>
+<nomProduit>ENZYMICINE cone p us dent</nomProduit>
+<codeProduit>70a04f</codeProduit>
+<prixProduit>154.0</prixProduit>
+<quantiteActuel>2175</quantiteActuel>
+<quantiteAlarme>269</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-08-11</dateModification>
+<auteurCreation>Whitaker</auteurCreation>
+<auteurModification>Hoyt
+</auteurModification>
+</row>
+<row idProduit="3456">
+<idAlarme>3684</idAlarme>
+<nomProduit>EOSINE AQUEUSE GIFRER 2 % sol p appl loc</nomProduit>
+<codeProduit>e8b5d8</codeProduit>
+<prixProduit>1453.0</prixProduit>
+<quantiteActuel>2306</quantiteActuel>
+<quantiteAlarme>486</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Fox</auteurCreation>
+<auteurModification>Zephania
+</auteurModification>
+</row>
+<row idProduit="3457">
+<idAlarme>6518</idAlarme>
+<nomProduit>EOSINE AQUEUSE GILBERT 2 % sol p appl loc</nomProduit>
+<codeProduit>42e6fb</codeProduit>
+<prixProduit>397.0</prixProduit>
+<quantiteActuel>2866</quantiteActuel>
+<quantiteAlarme>324</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Gardner</auteurCreation>
+<auteurModification>Evangeline
+</auteurModification>
+</row>
+<row idProduit="3458">
+<idAlarme>5825</idAlarme>
+<nomProduit>EOSINE COOPER 2 % sol p appl loc</nomProduit>
+<codeProduit>709411</codeProduit>
+<prixProduit>769.0</prixProduit>
+<quantiteActuel>2537</quantiteActuel>
+<quantiteAlarme>323</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-08-18</dateModification>
+<auteurCreation>Grant</auteurCreation>
+<auteurModification>Hyacinth
+</auteurModification>
+</row>
+<row idProduit="3459">
+<idAlarme>6661</idAlarme>
+<nomProduit>EPHEDRINE AGUETTANT 3 mg/ml sol inj en seringue preremplie</nomProduit>
+<codeProduit>46928f</codeProduit>
+<prixProduit>845.0</prixProduit>
+<quantiteActuel>1721</quantiteActuel>
+<quantiteAlarme>402</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Patrick</auteurCreation>
+<auteurModification>Carter
+</auteurModification>
+</row>
+<row idProduit="3460">
+<idAlarme>8621</idAlarme>
+<nomProduit>EPHEDRINE AGUETTANT 30mg/ml sol inj</nomProduit>
+<codeProduit>4b72cb</codeProduit>
+<prixProduit>467.0</prixProduit>
+<quantiteActuel>2747</quantiteActuel>
+<quantiteAlarme>499</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-07-23</dateModification>
+<auteurCreation>Stone</auteurCreation>
+<auteurModification>Tanek
+</auteurModification>
+</row>
+<row idProduit="3461">
+<idAlarme>6903</idAlarme>
+<nomProduit>EPHEDRINE RENAUDIN 30mg/10ml sol inj</nomProduit>
+<codeProduit>61927c</codeProduit>
+<prixProduit>490.0</prixProduit>
+<quantiteActuel>2332</quantiteActuel>
+<quantiteAlarme>200</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-08-28</dateModification>
+<auteurCreation>Patterson</auteurCreation>
+<auteurModification>Aurora
+</auteurModification>
+</row>
+<row idProduit="3462">
+<idAlarme>3617</idAlarme>
+<nomProduit>EPHEDRINE RENAUDIN 30mg/ml sol inj</nomProduit>
+<codeProduit>21899a</codeProduit>
+<prixProduit>676.0</prixProduit>
+<quantiteActuel>1748</quantiteActuel>
+<quantiteAlarme>146</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-08-21</dateModification>
+<auteurCreation>Avery</auteurCreation>
+<auteurModification>Raya
+</auteurModification>
+</row>
+<row idProduit="3463">
+<idAlarme>4232</idAlarme>
+<nomProduit>EPIDUO gel</nomProduit>
+<codeProduit>1b659a</codeProduit>
+<prixProduit>1274.0</prixProduit>
+<quantiteActuel>1771</quantiteActuel>
+<quantiteAlarme>444</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Burke</auteurCreation>
+<auteurModification>Stella
+</auteurModification>
+</row>
+<row idProduit="3464">
+<idAlarme>506</idAlarme>
+<nomProduit>EPINITRIL 10 mg/24 heures disp transderm</nomProduit>
+<codeProduit>76c722</codeProduit>
+<prixProduit>504.0</prixProduit>
+<quantiteActuel>1615</quantiteActuel>
+<quantiteAlarme>297</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Chandler</auteurCreation>
+<auteurModification>Isaiah
+</auteurModification>
+</row>
+<row idProduit="3465">
+<idAlarme>9825</idAlarme>
+<nomProduit>EPINITRIL 15 mg/24 heures disp transderm</nomProduit>
+<codeProduit>bccbd8</codeProduit>
+<prixProduit>645.0</prixProduit>
+<quantiteActuel>2664</quantiteActuel>
+<quantiteAlarme>387</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-10-06</dateModification>
+<auteurCreation>Cleveland</auteurCreation>
+<auteurModification>Chester
+</auteurModification>
+</row>
+<row idProduit="3466">
+<idAlarme>3368</idAlarme>
+<nomProduit>EPINITRIL 5 mg/24 heures disp transderm</nomProduit>
+<codeProduit>5c3b42</codeProduit>
+<prixProduit>905.0</prixProduit>
+<quantiteActuel>2383</quantiteActuel>
+<quantiteAlarme>252</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-12</dateCreation>
+<dateModification>2010-08-28</dateModification>
+<auteurCreation>Webster</auteurCreation>
+<auteurModification>Christian
+</auteurModification>
+</row>
+<row idProduit="3467">
+<idAlarme>4174</idAlarme>
+<nomProduit>EPIRUBICINE ACTAVIS 2 mg/ml pdre p sol p perf</nomProduit>
+<codeProduit>c7f74a</codeProduit>
+<prixProduit>1377.0</prixProduit>
+<quantiteActuel>2355</quantiteActuel>
+<quantiteAlarme>298</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Mcknight</auteurCreation>
+<auteurModification>Aidan
+</auteurModification>
+</row>
+<row idProduit="3468">
+<idAlarme>8041</idAlarme>
+<nomProduit>EPIRUBICINE ACTAVIS 2 mg/ml sol p perf</nomProduit>
+<codeProduit>e63c89</codeProduit>
+<prixProduit>615.0</prixProduit>
+<quantiteActuel>2636</quantiteActuel>
+<quantiteAlarme>425</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Lawrence</auteurCreation>
+<auteurModification>Aurelia
+</auteurModification>
+</row>
+<row idProduit="3469">
+<idAlarme>8354</idAlarme>
+<nomProduit>EPIRUBICINE BIOLID 2mg/ml sol p perf</nomProduit>
+<codeProduit>cf6c3c</codeProduit>
+<prixProduit>749.0</prixProduit>
+<quantiteActuel>2985</quantiteActuel>
+<quantiteAlarme>366</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-07-26</dateModification>
+<auteurCreation>Mann</auteurCreation>
+<auteurModification>Alexandra
+</auteurModification>
+</row>
+<row idProduit="3470">
+<idAlarme>10027</idAlarme>
+<nomProduit>EPIRUBICINE EBEWE 2mg/ml sol p perf</nomProduit>
+<codeProduit>c64c52</codeProduit>
+<prixProduit>1400.0</prixProduit>
+<quantiteActuel>2637</quantiteActuel>
+<quantiteAlarme>114</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Mccray</auteurCreation>
+<auteurModification>Quon
+</auteurModification>
+</row>
+<row idProduit="3471">
+<idAlarme>7477</idAlarme>
+<nomProduit>EPIRUBICINE HOSPIRA 2 mg/ml sol p perf</nomProduit>
+<codeProduit>36481c</codeProduit>
+<prixProduit>273.0</prixProduit>
+<quantiteActuel>2294</quantiteActuel>
+<quantiteAlarme>117</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-08-25</dateModification>
+<auteurCreation>Gonzales</auteurCreation>
+<auteurModification>Gray
+</auteurModification>
+</row>
+<row idProduit="3472">
+<idAlarme>1864</idAlarme>
+<nomProduit>EPIRUBICINE INTAS 2 mg/ml sol inj p perf</nomProduit>
+<codeProduit>038864</codeProduit>
+<prixProduit>994.0</prixProduit>
+<quantiteActuel>2881</quantiteActuel>
+<quantiteAlarme>413</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-08-10</dateModification>
+<auteurCreation>Burris</auteurCreation>
+<auteurModification>Yoko
+</auteurModification>
+</row>
+<row idProduit="3473">
+<idAlarme>842</idAlarme>
+<nomProduit>EPIRUBICINE INTSEL CHIMOS 2mg/ml sol p perf</nomProduit>
+<codeProduit>f9f9bf</codeProduit>
+<prixProduit>990.0</prixProduit>
+<quantiteActuel>2620</quantiteActuel>
+<quantiteAlarme>139</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-08-31</dateModification>
+<auteurCreation>Mccormick</auteurCreation>
+<auteurModification>Gail
+</auteurModification>
+</row>
+<row idProduit="3474">
+<idAlarme>2149</idAlarme>
+<nomProduit>EPIRUBICINE KABI 2 mg/ml sol p perf</nomProduit>
+<codeProduit>3dd379</codeProduit>
+<prixProduit>714.0</prixProduit>
+<quantiteActuel>2345</quantiteActuel>
+<quantiteAlarme>193</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Bartlett</auteurCreation>
+<auteurModification>Merritt
+</auteurModification>
+</row>
+<row idProduit="3475">
+<idAlarme>9852</idAlarme>
+<nomProduit>EPIRUBICINE MYLAN 2 mg/ml sol p perf</nomProduit>
+<codeProduit>fd7285</codeProduit>
+<prixProduit>397.0</prixProduit>
+<quantiteActuel>1541</quantiteActuel>
+<quantiteAlarme>100</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Hicks</auteurCreation>
+<auteurModification>Matthew
+</auteurModification>
+</row>
+<row idProduit="3476">
+<idAlarme>120</idAlarme>
+<nomProduit>EPIRUBICINE TEVA 2mg/ml sol p perf</nomProduit>
+<codeProduit>c7022e</codeProduit>
+<prixProduit>354.0</prixProduit>
+<quantiteActuel>2796</quantiteActuel>
+<quantiteAlarme>289</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-08-24</dateModification>
+<auteurCreation>Noel</auteurCreation>
+<auteurModification>Cameran
+</auteurModification>
+</row>
+<row idProduit="3477">
+<idAlarme>1475</idAlarme>
+<nomProduit>EPIRUBICINE WINTHROP 2mg/ml sol p perf</nomProduit>
+<codeProduit>40a49d</codeProduit>
+<prixProduit>882.0</prixProduit>
+<quantiteActuel>2828</quantiteActuel>
+<quantiteAlarme>146</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-09-08</dateModification>
+<auteurCreation>Mcclain</auteurCreation>
+<auteurModification>Victor
+</auteurModification>
+</row>
+<row idProduit="3478">
+<idAlarme>5798</idAlarme>
+<nomProduit>EPITOMAX 100 mg cp pellic</nomProduit>
+<codeProduit>e5133e</codeProduit>
+<prixProduit>1279.0</prixProduit>
+<quantiteActuel>2962</quantiteActuel>
+<quantiteAlarme>465</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-07-03</dateModification>
+<auteurCreation>Harrell</auteurCreation>
+<auteurModification>Derek
+</auteurModification>
+</row>
+<row idProduit="3479">
+<idAlarme>1732</idAlarme>
+<nomProduit>EPITOMAX 15 mg gel</nomProduit>
+<codeProduit>8607b1</codeProduit>
+<prixProduit>1140.0</prixProduit>
+<quantiteActuel>2096</quantiteActuel>
+<quantiteAlarme>370</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Ewing</auteurCreation>
+<auteurModification>Marshall
+</auteurModification>
+</row>
+<row idProduit="3480">
+<idAlarme>5119</idAlarme>
+<nomProduit>EPITOMAX 200 mg cp pellic</nomProduit>
+<codeProduit>bb9eac</codeProduit>
+<prixProduit>273.0</prixProduit>
+<quantiteActuel>1599</quantiteActuel>
+<quantiteAlarme>156</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-06-22</dateModification>
+<auteurCreation>Vazquez</auteurCreation>
+<auteurModification>Otto
+</auteurModification>
+</row>
+<row idProduit="3481">
+<idAlarme>8603</idAlarme>
+<nomProduit>EPITOMAX 25 mg gel</nomProduit>
+<codeProduit>db3a8e</codeProduit>
+<prixProduit>399.0</prixProduit>
+<quantiteActuel>1556</quantiteActuel>
+<quantiteAlarme>465</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Doyle</auteurCreation>
+<auteurModification>Cade
+</auteurModification>
+</row>
+<row idProduit="3482">
+<idAlarme>10085</idAlarme>
+<nomProduit>EPITOMAX 50 mg cp pellic</nomProduit>
+<codeProduit>9a78cb</codeProduit>
+<prixProduit>902.0</prixProduit>
+<quantiteActuel>2091</quantiteActuel>
+<quantiteAlarme>275</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-06-26</dateModification>
+<auteurCreation>Calhoun</auteurCreation>
+<auteurModification>Freya
+</auteurModification>
+</row>
+<row idProduit="3483">
+<idAlarme>10499</idAlarme>
+<nomProduit>EPITOMAX 50 mg gel</nomProduit>
+<codeProduit>186b5b</codeProduit>
+<prixProduit>1212.0</prixProduit>
+<quantiteActuel>2240</quantiteActuel>
+<quantiteAlarme>184</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Roth</auteurCreation>
+<auteurModification>Barclay
+</auteurModification>
+</row>
+<row idProduit="3484">
+<idAlarme>3334</idAlarme>
+<nomProduit>EPITOPIC 0,05 % creme</nomProduit>
+<codeProduit>d5fb98</codeProduit>
+<prixProduit>1196.0</prixProduit>
+<quantiteActuel>2440</quantiteActuel>
+<quantiteAlarme>152</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-09-07</dateModification>
+<auteurCreation>Cash</auteurCreation>
+<auteurModification>Roanna
+</auteurModification>
+</row>
+<row idProduit="3485">
+<idAlarme>4741</idAlarme>
+<nomProduit>EPIVIR 10 mg/ml sol buv</nomProduit>
+<codeProduit>8bcd1f</codeProduit>
+<prixProduit>782.0</prixProduit>
+<quantiteActuel>2042</quantiteActuel>
+<quantiteAlarme>305</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-09-24</dateModification>
+<auteurCreation>Gaines</auteurCreation>
+<auteurModification>Burke
+</auteurModification>
+</row>
+<row idProduit="3486">
+<idAlarme>9403</idAlarme>
+<nomProduit>EPIVIR 150mg cp pellic</nomProduit>
+<codeProduit>5e48bd</codeProduit>
+<prixProduit>982.0</prixProduit>
+<quantiteActuel>2665</quantiteActuel>
+<quantiteAlarme>389</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-07-15</dateModification>
+<auteurCreation>Nash</auteurCreation>
+<auteurModification>Alfreda
+</auteurModification>
+</row>
+<row idProduit="3487">
+<idAlarme>5472</idAlarme>
+<nomProduit>EPIVIR 300mg cp pellic</nomProduit>
+<codeProduit>2b9779</codeProduit>
+<prixProduit>1499.0</prixProduit>
+<quantiteActuel>2863</quantiteActuel>
+<quantiteAlarme>470</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-26</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Wise</auteurCreation>
+<auteurModification>Stacey
+</auteurModification>
+</row>
+<row idProduit="3488">
+<idAlarme>7632</idAlarme>
+<nomProduit>EPORATIO 20 000 UI/1 ml sol inj seringue preremplie</nomProduit>
+<codeProduit>57061c</codeProduit>
+<prixProduit>737.0</prixProduit>
+<quantiteActuel>2930</quantiteActuel>
+<quantiteAlarme>386</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-07-30</dateModification>
+<auteurCreation>Mullins</auteurCreation>
+<auteurModification>Anthony
+</auteurModification>
+</row>
+<row idProduit="3489">
+<idAlarme>9353</idAlarme>
+<nomProduit>EPORATIO 30 000 UI/1 ml sol inj seringue preremplie</nomProduit>
+<codeProduit>6062a2</codeProduit>
+<prixProduit>335.0</prixProduit>
+<quantiteActuel>2439</quantiteActuel>
+<quantiteAlarme>371</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Fox</auteurCreation>
+<auteurModification>Keane
+</auteurModification>
+</row>
+<row idProduit="3490">
+<idAlarme>3423</idAlarme>
+<nomProduit>EPREX 10 000 UI/ml sol inj en ser</nomProduit>
+<codeProduit>3ec0e1</codeProduit>
+<prixProduit>807.0</prixProduit>
+<quantiteActuel>1977</quantiteActuel>
+<quantiteAlarme>276</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-07-22</dateModification>
+<auteurCreation>Manning</auteurCreation>
+<auteurModification>Ebony
+</auteurModification>
+</row>
+<row idProduit="3491">
+<idAlarme>3476</idAlarme>
+<nomProduit>EPREX 2 000UI/ml sol inj ser pre</nomProduit>
+<codeProduit>9a8746</codeProduit>
+<prixProduit>193.0</prixProduit>
+<quantiteActuel>1559</quantiteActuel>
+<quantiteAlarme>228</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-09-06</dateModification>
+<auteurCreation>Howe</auteurCreation>
+<auteurModification>Knox
+</auteurModification>
+</row>
+<row idProduit="3492">
+<idAlarme>4486</idAlarme>
+<nomProduit>EPREX 40 000 UI/ml sol inj seringue preremplie</nomProduit>
+<codeProduit>1ede13</codeProduit>
+<prixProduit>1188.0</prixProduit>
+<quantiteActuel>2790</quantiteActuel>
+<quantiteAlarme>182</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-09-10</dateModification>
+<auteurCreation>Abbott</auteurCreation>
+<auteurModification>Maxwell
+</auteurModification>
+</row>
+<row idProduit="3493">
+<idAlarme>4955</idAlarme>
+<nomProduit>EPREX 4000 UI/ml sol inj</nomProduit>
+<codeProduit>2f8478</codeProduit>
+<prixProduit>508.0</prixProduit>
+<quantiteActuel>2605</quantiteActuel>
+<quantiteAlarme>397</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-07-30</dateModification>
+<auteurCreation>Robles</auteurCreation>
+<auteurModification>Teagan
+</auteurModification>
+</row>
+<row idProduit="3494">
+<idAlarme>7648</idAlarme>
+<nomProduit>EPTAVIT 1000mg/880UI cp efferv</nomProduit>
+<codeProduit>419e36</codeProduit>
+<prixProduit>1415.0</prixProduit>
+<quantiteActuel>1627</quantiteActuel>
+<quantiteAlarme>363</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-10-02</dateModification>
+<auteurCreation>Waters</auteurCreation>
+<auteurModification>Calvin
+</auteurModification>
+</row>
+<row idProduit="3495">
+<idAlarme>5500</idAlarme>
+<nomProduit>EQUANIL 250 mg cp enr</nomProduit>
+<codeProduit>ca7af9</codeProduit>
+<prixProduit>1054.0</prixProduit>
+<quantiteActuel>1585</quantiteActuel>
+<quantiteAlarme>400</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-07-06</dateModification>
+<auteurCreation>Cannon</auteurCreation>
+<auteurModification>Dustin
+</auteurModification>
+</row>
+<row idProduit="3496">
+<idAlarme>6764</idAlarme>
+<nomProduit>EQUANIL 400 mg/5 ml sol inj IM</nomProduit>
+<codeProduit>0d880c</codeProduit>
+<prixProduit>746.0</prixProduit>
+<quantiteActuel>1526</quantiteActuel>
+<quantiteAlarme>486</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-09-30</dateModification>
+<auteurCreation>Crosby</auteurCreation>
+<auteurModification>Alan
+</auteurModification>
+</row>
+<row idProduit="3497">
+<idAlarme>453</idAlarme>
+<nomProduit>EQUANIL 400mg cp enr sec</nomProduit>
+<codeProduit>b6f016</codeProduit>
+<prixProduit>1171.0</prixProduit>
+<quantiteActuel>2690</quantiteActuel>
+<quantiteAlarme>380</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-10-04</dateModification>
+<auteurCreation>Pate</auteurCreation>
+<auteurModification>Giacomo
+</auteurModification>
+</row>
+<row idProduit="3498">
+<idAlarme>636</idAlarme>
+<nomProduit>ERAZABAN 10% creme</nomProduit>
+<codeProduit>a9f58e</codeProduit>
+<prixProduit>183.0</prixProduit>
+<quantiteActuel>2602</quantiteActuel>
+<quantiteAlarme>482</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-09-03</dateModification>
+<auteurCreation>Lindsay</auteurCreation>
+<auteurModification>James
+</auteurModification>
+</row>
+<row idProduit="3499">
+<idAlarme>7257</idAlarme>
+<nomProduit>ERBITUX 5mg/ml sol p perf</nomProduit>
+<codeProduit>d87c80</codeProduit>
+<prixProduit>518.0</prixProduit>
+<quantiteActuel>2617</quantiteActuel>
+<quantiteAlarme>208</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-09-24</dateModification>
+<auteurCreation>Kelly</auteurCreation>
+<auteurModification>Neil
+</auteurModification>
+</row>
+<row idProduit="3500">
+<idAlarme>937</idAlarme>
+<nomProduit>ERCEFURYL 200 mg gel</nomProduit>
+<codeProduit>9ea407</codeProduit>
+<prixProduit>803.0</prixProduit>
+<quantiteActuel>1745</quantiteActuel>
+<quantiteAlarme>324</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-09-02</dateModification>
+<auteurCreation>Maynard</auteurCreation>
+<auteurModification>Keelie
+</auteurModification>
+</row>
+<row idProduit="3501">
+<idAlarme>10035</idAlarme>
+<nomProduit>ERCESTOP 2mg gel</nomProduit>
+<codeProduit>b543b1</codeProduit>
+<prixProduit>215.0</prixProduit>
+<quantiteActuel>2292</quantiteActuel>
+<quantiteAlarme>223</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-07-30</dateModification>
+<auteurCreation>Blankenship</auteurCreation>
+<auteurModification>Keith
+</auteurModification>
+</row>
+<row idProduit="3502">
+<idAlarme>8450</idAlarme>
+<nomProduit>ERGIX DOULEUR ET FIEVRE 200mg cp pellic</nomProduit>
+<codeProduit>927a38</codeProduit>
+<prixProduit>1374.0</prixProduit>
+<quantiteActuel>2914</quantiteActuel>
+<quantiteAlarme>424</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-29</dateCreation>
+<dateModification>2010-07-22</dateModification>
+<auteurCreation>Alford</auteurCreation>
+<auteurModification>Molly
+</auteurModification>
+</row>
+<row idProduit="3503">
+<idAlarme>9735</idAlarme>
+<nomProduit>ERGIX EXPECTORANT SANS SUCRE 5 % sol buv</nomProduit>
+<codeProduit>ec79bc</codeProduit>
+<prixProduit>848.0</prixProduit>
+<quantiteActuel>2632</quantiteActuel>
+<quantiteAlarme>373</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-09-28</dateModification>
+<auteurCreation>Moon</auteurCreation>
+<auteurModification>Naomi
+</auteurModification>
+</row>
+<row idProduit="3504">
+<idAlarme>10431</idAlarme>
+<nomProduit>ERGIX MAL DE GORGE collut</nomProduit>
+<codeProduit>9cea8f</codeProduit>
+<prixProduit>820.0</prixProduit>
+<quantiteActuel>1998</quantiteActuel>
+<quantiteAlarme>456</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Rosales</auteurCreation>
+<auteurModification>Marvin
+</auteurModification>
+</row>
+<row idProduit="3505">
+<idAlarme>378</idAlarme>
+<nomProduit>ERGIX TOUX SECHE 20 mg gel</nomProduit>
+<codeProduit>8b3b36</codeProduit>
+<prixProduit>1065.0</prixProduit>
+<quantiteActuel>2460</quantiteActuel>
+<quantiteAlarme>123</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-07-17</dateModification>
+<auteurCreation>Riddle</auteurCreation>
+<auteurModification>Jocelyn
+</auteurModification>
+</row>
+<row idProduit="3506">
+<idAlarme>9644</idAlarme>
+<nomProduit>ERGIX TOUX SECHE sirop ad</nomProduit>
+<codeProduit>8448d2</codeProduit>
+<prixProduit>1260.0</prixProduit>
+<quantiteActuel>2996</quantiteActuel>
+<quantiteAlarme>316</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-09-24</dateModification>
+<auteurCreation>Byrd</auteurCreation>
+<auteurModification>Nasim
+</auteurModification>
+</row>
+<row idProduit="3507">
+<idAlarme>8646</idAlarme>
+<nomProduit>ERGIX TOUX SECHE sirop enf</nomProduit>
+<codeProduit>af7523</codeProduit>
+<prixProduit>982.0</prixProduit>
+<quantiteActuel>2740</quantiteActuel>
+<quantiteAlarme>149</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-09-08</dateModification>
+<auteurCreation>Ramirez</auteurCreation>
+<auteurModification>Althea
+</auteurModification>
+</row>
+<row idProduit="3508">
+<idAlarme>605</idAlarme>
+<nomProduit>ERY 125 mg gle p susp buv nour</nomProduit>
+<codeProduit>83d2c8</codeProduit>
+<prixProduit>1341.0</prixProduit>
+<quantiteActuel>2652</quantiteActuel>
+<quantiteAlarme>428</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Gilliam</auteurCreation>
+<auteurModification>Carolyn
+</auteurModification>
+</row>
+<row idProduit="3509">
+<idAlarme>6784</idAlarme>
+<nomProduit>ERY 250mg gle enfant</nomProduit>
+<codeProduit>ac1805</codeProduit>
+<prixProduit>975.0</prixProduit>
+<quantiteActuel>1652</quantiteActuel>
+<quantiteAlarme>321</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-06-20</dateModification>
+<auteurCreation>Osborne</auteurCreation>
+<auteurModification>Michael
+</auteurModification>
+</row>
+<row idProduit="3510">
+<idAlarme>9169</idAlarme>
+<nomProduit>ERY 500mg cp</nomProduit>
+<codeProduit>1ce29e</codeProduit>
+<prixProduit>589.0</prixProduit>
+<quantiteActuel>2618</quantiteActuel>
+<quantiteAlarme>477</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-07-18</dateModification>
+<auteurCreation>Harper</auteurCreation>
+<auteurModification>Mia
+</auteurModification>
+</row>
+<row idProduit="3511">
+<idAlarme>4980</idAlarme>
+<nomProduit>ERYACNE 4 % sol p appl cut</nomProduit>
+<codeProduit>bf8dd9</codeProduit>
+<prixProduit>556.0</prixProduit>
+<quantiteActuel>2851</quantiteActuel>
+<quantiteAlarme>272</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-06-21</dateModification>
+<auteurCreation>Mcleod</auteurCreation>
+<auteurModification>Camilla
+</auteurModification>
+</row>
+<row idProduit="3512">
+<idAlarme>5439</idAlarme>
+<nomProduit>ERYFLUID lotion</nomProduit>
+<codeProduit>428301</codeProduit>
+<prixProduit>1394.0</prixProduit>
+<quantiteActuel>2877</quantiteActuel>
+<quantiteAlarme>325</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-09-26</dateModification>
+<auteurCreation>Shannon</auteurCreation>
+<auteurModification>Tobias
+</auteurModification>
+</row>
+<row idProduit="3513">
+<idAlarme>6489</idAlarme>
+<nomProduit>ERYLIK gel p appl cutanee</nomProduit>
+<codeProduit>55056a</codeProduit>
+<prixProduit>718.0</prixProduit>
+<quantiteActuel>1726</quantiteActuel>
+<quantiteAlarme>333</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-08-02</dateModification>
+<auteurCreation>Estes</auteurCreation>
+<auteurModification>Holmes
+</auteurModification>
+</row>
+<row idProduit="3514">
+<idAlarme>6693</idAlarme>
+<nomProduit>ERYTHROCINE 1 g pdre p sol p perf IV</nomProduit>
+<codeProduit>968cab</codeProduit>
+<prixProduit>1158.0</prixProduit>
+<quantiteActuel>2304</quantiteActuel>
+<quantiteAlarme>484</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Harrison</auteurCreation>
+<auteurModification>Jordan
+</auteurModification>
+</row>
+<row idProduit="3515">
+<idAlarme>5004</idAlarme>
+<nomProduit>ERYTHROCINE 1000mg gle p sol buv adulte</nomProduit>
+<codeProduit>c9102d</codeProduit>
+<prixProduit>531.0</prixProduit>
+<quantiteActuel>2933</quantiteActuel>
+<quantiteAlarme>226</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-06-27</dateModification>
+<auteurCreation>Mcconnell</auteurCreation>
+<auteurModification>Berk
+</auteurModification>
+</row>
+<row idProduit="3516">
+<idAlarme>850</idAlarme>
+<nomProduit>ERYTHROCINE 250 mg/5 ml gle p sirop</nomProduit>
+<codeProduit>2701ff</codeProduit>
+<prixProduit>269.0</prixProduit>
+<quantiteActuel>1751</quantiteActuel>
+<quantiteAlarme>145</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-08-28</dateModification>
+<auteurCreation>Houston</auteurCreation>
+<auteurModification>Jermaine
+</auteurModification>
+</row>
+<row idProduit="3517">
+<idAlarme>3122</idAlarme>
+<nomProduit>ERYTHROCINE 500 mg cp pellic</nomProduit>
+<codeProduit>2a6dfb</codeProduit>
+<prixProduit>1325.0</prixProduit>
+<quantiteActuel>2098</quantiteActuel>
+<quantiteAlarme>261</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-10-01</dateModification>
+<auteurCreation>Chan</auteurCreation>
+<auteurModification>Fritz
+</auteurModification>
+</row>
+<row idProduit="3518">
+<idAlarme>7166</idAlarme>
+<nomProduit>ERYTHROCINE 500 mg gle p sol buv</nomProduit>
+<codeProduit>1f2ccd</codeProduit>
+<prixProduit>824.0</prixProduit>
+<quantiteActuel>2115</quantiteActuel>
+<quantiteAlarme>282</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-29</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Galloway</auteurCreation>
+<auteurModification>Mallory
+</auteurModification>
+</row>
+<row idProduit="3519">
+<idAlarme>9709</idAlarme>
+<nomProduit>ERYTHROCINE 500 mg pdre p sol p perf IV</nomProduit>
+<codeProduit>13de96</codeProduit>
+<prixProduit>1392.0</prixProduit>
+<quantiteActuel>2922</quantiteActuel>
+<quantiteAlarme>387</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-08-21</dateModification>
+<auteurCreation>Valdez</auteurCreation>
+<auteurModification>Seth
+</auteurModification>
+</row>
+<row idProduit="3520">
+<idAlarme>10261</idAlarme>
+<nomProduit>ERYTHROCINE 500 mg/5 ml gle p sirop</nomProduit>
+<codeProduit>0238df</codeProduit>
+<prixProduit>1467.0</prixProduit>
+<quantiteActuel>1891</quantiteActuel>
+<quantiteAlarme>107</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-09-04</dateModification>
+<auteurCreation>Wright</auteurCreation>
+<auteurModification>Orlando
+</auteurModification>
+</row>
+<row idProduit="3521">
+<idAlarme>5590</idAlarme>
+<nomProduit>ERYTHROGEL 4 % gel p appl loc</nomProduit>
+<codeProduit>ea2700</codeProduit>
+<prixProduit>1261.0</prixProduit>
+<quantiteActuel>1743</quantiteActuel>
+<quantiteAlarme>499</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-08-24</dateModification>
+<auteurCreation>Delgado</auteurCreation>
+<auteurModification>Hu
+</auteurModification>
+</row>
+<row idProduit="3522">
+<idAlarme>10258</idAlarme>
+<nomProduit>ERYTHROMYCINE BAILLEUL 4 % sol p appl cut</nomProduit>
+<codeProduit>935830</codeProduit>
+<prixProduit>1175.0</prixProduit>
+<quantiteActuel>1743</quantiteActuel>
+<quantiteAlarme>213</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-27</dateCreation>
+<dateModification>2010-07-24</dateModification>
+<auteurCreation>Nichols</auteurCreation>
+<auteurModification>Jolene
+</auteurModification>
+</row>
+<row idProduit="3523">
+<idAlarme>4249</idAlarme>
+<nomProduit>ESBERIVEN creme</nomProduit>
+<codeProduit>f00092</codeProduit>
+<prixProduit>447.0</prixProduit>
+<quantiteActuel>2810</quantiteActuel>
+<quantiteAlarme>109</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-27</dateCreation>
+<dateModification>2010-08-19</dateModification>
+<auteurCreation>Salas</auteurCreation>
+<auteurModification>Lynn
+</auteurModification>
+</row>
+<row idProduit="3524">
+<idAlarme>9590</idAlarme>
+<nomProduit>ESBERIVEN FORT cp enr</nomProduit>
+<codeProduit>60efa5</codeProduit>
+<prixProduit>724.0</prixProduit>
+<quantiteActuel>2349</quantiteActuel>
+<quantiteAlarme>238</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-09-24</dateModification>
+<auteurCreation>Houston</auteurCreation>
+<auteurModification>Zena
+</auteurModification>
+</row>
+<row idProduit="3525">
+<idAlarme>6965</idAlarme>
+<nomProduit>ESBERIVEN FORT sol buv</nomProduit>
+<codeProduit>522cee</codeProduit>
+<prixProduit>550.0</prixProduit>
+<quantiteActuel>2516</quantiteActuel>
+<quantiteAlarme>490</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-07-30</dateModification>
+<auteurCreation>Fields</auteurCreation>
+<auteurModification>Tatum
+</auteurModification>
+</row>
+<row idProduit="3526">
+<idAlarme>10360</idAlarme>
+<nomProduit>ESIDREX 25 mg cp sec</nomProduit>
+<codeProduit>1698b5</codeProduit>
+<prixProduit>734.0</prixProduit>
+<quantiteActuel>2636</quantiteActuel>
+<quantiteAlarme>329</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-09-01</dateModification>
+<auteurCreation>Berry</auteurCreation>
+<auteurModification>Kiara
+</auteurModification>
+</row>
+<row idProduit="3527">
+<idAlarme>170</idAlarme>
+<nomProduit>ESKAZOLE 400mg cp</nomProduit>
+<codeProduit>3a6187</codeProduit>
+<prixProduit>1040.0</prixProduit>
+<quantiteActuel>1945</quantiteActuel>
+<quantiteAlarme>212</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-29</dateCreation>
+<dateModification>2010-09-16</dateModification>
+<auteurCreation>Clay</auteurCreation>
+<auteurModification>Danielle
+</auteurModification>
+</row>
+<row idProduit="3528">
+<idAlarme>1145</idAlarme>
+<nomProduit>ESMERON 50mg/5ml sol inj IV en fl</nomProduit>
+<codeProduit>c9ce35</codeProduit>
+<prixProduit>907.0</prixProduit>
+<quantiteActuel>1961</quantiteActuel>
+<quantiteAlarme>382</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-07-13</dateModification>
+<auteurCreation>Hayes</auteurCreation>
+<auteurModification>Caesar
+</auteurModification>
+</row>
+<row idProduit="3529">
+<idAlarme>5598</idAlarme>
+<nomProduit>ESPERAL 500 mg cp</nomProduit>
+<codeProduit>c2118f</codeProduit>
+<prixProduit>1441.0</prixProduit>
+<quantiteActuel>2409</quantiteActuel>
+<quantiteAlarme>442</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-07-15</dateModification>
+<auteurCreation>Colon</auteurCreation>
+<auteurModification>Levi
+</auteurModification>
+</row>
+<row idProduit="3530">
+<idAlarme>7142</idAlarme>
+<nomProduit>ESSENCE ALGERIENNE sol p inhal p fumig</nomProduit>
+<codeProduit>dc7a2e</codeProduit>
+<prixProduit>1445.0</prixProduit>
+<quantiteActuel>2859</quantiteActuel>
+<quantiteAlarme>172</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Silva</auteurCreation>
+<auteurModification>Branden
+</auteurModification>
+</row>
+<row idProduit="3531">
+<idAlarme>3741</idAlarme>
+<nomProduit>ESTIMA 100 mg caps oral/vagin</nomProduit>
+<codeProduit>d1d06c</codeProduit>
+<prixProduit>272.0</prixProduit>
+<quantiteActuel>2387</quantiteActuel>
+<quantiteAlarme>484</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-06-28</dateModification>
+<auteurCreation>Henry</auteurCreation>
+<auteurModification>Kyla
+</auteurModification>
+</row>
+<row idProduit="3532">
+<idAlarme>3071</idAlarme>
+<nomProduit>ESTIMA 200mg caps oral/vagin</nomProduit>
+<codeProduit>cd817f</codeProduit>
+<prixProduit>1069.0</prixProduit>
+<quantiteActuel>2638</quantiteActuel>
+<quantiteAlarme>194</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Mendez</auteurCreation>
+<auteurModification>Price
+</auteurModification>
+</row>
+<row idProduit="3533">
+<idAlarme>5117</idAlarme>
+<nomProduit>ESTRACYT 140 mg gel</nomProduit>
+<codeProduit>3d702a</codeProduit>
+<prixProduit>1230.0</prixProduit>
+<quantiteActuel>2016</quantiteActuel>
+<quantiteAlarme>213</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-07-18</dateModification>
+<auteurCreation>Stein</auteurCreation>
+<auteurModification>Jack
+</auteurModification>
+</row>
+<row idProduit="3534">
+<idAlarme>5553</idAlarme>
+<nomProduit>ESTRADERM TTS 25ug/24h disp transderm</nomProduit>
+<codeProduit>14b7d4</codeProduit>
+<prixProduit>1262.0</prixProduit>
+<quantiteActuel>2666</quantiteActuel>
+<quantiteAlarme>263</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-27</dateCreation>
+<dateModification>2010-08-13</dateModification>
+<auteurCreation>Lowe</auteurCreation>
+<auteurModification>Mufutau
+</auteurModification>
+</row>
+<row idProduit="3535">
+<idAlarme>5395</idAlarme>
+<nomProduit>ESTRAPATCH 40 ug/24 h disp transderm</nomProduit>
+<codeProduit>a6c3b2</codeProduit>
+<prixProduit>456.0</prixProduit>
+<quantiteActuel>1511</quantiteActuel>
+<quantiteAlarme>495</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-08-20</dateModification>
+<auteurCreation>George</auteurCreation>
+<auteurModification>Ina
+</auteurModification>
+</row>
+<row idProduit="3536">
+<idAlarme>7122</idAlarme>
+<nomProduit>ESTRAPATCH 60 ug/24 h disp transderm</nomProduit>
+<codeProduit>fd7a80</codeProduit>
+<prixProduit>313.0</prixProduit>
+<quantiteActuel>1999</quantiteActuel>
+<quantiteAlarme>276</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-08-13</dateModification>
+<auteurCreation>Padilla</auteurCreation>
+<auteurModification>Ella
+</auteurModification>
+</row>
+<row idProduit="3537">
+<idAlarme>3873</idAlarme>
+<nomProduit>ESTRAPATCH 80 ug/24 h disp transderm</nomProduit>
+<codeProduit>d87aef</codeProduit>
+<prixProduit>1134.0</prixProduit>
+<quantiteActuel>2019</quantiteActuel>
+<quantiteAlarme>375</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-12</dateCreation>
+<dateModification>2010-07-18</dateModification>
+<auteurCreation>Rowland</auteurCreation>
+<auteurModification>Kelsie
+</auteurModification>
+</row>
+<row idProduit="3538">
+<idAlarme>5263</idAlarme>
+<nomProduit>ESTREVA 0,1 % gel</nomProduit>
+<codeProduit>8e0162</codeProduit>
+<prixProduit>931.0</prixProduit>
+<quantiteActuel>1878</quantiteActuel>
+<quantiteAlarme>391</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-08-14</dateModification>
+<auteurCreation>Holloway</auteurCreation>
+<auteurModification>Aphrodite
+</auteurModification>
+</row>
+<row idProduit="3539">
+<idAlarme>842</idAlarme>
+<nomProduit>ESTREVA 1,5 mg cp sec</nomProduit>
+<codeProduit>533e5c</codeProduit>
+<prixProduit>263.0</prixProduit>
+<quantiteActuel>2340</quantiteActuel>
+<quantiteAlarme>354</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Calhoun</auteurCreation>
+<auteurModification>Amos
+</auteurModification>
+</row>
+<row idProduit="3540">
+<idAlarme>10327</idAlarme>
+<nomProduit>ESTROFEM 1mg cp pellic</nomProduit>
+<codeProduit>e2b485</codeProduit>
+<prixProduit>968.0</prixProduit>
+<quantiteActuel>1604</quantiteActuel>
+<quantiteAlarme>281</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-06-20</dateModification>
+<auteurCreation>Blevins</auteurCreation>
+<auteurModification>Mariko
+</auteurModification>
+</row>
+<row idProduit="3541">
+<idAlarme>5496</idAlarme>
+<nomProduit>ESTROFEM 2mg cp pellic</nomProduit>
+<codeProduit>f70501</codeProduit>
+<prixProduit>1254.0</prixProduit>
+<quantiteActuel>1791</quantiteActuel>
+<quantiteAlarme>391</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-08-28</dateModification>
+<auteurCreation>Baldwin</auteurCreation>
+<auteurModification>Justin
+</auteurModification>
+</row>
+<row idProduit="3542">
+<idAlarme>664</idAlarme>
+<nomProduit>ETHER COOPER sol p appl cut</nomProduit>
+<codeProduit>930880</codeProduit>
+<prixProduit>879.0</prixProduit>
+<quantiteActuel>2215</quantiteActuel>
+<quantiteAlarme>384</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-07-11</dateModification>
+<auteurCreation>Fulton</auteurCreation>
+<auteurModification>Lucian
+</auteurModification>
+</row>
+<row idProduit="3543">
+<idAlarme>1629</idAlarme>
+<nomProduit>ETHER GIFRER sol p appl loc</nomProduit>
+<codeProduit>aaad1b</codeProduit>
+<prixProduit>806.0</prixProduit>
+<quantiteActuel>1636</quantiteActuel>
+<quantiteAlarme>402</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-26</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Bass</auteurCreation>
+<auteurModification>Haviva
+</auteurModification>
+</row>
+<row idProduit="3544">
+<idAlarme>4439</idAlarme>
+<nomProduit>ETHINYLOESTRADIOL EFFIK 50 ug cp sec</nomProduit>
+<codeProduit>96c2d4</codeProduit>
+<prixProduit>375.0</prixProduit>
+<quantiteActuel>2613</quantiteActuel>
+<quantiteAlarme>342</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-10-05</dateModification>
+<auteurCreation>Glass</auteurCreation>
+<auteurModification>Jonas
+</auteurModification>
+</row>
+<row idProduit="3545">
+<idAlarme>8335</idAlarme>
+<nomProduit>ETHYOL 50mg/ml pdre p sol p perf</nomProduit>
+<codeProduit>412c79</codeProduit>
+<prixProduit>920.0</prixProduit>
+<quantiteActuel>2923</quantiteActuel>
+<quantiteAlarme>467</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-08-28</dateModification>
+<auteurCreation>Gilliam</auteurCreation>
+<auteurModification>Petra
+</auteurModification>
+</row>
+<row idProduit="3546">
+<idAlarme>1982</idAlarme>
+<nomProduit>ETIDRONATE MYLAN 200 mg cp</nomProduit>
+<codeProduit>27f7b4</codeProduit>
+<prixProduit>1267.0</prixProduit>
+<quantiteActuel>2417</quantiteActuel>
+<quantiteAlarme>149</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-07-03</dateModification>
+<auteurCreation>Gallegos</auteurCreation>
+<auteurModification>Bryar
+</auteurModification>
+</row>
+<row idProduit="3547">
+<idAlarme>3468</idAlarme>
+<nomProduit>ETIDRONATE MYLAN 400 mg cp</nomProduit>
+<codeProduit>36fe17</codeProduit>
+<prixProduit>212.0</prixProduit>
+<quantiteActuel>2786</quantiteActuel>
+<quantiteAlarme>424</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-08-01</dateModification>
+<auteurCreation>Jarvis</auteurCreation>
+<auteurModification>Alyssa
+</auteurModification>
+</row>
+<row idProduit="3548">
+<idAlarme>7602</idAlarme>
+<nomProduit>ETIDRONATE SANDOZ 400mg cp</nomProduit>
+<codeProduit>5fdb37</codeProduit>
+<prixProduit>671.0</prixProduit>
+<quantiteActuel>2679</quantiteActuel>
+<quantiteAlarme>378</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-08-18</dateModification>
+<auteurCreation>Lawson</auteurCreation>
+<auteurModification>Zorita
+</auteurModification>
+</row>
+<row idProduit="3549">
+<idAlarme>5462</idAlarme>
+<nomProduit>ETILEFRINE SERB 10mg/1ml sol inj IV</nomProduit>
+<codeProduit>32aafe</codeProduit>
+<prixProduit>226.0</prixProduit>
+<quantiteActuel>2159</quantiteActuel>
+<quantiteAlarme>139</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-09-12</dateModification>
+<auteurCreation>Stuart</auteurCreation>
+<auteurModification>Petra
+</auteurModification>
+</row>
+<row idProduit="3550">
+<idAlarme>3609</idAlarme>
+<nomProduit>ETIOVEN 30 mg cp</nomProduit>
+<codeProduit>1bb5b5</codeProduit>
+<prixProduit>661.0</prixProduit>
+<quantiteActuel>2155</quantiteActuel>
+<quantiteAlarme>461</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-10-05</dateModification>
+<auteurCreation>Sandoval</auteurCreation>
+<auteurModification>Abel
+</auteurModification>
+</row>
+<row idProduit="3551">
+<idAlarme>7348</idAlarme>
+<nomProduit>ETOMIDATE LIPURO 20 mg/10 ml emuls inj</nomProduit>
+<codeProduit>4554bd</codeProduit>
+<prixProduit>492.0</prixProduit>
+<quantiteActuel>2238</quantiteActuel>
+<quantiteAlarme>459</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-09-20</dateModification>
+<auteurCreation>Wilcox</auteurCreation>
+<auteurModification>Tamekah
+</auteurModification>
+</row>
+<row idProduit="3552">
+<idAlarme>1013</idAlarme>
+<nomProduit>ETOPOPHOS 100mg lyoph p us parenter</nomProduit>
+<codeProduit>9cab63</codeProduit>
+<prixProduit>875.0</prixProduit>
+<quantiteActuel>2527</quantiteActuel>
+<quantiteAlarme>166</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-08-01</dateModification>
+<auteurCreation>Bradley</auteurCreation>
+<auteurModification>Kay
+</auteurModification>
+</row>
+<row idProduit="3553">
+<idAlarme>5786</idAlarme>
+<nomProduit>ETOPOSIDE MYLAN 20 mg/ml sol diluer p perf</nomProduit>
+<codeProduit>5615ff</codeProduit>
+<prixProduit>1006.0</prixProduit>
+<quantiteActuel>2883</quantiteActuel>
+<quantiteAlarme>460</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-10-01</dateModification>
+<auteurCreation>Mullen</auteurCreation>
+<auteurModification>Erica
+</auteurModification>
+</row>
+<row idProduit="3554">
+<idAlarme>5216</idAlarme>
+<nomProduit>ETOPOSIDE TEVA 100mg/5ml sol p perf</nomProduit>
+<codeProduit>cee4bc</codeProduit>
+<prixProduit>1456.0</prixProduit>
+<quantiteActuel>2670</quantiteActuel>
+<quantiteAlarme>378</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-07-31</dateModification>
+<auteurCreation>Bishop</auteurCreation>
+<auteurModification>Jarrod
+</auteurModification>
+</row>
+<row idProduit="3555">
+<idAlarme>8981</idAlarme>
+<nomProduit>ETOPOSIDE TEVA 200mg/10ml sol p perf</nomProduit>
+<codeProduit>853636</codeProduit>
+<prixProduit>934.0</prixProduit>
+<quantiteActuel>2947</quantiteActuel>
+<quantiteAlarme>237</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-08-18</dateModification>
+<auteurCreation>Rutledge</auteurCreation>
+<auteurModification>Ronan
+</auteurModification>
+</row>
+<row idProduit="3556">
+<idAlarme>2816</idAlarme>
+<nomProduit>ETOPOSIDE TEVA 20mg/ml sol diluer p perf</nomProduit>
+<codeProduit>347d4d</codeProduit>
+<prixProduit>1352.0</prixProduit>
+<quantiteActuel>2092</quantiteActuel>
+<quantiteAlarme>210</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-09-02</dateModification>
+<auteurCreation>Hobbs</auteurCreation>
+<auteurModification>Phoebe
+</auteurModification>
+</row>
+<row idProduit="3557">
+<idAlarme>2377</idAlarme>
+<nomProduit>EUCALYPTINE LE BRUN sirop</nomProduit>
+<codeProduit>24f1d5</codeProduit>
+<prixProduit>1390.0</prixProduit>
+<quantiteActuel>2921</quantiteActuel>
+<quantiteAlarme>183</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-07-28</dateModification>
+<auteurCreation>Crawford</auteurCreation>
+<auteurModification>Cairo
+</auteurModification>
+</row>
+<row idProduit="3558">
+<idAlarme>1194</idAlarme>
+<nomProduit>EUCALYPTINE suppos ad</nomProduit>
+<codeProduit>be637e</codeProduit>
+<prixProduit>1062.0</prixProduit>
+<quantiteActuel>1688</quantiteActuel>
+<quantiteAlarme>170</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-10-02</dateModification>
+<auteurCreation>Hoover</auteurCreation>
+<auteurModification>Tamekah
+</auteurModification>
+</row>
+<row idProduit="3559">
+<idAlarme>9356</idAlarme>
+<nomProduit>EUCALYPTINE suppos enf</nomProduit>
+<codeProduit>e4e9d1</codeProduit>
+<prixProduit>950.0</prixProduit>
+<quantiteActuel>2769</quantiteActuel>
+<quantiteAlarme>189</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Rose</auteurCreation>
+<auteurModification>Clare
+</auteurModification>
+</row>
+<row idProduit="3560">
+<idAlarme>4763</idAlarme>
+<nomProduit>EUCARYL sol p us dent</nomProduit>
+<codeProduit>fd3120</codeProduit>
+<prixProduit>619.0</prixProduit>
+<quantiteActuel>1681</quantiteActuel>
+<quantiteAlarme>393</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Faulkner</auteurCreation>
+<auteurModification>Frances
+</auteurModification>
+</row>
+<row idProduit="3561">
+<idAlarme>4144</idAlarme>
+<nomProduit>EUCOL 1,5 g cp efferv sec</nomProduit>
+<codeProduit>42774e</codeProduit>
+<prixProduit>150.0</prixProduit>
+<quantiteActuel>1922</quantiteActuel>
+<quantiteAlarme>154</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Jarvis</auteurCreation>
+<auteurModification>Jason
+</auteurModification>
+</row>
+<row idProduit="3562">
+<idAlarme>1770</idAlarme>
+<nomProduit>EUCREAS 50mg/1000mg cp pellic</nomProduit>
+<codeProduit>ded870</codeProduit>
+<prixProduit>321.0</prixProduit>
+<quantiteActuel>2785</quantiteActuel>
+<quantiteAlarme>356</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-08-16</dateModification>
+<auteurCreation>Flynn</auteurCreation>
+<auteurModification>Francesca
+</auteurModification>
+</row>
+<row idProduit="3563">
+<idAlarme>4185</idAlarme>
+<nomProduit>EUDYNE sol buv</nomProduit>
+<codeProduit>dada83</codeProduit>
+<prixProduit>1181.0</prixProduit>
+<quantiteActuel>2517</quantiteActuel>
+<quantiteAlarme>171</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-06-30</dateModification>
+<auteurCreation>Forbes</auteurCreation>
+<auteurModification>John
+</auteurModification>
+</row>
+<row idProduit="3564">
+<idAlarme>3886</idAlarme>
+<nomProduit>EULEXINE 250 mg cp</nomProduit>
+<codeProduit>421db0</codeProduit>
+<prixProduit>1215.0</prixProduit>
+<quantiteActuel>1822</quantiteActuel>
+<quantiteAlarme>396</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Burns</auteurCreation>
+<auteurModification>Ignatius
+</auteurModification>
+</row>
+<row idProduit="3565">
+<idAlarme>4158</idAlarme>
+<nomProduit>EUPANTOL 20mg cp gastroresis</nomProduit>
+<codeProduit>dd8d9a</codeProduit>
+<prixProduit>810.0</prixProduit>
+<quantiteActuel>1984</quantiteActuel>
+<quantiteAlarme>280</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-08-16</dateModification>
+<auteurCreation>Chan</auteurCreation>
+<auteurModification>Jerome
+</auteurModification>
+</row>
+<row idProduit="3566">
+<idAlarme>1336</idAlarme>
+<nomProduit>EUPANTOL 40mg cp gastroresis</nomProduit>
+<codeProduit>40257e</codeProduit>
+<prixProduit>602.0</prixProduit>
+<quantiteActuel>2440</quantiteActuel>
+<quantiteAlarme>132</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Livingston</auteurCreation>
+<auteurModification>Lenore
+</auteurModification>
+</row>
+<row idProduit="3567">
+<idAlarme>5013</idAlarme>
+<nomProduit>EUPANTOL 40mg pdre p sol inj IV</nomProduit>
+<codeProduit>5d5392</codeProduit>
+<prixProduit>481.0</prixProduit>
+<quantiteActuel>2529</quantiteActuel>
+<quantiteAlarme>156</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Burns</auteurCreation>
+<auteurModification>Bianca
+</auteurModification>
+</row>
+<row idProduit="3568">
+<idAlarme>2493</idAlarme>
+<nomProduit>EUPHON MENTHOL past</nomProduit>
+<codeProduit>0c64b1</codeProduit>
+<prixProduit>1042.0</prixProduit>
+<quantiteActuel>2766</quantiteActuel>
+<quantiteAlarme>258</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-10-04</dateModification>
+<auteurCreation>Bishop</auteurCreation>
+<auteurModification>Eleanor
+</auteurModification>
+</row>
+<row idProduit="3569">
+<idAlarme>770</idAlarme>
+<nomProduit>EUPHON past</nomProduit>
+<codeProduit>6f666f</codeProduit>
+<prixProduit>367.0</prixProduit>
+<quantiteActuel>2888</quantiteActuel>
+<quantiteAlarme>173</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-07-12</dateModification>
+<auteurCreation>Christensen</auteurCreation>
+<auteurModification>Ronan
+</auteurModification>
+</row>
+<row idProduit="3570">
+<idAlarme>10119</idAlarme>
+<nomProduit>EUPHON sans sucre past</nomProduit>
+<codeProduit>fea3ad</codeProduit>
+<prixProduit>785.0</prixProduit>
+<quantiteActuel>2617</quantiteActuel>
+<quantiteAlarme>211</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-08-14</dateModification>
+<auteurCreation>King</auteurCreation>
+<auteurModification>Aurelia
+</auteurModification>
+</row>
+<row idProduit="3571">
+<idAlarme>7553</idAlarme>
+<nomProduit>EUPHON sirop</nomProduit>
+<codeProduit>1535a8</codeProduit>
+<prixProduit>989.0</prixProduit>
+<quantiteActuel>2011</quantiteActuel>
+<quantiteAlarme>497</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-11</dateCreation>
+<dateModification>2010-07-03</dateModification>
+<auteurCreation>Joyce</auteurCreation>
+<auteurModification>Cailin
+</auteurModification>
+</row>
+<row idProduit="3572">
+<idAlarme>8172</idAlarme>
+<nomProduit>EUPHYLLINE L.A. 100mg gel LP</nomProduit>
+<codeProduit>c3e92a</codeProduit>
+<prixProduit>670.0</prixProduit>
+<quantiteActuel>1564</quantiteActuel>
+<quantiteAlarme>252</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-09-12</dateModification>
+<auteurCreation>Luna</auteurCreation>
+<auteurModification>Halla
+</auteurModification>
+</row>
+<row idProduit="3573">
+<idAlarme>8166</idAlarme>
+<nomProduit>EUPHYLLINE L.A. 200mg gel LP</nomProduit>
+<codeProduit>78ab8c</codeProduit>
+<prixProduit>680.0</prixProduit>
+<quantiteActuel>1677</quantiteActuel>
+<quantiteAlarme>157</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-09-03</dateModification>
+<auteurCreation>Clemons</auteurCreation>
+<auteurModification>Leonard
+</auteurModification>
+</row>
+<row idProduit="3574">
+<idAlarme>1395</idAlarme>
+<nomProduit>EUPHYLLINE L.A. 300mg gel LP</nomProduit>
+<codeProduit>d223aa</codeProduit>
+<prixProduit>862.0</prixProduit>
+<quantiteActuel>2740</quantiteActuel>
+<quantiteAlarme>308</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-10-06</dateModification>
+<auteurCreation>Conley</auteurCreation>
+<auteurModification>Isabella
+</auteurModification>
+</row>
+<row idProduit="3575">
+<idAlarme>2237</idAlarme>
+<nomProduit>EUPHYLLINE L.A. 400mg gel LP</nomProduit>
+<codeProduit>a89ac9</codeProduit>
+<prixProduit>701.0</prixProduit>
+<quantiteActuel>2045</quantiteActuel>
+<quantiteAlarme>390</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-07-21</dateModification>
+<auteurCreation>Travis</auteurCreation>
+<auteurModification>Maxine
+</auteurModification>
+</row>
+<row idProduit="3576">
+<idAlarme>2119</idAlarme>
+<nomProduit>EUPHYLLINE L.A. 50mg gel LP</nomProduit>
+<codeProduit>f5a61b</codeProduit>
+<prixProduit>1108.0</prixProduit>
+<quantiteActuel>2799</quantiteActuel>
+<quantiteAlarme>292</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-09-06</dateModification>
+<auteurCreation>Perkins</auteurCreation>
+<auteurModification>Herrod
+</auteurModification>
+</row>
+<row idProduit="3577">
+<idAlarme>3582</idAlarme>
+<nomProduit>EUPHYTOSE cp enr</nomProduit>
+<codeProduit>8866d5</codeProduit>
+<prixProduit>552.0</prixProduit>
+<quantiteActuel>2667</quantiteActuel>
+<quantiteAlarme>241</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-08-04</dateModification>
+<auteurCreation>Mosley</auteurCreation>
+<auteurModification>Shelley
+</auteurModification>
+</row>
+<row idProduit="3578">
+<idAlarme>6508</idAlarme>
+<nomProduit>EUPRESSYL 100 mg/20 ml sol inj</nomProduit>
+<codeProduit>0c5606</codeProduit>
+<prixProduit>1020.0</prixProduit>
+<quantiteActuel>2667</quantiteActuel>
+<quantiteAlarme>100</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-08-12</dateModification>
+<auteurCreation>Kelley</auteurCreation>
+<auteurModification>Conan
+</auteurModification>
+</row>
+<row idProduit="3579">
+<idAlarme>5891</idAlarme>
+<nomProduit>EUPRESSYL 25mg sol inj IV</nomProduit>
+<codeProduit>f624ea</codeProduit>
+<prixProduit>169.0</prixProduit>
+<quantiteActuel>2304</quantiteActuel>
+<quantiteAlarme>368</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Pitts</auteurCreation>
+<auteurModification>Amal
+</auteurModification>
+</row>
+<row idProduit="3580">
+<idAlarme>2479</idAlarme>
+<nomProduit>EUPRESSYL 30 mg gel</nomProduit>
+<codeProduit>44f390</codeProduit>
+<prixProduit>960.0</prixProduit>
+<quantiteActuel>1963</quantiteActuel>
+<quantiteAlarme>134</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Mccarty</auteurCreation>
+<auteurModification>Ahmed
+</auteurModification>
+</row>
+<row idProduit="3581">
+<idAlarme>1204</idAlarme>
+<nomProduit>EUPRESSYL 50mg sol inj IV</nomProduit>
+<codeProduit>fd5db8</codeProduit>
+<prixProduit>318.0</prixProduit>
+<quantiteActuel>2990</quantiteActuel>
+<quantiteAlarme>163</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-07-13</dateModification>
+<auteurCreation>Good</auteurCreation>
+<auteurModification>Logan
+</auteurModification>
+</row>
+<row idProduit="3582">
+<idAlarme>9290</idAlarme>
+<nomProduit>EUPRESSYL 60 mg gel</nomProduit>
+<codeProduit>0eba82</codeProduit>
+<prixProduit>555.0</prixProduit>
+<quantiteActuel>2499</quantiteActuel>
+<quantiteAlarme>357</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-05</dateCreation>
+<dateModification>2010-08-13</dateModification>
+<auteurCreation>Day</auteurCreation>
+<auteurModification>Jason
+</auteurModification>
+</row>
+<row idProduit="3583">
+<idAlarme>8946</idAlarme>
+<nomProduit>EURAX 10 % creme</nomProduit>
+<codeProduit>739de5</codeProduit>
+<prixProduit>881.0</prixProduit>
+<quantiteActuel>2001</quantiteActuel>
+<quantiteAlarme>356</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Brock</auteurCreation>
+<auteurModification>Emily
+</auteurModification>
+</row>
+<row idProduit="3584">
+<idAlarme>1003</idAlarme>
+<nomProduit>EURAXSEPTI 0,05% sol p appl loc</nomProduit>
+<codeProduit>aabb19</codeProduit>
+<prixProduit>869.0</prixProduit>
+<quantiteActuel>1678</quantiteActuel>
+<quantiteAlarme>270</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-08-29</dateModification>
+<auteurCreation>Stark</auteurCreation>
+<auteurModification>Channing
+</auteurModification>
+</row>
+<row idProduit="3585">
+<idAlarme>9941</idAlarme>
+<nomProduit>EURELIX 6 mg gel gastroresis</nomProduit>
+<codeProduit>59c82f</codeProduit>
+<prixProduit>286.0</prixProduit>
+<quantiteActuel>2263</quantiteActuel>
+<quantiteAlarme>191</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Lester</auteurCreation>
+<auteurModification>Sybill
+</auteurModification>
+</row>
+<row idProduit="3586">
+<idAlarme>9412</idAlarme>
+<nomProduit>EUROBIOL 12500U/dose gle</nomProduit>
+<codeProduit>3e0d26</codeProduit>
+<prixProduit>1475.0</prixProduit>
+<quantiteActuel>2539</quantiteActuel>
+<quantiteAlarme>285</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Cooke</auteurCreation>
+<auteurModification>Kennan
+</auteurModification>
+</row>
+<row idProduit="3587">
+<idAlarme>7115</idAlarme>
+<nomProduit>EUROBIOL 25 000 U gel gastroresis</nomProduit>
+<codeProduit>0db102</codeProduit>
+<prixProduit>1349.0</prixProduit>
+<quantiteActuel>2089</quantiteActuel>
+<quantiteAlarme>257</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-10-05</dateModification>
+<auteurCreation>Ross</auteurCreation>
+<auteurModification>Curran
+</auteurModification>
+</row>
+<row idProduit="3588">
+<idAlarme>5280</idAlarme>
+<nomProduit>EURONAC 5% collyre</nomProduit>
+<codeProduit>947f9e</codeProduit>
+<prixProduit>975.0</prixProduit>
+<quantiteActuel>2687</quantiteActuel>
+<quantiteAlarme>110</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-10-04</dateModification>
+<auteurCreation>Hurst</auteurCreation>
+<auteurModification>Merritt
+</auteurModification>
+</row>
+<row idProduit="3589">
+<idAlarme>1748</idAlarme>
+<nomProduit>EUTHYRAL cp sec</nomProduit>
+<codeProduit>2cdae9</codeProduit>
+<prixProduit>315.0</prixProduit>
+<quantiteActuel>2013</quantiteActuel>
+<quantiteAlarme>485</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-09-09</dateModification>
+<auteurCreation>Delgado</auteurCreation>
+<auteurModification>Drake
+</auteurModification>
+</row>
+<row idProduit="3590">
+<idAlarme>1267</idAlarme>
+<nomProduit>EUVANOL INHALATION sol p inhal par vapeur</nomProduit>
+<codeProduit>27b026</codeProduit>
+<prixProduit>1253.0</prixProduit>
+<quantiteActuel>2942</quantiteActuel>
+<quantiteAlarme>169</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-06-20</dateModification>
+<auteurCreation>Daugherty</auteurCreation>
+<auteurModification>Iris
+</auteurModification>
+</row>
+<row idProduit="3591">
+<idAlarme>1387</idAlarme>
+<nomProduit>EUVANOL SPRAY sol p pulv nasal</nomProduit>
+<codeProduit>845d84</codeProduit>
+<prixProduit>1024.0</prixProduit>
+<quantiteActuel>1585</quantiteActuel>
+<quantiteAlarme>240</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-07-01</dateModification>
+<auteurCreation>Barnes</auteurCreation>
+<auteurModification>Ciaran
+</auteurModification>
+</row>
+<row idProduit="3592">
+<idAlarme>7063</idAlarme>
+<nomProduit>EVANECIA cp enr</nomProduit>
+<codeProduit>46bd22</codeProduit>
+<prixProduit>903.0</prixProduit>
+<quantiteActuel>2678</quantiteActuel>
+<quantiteAlarme>175</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-09-10</dateModification>
+<auteurCreation>Carver</auteurCreation>
+<auteurModification>Stephen
+</auteurModification>
+</row>
+<row idProduit="3593">
+<idAlarme>6649</idAlarme>
+<nomProduit>EVEPAR 2mg/0,035mg cp enr</nomProduit>
+<codeProduit>d50448</codeProduit>
+<prixProduit>269.0</prixProduit>
+<quantiteActuel>2481</quantiteActuel>
+<quantiteAlarme>262</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-07-28</dateModification>
+<auteurCreation>Vinson</auteurCreation>
+<auteurModification>Brenden
+</auteurModification>
+</row>
+<row idProduit="3594">
+<idAlarme>5637</idAlarme>
+<nomProduit>EVICEL 50-90 mg/ml-800-1200 UI/ml sol p colle</nomProduit>
+<codeProduit>646459</codeProduit>
+<prixProduit>291.0</prixProduit>
+<quantiteActuel>2448</quantiteActuel>
+<quantiteAlarme>120</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-09-27</dateModification>
+<auteurCreation>Williams</auteurCreation>
+<auteurModification>Kessie
+</auteurModification>
+</row>
+<row idProduit="3595">
+<idAlarme>8587</idAlarme>
+<nomProduit>EVISTA 60mg cp pellic</nomProduit>
+<codeProduit>939035</codeProduit>
+<prixProduit>856.0</prixProduit>
+<quantiteActuel>2327</quantiteActuel>
+<quantiteAlarme>205</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-07-01</dateModification>
+<auteurCreation>Thompson</auteurCreation>
+<auteurModification>Nehru
+</auteurModification>
+</row>
+<row idProduit="3596">
+<idAlarme>3381</idAlarme>
+<nomProduit>EVOLTRA 1mg/ml sol diluer p perf</nomProduit>
+<codeProduit>f0a192</codeProduit>
+<prixProduit>381.0</prixProduit>
+<quantiteActuel>2801</quantiteActuel>
+<quantiteAlarme>405</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-08-01</dateModification>
+<auteurCreation>Roy</auteurCreation>
+<auteurModification>Julie
+</auteurModification>
+</row>
+<row idProduit="3597">
+<idAlarme>7158</idAlarme>
+<nomProduit>EVRA disp transderm</nomProduit>
+<codeProduit>331684</codeProduit>
+<prixProduit>668.0</prixProduit>
+<quantiteActuel>1791</quantiteActuel>
+<quantiteAlarme>239</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-07-20</dateModification>
+<auteurCreation>Anthony</auteurCreation>
+<auteurModification>Uma
+</auteurModification>
+</row>
+<row idProduit="3598">
+<idAlarme>6357</idAlarme>
+<nomProduit>EXACOR 130 mg cp pellic sec</nomProduit>
+<codeProduit>3539a6</codeProduit>
+<prixProduit>220.0</prixProduit>
+<quantiteActuel>2548</quantiteActuel>
+<quantiteAlarme>482</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Valdez</auteurCreation>
+<auteurModification>Phoebe
+</auteurModification>
+</row>
+<row idProduit="3599">
+<idAlarme>8591</idAlarme>
+<nomProduit>EXACYL 0,5g/5ml sol inj IV</nomProduit>
+<codeProduit>9237a4</codeProduit>
+<prixProduit>649.0</prixProduit>
+<quantiteActuel>2972</quantiteActuel>
+<quantiteAlarme>198</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-09-07</dateModification>
+<auteurCreation>Santana</auteurCreation>
+<auteurModification>Harding
+</auteurModification>
+</row>
+<row idProduit="3600">
+<idAlarme>7101</idAlarme>
+<nomProduit>EXACYL 1 g/10 ml sol buv</nomProduit>
+<codeProduit>1a0e05</codeProduit>
+<prixProduit>774.0</prixProduit>
+<quantiteActuel>2026</quantiteActuel>
+<quantiteAlarme>227</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-18</dateCreation>
+<dateModification>2010-07-26</dateModification>
+<auteurCreation>Sullivan</auteurCreation>
+<auteurModification>Beatrice
+</auteurModification>
+</row>
+<row idProduit="3601">
+<idAlarme>1626</idAlarme>
+<nomProduit>EXACYL 500 mg cp pellic</nomProduit>
+<codeProduit>a19c71</codeProduit>
+<prixProduit>521.0</prixProduit>
+<quantiteActuel>2766</quantiteActuel>
+<quantiteAlarme>474</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-07-17</dateModification>
+<auteurCreation>Reeves</auteurCreation>
+<auteurModification>Linus
+</auteurModification>
+</row>
+<row idProduit="3602">
+<idAlarme>3098</idAlarme>
+<nomProduit>EXELON 1,5 mg gel</nomProduit>
+<codeProduit>e2e949</codeProduit>
+<prixProduit>1032.0</prixProduit>
+<quantiteActuel>2788</quantiteActuel>
+<quantiteAlarme>484</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-08-17</dateModification>
+<auteurCreation>Klein</auteurCreation>
+<auteurModification>Quinlan
+</auteurModification>
+</row>
+<row idProduit="3603">
+<idAlarme>7667</idAlarme>
+<nomProduit>EXELON 2 mg/ml sol buv</nomProduit>
+<codeProduit>d0fd97</codeProduit>
+<prixProduit>589.0</prixProduit>
+<quantiteActuel>2910</quantiteActuel>
+<quantiteAlarme>471</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Matthews</auteurCreation>
+<auteurModification>Mary
+</auteurModification>
+</row>
+<row idProduit="3604">
+<idAlarme>4698</idAlarme>
+<nomProduit>EXELON 3 mg gel</nomProduit>
+<codeProduit>798b48</codeProduit>
+<prixProduit>1212.0</prixProduit>
+<quantiteActuel>2550</quantiteActuel>
+<quantiteAlarme>229</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-08-17</dateModification>
+<auteurCreation>Gray</auteurCreation>
+<auteurModification>Kai
+</auteurModification>
+</row>
+<row idProduit="3605">
+<idAlarme>4238</idAlarme>
+<nomProduit>EXELON 4,5 mg gel</nomProduit>
+<codeProduit>0fda4e</codeProduit>
+<prixProduit>858.0</prixProduit>
+<quantiteActuel>2841</quantiteActuel>
+<quantiteAlarme>134</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-09-20</dateModification>
+<auteurCreation>Burt</auteurCreation>
+<auteurModification>Ira
+</auteurModification>
+</row>
+<row idProduit="3606">
+<idAlarme>808</idAlarme>
+<nomProduit>EXELON 4,6mg/24h disp transderm</nomProduit>
+<codeProduit>2c0c18</codeProduit>
+<prixProduit>235.0</prixProduit>
+<quantiteActuel>2999</quantiteActuel>
+<quantiteAlarme>264</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-18</dateCreation>
+<dateModification>2010-07-31</dateModification>
+<auteurCreation>Ruiz</auteurCreation>
+<auteurModification>Ramona
+</auteurModification>
+</row>
+<row idProduit="3607">
+<idAlarme>6804</idAlarme>
+<nomProduit>EXELON 6 mg gel</nomProduit>
+<codeProduit>1af0d8</codeProduit>
+<prixProduit>972.0</prixProduit>
+<quantiteActuel>2874</quantiteActuel>
+<quantiteAlarme>282</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Sweet</auteurCreation>
+<auteurModification>Lucas
+</auteurModification>
+</row>
+<row idProduit="3608">
+<idAlarme>9037</idAlarme>
+<nomProduit>EXELON 9,5mg/24h disp transderm</nomProduit>
+<codeProduit>38f3e9</codeProduit>
+<prixProduit>747.0</prixProduit>
+<quantiteActuel>2006</quantiteActuel>
+<quantiteAlarme>144</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-09-13</dateModification>
+<auteurCreation>Coffey</auteurCreation>
+<auteurModification>Karen
+</auteurModification>
+</row>
+<row idProduit="3609">
+<idAlarme>2788</idAlarme>
+<nomProduit>EXFORGE 10mg/160mg cp pellic</nomProduit>
+<codeProduit>312a14</codeProduit>
+<prixProduit>855.0</prixProduit>
+<quantiteActuel>2145</quantiteActuel>
+<quantiteAlarme>407</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-08-21</dateModification>
+<auteurCreation>Johns</auteurCreation>
+<auteurModification>Alfreda
+</auteurModification>
+</row>
+<row idProduit="3610">
+<idAlarme>9714</idAlarme>
+<nomProduit>EXFORGE 5mg/160mg cp pellic</nomProduit>
+<codeProduit>eae05c</codeProduit>
+<prixProduit>1186.0</prixProduit>
+<quantiteActuel>2674</quantiteActuel>
+<quantiteAlarme>182</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-07-26</dateModification>
+<auteurCreation>Bauer</auteurCreation>
+<auteurModification>Ezekiel
+</auteurModification>
+</row>
+<row idProduit="3611">
+<idAlarme>1715</idAlarme>
+<nomProduit>EXFORGE 5mg/80mg cp pellic</nomProduit>
+<codeProduit>428244</codeProduit>
+<prixProduit>198.0</prixProduit>
+<quantiteActuel>2875</quantiteActuel>
+<quantiteAlarme>338</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-08-19</dateModification>
+<auteurCreation>Vance</auteurCreation>
+<auteurModification>Kameko
+</auteurModification>
+</row>
+<row idProduit="3612">
+<idAlarme>6592</idAlarme>
+<nomProduit>EXFORGE HCT 10 mg/160 mg/12,5 mg cp pellic</nomProduit>
+<codeProduit>722b39</codeProduit>
+<prixProduit>1403.0</prixProduit>
+<quantiteActuel>1965</quantiteActuel>
+<quantiteAlarme>488</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-08-10</dateModification>
+<auteurCreation>Melendez</auteurCreation>
+<auteurModification>Zenia
+</auteurModification>
+</row>
+<row idProduit="3613">
+<idAlarme>905</idAlarme>
+<nomProduit>EXFORGE HCT 10 mg/160 mg/25 mg cp pellic</nomProduit>
+<codeProduit>c57865</codeProduit>
+<prixProduit>561.0</prixProduit>
+<quantiteActuel>2545</quantiteActuel>
+<quantiteAlarme>330</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-07-01</dateModification>
+<auteurCreation>Shaffer</auteurCreation>
+<auteurModification>Stacy
+</auteurModification>
+</row>
+<row idProduit="3614">
+<idAlarme>3094</idAlarme>
+<nomProduit>EXFORGE HCT 5 mg/160 mg/12,5 mg cp pellic</nomProduit>
+<codeProduit>8314e5</codeProduit>
+<prixProduit>629.0</prixProduit>
+<quantiteActuel>2207</quantiteActuel>
+<quantiteAlarme>384</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-09-02</dateModification>
+<auteurCreation>Puckett</auteurCreation>
+<auteurModification>Maite
+</auteurModification>
+</row>
+<row idProduit="3615">
+<idAlarme>3946</idAlarme>
+<nomProduit>EXFORGE HCT 5 mg/160 mg/25 mg cp pellic</nomProduit>
+<codeProduit>989239</codeProduit>
+<prixProduit>434.0</prixProduit>
+<quantiteActuel>2799</quantiteActuel>
+<quantiteAlarme>231</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Duke</auteurCreation>
+<auteurModification>Lee
+</auteurModification>
+</row>
+<row idProduit="3616">
+<idAlarme>10230</idAlarme>
+<nomProduit>EXJADE 125mg cp dispers</nomProduit>
+<codeProduit>a21596</codeProduit>
+<prixProduit>351.0</prixProduit>
+<quantiteActuel>2680</quantiteActuel>
+<quantiteAlarme>365</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-08-05</dateModification>
+<auteurCreation>Barnett</auteurCreation>
+<auteurModification>Yolanda
+</auteurModification>
+</row>
+<row idProduit="3617">
+<idAlarme>7497</idAlarme>
+<nomProduit>EXJADE 500mg cp dispers</nomProduit>
+<codeProduit>0c61f8</codeProduit>
+<prixProduit>1140.0</prixProduit>
+<quantiteActuel>2368</quantiteActuel>
+<quantiteAlarme>250</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-09-18</dateModification>
+<auteurCreation>Pugh</auteurCreation>
+<auteurModification>Darius
+</auteurModification>
+</row>
+<row idProduit="3618">
+<idAlarme>1732</idAlarme>
+<nomProduit>EXOCINE 0,3% collyre</nomProduit>
+<codeProduit>9138c6</codeProduit>
+<prixProduit>751.0</prixProduit>
+<quantiteActuel>2941</quantiteActuel>
+<quantiteAlarme>130</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-09-30</dateModification>
+<auteurCreation>Price</auteurCreation>
+<auteurModification>Herrod
+</auteurModification>
+</row>
+<row idProduit="3619">
+<idAlarme>9208</idAlarme>
+<nomProduit>EXOMUC 200mg gle p sol buv</nomProduit>
+<codeProduit>31fec3</codeProduit>
+<prixProduit>1360.0</prixProduit>
+<quantiteActuel>1852</quantiteActuel>
+<quantiteAlarme>321</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-07-17</dateModification>
+<auteurCreation>Rivera</auteurCreation>
+<auteurModification>Kenyon
+</auteurModification>
+</row>
+<row idProduit="3620">
+<idAlarme>6425</idAlarme>
+<nomProduit>EXOSEPTOPLIX sol p appl cut</nomProduit>
+<codeProduit>7e4665</codeProduit>
+<prixProduit>967.0</prixProduit>
+<quantiteActuel>2865</quantiteActuel>
+<quantiteAlarme>290</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-07-31</dateModification>
+<auteurCreation>Petty</auteurCreation>
+<auteurModification>Tobias
+</auteurModification>
+</row>
+<row idProduit="3621">
+<idAlarme>5078</idAlarme>
+<nomProduit>EXOTOUX sol buv</nomProduit>
+<codeProduit>06f60f</codeProduit>
+<prixProduit>411.0</prixProduit>
+<quantiteActuel>1941</quantiteActuel>
+<quantiteAlarme>209</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-27</dateCreation>
+<dateModification>2010-09-05</dateModification>
+<auteurCreation>Leach</auteurCreation>
+<auteurModification>Vielka
+</auteurModification>
+</row>
+<row idProduit="3622">
+<idAlarme>19</idAlarme>
+<nomProduit>EXPANFEN 200 mg cp enr</nomProduit>
+<codeProduit>2903a8</codeProduit>
+<prixProduit>565.0</prixProduit>
+<quantiteActuel>1984</quantiteActuel>
+<quantiteAlarme>133</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-09-26</dateModification>
+<auteurCreation>Frost</auteurCreation>
+<auteurModification>Holly
+</auteurModification>
+</row>
+<row idProduit="3623">
+<idAlarme>7933</idAlarme>
+<nomProduit>EXTAVIA 250 ug/ml pdre/solv p sol inj</nomProduit>
+<codeProduit>7e9bbc</codeProduit>
+<prixProduit>312.0</prixProduit>
+<quantiteActuel>2900</quantiteActuel>
+<quantiteAlarme>455</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-12</dateCreation>
+<dateModification>2010-09-26</dateModification>
+<auteurCreation>Hatfield</auteurCreation>
+<auteurModification>Yvette
+</auteurModification>
+</row>
+<row idProduit="3624">
+<idAlarme>8042</idAlarme>
+<nomProduit>EXTENCILLINE 1,2 M UI pdre/solv p susp inj IM</nomProduit>
+<codeProduit>f09ec1</codeProduit>
+<prixProduit>560.0</prixProduit>
+<quantiteActuel>1861</quantiteActuel>
+<quantiteAlarme>297</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-07-10</dateModification>
+<auteurCreation>Shaw</auteurCreation>
+<auteurModification>Prescott
+</auteurModification>
+</row>
+<row idProduit="3625">
+<idAlarme>2556</idAlarme>
+<nomProduit>EXTENCILLINE 2,4 M UI pdre p susp inject IM</nomProduit>
+<codeProduit>5a6d84</codeProduit>
+<prixProduit>279.0</prixProduit>
+<quantiteActuel>2557</quantiteActuel>
+<quantiteAlarme>125</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-06-17</dateModification>
+<auteurCreation>Langley</auteurCreation>
+<auteurModification>Olivia
+</auteurModification>
+</row>
+<row idProduit="3626">
+<idAlarme>8183</idAlarme>
+<nomProduit>EXTENCILLINE 2,4 M UI pdre/solv p susp inj IM</nomProduit>
+<codeProduit>158c42</codeProduit>
+<prixProduit>236.0</prixProduit>
+<quantiteActuel>2247</quantiteActuel>
+<quantiteAlarme>178</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-08-09</dateModification>
+<auteurCreation>Durham</auteurCreation>
+<auteurModification>Zeph
+</auteurModification>
+</row>
+<row idProduit="3627">
+<idAlarme>6391</idAlarme>
+<nomProduit>EXTENCILLINE 600 000 UI pdre/solv p susp inj</nomProduit>
+<codeProduit>a6fdca</codeProduit>
+<prixProduit>1134.0</prixProduit>
+<quantiteActuel>2661</quantiteActuel>
+<quantiteAlarme>302</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Wilkins</auteurCreation>
+<auteurModification>Lionel
+</auteurModification>
+</row>
+<row idProduit="3628">
+<idAlarme>1556</idAlarme>
+<nomProduit>EXTOVYL gel (ugle LP)</nomProduit>
+<codeProduit>a7421b</codeProduit>
+<prixProduit>1264.0</prixProduit>
+<quantiteActuel>2767</quantiteActuel>
+<quantiteAlarme>497</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-09-08</dateModification>
+<auteurCreation>Compton</auteurCreation>
+<auteurModification>Shay
+</auteurModification>
+</row>
+<row idProduit="3629">
+<idAlarme>3560</idAlarme>
+<nomProduit>EXTRANASE 900 nK cp enr gastroresis</nomProduit>
+<codeProduit>fa36b9</codeProduit>
+<prixProduit>775.0</prixProduit>
+<quantiteActuel>1914</quantiteActuel>
+<quantiteAlarme>234</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-08-01</dateModification>
+<auteurCreation>Jordan</auteurCreation>
+<auteurModification>Ross
+</auteurModification>
+</row>
+<row idProduit="3630">
+<idAlarme>10058</idAlarme>
+<nomProduit>EXTRANEAL sol p dial perit</nomProduit>
+<codeProduit>36a3e0</codeProduit>
+<prixProduit>1276.0</prixProduit>
+<quantiteActuel>2112</quantiteActuel>
+<quantiteAlarme>307</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-09-12</dateModification>
+<auteurCreation>Obrien</auteurCreation>
+<auteurModification>Anika
+</auteurModification>
+</row>
+<row idProduit="3631">
+<idAlarme>5570</idAlarme>
+<nomProduit>EZETROL 10 mg cp</nomProduit>
+<codeProduit>5f06f9</codeProduit>
+<prixProduit>404.0</prixProduit>
+<quantiteActuel>2802</quantiteActuel>
+<quantiteAlarme>390</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-09-27</dateModification>
+<auteurCreation>Edwards</auteurCreation>
+<auteurModification>Bradley
+</auteurModification>
+</row>
+</root>

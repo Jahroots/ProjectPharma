@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<root>
+<row idProduit="9895">
+<idAlarme>469</idAlarme>
+<nomProduit>UBISTESIN ADRENALINEE 1/100 000 sol inj p us dent</nomProduit>
+<codeProduit>576bee</codeProduit>
+<prixProduit>493.0</prixProduit>
+<quantiteActuel>2577</quantiteActuel>
+<quantiteAlarme>134</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-06-28</dateModification>
+<auteurCreation>Potts</auteurCreation>
+<auteurModification>Idola
+</auteurModification>
+</row>
+<row idProduit="9896">
+<idAlarme>7341</idAlarme>
+<nomProduit>UBISTESIN ADRENALINEE 1/200 000 sol inj p us dent</nomProduit>
+<codeProduit>c2162a</codeProduit>
+<prixProduit>1089.0</prixProduit>
+<quantiteActuel>2593</quantiteActuel>
+<quantiteAlarme>284</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-09-13</dateModification>
+<auteurCreation>Weber</auteurCreation>
+<auteurModification>Hamish
+</auteurModification>
+</row>
+<row idProduit="9897">
+<idAlarme>41</idAlarme>
+<nomProduit>UBIT 100mg cp pellic</nomProduit>
+<codeProduit>bd8e30</codeProduit>
+<prixProduit>464.0</prixProduit>
+<quantiteActuel>1923</quantiteActuel>
+<quantiteAlarme>372</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-06-27</dateModification>
+<auteurCreation>Ayers</auteurCreation>
+<auteurModification>Mercedes
+</auteurModification>
+</row>
+<row idProduit="9898">
+<idAlarme>8472</idAlarme>
+<nomProduit>UFT gel</nomProduit>
+<codeProduit>6aa8c2</codeProduit>
+<prixProduit>1079.0</prixProduit>
+<quantiteActuel>1521</quantiteActuel>
+<quantiteAlarme>389</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-08-11</dateModification>
+<auteurCreation>Hobbs</auteurCreation>
+<auteurModification>Tana
+</auteurModification>
+</row>
+<row idProduit="9899">
+<idAlarme>6185</idAlarme>
+<nomProduit>UKIDAN 1 MUI lyoph/sol p us parenter</nomProduit>
+<codeProduit>0c03a9</codeProduit>
+<prixProduit>1245.0</prixProduit>
+<quantiteActuel>1847</quantiteActuel>
+<quantiteAlarme>111</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-07-24</dateModification>
+<auteurCreation>Bray</auteurCreation>
+<auteurModification>Aidan
+</auteurModification>
+</row>
+<row idProduit="9900">
+<idAlarme>195</idAlarme>
+<nomProduit>ULCAR 1 g cp</nomProduit>
+<codeProduit>99aa1f</codeProduit>
+<prixProduit>444.0</prixProduit>
+<quantiteActuel>2858</quantiteActuel>
+<quantiteAlarme>197</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-06-17</dateModification>
+<auteurCreation>Newman</auteurCreation>
+<auteurModification>Aquila
+</auteurModification>
+</row>
+<row idProduit="9901">
+<idAlarme>3024</idAlarme>
+<nomProduit>ULCAR 1 g susp buv</nomProduit>
+<codeProduit>44117e</codeProduit>
+<prixProduit>1451.0</prixProduit>
+<quantiteActuel>2253</quantiteActuel>
+<quantiteAlarme>432</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-09-04</dateModification>
+<auteurCreation>Hutchinson</auteurCreation>
+<auteurModification>Nigel
+</auteurModification>
+</row>
+<row idProduit="9902">
+<idAlarme>4408</idAlarme>
+<nomProduit>ULTIVA 1mg pdre p sol inj ou perf</nomProduit>
+<codeProduit>45457c</codeProduit>
+<prixProduit>1013.0</prixProduit>
+<quantiteActuel>2740</quantiteActuel>
+<quantiteAlarme>455</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-06-17</dateModification>
+<auteurCreation>Strong</auteurCreation>
+<auteurModification>Joan
+</auteurModification>
+</row>
+<row idProduit="9903">
+<idAlarme>2065</idAlarme>
+<nomProduit>ULTIVA 2mg pdre p sol inj ou perf</nomProduit>
+<codeProduit>3470a2</codeProduit>
+<prixProduit>605.0</prixProduit>
+<quantiteActuel>2186</quantiteActuel>
+<quantiteAlarme>151</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-07-18</dateModification>
+<auteurCreation>Hopkins</auteurCreation>
+<auteurModification>Gary
+</auteurModification>
+</row>
+<row idProduit="9904">
+<idAlarme>8369</idAlarme>
+<nomProduit>ULTIVA 5mg pdre p sol inj ou perf</nomProduit>
+<codeProduit>1d692e</codeProduit>
+<prixProduit>445.0</prixProduit>
+<quantiteActuel>2787</quantiteActuel>
+<quantiteAlarme>384</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Peck</auteurCreation>
+<auteurModification>Lunea
+</auteurModification>
+</row>
+<row idProduit="9905">
+<idAlarme>7884</idAlarme>
+<nomProduit>ULTRALAN pom</nomProduit>
+<codeProduit>1fab89</codeProduit>
+<prixProduit>1425.0</prixProduit>
+<quantiteActuel>1742</quantiteActuel>
+<quantiteAlarme>203</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-11</dateCreation>
+<dateModification>2010-08-24</dateModification>
+<auteurCreation>Stone</auteurCreation>
+<auteurModification>Stone
+</auteurModification>
+</row>
+<row idProduit="9906">
+<idAlarme>4283</idAlarme>
+<nomProduit>ULTRA-LEVURE 100mg pdre p susp buv</nomProduit>
+<codeProduit>2c50e2</codeProduit>
+<prixProduit>1474.0</prixProduit>
+<quantiteActuel>2484</quantiteActuel>
+<quantiteAlarme>477</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Wiggins</auteurCreation>
+<auteurModification>Ali
+</auteurModification>
+</row>
+<row idProduit="9907">
+<idAlarme>4935</idAlarme>
+<nomProduit>ULTRA-LEVURE 200mg gel</nomProduit>
+<codeProduit>31494d</codeProduit>
+<prixProduit>1143.0</prixProduit>
+<quantiteActuel>2518</quantiteActuel>
+<quantiteAlarme>432</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Morton</auteurCreation>
+<auteurModification>Guy
+</auteurModification>
+</row>
+<row idProduit="9908">
+<idAlarme>7780</idAlarme>
+<nomProduit>ULTRA-LEVURE 50mg gel</nomProduit>
+<codeProduit>631bf7</codeProduit>
+<prixProduit>957.0</prixProduit>
+<quantiteActuel>1813</quantiteActuel>
+<quantiteAlarme>186</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-09-17</dateModification>
+<auteurCreation>Sutton</auteurCreation>
+<auteurModification>Devin
+</auteurModification>
+</row>
+<row idProduit="9909">
+<idAlarme>7692</idAlarme>
+<nomProduit>ULTRAPROCT pom</nomProduit>
+<codeProduit>8498b6</codeProduit>
+<prixProduit>904.0</prixProduit>
+<quantiteActuel>2151</quantiteActuel>
+<quantiteAlarme>214</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Turner</auteurCreation>
+<auteurModification>Francis
+</auteurModification>
+</row>
+<row idProduit="9910">
+<idAlarme>2488</idAlarme>
+<nomProduit>ULTRAPROCT suppos</nomProduit>
+<codeProduit>4f8017</codeProduit>
+<prixProduit>372.0</prixProduit>
+<quantiteActuel>1951</quantiteActuel>
+<quantiteAlarme>281</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Bender</auteurCreation>
+<auteurModification>Indira
+</auteurModification>
+</row>
+<row idProduit="9911">
+<idAlarme>5227</idAlarme>
+<nomProduit>ULTRAVIST 300 300 mg Iode/ml sol inj en seringue preremplie</nomProduit>
+<codeProduit>58355f</codeProduit>
+<prixProduit>1306.0</prixProduit>
+<quantiteActuel>2861</quantiteActuel>
+<quantiteAlarme>193</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-08-20</dateModification>
+<auteurCreation>Sweeney</auteurCreation>
+<auteurModification>Gage
+</auteurModification>
+</row>
+<row idProduit="9912">
+<idAlarme>738</idAlarme>
+<nomProduit>ULTRAVIST 300 sol inj</nomProduit>
+<codeProduit>f21ba8</codeProduit>
+<prixProduit>1441.0</prixProduit>
+<quantiteActuel>1806</quantiteActuel>
+<quantiteAlarme>293</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Haynes</auteurCreation>
+<auteurModification>Jana
+</auteurModification>
+</row>
+<row idProduit="9913">
+<idAlarme>798</idAlarme>
+<nomProduit>ULTRAVIST 370 370 mg Iode/ml sol inj en seringue preremplie</nomProduit>
+<codeProduit>b3e449</codeProduit>
+<prixProduit>237.0</prixProduit>
+<quantiteActuel>1750</quantiteActuel>
+<quantiteAlarme>260</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-05</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Hopper</auteurCreation>
+<auteurModification>Teegan
+</auteurModification>
+</row>
+<row idProduit="9914">
+<idAlarme>9250</idAlarme>
+<nomProduit>ULTRAVIST 370 sol inj</nomProduit>
+<codeProduit>88c9aa</codeProduit>
+<prixProduit>617.0</prixProduit>
+<quantiteActuel>2106</quantiteActuel>
+<quantiteAlarme>306</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-09-09</dateModification>
+<auteurCreation>Velasquez</auteurCreation>
+<auteurModification>Amber
+</auteurModification>
+</row>
+<row idProduit="9915">
+<idAlarme>9210</idAlarme>
+<nomProduit>UMATROPE 12mg/3ml pdre/solv p sol inj</nomProduit>
+<codeProduit>f53847</codeProduit>
+<prixProduit>734.0</prixProduit>
+<quantiteActuel>2064</quantiteActuel>
+<quantiteAlarme>418</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-07-28</dateModification>
+<auteurCreation>Montgomery</auteurCreation>
+<auteurModification>Wyatt
+</auteurModification>
+</row>
+<row idProduit="9916">
+<idAlarme>5386</idAlarme>
+<nomProduit>UMATROPE 24mg/3ml pdre/solv p sol inj</nomProduit>
+<codeProduit>ad94fa</codeProduit>
+<prixProduit>1500.0</prixProduit>
+<quantiteActuel>2942</quantiteActuel>
+<quantiteAlarme>209</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-07-14</dateModification>
+<auteurCreation>House</auteurCreation>
+<auteurModification>Brenden
+</auteurModification>
+</row>
+<row idProduit="9917">
+<idAlarme>1390</idAlarme>
+<nomProduit>UMATROPE 6mg/3ml pdre/solv p sol inj</nomProduit>
+<codeProduit>3410cb</codeProduit>
+<prixProduit>198.0</prixProduit>
+<quantiteActuel>2872</quantiteActuel>
+<quantiteAlarme>101</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Mack</auteurCreation>
+<auteurModification>Eleanor
+</auteurModification>
+</row>
+<row idProduit="9918">
+<idAlarme>8403</idAlarme>
+<nomProduit>UMULINE NPH 100 UI/ml susp inj en cart</nomProduit>
+<codeProduit>124467</codeProduit>
+<prixProduit>639.0</prixProduit>
+<quantiteActuel>2291</quantiteActuel>
+<quantiteAlarme>499</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Koch</auteurCreation>
+<auteurModification>Amanda
+</auteurModification>
+</row>
+<row idProduit="9919">
+<idAlarme>7317</idAlarme>
+<nomProduit>UMULINE NPH 100 UI/ml susp inj en fl</nomProduit>
+<codeProduit>da7d08</codeProduit>
+<prixProduit>1221.0</prixProduit>
+<quantiteActuel>1583</quantiteActuel>
+<quantiteAlarme>251</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Hoffman</auteurCreation>
+<auteurModification>Miranda
+</auteurModification>
+</row>
+<row idProduit="9920">
+<idAlarme>2921</idAlarme>
+<nomProduit>UMULINE NPH PEN 100 UI/ml susp inj</nomProduit>
+<codeProduit>d2c7a0</codeProduit>
+<prixProduit>452.0</prixProduit>
+<quantiteActuel>1941</quantiteActuel>
+<quantiteAlarme>131</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Mcguire</auteurCreation>
+<auteurModification>Vaughan
+</auteurModification>
+</row>
+<row idProduit="9921">
+<idAlarme>7817</idAlarme>
+<nomProduit>UMULINE PROFIL 30 100 UI/ml susp inj en cart</nomProduit>
+<codeProduit>0fb020</codeProduit>
+<prixProduit>599.0</prixProduit>
+<quantiteActuel>1564</quantiteActuel>
+<quantiteAlarme>178</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-09-20</dateModification>
+<auteurCreation>Cline</auteurCreation>
+<auteurModification>Damian
+</auteurModification>
+</row>
+<row idProduit="9922">
+<idAlarme>10175</idAlarme>
+<nomProduit>UMULINE PROFIL 30 100 UI/ml susp inj en fl</nomProduit>
+<codeProduit>b22037</codeProduit>
+<prixProduit>207.0</prixProduit>
+<quantiteActuel>2210</quantiteActuel>
+<quantiteAlarme>130</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-09-20</dateModification>
+<auteurCreation>Ramos</auteurCreation>
+<auteurModification>Joan
+</auteurModification>
+</row>
+<row idProduit="9923">
+<idAlarme>5816</idAlarme>
+<nomProduit>UMULINE PROFIL 30 PEN 100 UI/ml susp inj</nomProduit>
+<codeProduit>8f1b98</codeProduit>
+<prixProduit>1113.0</prixProduit>
+<quantiteActuel>2014</quantiteActuel>
+<quantiteAlarme>235</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-22</dateCreation>
+<dateModification>2010-07-21</dateModification>
+<auteurCreation>Haynes</auteurCreation>
+<auteurModification>Dolan
+</auteurModification>
+</row>
+<row idProduit="9924">
+<idAlarme>930</idAlarme>
+<nomProduit>UMULINE RAPIDE 100 UI/ml sol inj en cart</nomProduit>
+<codeProduit>998967</codeProduit>
+<prixProduit>347.0</prixProduit>
+<quantiteActuel>2933</quantiteActuel>
+<quantiteAlarme>453</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-11</dateCreation>
+<dateModification>2010-06-26</dateModification>
+<auteurCreation>Ball</auteurCreation>
+<auteurModification>Lani
+</auteurModification>
+</row>
+<row idProduit="9925">
+<idAlarme>2594</idAlarme>
+<nomProduit>UMULINE RAPIDE 100 UI/ml sol inj en fl</nomProduit>
+<codeProduit>4cf9a6</codeProduit>
+<prixProduit>298.0</prixProduit>
+<quantiteActuel>2573</quantiteActuel>
+<quantiteAlarme>471</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Randall</auteurCreation>
+<auteurModification>Eagan
+</auteurModification>
+</row>
+<row idProduit="9926">
+<idAlarme>8958</idAlarme>
+<nomProduit>UN ALFA 0,1 ug/gte sol buv</nomProduit>
+<codeProduit>75abde</codeProduit>
+<prixProduit>531.0</prixProduit>
+<quantiteActuel>2935</quantiteActuel>
+<quantiteAlarme>151</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-08-17</dateModification>
+<auteurCreation>Holder</auteurCreation>
+<auteurModification>Melodie
+</auteurModification>
+</row>
+<row idProduit="9927">
+<idAlarme>5696</idAlarme>
+<nomProduit>UN ALFA 0,25 ug caps</nomProduit>
+<codeProduit>a87a12</codeProduit>
+<prixProduit>423.0</prixProduit>
+<quantiteActuel>2967</quantiteActuel>
+<quantiteAlarme>364</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-06-29</dateModification>
+<auteurCreation>Wynn</auteurCreation>
+<auteurModification>Gil
+</auteurModification>
+</row>
+<row idProduit="9928">
+<idAlarme>1722</idAlarme>
+<nomProduit>UN ALFA 0,5ug caps molle</nomProduit>
+<codeProduit>ff6d8c</codeProduit>
+<prixProduit>826.0</prixProduit>
+<quantiteActuel>2749</quantiteActuel>
+<quantiteAlarme>186</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-08-29</dateModification>
+<auteurCreation>Green</auteurCreation>
+<auteurModification>Daniel
+</auteurModification>
+</row>
+<row idProduit="9929">
+<idAlarme>5185</idAlarme>
+<nomProduit>UN ALFA 1 ug caps</nomProduit>
+<codeProduit>15b1b7</codeProduit>
+<prixProduit>958.0</prixProduit>
+<quantiteActuel>2363</quantiteActuel>
+<quantiteAlarme>179</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Mccarthy</auteurCreation>
+<auteurModification>Elizabeth
+</auteurModification>
+</row>
+<row idProduit="9930">
+<idAlarme>4420</idAlarme>
+<nomProduit>UN ALFA 1ug/0,5ml sol inj</nomProduit>
+<codeProduit>8a25f3</codeProduit>
+<prixProduit>570.0</prixProduit>
+<quantiteActuel>1809</quantiteActuel>
+<quantiteAlarme>203</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-08-10</dateModification>
+<auteurCreation>Stewart</auteurCreation>
+<auteurModification>Hadassah
+</auteurModification>
+</row>
+<row idProduit="9931">
+<idAlarme>2669</idAlarme>
+<nomProduit>UN ALFA 2ug/1ml sol inj</nomProduit>
+<codeProduit>61f087</codeProduit>
+<prixProduit>738.0</prixProduit>
+<quantiteActuel>1642</quantiteActuel>
+<quantiteAlarme>408</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-06-28</dateModification>
+<auteurCreation>Hanson</auteurCreation>
+<auteurModification>Benedict
+</auteurModification>
+</row>
+<row idProduit="9932">
+<idAlarme>2329</idAlarme>
+<nomProduit>UNACIM 500mg/1g pdre p us parenter IM/IV</nomProduit>
+<codeProduit>7c7448</codeProduit>
+<prixProduit>1454.0</prixProduit>
+<quantiteActuel>1537</quantiteActuel>
+<quantiteAlarme>300</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Abbott</auteurCreation>
+<auteurModification>Kuame
+</auteurModification>
+</row>
+<row idProduit="9933">
+<idAlarme>8663</idAlarme>
+<nomProduit>UNACIM INJECTABLE 1g pdre/sol p us parenter</nomProduit>
+<codeProduit>17aef1</codeProduit>
+<prixProduit>1036.0</prixProduit>
+<quantiteActuel>2702</quantiteActuel>
+<quantiteAlarme>419</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Wiley</auteurCreation>
+<auteurModification>Amir
+</auteurModification>
+</row>
+<row idProduit="9934">
+<idAlarme>1511</idAlarme>
+<nomProduit>UNIFLOX 500mg cp pellic sec</nomProduit>
+<codeProduit>adaed9</codeProduit>
+<prixProduit>1204.0</prixProduit>
+<quantiteActuel>2075</quantiteActuel>
+<quantiteAlarme>151</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-06-21</dateModification>
+<auteurCreation>Copeland</auteurCreation>
+<auteurModification>Chandler
+</auteurModification>
+</row>
+<row idProduit="9935">
+<idAlarme>8281</idAlarme>
+<nomProduit>UNIFLUID 6 mg/0,4 ml collyre</nomProduit>
+<codeProduit>d61a3f</codeProduit>
+<prixProduit>368.0</prixProduit>
+<quantiteActuel>2492</quantiteActuel>
+<quantiteAlarme>344</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-06-21</dateModification>
+<auteurCreation>Peters</auteurCreation>
+<auteurModification>Frances
+</auteurModification>
+</row>
+<row idProduit="9936">
+<idAlarme>5060</idAlarme>
+<nomProduit>UNILARM 0,9 % collyre</nomProduit>
+<codeProduit>0101dc</codeProduit>
+<prixProduit>1064.0</prixProduit>
+<quantiteActuel>1940</quantiteActuel>
+<quantiteAlarme>124</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-07-21</dateModification>
+<auteurCreation>Hansen</auteurCreation>
+<auteurModification>Elizabeth
+</auteurModification>
+</row>
+<row idProduit="9937">
+<idAlarme>822</idAlarme>
+<nomProduit>UNIPEXIL 2 % sol p appl cut</nomProduit>
+<codeProduit>f8a82a</codeProduit>
+<prixProduit>721.0</prixProduit>
+<quantiteActuel>2617</quantiteActuel>
+<quantiteAlarme>400</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-09-20</dateModification>
+<auteurCreation>Mccall</auteurCreation>
+<auteurModification>Cedric
+</auteurModification>
+</row>
+<row idProduit="9938">
+<idAlarme>10459</idAlarme>
+<nomProduit>UPFEN 200 mg cp pellic</nomProduit>
+<codeProduit>cffaeb</codeProduit>
+<prixProduit>294.0</prixProduit>
+<quantiteActuel>1782</quantiteActuel>
+<quantiteAlarme>355</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-06-30</dateModification>
+<auteurCreation>Vinson</auteurCreation>
+<auteurModification>Tucker
+</auteurModification>
+</row>
+<row idProduit="9939">
+<idAlarme>7687</idAlarme>
+<nomProduit>URANIUM COMPOSE BOIRON cp</nomProduit>
+<codeProduit>fda23e</codeProduit>
+<prixProduit>1090.0</prixProduit>
+<quantiteActuel>2448</quantiteActuel>
+<quantiteAlarme>403</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-06-27</dateModification>
+<auteurCreation>Walls</auteurCreation>
+<auteurModification>Unity
+</auteurModification>
+</row>
+<row idProduit="9940">
+<idAlarme>6945</idAlarme>
+<nomProduit>URANIUM COMPOSE BOIRON gle</nomProduit>
+<codeProduit>becf23</codeProduit>
+<prixProduit>1135.0</prixProduit>
+<quantiteActuel>2498</quantiteActuel>
+<quantiteAlarme>199</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-09-09</dateModification>
+<auteurCreation>Sims</auteurCreation>
+<auteurModification>Tatiana
+</auteurModification>
+</row>
+<row idProduit="9941">
+<idAlarme>6403</idAlarme>
+<nomProduit>URANIUM COMPOSE BOIRON sol buv</nomProduit>
+<codeProduit>4c29f0</codeProduit>
+<prixProduit>717.0</prixProduit>
+<quantiteActuel>2972</quantiteActuel>
+<quantiteAlarme>457</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-07-06</dateModification>
+<auteurCreation>Miranda</auteurCreation>
+<auteurModification>Giacomo
+</auteurModification>
+</row>
+<row idProduit="9942">
+<idAlarme>4540</idAlarme>
+<nomProduit>URAPIDIL NORDIC PHARMA 25mg/5ml sol inj</nomProduit>
+<codeProduit>a72770</codeProduit>
+<prixProduit>1331.0</prixProduit>
+<quantiteActuel>2017</quantiteActuel>
+<quantiteAlarme>101</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Richards</auteurCreation>
+<auteurModification>Sheila
+</auteurModification>
+</row>
+<row idProduit="9943">
+<idAlarme>1876</idAlarme>
+<nomProduit>URAPIDIL NORDIC PHARMA 50mg/10ml sol inj</nomProduit>
+<codeProduit>fd2b5d</codeProduit>
+<prixProduit>1478.0</prixProduit>
+<quantiteActuel>2268</quantiteActuel>
+<quantiteAlarme>123</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Moody</auteurCreation>
+<auteurModification>Deirdre
+</auteurModification>
+</row>
+<row idProduit="9944">
+<idAlarme>10295</idAlarme>
+<nomProduit>URARTHONE sol buv</nomProduit>
+<codeProduit>1c69ba</codeProduit>
+<prixProduit>363.0</prixProduit>
+<quantiteActuel>2973</quantiteActuel>
+<quantiteAlarme>470</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-07-28</dateModification>
+<auteurCreation>Merrill</auteurCreation>
+<auteurModification>William
+</auteurModification>
+</row>
+<row idProduit="9945">
+<idAlarme>2644</idAlarme>
+<nomProduit>URBANYL 10 mg cp sec</nomProduit>
+<codeProduit>662674</codeProduit>
+<prixProduit>1378.0</prixProduit>
+<quantiteActuel>1505</quantiteActuel>
+<quantiteAlarme>132</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Adkins</auteurCreation>
+<auteurModification>Russell
+</auteurModification>
+</row>
+<row idProduit="9946">
+<idAlarme>4539</idAlarme>
+<nomProduit>URBANYL 20 mg cp</nomProduit>
+<codeProduit>80ed1e</codeProduit>
+<prixProduit>264.0</prixProduit>
+<quantiteActuel>1681</quantiteActuel>
+<quantiteAlarme>228</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Maynard</auteurCreation>
+<auteurModification>Cheryl
+</auteurModification>
+</row>
+<row idProduit="9947">
+<idAlarme>7674</idAlarme>
+<nomProduit>URBANYL 5 mg gel</nomProduit>
+<codeProduit>dacb6f</codeProduit>
+<prixProduit>587.0</prixProduit>
+<quantiteActuel>2429</quantiteActuel>
+<quantiteAlarme>348</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-09-16</dateModification>
+<auteurCreation>Strong</auteurCreation>
+<auteurModification>Coby
+</auteurModification>
+</row>
+<row idProduit="9948">
+<idAlarme>1582</idAlarme>
+<nomProduit>URIDOZ 3 g gle p sol buv ad</nomProduit>
+<codeProduit>cccf15</codeProduit>
+<prixProduit>1160.0</prixProduit>
+<quantiteActuel>2764</quantiteActuel>
+<quantiteAlarme>362</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Lynch</auteurCreation>
+<auteurModification>Kiara
+</auteurModification>
+</row>
+<row idProduit="9949">
+<idAlarme>3730</idAlarme>
+<nomProduit>URION 2,5mg cp pellic</nomProduit>
+<codeProduit>c7ddca</codeProduit>
+<prixProduit>873.0</prixProduit>
+<quantiteActuel>2436</quantiteActuel>
+<quantiteAlarme>359</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-07-15</dateModification>
+<auteurCreation>Cox</auteurCreation>
+<auteurModification>Benjamin
+</auteurModification>
+</row>
+<row idProduit="9950">
+<idAlarme>4847</idAlarme>
+<nomProduit>URISPAS 200 mg cp pellic</nomProduit>
+<codeProduit>e27016</codeProduit>
+<prixProduit>958.0</prixProduit>
+<quantiteActuel>2135</quantiteActuel>
+<quantiteAlarme>379</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-06-30</dateModification>
+<auteurCreation>Washington</auteurCreation>
+<auteurModification>Reuben
+</auteurModification>
+</row>
+<row idProduit="9951">
+<idAlarme>4956</idAlarme>
+<nomProduit>UROCALM gle</nomProduit>
+<codeProduit>f41c48</codeProduit>
+<prixProduit>1416.0</prixProduit>
+<quantiteActuel>2463</quantiteActuel>
+<quantiteAlarme>153</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-09-09</dateModification>
+<auteurCreation>Dalton</auteurCreation>
+<auteurModification>Shana
+</auteurModification>
+</row>
+<row idProduit="9952">
+<idAlarme>4230</idAlarme>
+<nomProduit>URODREN gle</nomProduit>
+<codeProduit>d32a30</codeProduit>
+<prixProduit>672.0</prixProduit>
+<quantiteActuel>1697</quantiteActuel>
+<quantiteAlarme>195</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-08-16</dateModification>
+<auteurCreation>Brooks</auteurCreation>
+<auteurModification>Arthur
+</auteurModification>
+</row>
+<row idProduit="9953">
+<idAlarme>8013</idAlarme>
+<nomProduit>UROMITEXAN 1g/10ml sol inj p perf</nomProduit>
+<codeProduit>cd0690</codeProduit>
+<prixProduit>822.0</prixProduit>
+<quantiteActuel>2814</quantiteActuel>
+<quantiteAlarme>492</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-09-17</dateModification>
+<auteurCreation>Haley</auteurCreation>
+<auteurModification>Andrew
+</auteurModification>
+</row>
+<row idProduit="9954">
+<idAlarme>5134</idAlarme>
+<nomProduit>UROMITEXAN 400 mg cp pellic sec</nomProduit>
+<codeProduit>b1bb68</codeProduit>
+<prixProduit>1476.0</prixProduit>
+<quantiteActuel>1911</quantiteActuel>
+<quantiteAlarme>491</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-09-08</dateModification>
+<auteurCreation>Coffey</auteurCreation>
+<auteurModification>Meredith
+</auteurModification>
+</row>
+<row idProduit="9955">
+<idAlarme>10548</idAlarme>
+<nomProduit>UROMITEXAN 400mg sol inj IV</nomProduit>
+<codeProduit>aa3b8d</codeProduit>
+<prixProduit>794.0</prixProduit>
+<quantiteActuel>2923</quantiteActuel>
+<quantiteAlarme>362</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>Little</auteurCreation>
+<auteurModification>Geoffrey
+</auteurModification>
+</row>
+<row idProduit="9956">
+<idAlarme>4713</idAlarme>
+<nomProduit>UROMITEXAN 5g/50ml sol inj p perf</nomProduit>
+<codeProduit>d1903d</codeProduit>
+<prixProduit>612.0</prixProduit>
+<quantiteActuel>2926</quantiteActuel>
+<quantiteAlarme>172</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-09-08</dateModification>
+<auteurCreation>Beard</auteurCreation>
+<auteurModification>Stephen
+</auteurModification>
+</row>
+<row idProduit="9957">
+<idAlarme>8563</idAlarme>
+<nomProduit>UROMITEXAN 600 mg cp pellic sec</nomProduit>
+<codeProduit>5656c6</codeProduit>
+<prixProduit>164.0</prixProduit>
+<quantiteActuel>2622</quantiteActuel>
+<quantiteAlarme>226</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-07-30</dateModification>
+<auteurCreation>Fry</auteurCreation>
+<auteurModification>Zahir
+</auteurModification>
+</row>
+<row idProduit="9958">
+<idAlarme>10349</idAlarme>
+<nomProduit>UROPHYTUM gel</nomProduit>
+<codeProduit>9dc46c</codeProduit>
+<prixProduit>854.0</prixProduit>
+<quantiteActuel>2526</quantiteActuel>
+<quantiteAlarme>276</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-06-30</dateModification>
+<auteurCreation>Hansen</auteurCreation>
+<auteurModification>Thomas
+</auteurModification>
+</row>
+<row idProduit="9959">
+<idAlarme>4325</idAlarme>
+<nomProduit>UROREC 4 mg gel</nomProduit>
+<codeProduit>1689ed</codeProduit>
+<prixProduit>1218.0</prixProduit>
+<quantiteActuel>2005</quantiteActuel>
+<quantiteAlarme>334</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-08-07</dateModification>
+<auteurCreation>Miles</auteurCreation>
+<auteurModification>Baker
+</auteurModification>
+</row>
+<row idProduit="9960">
+<idAlarme>5341</idAlarme>
+<nomProduit>UROREC 8 mg gel</nomProduit>
+<codeProduit>2bcf08</codeProduit>
+<prixProduit>1282.0</prixProduit>
+<quantiteActuel>1669</quantiteActuel>
+<quantiteAlarme>375</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-07-23</dateModification>
+<auteurCreation>Barr</auteurCreation>
+<auteurModification>Iliana
+</auteurModification>
+</row>
+<row idProduit="9961">
+<idAlarme>3732</idAlarme>
+<nomProduit>UROSIPHON 2g sol buv</nomProduit>
+<codeProduit>10cc84</codeProduit>
+<prixProduit>1059.0</prixProduit>
+<quantiteActuel>1674</quantiteActuel>
+<quantiteAlarme>137</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Coleman</auteurCreation>
+<auteurModification>Xantha
+</auteurModification>
+</row>
+<row idProduit="9962">
+<idAlarme>9606</idAlarme>
+<nomProduit>UROTISAN tis en sach</nomProduit>
+<codeProduit>048f62</codeProduit>
+<prixProduit>1450.0</prixProduit>
+<quantiteActuel>2703</quantiteActuel>
+<quantiteAlarme>341</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-07-06</dateModification>
+<auteurCreation>Jordan</auteurCreation>
+<auteurModification>Lamar
+</auteurModification>
+</row>
+<row idProduit="9963">
+<idAlarme>3112</idAlarme>
+<nomProduit>URSOLVAN 200 mg gel</nomProduit>
+<codeProduit>e65e3d</codeProduit>
+<prixProduit>1264.0</prixProduit>
+<quantiteActuel>2403</quantiteActuel>
+<quantiteAlarme>136</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-08-19</dateModification>
+<auteurCreation>Garrett</auteurCreation>
+<auteurModification>Xander
+</auteurModification>
+</row>
+<row idProduit="9964">
+<idAlarme>3144</idAlarme>
+<nomProduit>UTEPLEX 2mg sol buv</nomProduit>
+<codeProduit>c2d87e</codeProduit>
+<prixProduit>1087.0</prixProduit>
+<quantiteActuel>2649</quantiteActuel>
+<quantiteAlarme>177</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-08-25</dateModification>
+<auteurCreation>Salinas</auteurCreation>
+<auteurModification>Kasper
+</auteurModification>
+</row>
+<row idProduit="9965">
+<idAlarme>7705</idAlarme>
+<nomProduit>UTROGESTAN 100mg caps oral/vagin</nomProduit>
+<codeProduit>a3bd52</codeProduit>
+<prixProduit>1259.0</prixProduit>
+<quantiteActuel>2966</quantiteActuel>
+<quantiteAlarme>279</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Campos</auteurCreation>
+<auteurModification>Ashely
+</auteurModification>
+</row>
+<row idProduit="9966">
+<idAlarme>7852</idAlarme>
+<nomProduit>UTROGESTAN 200mg caps oral/vagin</nomProduit>
+<codeProduit>84280c</codeProduit>
+<prixProduit>1208.0</prixProduit>
+<quantiteActuel>1794</quantiteActuel>
+<quantiteAlarme>395</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-10-04</dateModification>
+<auteurCreation>Suarez</auteurCreation>
+<auteurModification>Reed
+</auteurModification>
+</row>
+<row idProduit="9967">
+<idAlarme>7900</idAlarme>
+<nomProduit>UVEDOSE 100 000 UI sol buv</nomProduit>
+<codeProduit>11ca97</codeProduit>
+<prixProduit>1363.0</prixProduit>
+<quantiteActuel>2024</quantiteActuel>
+<quantiteAlarme>474</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Jennings</auteurCreation>
+<auteurModification>Rachel
+</auteurModification>
+</row>
+<row idProduit="9968">
+<idAlarme>431</idAlarme>
+<nomProduit>UVESTEROL A D E C sol buv</nomProduit>
+<codeProduit>54d6a0</codeProduit>
+<prixProduit>1323.0</prixProduit>
+<quantiteActuel>2952</quantiteActuel>
+<quantiteAlarme>230</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-07-23</dateModification>
+<auteurCreation>Blake</auteurCreation>
+<auteurModification>Duncan
+</auteurModification>
+</row>
+<row idProduit="9969">
+<idAlarme>8276</idAlarme>
+<nomProduit>UVESTEROL D 1 500 UI/ml sol buv</nomProduit>
+<codeProduit>54eec6</codeProduit>
+<prixProduit>1220.0</prixProduit>
+<quantiteActuel>2481</quantiteActuel>
+<quantiteAlarme>444</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-07-11</dateModification>
+<auteurCreation>Ballard</auteurCreation>
+<auteurModification>Jakeem
+</auteurModification>
+</row>
+<row idProduit="9970">
+<idAlarme>4758</idAlarme>
+<nomProduit>UVIMAG B6 sol buv</nomProduit>
+<codeProduit>155b3b</codeProduit>
+<prixProduit>672.0</prixProduit>
+<quantiteActuel>2489</quantiteActuel>
+<quantiteAlarme>410</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-08-19</dateModification>
+<auteurCreation>Young</auteurCreation>
+<auteurModification>Maxwell
+</auteurModification>
+</row>
+</root>

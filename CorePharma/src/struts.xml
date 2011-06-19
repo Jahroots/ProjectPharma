@@ -36,5 +36,6 @@
     <!-- <include file="resources/struts-jasper.xml"></include>-->
 	<include file="resources/struts-modules/struts-produits.xml"></include>
 	<include file="resources/struts-modules/struts-exemplemenu.xml"></include>
+	<include file="resources/struts-modules/struts-ventes.xml"></include>
 	
 </struts>

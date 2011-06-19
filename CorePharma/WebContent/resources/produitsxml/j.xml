@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<root>
+<row idProduit="5148">
+<idAlarme>3458</idAlarme>
+<nomProduit>JAMYLENE 50 mg cp enr</nomProduit>
+<codeProduit>a91cf4</codeProduit>
+<prixProduit>1280.0</prixProduit>
+<quantiteActuel>2475</quantiteActuel>
+<quantiteAlarme>163</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-09-07</dateModification>
+<auteurCreation>Rosales</auteurCreation>
+<auteurModification>Gray
+</auteurModification>
+</row>
+<row idProduit="5149">
+<idAlarme>7669</idAlarme>
+<nomProduit>JANUMET 50 mg/1000 mg cp pellic</nomProduit>
+<codeProduit>f0d36e</codeProduit>
+<prixProduit>1355.0</prixProduit>
+<quantiteActuel>2400</quantiteActuel>
+<quantiteAlarme>335</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-09-13</dateModification>
+<auteurCreation>Erickson</auteurCreation>
+<auteurModification>Lester
+</auteurModification>
+</row>
+<row idProduit="5150">
+<idAlarme>1279</idAlarme>
+<nomProduit>JANUVIA 100mg cp pellic</nomProduit>
+<codeProduit>d3840f</codeProduit>
+<prixProduit>246.0</prixProduit>
+<quantiteActuel>2995</quantiteActuel>
+<quantiteAlarme>286</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-10-04</dateModification>
+<auteurCreation>Stein</auteurCreation>
+<auteurModification>Blythe
+</auteurModification>
+</row>
+<row idProduit="5151">
+<idAlarme>6750</idAlarme>
+<nomProduit>JASMINE 0,03mg/3mg cp pellic</nomProduit>
+<codeProduit>e99c27</codeProduit>
+<prixProduit>578.0</prixProduit>
+<quantiteActuel>1749</quantiteActuel>
+<quantiteAlarme>380</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-09-24</dateModification>
+<auteurCreation>Aguilar</auteurCreation>
+<auteurModification>Ryder
+</auteurModification>
+</row>
+<row idProduit="5152">
+<idAlarme>9735</idAlarme>
+<nomProduit>JASMINELLE 0,02mg/3mg cp pellic</nomProduit>
+<codeProduit>e9823f</codeProduit>
+<prixProduit>309.0</prixProduit>
+<quantiteActuel>2837</quantiteActuel>
+<quantiteAlarme>456</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-08-25</dateModification>
+<auteurCreation>Beck</auteurCreation>
+<auteurModification>Amena
+</auteurModification>
+</row>
+<row idProduit="5153">
+<idAlarme>6342</idAlarme>
+<nomProduit>JASMINELLECONTINU 0,02mg/3mg cp pellic</nomProduit>
+<codeProduit>6c4b51</codeProduit>
+<prixProduit>1053.0</prixProduit>
+<quantiteActuel>1525</quantiteActuel>
+<quantiteAlarme>219</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-06-30</dateModification>
+<auteurCreation>Pitts</auteurCreation>
+<auteurModification>Baxter
+</auteurModification>
+</row>
+<row idProduit="5154">
+<idAlarme>2557</idAlarme>
+<nomProduit>JAVLOR 25 mg/ml sol diluer p perf</nomProduit>
+<codeProduit>04af8e</codeProduit>
+<prixProduit>1002.0</prixProduit>
+<quantiteActuel>1685</quantiteActuel>
+<quantiteAlarme>469</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-08-07</dateModification>
+<auteurCreation>Young</auteurCreation>
+<auteurModification>Sade
+</auteurModification>
+</row>
+<row idProduit="5155">
+<idAlarme>4094</idAlarme>
+<nomProduit>JECOPEPTOL pdre p susp buv</nomProduit>
+<codeProduit>933f2c</codeProduit>
+<prixProduit>1122.0</prixProduit>
+<quantiteActuel>2761</quantiteActuel>
+<quantiteAlarme>442</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Williams</auteurCreation>
+<auteurModification>Erasmus
+</auteurModification>
+</row>
+<row idProduit="5156">
+<idAlarme>8569</idAlarme>
+<nomProduit>JENOVERINE gle</nomProduit>
+<codeProduit>92203e</codeProduit>
+<prixProduit>962.0</prixProduit>
+<quantiteActuel>2310</quantiteActuel>
+<quantiteAlarme>405</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Cantrell</auteurCreation>
+<auteurModification>Owen
+</auteurModification>
+</row>
+<row idProduit="5157">
+<idAlarme>6563</idAlarme>
+<nomProduit>JOSACINE 1000mg cp dispers adulte</nomProduit>
+<codeProduit>3027f6</codeProduit>
+<prixProduit>804.0</prixProduit>
+<quantiteActuel>2054</quantiteActuel>
+<quantiteAlarme>430</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Beach</auteurCreation>
+<auteurModification>Katell
+</auteurModification>
+</row>
+<row idProduit="5158">
+<idAlarme>3483</idAlarme>
+<nomProduit>JOSACINE 125mg/5ml gle p susp buv</nomProduit>
+<codeProduit>918969</codeProduit>
+<prixProduit>836.0</prixProduit>
+<quantiteActuel>1866</quantiteActuel>
+<quantiteAlarme>325</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-07-01</dateModification>
+<auteurCreation>Hooper</auteurCreation>
+<auteurModification>Rhona
+</auteurModification>
+</row>
+<row idProduit="5159">
+<idAlarme>5459</idAlarme>
+<nomProduit>JOSACINE 250mg/5ml gle p susp buv</nomProduit>
+<codeProduit>2306d8</codeProduit>
+<prixProduit>521.0</prixProduit>
+<quantiteActuel>2873</quantiteActuel>
+<quantiteAlarme>372</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Pugh</auteurCreation>
+<auteurModification>Alexandra
+</auteurModification>
+</row>
+<row idProduit="5160">
+<idAlarme>2269</idAlarme>
+<nomProduit>JOSACINE 500mg cp pellic</nomProduit>
+<codeProduit>ae8ffe</codeProduit>
+<prixProduit>603.0</prixProduit>
+<quantiteActuel>2766</quantiteActuel>
+<quantiteAlarme>431</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-07-22</dateModification>
+<auteurCreation>Coffey</auteurCreation>
+<auteurModification>Justine
+</auteurModification>
+</row>
+<row idProduit="5161">
+<idAlarme>6680</idAlarme>
+<nomProduit>JOSACINE 500mg/5ml gle p susp buv</nomProduit>
+<codeProduit>ab0251</codeProduit>
+<prixProduit>836.0</prixProduit>
+<quantiteActuel>2852</quantiteActuel>
+<quantiteAlarme>174</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-08-29</dateModification>
+<auteurCreation>Sargent</auteurCreation>
+<auteurModification>Quamar
+</auteurModification>
+</row>
+<row idProduit="5162">
+<idAlarme>3729</idAlarme>
+<nomProduit>JOSIR 0,4mg gel (ugle LP)</nomProduit>
+<codeProduit>f39e11</codeProduit>
+<prixProduit>1192.0</prixProduit>
+<quantiteActuel>2259</quantiteActuel>
+<quantiteAlarme>407</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-08-05</dateModification>
+<auteurCreation>Jacobson</auteurCreation>
+<auteurModification>Bryar
+</auteurModification>
+</row>
+<row idProduit="5163">
+<idAlarme>6556</idAlarme>
+<nomProduit>JOUVENCE DE L&apos;ABBE SOURY cp pellic</nomProduit>
+<codeProduit>d47b32</codeProduit>
+<prixProduit>314.0</prixProduit>
+<quantiteActuel>2514</quantiteActuel>
+<quantiteAlarme>304</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-09-12</dateModification>
+<auteurCreation>Pacheco</auteurCreation>
+<auteurModification>Holly
+</auteurModification>
+</row>
+<row idProduit="5164">
+<idAlarme>8979</idAlarme>
+<nomProduit>JOUVENCE DE L&apos;ABBE SOURY gel p appl loc</nomProduit>
+<codeProduit>842602</codeProduit>
+<prixProduit>941.0</prixProduit>
+<quantiteActuel>1576</quantiteActuel>
+<quantiteAlarme>342</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-07-24</dateModification>
+<auteurCreation>Buck</auteurCreation>
+<auteurModification>Candice
+</auteurModification>
+</row>
+<row idProduit="5165">
+<idAlarme>10323</idAlarme>
+<nomProduit>JOUVENCE DE L&apos;ABBE SOURY sol buv</nomProduit>
+<codeProduit>360e1c</codeProduit>
+<prixProduit>1125.0</prixProduit>
+<quantiteActuel>2715</quantiteActuel>
+<quantiteAlarme>239</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-07-15</dateModification>
+<auteurCreation>Payne</auteurCreation>
+<auteurModification>Quin
+</auteurModification>
+</row>
+<row idProduit="5166">
+<idAlarme>8244</idAlarme>
+<nomProduit>JUSTOR 1mg cp pellic sec</nomProduit>
+<codeProduit>a51ab6</codeProduit>
+<prixProduit>599.0</prixProduit>
+<quantiteActuel>1787</quantiteActuel>
+<quantiteAlarme>395</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-09-25</dateModification>
+<auteurCreation>Fowler</auteurCreation>
+<auteurModification>Orson
+</auteurModification>
+</row>
+<row idProduit="5167">
+<idAlarme>8374</idAlarme>
+<nomProduit>JUSTOR 2,5mg cp pellic sec</nomProduit>
+<codeProduit>330766</codeProduit>
+<prixProduit>835.0</prixProduit>
+<quantiteActuel>2619</quantiteActuel>
+<quantiteAlarme>139</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-22</dateCreation>
+<dateModification>2010-08-17</dateModification>
+<auteurCreation>Witt</auteurCreation>
+<auteurModification>Jordan
+</auteurModification>
+</row>
+</root>

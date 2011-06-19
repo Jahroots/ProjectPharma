@@ -1,0 +1,5603 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<root>
+<row idProduit="6438">
+<idAlarme>1091</idAlarme>
+<nomProduit>NAABAK 4,9% collyre</nomProduit>
+<codeProduit>38cc91</codeProduit>
+<prixProduit>447.0</prixProduit>
+<quantiteActuel>2789</quantiteActuel>
+<quantiteAlarme>350</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Hull</auteurCreation>
+<auteurModification>Dahlia
+</auteurModification>
+</row>
+<row idProduit="6439">
+<idAlarme>8676</idAlarme>
+<nomProduit>NAAXIA 19,6mg/0,4ml collyre en unid</nomProduit>
+<codeProduit>c825dc</codeProduit>
+<prixProduit>1449.0</prixProduit>
+<quantiteActuel>2148</quantiteActuel>
+<quantiteAlarme>112</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-09-05</dateModification>
+<auteurCreation>Horne</auteurCreation>
+<auteurModification>Vernon
+</auteurModification>
+</row>
+<row idProduit="6440">
+<idAlarme>4495</idAlarme>
+<nomProduit>NAAXIA collyre</nomProduit>
+<codeProduit>bf77ae</codeProduit>
+<prixProduit>176.0</prixProduit>
+<quantiteActuel>2203</quantiteActuel>
+<quantiteAlarme>241</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Rosa</auteurCreation>
+<auteurModification>Jack
+</auteurModification>
+</row>
+<row idProduit="6441">
+<idAlarme>6598</idAlarme>
+<nomProduit>NAAXIAFREE 4,9% collyre</nomProduit>
+<codeProduit>c34d84</codeProduit>
+<prixProduit>205.0</prixProduit>
+<quantiteActuel>2355</quantiteActuel>
+<quantiteAlarme>497</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Mccray</auteurCreation>
+<auteurModification>Sharon
+</auteurModification>
+</row>
+<row idProduit="6442">
+<idAlarme>5296</idAlarme>
+<nomProduit>NABUCOX 1 g cp dispers</nomProduit>
+<codeProduit>4bec70</codeProduit>
+<prixProduit>239.0</prixProduit>
+<quantiteActuel>2257</quantiteActuel>
+<quantiteAlarme>280</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-07-24</dateModification>
+<auteurCreation>Harrington</auteurCreation>
+<auteurModification>Charles
+</auteurModification>
+</row>
+<row idProduit="6443">
+<idAlarme>8453</idAlarme>
+<nomProduit>NABUCOX 500mg cp pellic</nomProduit>
+<codeProduit>e181d5</codeProduit>
+<prixProduit>1198.0</prixProduit>
+<quantiteActuel>1946</quantiteActuel>
+<quantiteAlarme>397</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-09-13</dateModification>
+<auteurCreation>Welch</auteurCreation>
+<auteurModification>Keaton
+</auteurModification>
+</row>
+<row idProduit="6444">
+<idAlarme>4608</idAlarme>
+<nomProduit>NAEMIS cp</nomProduit>
+<codeProduit>3c6483</codeProduit>
+<prixProduit>503.0</prixProduit>
+<quantiteActuel>2682</quantiteActuel>
+<quantiteAlarme>113</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Simon</auteurCreation>
+<auteurModification>Delilah
+</auteurModification>
+</row>
+<row idProduit="6445">
+<idAlarme>8921</idAlarme>
+<nomProduit>NAFTIDROFURYL BIOGARAN 200mg cp pellic</nomProduit>
+<codeProduit>19c853</codeProduit>
+<prixProduit>409.0</prixProduit>
+<quantiteActuel>2117</quantiteActuel>
+<quantiteAlarme>113</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-10-01</dateModification>
+<auteurCreation>Duncan</auteurCreation>
+<auteurModification>Rhoda
+</auteurModification>
+</row>
+<row idProduit="6446">
+<idAlarme>3213</idAlarme>
+<nomProduit>NAFTIDROFURYL ALMUS 200 mg cp pellic</nomProduit>
+<codeProduit>de5c68</codeProduit>
+<prixProduit>621.0</prixProduit>
+<quantiteActuel>1757</quantiteActuel>
+<quantiteAlarme>235</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-09-14</dateModification>
+<auteurCreation>Barron</auteurCreation>
+<auteurModification>Gay
+</auteurModification>
+</row>
+<row idProduit="6447">
+<idAlarme>8951</idAlarme>
+<nomProduit>NAFTIDROFURYL ALTER 200mg cp pellic</nomProduit>
+<codeProduit>cd5a02</codeProduit>
+<prixProduit>791.0</prixProduit>
+<quantiteActuel>2320</quantiteActuel>
+<quantiteAlarme>268</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-06-26</dateModification>
+<auteurCreation>Phelps</auteurCreation>
+<auteurModification>Stuart
+</auteurModification>
+</row>
+<row idProduit="6448">
+<idAlarme>9483</idAlarme>
+<nomProduit>NAFTIDROFURYL BIOGARAN 200 mg cp pellic</nomProduit>
+<codeProduit>7b2baa</codeProduit>
+<prixProduit>1403.0</prixProduit>
+<quantiteActuel>2401</quantiteActuel>
+<quantiteAlarme>492</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-07-09</dateModification>
+<auteurCreation>Chambers</auteurCreation>
+<auteurModification>Emi
+</auteurModification>
+</row>
+<row idProduit="6449">
+<idAlarme>2564</idAlarme>
+<nomProduit>NAFTIDROFURYL EG 200mg cp pellic</nomProduit>
+<codeProduit>25f5dd</codeProduit>
+<prixProduit>597.0</prixProduit>
+<quantiteActuel>1611</quantiteActuel>
+<quantiteAlarme>431</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-06-20</dateModification>
+<auteurCreation>Shaffer</auteurCreation>
+<auteurModification>Forrest
+</auteurModification>
+</row>
+<row idProduit="6450">
+<idAlarme>5067</idAlarme>
+<nomProduit>NAFTIDROFURYL MYLAN 100 mg gel</nomProduit>
+<codeProduit>0f273d</codeProduit>
+<prixProduit>635.0</prixProduit>
+<quantiteActuel>1514</quantiteActuel>
+<quantiteAlarme>161</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-07-13</dateModification>
+<auteurCreation>Langley</auteurCreation>
+<auteurModification>Cally
+</auteurModification>
+</row>
+<row idProduit="6451">
+<idAlarme>5883</idAlarme>
+<nomProduit>NAFTIDROFURYL MYLAN 200 mg cp pellic</nomProduit>
+<codeProduit>4127b1</codeProduit>
+<prixProduit>383.0</prixProduit>
+<quantiteActuel>2018</quantiteActuel>
+<quantiteAlarme>487</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Brooks</auteurCreation>
+<auteurModification>Giacomo
+</auteurModification>
+</row>
+<row idProduit="6452">
+<idAlarme>5595</idAlarme>
+<nomProduit>NAFTIDROFURYL QUALIMED 100 mg gel</nomProduit>
+<codeProduit>3700c0</codeProduit>
+<prixProduit>1448.0</prixProduit>
+<quantiteActuel>1752</quantiteActuel>
+<quantiteAlarme>170</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-09-30</dateModification>
+<auteurCreation>Richard</auteurCreation>
+<auteurModification>Barclay
+</auteurModification>
+</row>
+<row idProduit="6453">
+<idAlarme>1712</idAlarme>
+<nomProduit>NAFTIDROFURYL QUALIMED 200 mg cp pellic</nomProduit>
+<codeProduit>1dfc04</codeProduit>
+<prixProduit>581.0</prixProduit>
+<quantiteActuel>2268</quantiteActuel>
+<quantiteAlarme>400</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-09-18</dateModification>
+<auteurCreation>Mejia</auteurCreation>
+<auteurModification>Sybill
+</auteurModification>
+</row>
+<row idProduit="6454">
+<idAlarme>5251</idAlarme>
+<nomProduit>NAFTIDROFURYL RANBAXY 200mg cp pellic</nomProduit>
+<codeProduit>c98b71</codeProduit>
+<prixProduit>802.0</prixProduit>
+<quantiteActuel>2549</quantiteActuel>
+<quantiteAlarme>352</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Anthony</auteurCreation>
+<auteurModification>Yoshi
+</auteurModification>
+</row>
+<row idProduit="6455">
+<idAlarme>237</idAlarme>
+<nomProduit>NAFTIDROFURYL RATIOPHARM 200mg cp pellic</nomProduit>
+<codeProduit>13984f</codeProduit>
+<prixProduit>694.0</prixProduit>
+<quantiteActuel>2551</quantiteActuel>
+<quantiteAlarme>492</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-05</dateCreation>
+<dateModification>2010-08-23</dateModification>
+<auteurCreation>Ward</auteurCreation>
+<auteurModification>Quyn
+</auteurModification>
+</row>
+<row idProduit="6456">
+<idAlarme>5810</idAlarme>
+<nomProduit>NAFTIDROFURYL TEVA 200mg cp pellic</nomProduit>
+<codeProduit>8eb80a</codeProduit>
+<prixProduit>578.0</prixProduit>
+<quantiteActuel>2880</quantiteActuel>
+<quantiteAlarme>148</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-26</dateCreation>
+<dateModification>2010-09-16</dateModification>
+<auteurCreation>Cervantes</auteurCreation>
+<auteurModification>Skyler
+</auteurModification>
+</row>
+<row idProduit="6457">
+<idAlarme>4716</idAlarme>
+<nomProduit>NAFTIDROFURYL WINTHROP 200mg cp pellic</nomProduit>
+<codeProduit>46312e</codeProduit>
+<prixProduit>1488.0</prixProduit>
+<quantiteActuel>2741</quantiteActuel>
+<quantiteAlarme>158</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-07-27</dateModification>
+<auteurCreation>Raymond</auteurCreation>
+<auteurModification>Megan
+</auteurModification>
+</row>
+<row idProduit="6458">
+<idAlarme>3435</idAlarme>
+<nomProduit>NAFTILUX 200 mg gel</nomProduit>
+<codeProduit>addf56</codeProduit>
+<prixProduit>650.0</prixProduit>
+<quantiteActuel>2765</quantiteActuel>
+<quantiteAlarme>333</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-09-13</dateModification>
+<auteurCreation>Erickson</auteurCreation>
+<auteurModification>Aurelia
+</auteurModification>
+</row>
+<row idProduit="6459">
+<idAlarme>8839</idAlarme>
+<nomProduit>NALADOR 500ug lyoph p us parenter</nomProduit>
+<codeProduit>10a91b</codeProduit>
+<prixProduit>1256.0</prixProduit>
+<quantiteActuel>2411</quantiteActuel>
+<quantiteAlarme>372</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-07-22</dateModification>
+<auteurCreation>Gallegos</auteurCreation>
+<auteurModification>Colleen
+</auteurModification>
+</row>
+<row idProduit="6460">
+<idAlarme>7159</idAlarme>
+<nomProduit>NALBUPHINE AGUETTANT 20 mg/2 ml sol inj</nomProduit>
+<codeProduit>bbdaab</codeProduit>
+<prixProduit>809.0</prixProduit>
+<quantiteActuel>2530</quantiteActuel>
+<quantiteAlarme>141</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-08-12</dateModification>
+<auteurCreation>Nielsen</auteurCreation>
+<auteurModification>Kylynn
+</auteurModification>
+</row>
+<row idProduit="6461">
+<idAlarme>4648</idAlarme>
+<nomProduit>NALBUPHINE MYLAN 20 mg/2 ml sol inj</nomProduit>
+<codeProduit>0a9a4e</codeProduit>
+<prixProduit>1128.0</prixProduit>
+<quantiteActuel>1977</quantiteActuel>
+<quantiteAlarme>112</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-12</dateCreation>
+<dateModification>2010-09-26</dateModification>
+<auteurCreation>Blake</auteurCreation>
+<auteurModification>Stuart
+</auteurModification>
+</row>
+<row idProduit="6462">
+<idAlarme>4568</idAlarme>
+<nomProduit>NALBUPHINE RENAUDIN 20mg/2ml sol inj</nomProduit>
+<codeProduit>d2b0e8</codeProduit>
+<prixProduit>514.0</prixProduit>
+<quantiteActuel>2463</quantiteActuel>
+<quantiteAlarme>271</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-09-25</dateModification>
+<auteurCreation>Cooley</auteurCreation>
+<auteurModification>Mona
+</auteurModification>
+</row>
+<row idProduit="6463">
+<idAlarme>1008</idAlarme>
+<nomProduit>NALBUPHINE SERB 20mg/2ml sol inj</nomProduit>
+<codeProduit>96f0a0</codeProduit>
+<prixProduit>1422.0</prixProduit>
+<quantiteActuel>2695</quantiteActuel>
+<quantiteAlarme>190</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-22</dateCreation>
+<dateModification>2010-09-01</dateModification>
+<auteurCreation>Gregory</auteurCreation>
+<auteurModification>Fatima
+</auteurModification>
+</row>
+<row idProduit="6464">
+<idAlarme>1395</idAlarme>
+<nomProduit>NALGESIC 300mg cp pellic</nomProduit>
+<codeProduit>687225</codeProduit>
+<prixProduit>812.0</prixProduit>
+<quantiteActuel>2684</quantiteActuel>
+<quantiteAlarme>276</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-09-14</dateModification>
+<auteurCreation>Kinney</auteurCreation>
+<auteurModification>Jackson
+</auteurModification>
+</row>
+<row idProduit="6465">
+<idAlarme>10415</idAlarme>
+<nomProduit>NALOREX 50mg cp pellic sec</nomProduit>
+<codeProduit>21de63</codeProduit>
+<prixProduit>1495.0</prixProduit>
+<quantiteActuel>2518</quantiteActuel>
+<quantiteAlarme>180</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-08-13</dateModification>
+<auteurCreation>Boyer</auteurCreation>
+<auteurModification>Thaddeus
+</auteurModification>
+</row>
+<row idProduit="6466">
+<idAlarme>8320</idAlarme>
+<nomProduit>NALOXONE AGUETTANT 0,4mg/ml sol inj</nomProduit>
+<codeProduit>d04c57</codeProduit>
+<prixProduit>745.0</prixProduit>
+<quantiteActuel>2336</quantiteActuel>
+<quantiteAlarme>121</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-06-20</dateModification>
+<auteurCreation>Christensen</auteurCreation>
+<auteurModification>Fritz
+</auteurModification>
+</row>
+<row idProduit="6467">
+<idAlarme>4125</idAlarme>
+<nomProduit>NALOXONE MYLAN 0,4 mg/ml sol inj</nomProduit>
+<codeProduit>dc1fb8</codeProduit>
+<prixProduit>626.0</prixProduit>
+<quantiteActuel>2485</quantiteActuel>
+<quantiteAlarme>265</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-08-09</dateModification>
+<auteurCreation>Pope</auteurCreation>
+<auteurModification>Melanie
+</auteurModification>
+</row>
+<row idProduit="6468">
+<idAlarme>6662</idAlarme>
+<nomProduit>NALTREXONE MYLAN 50 mg cp pellic sec</nomProduit>
+<codeProduit>ac6cce</codeProduit>
+<prixProduit>318.0</prixProduit>
+<quantiteActuel>2824</quantiteActuel>
+<quantiteAlarme>380</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-07-29</dateModification>
+<auteurCreation>Harrington</auteurCreation>
+<auteurModification>Fredericka
+</auteurModification>
+</row>
+<row idProduit="6469">
+<idAlarme>4532</idAlarme>
+<nomProduit>NANOCIS trousse p prep radiopharma lyoph/solv p sol inj rhenium/technetium</nomProduit>
+<codeProduit>5ccf18</codeProduit>
+<prixProduit>559.0</prixProduit>
+<quantiteActuel>2791</quantiteActuel>
+<quantiteAlarme>158</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-08-18</dateModification>
+<auteurCreation>Olsen</auteurCreation>
+<auteurModification>Jasper
+</auteurModification>
+</row>
+<row idProduit="6470">
+<idAlarme>9081</idAlarme>
+<nomProduit>NANOCOLL pdre p sol inj IV SC</nomProduit>
+<codeProduit>823c8a</codeProduit>
+<prixProduit>443.0</prixProduit>
+<quantiteActuel>1531</quantiteActuel>
+<quantiteAlarme>280</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Buchanan</auteurCreation>
+<auteurModification>Sonia
+</auteurModification>
+</row>
+<row idProduit="6471">
+<idAlarme>8624</idAlarme>
+<nomProduit>NAPROSYNE 1000mg cp</nomProduit>
+<codeProduit>b9fbff</codeProduit>
+<prixProduit>1478.0</prixProduit>
+<quantiteActuel>2311</quantiteActuel>
+<quantiteAlarme>112</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-08-19</dateModification>
+<auteurCreation>Mccullough</auteurCreation>
+<auteurModification>Robert
+</auteurModification>
+</row>
+<row idProduit="6472">
+<idAlarme>4155</idAlarme>
+<nomProduit>NAPROSYNE 250mg cp</nomProduit>
+<codeProduit>a1fe0b</codeProduit>
+<prixProduit>814.0</prixProduit>
+<quantiteActuel>2675</quantiteActuel>
+<quantiteAlarme>498</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-07-20</dateModification>
+<auteurCreation>James</auteurCreation>
+<auteurModification>John
+</auteurModification>
+</row>
+<row idProduit="6473">
+<idAlarme>6464</idAlarme>
+<nomProduit>NAPROSYNE 500 mg suppos</nomProduit>
+<codeProduit>e62838</codeProduit>
+<prixProduit>412.0</prixProduit>
+<quantiteActuel>2882</quantiteActuel>
+<quantiteAlarme>407</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-07-03</dateModification>
+<auteurCreation>Brady</auteurCreation>
+<auteurModification>Zephania
+</auteurModification>
+</row>
+<row idProduit="6474">
+<idAlarme>6523</idAlarme>
+<nomProduit>NAPROSYNE 500mg cp</nomProduit>
+<codeProduit>090c63</codeProduit>
+<prixProduit>919.0</prixProduit>
+<quantiteActuel>2954</quantiteActuel>
+<quantiteAlarme>400</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-07-06</dateModification>
+<auteurCreation>Porter</auteurCreation>
+<auteurModification>Beatrice
+</auteurModification>
+</row>
+<row idProduit="6475">
+<idAlarme>10216</idAlarme>
+<nomProduit>NAPROSYNE 750mg cp</nomProduit>
+<codeProduit>93c6d5</codeProduit>
+<prixProduit>960.0</prixProduit>
+<quantiteActuel>2064</quantiteActuel>
+<quantiteAlarme>478</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Stanley</auteurCreation>
+<auteurModification>Chiquita
+</auteurModification>
+</row>
+<row idProduit="6476">
+<idAlarme>1463</idAlarme>
+<nomProduit>NAPROXENE SODIQUE TEVA 275 mg cp pellic</nomProduit>
+<codeProduit>888c72</codeProduit>
+<prixProduit>545.0</prixProduit>
+<quantiteActuel>2145</quantiteActuel>
+<quantiteAlarme>442</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-08-05</dateModification>
+<auteurCreation>Mcmahon</auteurCreation>
+<auteurModification>Ivy
+</auteurModification>
+</row>
+<row idProduit="6477">
+<idAlarme>9282</idAlarme>
+<nomProduit>NAPROXENE SODIQUE TEVA 550 mg cp pellic</nomProduit>
+<codeProduit>a4e8d7</codeProduit>
+<prixProduit>572.0</prixProduit>
+<quantiteActuel>1661</quantiteActuel>
+<quantiteAlarme>376</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Stanton</auteurCreation>
+<auteurModification>Fredericka
+</auteurModification>
+</row>
+<row idProduit="6478">
+<idAlarme>5594</idAlarme>
+<nomProduit>NARAMIG 2,5mg cp pellic</nomProduit>
+<codeProduit>ff2649</codeProduit>
+<prixProduit>643.0</prixProduit>
+<quantiteActuel>1817</quantiteActuel>
+<quantiteAlarme>107</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-06-23</dateModification>
+<auteurCreation>Velez</auteurCreation>
+<auteurModification>Joy
+</auteurModification>
+</row>
+<row idProduit="6479">
+<idAlarme>9890</idAlarme>
+<nomProduit>NARCAN 0,4mg/ml sol inj</nomProduit>
+<codeProduit>14284f</codeProduit>
+<prixProduit>907.0</prixProduit>
+<quantiteActuel>1743</quantiteActuel>
+<quantiteAlarme>277</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-09-04</dateModification>
+<auteurCreation>Nguyen</auteurCreation>
+<auteurModification>Brenden
+</auteurModification>
+</row>
+<row idProduit="6480">
+<idAlarme>895</idAlarme>
+<nomProduit>NARCOZEP 1mg sol diluer/solv p sol inj</nomProduit>
+<codeProduit>05f56d</codeProduit>
+<prixProduit>1310.0</prixProduit>
+<quantiteActuel>2387</quantiteActuel>
+<quantiteAlarme>359</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-06-23</dateModification>
+<auteurCreation>Chen</auteurCreation>
+<auteurModification>Nasim
+</auteurModification>
+</row>
+<row idProduit="6481">
+<idAlarme>780</idAlarme>
+<nomProduit>NAROPEINE 10mg/ml sol inj</nomProduit>
+<codeProduit>dad361</codeProduit>
+<prixProduit>1205.0</prixProduit>
+<quantiteActuel>2324</quantiteActuel>
+<quantiteAlarme>228</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Sosa</auteurCreation>
+<auteurModification>Ivan
+</auteurModification>
+</row>
+<row idProduit="6482">
+<idAlarme>5964</idAlarme>
+<nomProduit>NAROPEINE 2mg/ml sol inj en ampoule</nomProduit>
+<codeProduit>2831d9</codeProduit>
+<prixProduit>1464.0</prixProduit>
+<quantiteActuel>2311</quantiteActuel>
+<quantiteAlarme>418</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-09-10</dateModification>
+<auteurCreation>Cannon</auteurCreation>
+<auteurModification>Amir
+</auteurModification>
+</row>
+<row idProduit="6483">
+<idAlarme>3357</idAlarme>
+<nomProduit>NAROPEINE 2mg/ml sol inj en poche</nomProduit>
+<codeProduit>1e5b75</codeProduit>
+<prixProduit>722.0</prixProduit>
+<quantiteActuel>2754</quantiteActuel>
+<quantiteAlarme>327</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-09-13</dateModification>
+<auteurCreation>Clarke</auteurCreation>
+<auteurModification>Dacey
+</auteurModification>
+</row>
+<row idProduit="6484">
+<idAlarme>10038</idAlarme>
+<nomProduit>NAROPEINE 5mg/ml sol inj</nomProduit>
+<codeProduit>2ba4d8</codeProduit>
+<prixProduit>660.0</prixProduit>
+<quantiteActuel>1935</quantiteActuel>
+<quantiteAlarme>402</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Gentry</auteurCreation>
+<auteurModification>Daphne
+</auteurModification>
+</row>
+<row idProduit="6485">
+<idAlarme>5702</idAlarme>
+<nomProduit>NAROPEINE 7,5mg/ml sol inj</nomProduit>
+<codeProduit>d71703</codeProduit>
+<prixProduit>1103.0</prixProduit>
+<quantiteActuel>1916</quantiteActuel>
+<quantiteAlarme>374</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-06-30</dateModification>
+<auteurCreation>Bryant</auteurCreation>
+<auteurModification>Laura
+</auteurModification>
+</row>
+<row idProduit="6486">
+<idAlarme>2024</idAlarme>
+<nomProduit>NASACORT 55 ug susp p pulv nasal</nomProduit>
+<codeProduit>61aa15</codeProduit>
+<prixProduit>630.0</prixProduit>
+<quantiteActuel>2862</quantiteActuel>
+<quantiteAlarme>215</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-08-31</dateModification>
+<auteurCreation>Peterson</auteurCreation>
+<auteurModification>Dane
+</auteurModification>
+</row>
+<row idProduit="6487">
+<idAlarme>2165</idAlarme>
+<nomProduit>NASALIDE 25 ug sol nasal</nomProduit>
+<codeProduit>12e1d1</codeProduit>
+<prixProduit>1095.0</prixProduit>
+<quantiteActuel>2526</quantiteActuel>
+<quantiteAlarme>244</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-10-06</dateModification>
+<auteurCreation>Bernard</auteurCreation>
+<auteurModification>Summer
+</auteurModification>
+</row>
+<row idProduit="6488">
+<idAlarme>10088</idAlarme>
+<nomProduit>NASONEX 50 ug susp p pulv nasal</nomProduit>
+<codeProduit>72bf21</codeProduit>
+<prixProduit>325.0</prixProduit>
+<quantiteActuel>1618</quantiteActuel>
+<quantiteAlarme>176</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-08-16</dateModification>
+<auteurCreation>Cox</auteurCreation>
+<auteurModification>Jakeem
+</auteurModification>
+</row>
+<row idProduit="6489">
+<idAlarme>1283</idAlarme>
+<nomProduit>NATECAL VITAMINE D3 600 mg/400 UI cp orodispers</nomProduit>
+<codeProduit>d8b58e</codeProduit>
+<prixProduit>469.0</prixProduit>
+<quantiteActuel>2546</quantiteActuel>
+<quantiteAlarme>353</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-09-24</dateModification>
+<auteurCreation>Hooper</auteurCreation>
+<auteurModification>Iliana
+</auteurModification>
+</row>
+<row idProduit="6490">
+<idAlarme>4003</idAlarme>
+<nomProduit>NATI-K 500 mg cp gastroresis</nomProduit>
+<codeProduit>4e8daa</codeProduit>
+<prixProduit>614.0</prixProduit>
+<quantiteActuel>2719</quantiteActuel>
+<quantiteAlarme>436</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Alexander</auteurCreation>
+<auteurModification>Iliana
+</auteurModification>
+</row>
+<row idProduit="6491">
+<idAlarme>2025</idAlarme>
+<nomProduit>NATISPRAY 0,15 mg/dose sol p pulv bucc</nomProduit>
+<codeProduit>ea9c1f</codeProduit>
+<prixProduit>765.0</prixProduit>
+<quantiteActuel>1516</quantiteActuel>
+<quantiteAlarme>108</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-09-29</dateModification>
+<auteurCreation>Guerra</auteurCreation>
+<auteurModification>Sacha
+</auteurModification>
+</row>
+<row idProduit="6492">
+<idAlarme>8633</idAlarme>
+<nomProduit>NATISPRAY 0,30mg/dose sol p pulv bucc</nomProduit>
+<codeProduit>664469</codeProduit>
+<prixProduit>675.0</prixProduit>
+<quantiteActuel>1877</quantiteActuel>
+<quantiteAlarme>224</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-09-27</dateModification>
+<auteurCreation>Pugh</auteurCreation>
+<auteurModification>Maile
+</auteurModification>
+</row>
+<row idProduit="6493">
+<idAlarme>1710</idAlarme>
+<nomProduit>NATULAN 50 mg gel</nomProduit>
+<codeProduit>f126ad</codeProduit>
+<prixProduit>739.0</prixProduit>
+<quantiteActuel>1927</quantiteActuel>
+<quantiteAlarme>448</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Mendoza</auteurCreation>
+<auteurModification>Arden
+</auteurModification>
+</row>
+<row idProduit="6494">
+<idAlarme>6290</idAlarme>
+<nomProduit>NAUSETUM cp subling</nomProduit>
+<codeProduit>35b437</codeProduit>
+<prixProduit>318.0</prixProduit>
+<quantiteActuel>2787</quantiteActuel>
+<quantiteAlarme>451</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-05</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Guerra</auteurCreation>
+<auteurModification>Nicholas
+</auteurModification>
+</row>
+<row idProduit="6495">
+<idAlarme>3926</idAlarme>
+<nomProduit>NAUSICALM 50 mg gel ad</nomProduit>
+<codeProduit>a15edb</codeProduit>
+<prixProduit>540.0</prixProduit>
+<quantiteActuel>1567</quantiteActuel>
+<quantiteAlarme>261</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-07-16</dateModification>
+<auteurCreation>Whitney</auteurCreation>
+<auteurModification>Fiona
+</auteurModification>
+</row>
+<row idProduit="6496">
+<idAlarme>7983</idAlarme>
+<nomProduit>NAUSICALM sirop</nomProduit>
+<codeProduit>b53dfd</codeProduit>
+<prixProduit>757.0</prixProduit>
+<quantiteActuel>2264</quantiteActuel>
+<quantiteAlarme>168</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-07-23</dateModification>
+<auteurCreation>Horn</auteurCreation>
+<auteurModification>Odette
+</auteurModification>
+</row>
+<row idProduit="6497">
+<idAlarme>5332</idAlarme>
+<nomProduit>NAUTAMINE 90 mg cp sec</nomProduit>
+<codeProduit>d8f0ca</codeProduit>
+<prixProduit>757.0</prixProduit>
+<quantiteActuel>1658</quantiteActuel>
+<quantiteAlarme>251</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-08-25</dateModification>
+<auteurCreation>Espinoza</auteurCreation>
+<auteurModification>Lesley
+</auteurModification>
+</row>
+<row idProduit="6498">
+<idAlarme>8557</idAlarme>
+<nomProduit>NAVELBINE 10mg/ml sol p perf</nomProduit>
+<codeProduit>5e4e40</codeProduit>
+<prixProduit>318.0</prixProduit>
+<quantiteActuel>2674</quantiteActuel>
+<quantiteAlarme>233</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-07-20</dateModification>
+<auteurCreation>Vinson</auteurCreation>
+<auteurModification>Cameron
+</auteurModification>
+</row>
+<row idProduit="6499">
+<idAlarme>3579</idAlarme>
+<nomProduit>NAVELBINE 20mg caps molle</nomProduit>
+<codeProduit>0ef9c6</codeProduit>
+<prixProduit>905.0</prixProduit>
+<quantiteActuel>2679</quantiteActuel>
+<quantiteAlarme>377</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-29</dateCreation>
+<dateModification>2010-09-07</dateModification>
+<auteurCreation>Mays</auteurCreation>
+<auteurModification>Emerson
+</auteurModification>
+</row>
+<row idProduit="6500">
+<idAlarme>5167</idAlarme>
+<nomProduit>NAVELBINE 30mg caps molle</nomProduit>
+<codeProduit>a352c0</codeProduit>
+<prixProduit>233.0</prixProduit>
+<quantiteActuel>1733</quantiteActuel>
+<quantiteAlarme>447</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Marsh</auteurCreation>
+<auteurModification>Dai
+</auteurModification>
+</row>
+<row idProduit="6501">
+<idAlarme>5223</idAlarme>
+<nomProduit>NAVELBINE 50mg/5ml sol p perf</nomProduit>
+<codeProduit>9a93be</codeProduit>
+<prixProduit>752.0</prixProduit>
+<quantiteActuel>1559</quantiteActuel>
+<quantiteAlarme>186</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-08-18</dateModification>
+<auteurCreation>Foreman</auteurCreation>
+<auteurModification>Alexis
+</auteurModification>
+</row>
+<row idProduit="6502">
+<idAlarme>5195</idAlarme>
+<nomProduit>NAVOBAN 5 mg gel</nomProduit>
+<codeProduit>857761</codeProduit>
+<prixProduit>662.0</prixProduit>
+<quantiteActuel>1931</quantiteActuel>
+<quantiteAlarme>356</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-09-03</dateModification>
+<auteurCreation>Burch</auteurCreation>
+<auteurModification>Jin
+</auteurModification>
+</row>
+<row idProduit="6503">
+<idAlarme>1974</idAlarme>
+<nomProduit>NAVOBAN 5mg/5ml sol inj</nomProduit>
+<codeProduit>5e4b30</codeProduit>
+<prixProduit>891.0</prixProduit>
+<quantiteActuel>1835</quantiteActuel>
+<quantiteAlarme>283</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-10-06</dateModification>
+<auteurCreation>Hinton</auteurCreation>
+<auteurModification>Uriah
+</auteurModification>
+</row>
+<row idProduit="6504">
+<idAlarme>2495</idAlarme>
+<nomProduit>NAXY 250mg cp pellic</nomProduit>
+<codeProduit>b93e82</codeProduit>
+<prixProduit>393.0</prixProduit>
+<quantiteActuel>1707</quantiteActuel>
+<quantiteAlarme>334</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-09-29</dateModification>
+<auteurCreation>Henson</auteurCreation>
+<auteurModification>Veronica
+</auteurModification>
+</row>
+<row idProduit="6505">
+<idAlarme>10288</idAlarme>
+<nomProduit>NAXY 25mg/ml gle p susp buv</nomProduit>
+<codeProduit>cedfd0</codeProduit>
+<prixProduit>539.0</prixProduit>
+<quantiteActuel>2414</quantiteActuel>
+<quantiteAlarme>455</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-08-16</dateModification>
+<auteurCreation>Garza</auteurCreation>
+<auteurModification>Pamela
+</auteurModification>
+</row>
+<row idProduit="6506">
+<idAlarme>6430</idAlarme>
+<nomProduit>NAXY 500mg cp pellic</nomProduit>
+<codeProduit>d01040</codeProduit>
+<prixProduit>202.0</prixProduit>
+<quantiteActuel>2231</quantiteActuel>
+<quantiteAlarme>355</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-07-02</dateModification>
+<auteurCreation>Roman</auteurCreation>
+<auteurModification>Griffith
+</auteurModification>
+</row>
+<row idProduit="6507">
+<idAlarme>5380</idAlarme>
+<nomProduit>NAXY 50mg/ml gle p susp buv</nomProduit>
+<codeProduit>85b0ff</codeProduit>
+<prixProduit>377.0</prixProduit>
+<quantiteActuel>2021</quantiteActuel>
+<quantiteAlarme>430</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-06-30</dateModification>
+<auteurCreation>Yates</auteurCreation>
+<auteurModification>Callum
+</auteurModification>
+</row>
+<row idProduit="6508">
+<idAlarme>7556</idAlarme>
+<nomProduit>NAZINETTE DU DR GILBERT pom nasal</nomProduit>
+<codeProduit>95295a</codeProduit>
+<prixProduit>1069.0</prixProduit>
+<quantiteActuel>1593</quantiteActuel>
+<quantiteAlarme>106</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-18</dateCreation>
+<dateModification>2010-08-21</dateModification>
+<auteurCreation>Dunn</auteurCreation>
+<auteurModification>Vladimir
+</auteurModification>
+</row>
+<row idProduit="6509">
+<idAlarme>3045</idAlarme>
+<nomProduit>NEBCINE 100mg sol inj</nomProduit>
+<codeProduit>05ffa9</codeProduit>
+<prixProduit>1430.0</prixProduit>
+<quantiteActuel>2028</quantiteActuel>
+<quantiteAlarme>218</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-09-02</dateModification>
+<auteurCreation>Spencer</auteurCreation>
+<auteurModification>Libby
+</auteurModification>
+</row>
+<row idProduit="6510">
+<idAlarme>6656</idAlarme>
+<nomProduit>NEBCINE 25mg sol inj</nomProduit>
+<codeProduit>42afe0</codeProduit>
+<prixProduit>1011.0</prixProduit>
+<quantiteActuel>1696</quantiteActuel>
+<quantiteAlarme>460</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-07-16</dateModification>
+<auteurCreation>Griffith</auteurCreation>
+<auteurModification>Jelani
+</auteurModification>
+</row>
+<row idProduit="6511">
+<idAlarme>4230</idAlarme>
+<nomProduit>NEBCINE 75mg sol inj</nomProduit>
+<codeProduit>19a4aa</codeProduit>
+<prixProduit>942.0</prixProduit>
+<quantiteActuel>2714</quantiteActuel>
+<quantiteAlarme>236</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Shepherd</auteurCreation>
+<auteurModification>Conan
+</auteurModification>
+</row>
+<row idProduit="6512">
+<idAlarme>1544</idAlarme>
+<nomProduit>NEBIDO 1000mg/4ml sol inj</nomProduit>
+<codeProduit>bbdef1</codeProduit>
+<prixProduit>1116.0</prixProduit>
+<quantiteActuel>2199</quantiteActuel>
+<quantiteAlarme>141</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-09-21</dateModification>
+<auteurCreation>Lewis</auteurCreation>
+<auteurModification>Xenos
+</auteurModification>
+</row>
+<row idProduit="6513">
+<idAlarme>2956</idAlarme>
+<nomProduit>NEBILOX 5mg cp quadrisec</nomProduit>
+<codeProduit>664aab</codeProduit>
+<prixProduit>586.0</prixProduit>
+<quantiteActuel>1758</quantiteActuel>
+<quantiteAlarme>409</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-07-17</dateModification>
+<auteurCreation>Boyle</auteurCreation>
+<auteurModification>Martena
+</auteurModification>
+</row>
+<row idProduit="6514">
+<idAlarme>5541</idAlarme>
+<nomProduit>NEBIVOLOL ACTAVIS 5 mg cp quadrisec</nomProduit>
+<codeProduit>1b1c37</codeProduit>
+<prixProduit>784.0</prixProduit>
+<quantiteActuel>1794</quantiteActuel>
+<quantiteAlarme>130</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-06-27</dateModification>
+<auteurCreation>Keith</auteurCreation>
+<auteurModification>Jelani
+</auteurModification>
+</row>
+<row idProduit="6515">
+<idAlarme>4790</idAlarme>
+<nomProduit>NEBIVOLOL ARROW 5 mg cp quadrisec</nomProduit>
+<codeProduit>58a34d</codeProduit>
+<prixProduit>365.0</prixProduit>
+<quantiteActuel>2644</quantiteActuel>
+<quantiteAlarme>129</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-07-09</dateModification>
+<auteurCreation>Schroeder</auteurCreation>
+<auteurModification>Clarke
+</auteurModification>
+</row>
+<row idProduit="6516">
+<idAlarme>2605</idAlarme>
+<nomProduit>NEBIVOLOL BIOGARAN 5 mg cp quadrisec</nomProduit>
+<codeProduit>17af22</codeProduit>
+<prixProduit>981.0</prixProduit>
+<quantiteActuel>1719</quantiteActuel>
+<quantiteAlarme>459</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-27</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Abbott</auteurCreation>
+<auteurModification>Berk
+</auteurModification>
+</row>
+<row idProduit="6517">
+<idAlarme>3094</idAlarme>
+<nomProduit>NEBIVOLOL EG 5mg cp quadrisec</nomProduit>
+<codeProduit>0d181a</codeProduit>
+<prixProduit>1319.0</prixProduit>
+<quantiteActuel>2157</quantiteActuel>
+<quantiteAlarme>190</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-08-25</dateModification>
+<auteurCreation>Kerr</auteurCreation>
+<auteurModification>Daryl
+</auteurModification>
+</row>
+<row idProduit="6518">
+<idAlarme>8035</idAlarme>
+<nomProduit>NEBIVOLOL EVOLUGEN 5 mg cp quadrisec</nomProduit>
+<codeProduit>dfc827</codeProduit>
+<prixProduit>611.0</prixProduit>
+<quantiteActuel>1598</quantiteActuel>
+<quantiteAlarme>283</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-07-29</dateModification>
+<auteurCreation>Keller</auteurCreation>
+<auteurModification>Sandra
+</auteurModification>
+</row>
+<row idProduit="6519">
+<idAlarme>8052</idAlarme>
+<nomProduit>NEBIVOLOL MYLAN 5 mg cp quadrisec</nomProduit>
+<codeProduit>d8c02c</codeProduit>
+<prixProduit>152.0</prixProduit>
+<quantiteActuel>2902</quantiteActuel>
+<quantiteAlarme>349</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-07-24</dateModification>
+<auteurCreation>Perez</auteurCreation>
+<auteurModification>Clinton
+</auteurModification>
+</row>
+<row idProduit="6520">
+<idAlarme>2490</idAlarme>
+<nomProduit>NEBIVOLOL QUALIMED 5 mg cp quadrisec</nomProduit>
+<codeProduit>ebe202</codeProduit>
+<prixProduit>1299.0</prixProduit>
+<quantiteActuel>1536</quantiteActuel>
+<quantiteAlarme>271</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-08-31</dateModification>
+<auteurCreation>Tillman</auteurCreation>
+<auteurModification>Rhonda
+</auteurModification>
+</row>
+<row idProduit="6521">
+<idAlarme>1809</idAlarme>
+<nomProduit>NEBIVOLOL RANBAXY 5 mg cp quadrisec</nomProduit>
+<codeProduit>da018f</codeProduit>
+<prixProduit>1045.0</prixProduit>
+<quantiteActuel>1750</quantiteActuel>
+<quantiteAlarme>345</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-12</dateCreation>
+<dateModification>2010-09-06</dateModification>
+<auteurCreation>Nixon</auteurCreation>
+<auteurModification>Malachi
+</auteurModification>
+</row>
+<row idProduit="6522">
+<idAlarme>3250</idAlarme>
+<nomProduit>NEBIVOLOL RATIOPHARM 5 mg cp quadrisec</nomProduit>
+<codeProduit>e44b93</codeProduit>
+<prixProduit>249.0</prixProduit>
+<quantiteActuel>1837</quantiteActuel>
+<quantiteAlarme>179</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-07-31</dateModification>
+<auteurCreation>Elliott</auteurCreation>
+<auteurModification>Gareth
+</auteurModification>
+</row>
+<row idProduit="6523">
+<idAlarme>9726</idAlarme>
+<nomProduit>NEBIVOLOL SANDOZ 5 mg cp quadrisec</nomProduit>
+<codeProduit>ec5ada</codeProduit>
+<prixProduit>587.0</prixProduit>
+<quantiteActuel>1755</quantiteActuel>
+<quantiteAlarme>257</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>Mullen</auteurCreation>
+<auteurModification>Bradley
+</auteurModification>
+</row>
+<row idProduit="6524">
+<idAlarme>8788</idAlarme>
+<nomProduit>NEBIVOLOL TEVA 5 mg cp quadrisec</nomProduit>
+<codeProduit>85568d</codeProduit>
+<prixProduit>183.0</prixProduit>
+<quantiteActuel>1510</quantiteActuel>
+<quantiteAlarme>247</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Wong</auteurCreation>
+<auteurModification>Iris
+</auteurModification>
+</row>
+<row idProduit="6525">
+<idAlarme>2730</idAlarme>
+<nomProduit>NEBIVOLOL WINTHROP 5 mg cp quadrisec</nomProduit>
+<codeProduit>105598</codeProduit>
+<prixProduit>1352.0</prixProduit>
+<quantiteActuel>2781</quantiteActuel>
+<quantiteAlarme>114</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-10-02</dateModification>
+<auteurCreation>Bryan</auteurCreation>
+<auteurModification>Rinah
+</auteurModification>
+</row>
+<row idProduit="6526">
+<idAlarme>6692</idAlarme>
+<nomProduit>NEBIVOLOL ZYDUS 5 mg cp quadrisec</nomProduit>
+<codeProduit>98a608</codeProduit>
+<prixProduit>891.0</prixProduit>
+<quantiteActuel>2661</quantiteActuel>
+<quantiteAlarme>326</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Hinton</auteurCreation>
+<auteurModification>Lucius
+</auteurModification>
+</row>
+<row idProduit="6527">
+<idAlarme>245</idAlarme>
+<nomProduit>NECYRANE sol nasal</nomProduit>
+<codeProduit>8c0701</codeProduit>
+<prixProduit>1405.0</prixProduit>
+<quantiteActuel>2395</quantiteActuel>
+<quantiteAlarme>242</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Dickson</auteurCreation>
+<auteurModification>Leilani
+</auteurModification>
+</row>
+<row idProduit="6528">
+<idAlarme>2694</idAlarme>
+<nomProduit>NEFOPAM MYLAN 20 mg/2 ml sol inj</nomProduit>
+<codeProduit>5bf9d9</codeProduit>
+<prixProduit>1463.0</prixProduit>
+<quantiteActuel>2011</quantiteActuel>
+<quantiteAlarme>283</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-09-01</dateModification>
+<auteurCreation>Hunt</auteurCreation>
+<auteurModification>Darius
+</auteurModification>
+</row>
+<row idProduit="6529">
+<idAlarme>4208</idAlarme>
+<nomProduit>NEISVAC susp inj IM</nomProduit>
+<codeProduit>dcd8ed</codeProduit>
+<prixProduit>1159.0</prixProduit>
+<quantiteActuel>2923</quantiteActuel>
+<quantiteAlarme>436</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-09-21</dateModification>
+<auteurCreation>Gordon</auteurCreation>
+<auteurModification>Omar
+</auteurModification>
+</row>
+<row idProduit="6530">
+<idAlarme>7474</idAlarme>
+<nomProduit>NEO-CODION cp enr</nomProduit>
+<codeProduit>a171ea</codeProduit>
+<prixProduit>1073.0</prixProduit>
+<quantiteActuel>2777</quantiteActuel>
+<quantiteAlarme>404</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Levy</auteurCreation>
+<auteurModification>Noble
+</auteurModification>
+</row>
+<row idProduit="6531">
+<idAlarme>6991</idAlarme>
+<nomProduit>NEO-CODION sirop adulte</nomProduit>
+<codeProduit>07b5ef</codeProduit>
+<prixProduit>1166.0</prixProduit>
+<quantiteActuel>2220</quantiteActuel>
+<quantiteAlarme>427</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-07-13</dateModification>
+<auteurCreation>Mcclain</auteurCreation>
+<auteurModification>Kuame
+</auteurModification>
+</row>
+<row idProduit="6532">
+<idAlarme>2352</idAlarme>
+<nomProduit>NEO-CODION sirop enfant</nomProduit>
+<codeProduit>01db47</codeProduit>
+<prixProduit>1395.0</prixProduit>
+<quantiteActuel>2713</quantiteActuel>
+<quantiteAlarme>422</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-29</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Reyes</auteurCreation>
+<auteurModification>Zia
+</auteurModification>
+</row>
+<row idProduit="6533">
+<idAlarme>9872</idAlarme>
+<nomProduit>NEO-CODION sirop nourrisson</nomProduit>
+<codeProduit>e5aff7</codeProduit>
+<prixProduit>1112.0</prixProduit>
+<quantiteActuel>2335</quantiteActuel>
+<quantiteAlarme>162</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-08-24</dateModification>
+<auteurCreation>Shannon</auteurCreation>
+<auteurModification>Hayes
+</auteurModification>
+</row>
+<row idProduit="6534">
+<idAlarme>10545</idAlarme>
+<nomProduit>NEOCONES cone p us dent</nomProduit>
+<codeProduit>45999f</codeProduit>
+<prixProduit>984.0</prixProduit>
+<quantiteActuel>2757</quantiteActuel>
+<quantiteAlarme>319</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Langley</auteurCreation>
+<auteurModification>Branden
+</auteurModification>
+</row>
+<row idProduit="6535">
+<idAlarme>9841</idAlarme>
+<nomProduit>NEODEX 40 mg cp sec</nomProduit>
+<codeProduit>e918d9</codeProduit>
+<prixProduit>1385.0</prixProduit>
+<quantiteActuel>2319</quantiteActuel>
+<quantiteAlarme>122</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-10-05</dateModification>
+<auteurCreation>Finley</auteurCreation>
+<auteurModification>Talon
+</auteurModification>
+</row>
+<row idProduit="6536">
+<idAlarme>10073</idAlarme>
+<nomProduit>NEO-MERCAZOLE 20mg cp</nomProduit>
+<codeProduit>6a7228</codeProduit>
+<prixProduit>1437.0</prixProduit>
+<quantiteActuel>2303</quantiteActuel>
+<quantiteAlarme>131</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-09-17</dateModification>
+<auteurCreation>Koch</auteurCreation>
+<auteurModification>Darrel
+</auteurModification>
+</row>
+<row idProduit="6537">
+<idAlarme>7515</idAlarme>
+<nomProduit>NEO-MERCAZOLE 5mg cp</nomProduit>
+<codeProduit>db8618</codeProduit>
+<prixProduit>156.0</prixProduit>
+<quantiteActuel>2831</quantiteActuel>
+<quantiteAlarme>270</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Wallace</auteurCreation>
+<auteurModification>Ursula
+</auteurModification>
+</row>
+<row idProduit="6538">
+<idAlarme>5018</idAlarme>
+<nomProduit>NEORAL 10 mg caps</nomProduit>
+<codeProduit>490b0e</codeProduit>
+<prixProduit>1341.0</prixProduit>
+<quantiteActuel>2372</quantiteActuel>
+<quantiteAlarme>327</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-10-02</dateModification>
+<auteurCreation>Calhoun</auteurCreation>
+<auteurModification>Raymond
+</auteurModification>
+</row>
+<row idProduit="6539">
+<idAlarme>4504</idAlarme>
+<nomProduit>NEORAL 100 mg caps</nomProduit>
+<codeProduit>32eb5d</codeProduit>
+<prixProduit>494.0</prixProduit>
+<quantiteActuel>1823</quantiteActuel>
+<quantiteAlarme>313</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-09-20</dateModification>
+<auteurCreation>Franklin</auteurCreation>
+<auteurModification>Aretha
+</auteurModification>
+</row>
+<row idProduit="6540">
+<idAlarme>1772</idAlarme>
+<nomProduit>NEORAL 100 mg/ml sol buv</nomProduit>
+<codeProduit>6e8e40</codeProduit>
+<prixProduit>328.0</prixProduit>
+<quantiteActuel>1934</quantiteActuel>
+<quantiteAlarme>293</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-05</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Olsen</auteurCreation>
+<auteurModification>Oscar
+</auteurModification>
+</row>
+<row idProduit="6541">
+<idAlarme>766</idAlarme>
+<nomProduit>NEORAL 25 mg caps</nomProduit>
+<codeProduit>9877de</codeProduit>
+<prixProduit>865.0</prixProduit>
+<quantiteActuel>2601</quantiteActuel>
+<quantiteAlarme>320</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-08-01</dateModification>
+<auteurCreation>Daniel</auteurCreation>
+<auteurModification>Keelie
+</auteurModification>
+</row>
+<row idProduit="6542">
+<idAlarme>6398</idAlarme>
+<nomProduit>NEORAL 50 mg caps</nomProduit>
+<codeProduit>98a3fc</codeProduit>
+<prixProduit>465.0</prixProduit>
+<quantiteActuel>2227</quantiteActuel>
+<quantiteAlarme>194</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-26</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Nichols</auteurCreation>
+<auteurModification>Anthony
+</auteurModification>
+</row>
+<row idProduit="6543">
+<idAlarme>2529</idAlarme>
+<nomProduit>NEORECORMON 10 000 UI sol inj</nomProduit>
+<codeProduit>f1c7b0</codeProduit>
+<prixProduit>1135.0</prixProduit>
+<quantiteActuel>1536</quantiteActuel>
+<quantiteAlarme>499</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-07-31</dateModification>
+<auteurCreation>Blanchard</auteurCreation>
+<auteurModification>Demetria
+</auteurModification>
+</row>
+<row idProduit="6544">
+<idAlarme>874</idAlarme>
+<nomProduit>NEORECORMON 20 000 UI sol inj en ser preremplie</nomProduit>
+<codeProduit>d9b8a8</codeProduit>
+<prixProduit>1185.0</prixProduit>
+<quantiteActuel>2844</quantiteActuel>
+<quantiteAlarme>431</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-09-13</dateModification>
+<auteurCreation>Joyner</auteurCreation>
+<auteurModification>Wilma
+</auteurModification>
+</row>
+<row idProduit="6545">
+<idAlarme>9090</idAlarme>
+<nomProduit>NEORECORMON 2000 UI sol inj en ser preremplie</nomProduit>
+<codeProduit>116f44</codeProduit>
+<prixProduit>1053.0</prixProduit>
+<quantiteActuel>2789</quantiteActuel>
+<quantiteAlarme>495</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-06-17</dateModification>
+<auteurCreation>Rocha</auteurCreation>
+<auteurModification>Melissa
+</auteurModification>
+</row>
+<row idProduit="6546">
+<idAlarme>3799</idAlarme>
+<nomProduit>NEORECORMON 30 000 UI sol inj en ser preremplie</nomProduit>
+<codeProduit>f8ab05</codeProduit>
+<prixProduit>627.0</prixProduit>
+<quantiteActuel>1826</quantiteActuel>
+<quantiteAlarme>256</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Lowe</auteurCreation>
+<auteurModification>Chiquita
+</auteurModification>
+</row>
+<row idProduit="6547">
+<idAlarme>10182</idAlarme>
+<nomProduit>NEORECORMON 3000 UI sol inj en ser preremplie</nomProduit>
+<codeProduit>6d5aee</codeProduit>
+<prixProduit>1311.0</prixProduit>
+<quantiteActuel>2260</quantiteActuel>
+<quantiteAlarme>115</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-22</dateCreation>
+<dateModification>2010-08-25</dateModification>
+<auteurCreation>Pratt</auteurCreation>
+<auteurModification>Tatyana
+</auteurModification>
+</row>
+<row idProduit="6548">
+<idAlarme>4409</idAlarme>
+<nomProduit>NEORECORMON 4000 UI sol inj en ser preremplie</nomProduit>
+<codeProduit>7383f2</codeProduit>
+<prixProduit>285.0</prixProduit>
+<quantiteActuel>1925</quantiteActuel>
+<quantiteAlarme>220</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-07-20</dateModification>
+<auteurCreation>Beard</auteurCreation>
+<auteurModification>Charity
+</auteurModification>
+</row>
+<row idProduit="6549">
+<idAlarme>4444</idAlarme>
+<nomProduit>NEORECORMON 500 UI/0,3 ml sol inj en ser preremplie</nomProduit>
+<codeProduit>7bb550</codeProduit>
+<prixProduit>307.0</prixProduit>
+<quantiteActuel>2478</quantiteActuel>
+<quantiteAlarme>411</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-07-01</dateModification>
+<auteurCreation>Francis</auteurCreation>
+<auteurModification>Tatyana
+</auteurModification>
+</row>
+<row idProduit="6550">
+<idAlarme>2169</idAlarme>
+<nomProduit>NEORECORMON 5000 UI sol inj en ser preremplie</nomProduit>
+<codeProduit>f14740</codeProduit>
+<prixProduit>1212.0</prixProduit>
+<quantiteActuel>1698</quantiteActuel>
+<quantiteAlarme>110</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Cain</auteurCreation>
+<auteurModification>Raymond
+</auteurModification>
+</row>
+<row idProduit="6551">
+<idAlarme>7341</idAlarme>
+<nomProduit>NEORECORMON 6000 UI sol inj en ser preremplie</nomProduit>
+<codeProduit>51b8c8</codeProduit>
+<prixProduit>466.0</prixProduit>
+<quantiteActuel>1730</quantiteActuel>
+<quantiteAlarme>230</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-18</dateCreation>
+<dateModification>2010-07-10</dateModification>
+<auteurCreation>Kelley</auteurCreation>
+<auteurModification>Troy
+</auteurModification>
+</row>
+<row idProduit="6552">
+<idAlarme>4129</idAlarme>
+<nomProduit>NEOSYNEPHRINE AP-HP 5mg/ml sol inj</nomProduit>
+<codeProduit>ae3446</codeProduit>
+<prixProduit>495.0</prixProduit>
+<quantiteActuel>2703</quantiteActuel>
+<quantiteAlarme>409</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-08-14</dateModification>
+<auteurCreation>Durham</auteurCreation>
+<auteurModification>Karleigh
+</auteurModification>
+</row>
+<row idProduit="6553">
+<idAlarme>6293</idAlarme>
+<nomProduit>NEOSYNEPHRINE FAURE 10 % collyre en unidose</nomProduit>
+<codeProduit>c3fa91</codeProduit>
+<prixProduit>393.0</prixProduit>
+<quantiteActuel>2704</quantiteActuel>
+<quantiteAlarme>346</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Fuentes</auteurCreation>
+<auteurModification>Imelda
+</auteurModification>
+</row>
+<row idProduit="6554">
+<idAlarme>1178</idAlarme>
+<nomProduit>NEOSYNEPHRINE FAURE 10% collyre sol</nomProduit>
+<codeProduit>f40ab7</codeProduit>
+<prixProduit>512.0</prixProduit>
+<quantiteActuel>1849</quantiteActuel>
+<quantiteAlarme>417</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-07-13</dateModification>
+<auteurCreation>Slater</auteurCreation>
+<auteurModification>Lunea
+</auteurModification>
+</row>
+<row idProduit="6555">
+<idAlarme>272</idAlarme>
+<nomProduit>NEOSYNEPHRINE FAURE 5% collyre sol</nomProduit>
+<codeProduit>cc2d93</codeProduit>
+<prixProduit>746.0</prixProduit>
+<quantiteActuel>2780</quantiteActuel>
+<quantiteAlarme>139</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-08-23</dateModification>
+<auteurCreation>Camacho</auteurCreation>
+<auteurModification>Shelby
+</auteurModification>
+</row>
+<row idProduit="6556">
+<idAlarme>7623</idAlarme>
+<nomProduit>NEPHROMAG 0,2mg trousse p prep pharma</nomProduit>
+<codeProduit>4f1f43</codeProduit>
+<prixProduit>1049.0</prixProduit>
+<quantiteActuel>2567</quantiteActuel>
+<quantiteAlarme>470</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-07-03</dateModification>
+<auteurCreation>Rodriquez</auteurCreation>
+<auteurModification>Guinevere
+</auteurModification>
+</row>
+<row idProduit="6557">
+<idAlarme>7710</idAlarme>
+<nomProduit>NEPRESSOL 25mg/2ml pdre/solv p sol inj</nomProduit>
+<codeProduit>8841cd</codeProduit>
+<prixProduit>1348.0</prixProduit>
+<quantiteActuel>2706</quantiteActuel>
+<quantiteAlarme>154</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-09-14</dateModification>
+<auteurCreation>Love</auteurCreation>
+<auteurModification>Jenna
+</auteurModification>
+</row>
+<row idProduit="6558">
+<idAlarme>5774</idAlarme>
+<nomProduit>NERISALIC creme</nomProduit>
+<codeProduit>61945d</codeProduit>
+<prixProduit>378.0</prixProduit>
+<quantiteActuel>2787</quantiteActuel>
+<quantiteAlarme>476</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-08-24</dateModification>
+<auteurCreation>Lucas</auteurCreation>
+<auteurModification>Barclay
+</auteurModification>
+</row>
+<row idProduit="6559">
+<idAlarme>523</idAlarme>
+<nomProduit>NERISONE 0,1 % creme</nomProduit>
+<codeProduit>d46c6c</codeProduit>
+<prixProduit>977.0</prixProduit>
+<quantiteActuel>2888</quantiteActuel>
+<quantiteAlarme>113</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-07-15</dateModification>
+<auteurCreation>Foster</auteurCreation>
+<auteurModification>Russell
+</auteurModification>
+</row>
+<row idProduit="6560">
+<idAlarme>6642</idAlarme>
+<nomProduit>NERISONE 0,1% pom</nomProduit>
+<codeProduit>a32a11</codeProduit>
+<prixProduit>1422.0</prixProduit>
+<quantiteActuel>2700</quantiteActuel>
+<quantiteAlarme>463</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-08-29</dateModification>
+<auteurCreation>Andrews</auteurCreation>
+<auteurModification>Dacey
+</auteurModification>
+</row>
+<row idProduit="6561">
+<idAlarme>7044</idAlarme>
+<nomProduit>NERISONE C creme</nomProduit>
+<codeProduit>442b9f</codeProduit>
+<prixProduit>548.0</prixProduit>
+<quantiteActuel>2103</quantiteActuel>
+<quantiteAlarme>154</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>Lopez</auteurCreation>
+<auteurModification>Mark
+</auteurModification>
+</row>
+<row idProduit="6562">
+<idAlarme>5072</idAlarme>
+<nomProduit>NERISONE GRAS 0,1% pom</nomProduit>
+<codeProduit>1a8cbb</codeProduit>
+<prixProduit>1297.0</prixProduit>
+<quantiteActuel>1751</quantiteActuel>
+<quantiteAlarme>383</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-07-02</dateModification>
+<auteurCreation>Gilbert</auteurCreation>
+<auteurModification>Xavier
+</auteurModification>
+</row>
+<row idProduit="6563">
+<idAlarme>3806</idAlarme>
+<nomProduit>NERVOPAX cp</nomProduit>
+<codeProduit>c428d0</codeProduit>
+<prixProduit>168.0</prixProduit>
+<quantiteActuel>2508</quantiteActuel>
+<quantiteAlarme>151</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Callahan</auteurCreation>
+<auteurModification>Aquila
+</auteurModification>
+</row>
+<row idProduit="6564">
+<idAlarme>8775</idAlarme>
+<nomProduit>NESTOSYL pom</nomProduit>
+<codeProduit>e715e2</codeProduit>
+<prixProduit>386.0</prixProduit>
+<quantiteActuel>1915</quantiteActuel>
+<quantiteAlarme>151</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Lucas</auteurCreation>
+<auteurModification>Rhea
+</auteurModification>
+</row>
+<row idProduit="6565">
+<idAlarme>7924</idAlarme>
+<nomProduit>NESTOSYL sol p appl cut</nomProduit>
+<codeProduit>58d812</codeProduit>
+<prixProduit>598.0</prixProduit>
+<quantiteActuel>2640</quantiteActuel>
+<quantiteAlarme>203</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Tillman</auteurCreation>
+<auteurModification>Kim
+</auteurModification>
+</row>
+<row idProduit="6566">
+<idAlarme>4019</idAlarme>
+<nomProduit>NETROMICINE 100mg/1ml sol inj</nomProduit>
+<codeProduit>f59553</codeProduit>
+<prixProduit>374.0</prixProduit>
+<quantiteActuel>1968</quantiteActuel>
+<quantiteAlarme>297</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-08-01</dateModification>
+<auteurCreation>Maddox</auteurCreation>
+<auteurModification>Vivian
+</auteurModification>
+</row>
+<row idProduit="6567">
+<idAlarme>552</idAlarme>
+<nomProduit>NETROMICINE 150mg/1,5ml sol inj</nomProduit>
+<codeProduit>709a7e</codeProduit>
+<prixProduit>751.0</prixProduit>
+<quantiteActuel>2405</quantiteActuel>
+<quantiteAlarme>347</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-09-02</dateModification>
+<auteurCreation>Mccarty</auteurCreation>
+<auteurModification>Hamilton
+</auteurModification>
+</row>
+<row idProduit="6568">
+<idAlarme>5774</idAlarme>
+<nomProduit>NETROMICINE 25 mg/1 ml sol inj pediatrique</nomProduit>
+<codeProduit>3a460f</codeProduit>
+<prixProduit>207.0</prixProduit>
+<quantiteActuel>2924</quantiteActuel>
+<quantiteAlarme>100</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-07-27</dateModification>
+<auteurCreation>Galloway</auteurCreation>
+<auteurModification>Candice
+</auteurModification>
+</row>
+<row idProduit="6569">
+<idAlarme>8701</idAlarme>
+<nomProduit>NETROMICINE 50mg/2ml sol inj</nomProduit>
+<codeProduit>1fc1b7</codeProduit>
+<prixProduit>1214.0</prixProduit>
+<quantiteActuel>1502</quantiteActuel>
+<quantiteAlarme>255</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-09-21</dateModification>
+<auteurCreation>Gallagher</auteurCreation>
+<auteurModification>Ariana
+</auteurModification>
+</row>
+<row idProduit="6570">
+<idAlarme>2286</idAlarme>
+<nomProduit>NETTOYANT ESSILOR pdre p contactol</nomProduit>
+<codeProduit>754fcc</codeProduit>
+<prixProduit>464.0</prixProduit>
+<quantiteActuel>2251</quantiteActuel>
+<quantiteAlarme>333</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-09-01</dateModification>
+<auteurCreation>Jacobson</auteurCreation>
+<auteurModification>Vladimir
+</auteurModification>
+</row>
+<row idProduit="6571">
+<idAlarme>7587</idAlarme>
+<nomProduit>NEULASTA 6mg sol inj</nomProduit>
+<codeProduit>d6deb1</codeProduit>
+<prixProduit>213.0</prixProduit>
+<quantiteActuel>2843</quantiteActuel>
+<quantiteAlarme>435</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Wolf</auteurCreation>
+<auteurModification>Leila
+</auteurModification>
+</row>
+<row idProduit="6572">
+<idAlarme>5226</idAlarme>
+<nomProduit>NEULEPTIL 1 % sol buv</nomProduit>
+<codeProduit>535c94</codeProduit>
+<prixProduit>1273.0</prixProduit>
+<quantiteActuel>2592</quantiteActuel>
+<quantiteAlarme>324</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Wells</auteurCreation>
+<auteurModification>Laith
+</auteurModification>
+</row>
+<row idProduit="6573">
+<idAlarme>2447</idAlarme>
+<nomProduit>NEULEPTIL 10 mg gel</nomProduit>
+<codeProduit>90ba81</codeProduit>
+<prixProduit>497.0</prixProduit>
+<quantiteActuel>1759</quantiteActuel>
+<quantiteAlarme>439</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-08-06</dateModification>
+<auteurCreation>Randolph</auteurCreation>
+<auteurModification>Zachary
+</auteurModification>
+</row>
+<row idProduit="6574">
+<idAlarme>4821</idAlarme>
+<nomProduit>NEULEPTIL 25mg cp pellic sec</nomProduit>
+<codeProduit>19b074</codeProduit>
+<prixProduit>719.0</prixProduit>
+<quantiteActuel>2770</quantiteActuel>
+<quantiteAlarme>181</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-08-20</dateModification>
+<auteurCreation>Morgan</auteurCreation>
+<auteurModification>Jane
+</auteurModification>
+</row>
+<row idProduit="6575">
+<idAlarme>4786</idAlarme>
+<nomProduit>NEULEPTIL 4 % sol buv</nomProduit>
+<codeProduit>b15101</codeProduit>
+<prixProduit>1253.0</prixProduit>
+<quantiteActuel>1579</quantiteActuel>
+<quantiteAlarme>154</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-09-29</dateModification>
+<auteurCreation>Terry</auteurCreation>
+<auteurModification>Hedwig
+</auteurModification>
+</row>
+<row idProduit="6576">
+<idAlarme>9441</idAlarme>
+<nomProduit>NEUPOGEN 30 MU/0,5 ml (0,6 mg/ml) sol inj</nomProduit>
+<codeProduit>b9d66a</codeProduit>
+<prixProduit>222.0</prixProduit>
+<quantiteActuel>1620</quantiteActuel>
+<quantiteAlarme>323</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Adkins</auteurCreation>
+<auteurModification>Harriet
+</auteurModification>
+</row>
+<row idProduit="6577">
+<idAlarme>8626</idAlarme>
+<nomProduit>NEUPOGEN 30MU (0,3mg/ml) sol inj</nomProduit>
+<codeProduit>184aa9</codeProduit>
+<prixProduit>1309.0</prixProduit>
+<quantiteActuel>2355</quantiteActuel>
+<quantiteAlarme>481</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-22</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Murray</auteurCreation>
+<auteurModification>Lila
+</auteurModification>
+</row>
+<row idProduit="6578">
+<idAlarme>737</idAlarme>
+<nomProduit>NEUPOGEN 48 MU/0,5 ml (0,96 mg/ml) sol inj</nomProduit>
+<codeProduit>843de3</codeProduit>
+<prixProduit>711.0</prixProduit>
+<quantiteActuel>2316</quantiteActuel>
+<quantiteAlarme>363</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-07-22</dateModification>
+<auteurCreation>Stafford</auteurCreation>
+<auteurModification>Jamal
+</auteurModification>
+</row>
+<row idProduit="6579">
+<idAlarme>8976</idAlarme>
+<nomProduit>NEUPRO 2 mg/24h disp transderm</nomProduit>
+<codeProduit>edd29d</codeProduit>
+<prixProduit>563.0</prixProduit>
+<quantiteActuel>2832</quantiteActuel>
+<quantiteAlarme>489</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-18</dateCreation>
+<dateModification>2010-07-12</dateModification>
+<auteurCreation>Acosta</auteurCreation>
+<auteurModification>Neve
+</auteurModification>
+</row>
+<row idProduit="6580">
+<idAlarme>4894</idAlarme>
+<nomProduit>NEUPRO 4 mg/24 h disp transderm</nomProduit>
+<codeProduit>84c5b9</codeProduit>
+<prixProduit>440.0</prixProduit>
+<quantiteActuel>2547</quantiteActuel>
+<quantiteAlarme>216</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Townsend</auteurCreation>
+<auteurModification>Kennan
+</auteurModification>
+</row>
+<row idProduit="6581">
+<idAlarme>9754</idAlarme>
+<nomProduit>NEUPRO 6 mg/24 h disp transderm</nomProduit>
+<codeProduit>2a439c</codeProduit>
+<prixProduit>1475.0</prixProduit>
+<quantiteActuel>2770</quantiteActuel>
+<quantiteAlarme>110</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Blanchard</auteurCreation>
+<auteurModification>Vincent
+</auteurModification>
+</row>
+<row idProduit="6582">
+<idAlarme>5540</idAlarme>
+<nomProduit>NEUPRO 8 mg/24 h disp transderm</nomProduit>
+<codeProduit>298dbb</codeProduit>
+<prixProduit>1257.0</prixProduit>
+<quantiteActuel>2141</quantiteActuel>
+<quantiteAlarme>451</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Sharpe</auteurCreation>
+<auteurModification>Alfreda
+</auteurModification>
+</row>
+<row idProduit="6583">
+<idAlarme>31</idAlarme>
+<nomProduit>NEUROBLOC 5000 U/ml sol inj</nomProduit>
+<codeProduit>673765</codeProduit>
+<prixProduit>729.0</prixProduit>
+<quantiteActuel>2904</quantiteActuel>
+<quantiteAlarme>426</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-09-18</dateModification>
+<auteurCreation>James</auteurCreation>
+<auteurModification>Piper
+</auteurModification>
+</row>
+<row idProduit="6584">
+<idAlarme>4449</idAlarme>
+<nomProduit>NEUROFLORINE cp</nomProduit>
+<codeProduit>066e6e</codeProduit>
+<prixProduit>221.0</prixProduit>
+<quantiteActuel>2500</quantiteActuel>
+<quantiteAlarme>461</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>William</auteurCreation>
+<auteurModification>Lesley
+</auteurModification>
+</row>
+<row idProduit="6585">
+<idAlarme>4180</idAlarme>
+<nomProduit>NEUROLITE trousse p prep radiopharma</nomProduit>
+<codeProduit>4c73ad</codeProduit>
+<prixProduit>1001.0</prixProduit>
+<quantiteActuel>2117</quantiteActuel>
+<quantiteAlarme>479</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-09-04</dateModification>
+<auteurCreation>Quinn</auteurCreation>
+<auteurModification>Thaddeus
+</auteurModification>
+</row>
+<row idProduit="6586">
+<idAlarme>8343</idAlarme>
+<nomProduit>NEURONTIN 100 mg gel</nomProduit>
+<codeProduit>10bc11</codeProduit>
+<prixProduit>210.0</prixProduit>
+<quantiteActuel>1858</quantiteActuel>
+<quantiteAlarme>100</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-08-02</dateModification>
+<auteurCreation>Casey</auteurCreation>
+<auteurModification>Nayda
+</auteurModification>
+</row>
+<row idProduit="6587">
+<idAlarme>5334</idAlarme>
+<nomProduit>NEURONTIN 300 mg gel</nomProduit>
+<codeProduit>d89420</codeProduit>
+<prixProduit>1347.0</prixProduit>
+<quantiteActuel>1568</quantiteActuel>
+<quantiteAlarme>100</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-08-12</dateModification>
+<auteurCreation>Welch</auteurCreation>
+<auteurModification>Ali
+</auteurModification>
+</row>
+<row idProduit="6588">
+<idAlarme>5138</idAlarme>
+<nomProduit>NEURONTIN 400 mg gel</nomProduit>
+<codeProduit>306cbb</codeProduit>
+<prixProduit>960.0</prixProduit>
+<quantiteActuel>2979</quantiteActuel>
+<quantiteAlarme>293</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Cline</auteurCreation>
+<auteurModification>Ivan
+</auteurModification>
+</row>
+<row idProduit="6589">
+<idAlarme>6091</idAlarme>
+<nomProduit>NEURONTIN 600mg cp pellic</nomProduit>
+<codeProduit>d36785</codeProduit>
+<prixProduit>1401.0</prixProduit>
+<quantiteActuel>2546</quantiteActuel>
+<quantiteAlarme>497</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Anderson</auteurCreation>
+<auteurModification>Oprah
+</auteurModification>
+</row>
+<row idProduit="6590">
+<idAlarme>3537</idAlarme>
+<nomProduit>NEURONTIN 800mg cp pellic</nomProduit>
+<codeProduit>7ecb74</codeProduit>
+<prixProduit>1204.0</prixProduit>
+<quantiteActuel>1896</quantiteActuel>
+<quantiteAlarme>198</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-07-29</dateModification>
+<auteurCreation>Chandler</auteurCreation>
+<auteurModification>Bree
+</auteurModification>
+</row>
+<row idProduit="6591">
+<idAlarme>4761</idAlarme>
+<nomProduit>NEUTRAVERA GLUCOSE 1,5% CALCIUM 1,25mmol/l sol p dial perit</nomProduit>
+<codeProduit>4f9dbe</codeProduit>
+<prixProduit>547.0</prixProduit>
+<quantiteActuel>1697</quantiteActuel>
+<quantiteAlarme>224</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-27</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Blanchard</auteurCreation>
+<auteurModification>Sydnee
+</auteurModification>
+</row>
+<row idProduit="6592">
+<idAlarme>9271</idAlarme>
+<nomProduit>NEUTRAVERA GLUCOSE 2,3% CALCIUM 1,25 mmol/l sol p dial perit</nomProduit>
+<codeProduit>a1a401</codeProduit>
+<prixProduit>753.0</prixProduit>
+<quantiteActuel>2831</quantiteActuel>
+<quantiteAlarme>350</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-09-17</dateModification>
+<auteurCreation>Pitts</auteurCreation>
+<auteurModification>Linus
+</auteurModification>
+</row>
+<row idProduit="6593">
+<idAlarme>3281</idAlarme>
+<nomProduit>NEUTRAVERA GLUCOSE 4,25% CALCIUM 1,25mmol/l sol p dial perit</nomProduit>
+<codeProduit>97f675</codeProduit>
+<prixProduit>800.0</prixProduit>
+<quantiteActuel>2839</quantiteActuel>
+<quantiteAlarme>396</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-08-21</dateModification>
+<auteurCreation>Alexander</auteurCreation>
+<auteurModification>Jemima
+</auteurModification>
+</row>
+<row idProduit="6594">
+<idAlarme>1350</idAlarme>
+<nomProduit>NEUTROSES cp a croquer</nomProduit>
+<codeProduit>c0550d</codeProduit>
+<prixProduit>818.0</prixProduit>
+<quantiteActuel>2062</quantiteActuel>
+<quantiteAlarme>279</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Lang</auteurCreation>
+<auteurModification>Kieran
+</auteurModification>
+</row>
+<row idProduit="6595">
+<idAlarme>4579</idAlarme>
+<nomProduit>NEXAVAR 200mg cp pellic</nomProduit>
+<codeProduit>feb9b8</codeProduit>
+<prixProduit>426.0</prixProduit>
+<quantiteActuel>1600</quantiteActuel>
+<quantiteAlarme>159</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-27</dateCreation>
+<dateModification>2010-10-04</dateModification>
+<auteurCreation>Livingston</auteurCreation>
+<auteurModification>Karina
+</auteurModification>
+</row>
+<row idProduit="6596">
+<idAlarme>3321</idAlarme>
+<nomProduit>NEXEN 100 mg cp</nomProduit>
+<codeProduit>e4fc28</codeProduit>
+<prixProduit>550.0</prixProduit>
+<quantiteActuel>1555</quantiteActuel>
+<quantiteAlarme>323</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Case</auteurCreation>
+<auteurModification>Orli
+</auteurModification>
+</row>
+<row idProduit="6597">
+<idAlarme>9934</idAlarme>
+<nomProduit>NEXEN 100mg gle p sol buv</nomProduit>
+<codeProduit>1dd9f0</codeProduit>
+<prixProduit>882.0</prixProduit>
+<quantiteActuel>2394</quantiteActuel>
+<quantiteAlarme>175</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Best</auteurCreation>
+<auteurModification>Hiroko
+</auteurModification>
+</row>
+<row idProduit="6598">
+<idAlarme>6731</idAlarme>
+<nomProduit>NEXPLANON 68 mg implant</nomProduit>
+<codeProduit>76ece0</codeProduit>
+<prixProduit>1408.0</prixProduit>
+<quantiteActuel>2193</quantiteActuel>
+<quantiteAlarme>337</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Huff</auteurCreation>
+<auteurModification>Eagan
+</auteurModification>
+</row>
+<row idProduit="6599">
+<idAlarme>5779</idAlarme>
+<nomProduit>NIASPAN LP 375mg cp LP</nomProduit>
+<codeProduit>211d8e</codeProduit>
+<prixProduit>1278.0</prixProduit>
+<quantiteActuel>2050</quantiteActuel>
+<quantiteAlarme>347</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>Cash</auteurCreation>
+<auteurModification>Clio
+</auteurModification>
+</row>
+<row idProduit="6600">
+<idAlarme>155</idAlarme>
+<nomProduit>NIASPAN LP 500mg cp LP</nomProduit>
+<codeProduit>45a23c</codeProduit>
+<prixProduit>778.0</prixProduit>
+<quantiteActuel>2731</quantiteActuel>
+<quantiteAlarme>269</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Miles</auteurCreation>
+<auteurModification>Avye
+</auteurModification>
+</row>
+<row idProduit="6601">
+<idAlarme>3288</idAlarme>
+<nomProduit>NICARDIPINE AGUETTANT 10mg/10ml sol inj</nomProduit>
+<codeProduit>e48913</codeProduit>
+<prixProduit>1131.0</prixProduit>
+<quantiteActuel>2333</quantiteActuel>
+<quantiteAlarme>499</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Travis</auteurCreation>
+<auteurModification>Hanna
+</auteurModification>
+</row>
+<row idProduit="6602">
+<idAlarme>8791</idAlarme>
+<nomProduit>NICERGOLINE BIOGARAN 10 mg gel</nomProduit>
+<codeProduit>a4f423</codeProduit>
+<prixProduit>1140.0</prixProduit>
+<quantiteActuel>2720</quantiteActuel>
+<quantiteAlarme>311</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-07-24</dateModification>
+<auteurCreation>Hendricks</auteurCreation>
+<auteurModification>Kirestin
+</auteurModification>
+</row>
+<row idProduit="6603">
+<idAlarme>4071</idAlarme>
+<nomProduit>NICERGOLINE BIOGARAN 5 mg gel</nomProduit>
+<codeProduit>b8f759</codeProduit>
+<prixProduit>520.0</prixProduit>
+<quantiteActuel>1752</quantiteActuel>
+<quantiteAlarme>390</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Dennis</auteurCreation>
+<auteurModification>MacKensie
+</auteurModification>
+</row>
+<row idProduit="6604">
+<idAlarme>7360</idAlarme>
+<nomProduit>NICERGOLINE EG 10 mg gel</nomProduit>
+<codeProduit>02d62d</codeProduit>
+<prixProduit>1131.0</prixProduit>
+<quantiteActuel>1602</quantiteActuel>
+<quantiteAlarme>459</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-07-13</dateModification>
+<auteurCreation>Dorsey</auteurCreation>
+<auteurModification>Mufutau
+</auteurModification>
+</row>
+<row idProduit="6605">
+<idAlarme>8086</idAlarme>
+<nomProduit>NICERGOLINE EG 5 mg gel</nomProduit>
+<codeProduit>ee28e3</codeProduit>
+<prixProduit>548.0</prixProduit>
+<quantiteActuel>2154</quantiteActuel>
+<quantiteAlarme>116</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Nelson</auteurCreation>
+<auteurModification>MacKenzie
+</auteurModification>
+</row>
+<row idProduit="6606">
+<idAlarme>1924</idAlarme>
+<nomProduit>NICERGOLINE MYLAN 10 mg gel</nomProduit>
+<codeProduit>6e3dd6</codeProduit>
+<prixProduit>762.0</prixProduit>
+<quantiteActuel>2502</quantiteActuel>
+<quantiteAlarme>209</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-07-01</dateModification>
+<auteurCreation>Cobb</auteurCreation>
+<auteurModification>Quin
+</auteurModification>
+</row>
+<row idProduit="6607">
+<idAlarme>446</idAlarme>
+<nomProduit>NICERGOLINE MYLAN 5 mg gel</nomProduit>
+<codeProduit>bcfdd2</codeProduit>
+<prixProduit>1249.0</prixProduit>
+<quantiteActuel>1953</quantiteActuel>
+<quantiteAlarme>157</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-09-26</dateModification>
+<auteurCreation>Duke</auteurCreation>
+<auteurModification>Gay
+</auteurModification>
+</row>
+<row idProduit="6608">
+<idAlarme>6132</idAlarme>
+<nomProduit>NICERGOLINE QUALIMED 10 mg gel</nomProduit>
+<codeProduit>f047e2</codeProduit>
+<prixProduit>451.0</prixProduit>
+<quantiteActuel>2051</quantiteActuel>
+<quantiteAlarme>382</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-07-05</dateModification>
+<auteurCreation>Crawford</auteurCreation>
+<auteurModification>Akeem
+</auteurModification>
+</row>
+<row idProduit="6609">
+<idAlarme>1564</idAlarme>
+<nomProduit>NICERGOLINE QUALIMED 5 mg gel</nomProduit>
+<codeProduit>9fc246</codeProduit>
+<prixProduit>510.0</prixProduit>
+<quantiteActuel>2098</quantiteActuel>
+<quantiteAlarme>434</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-09-29</dateModification>
+<auteurCreation>Lott</auteurCreation>
+<auteurModification>Curran
+</auteurModification>
+</row>
+<row idProduit="6610">
+<idAlarme>6912</idAlarme>
+<nomProduit>NICERGOLINE RANBAXY 5 mg gel</nomProduit>
+<codeProduit>afc1c3</codeProduit>
+<prixProduit>356.0</prixProduit>
+<quantiteActuel>2913</quantiteActuel>
+<quantiteAlarme>452</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-08-01</dateModification>
+<auteurCreation>Deleon</auteurCreation>
+<auteurModification>Cairo
+</auteurModification>
+</row>
+<row idProduit="6611">
+<idAlarme>1172</idAlarme>
+<nomProduit>NICERGOLINE RPG 10 mg gel</nomProduit>
+<codeProduit>2d22da</codeProduit>
+<prixProduit>1139.0</prixProduit>
+<quantiteActuel>1699</quantiteActuel>
+<quantiteAlarme>347</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-07-05</dateModification>
+<auteurCreation>Meadows</auteurCreation>
+<auteurModification>Helen
+</auteurModification>
+</row>
+<row idProduit="6612">
+<idAlarme>4059</idAlarme>
+<nomProduit>NICERGOLINE TEVA 10mg gel</nomProduit>
+<codeProduit>fbb9fc</codeProduit>
+<prixProduit>715.0</prixProduit>
+<quantiteActuel>2689</quantiteActuel>
+<quantiteAlarme>174</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-29</dateCreation>
+<dateModification>2010-08-07</dateModification>
+<auteurCreation>Maxwell</auteurCreation>
+<auteurModification>Heidi
+</auteurModification>
+</row>
+<row idProduit="6613">
+<idAlarme>8465</idAlarme>
+<nomProduit>NICERGOLINE TEVA 5mg gel</nomProduit>
+<codeProduit>da7fc7</codeProduit>
+<prixProduit>890.0</prixProduit>
+<quantiteActuel>2757</quantiteActuel>
+<quantiteAlarme>421</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-09-10</dateModification>
+<auteurCreation>Glass</auteurCreation>
+<auteurModification>Kirk
+</auteurModification>
+</row>
+<row idProduit="6614">
+<idAlarme>7592</idAlarme>
+<nomProduit>NICOBION 500 mg cp pellic</nomProduit>
+<codeProduit>89291c</codeProduit>
+<prixProduit>882.0</prixProduit>
+<quantiteActuel>2724</quantiteActuel>
+<quantiteAlarme>299</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-09-06</dateModification>
+<auteurCreation>Duke</auteurCreation>
+<auteurModification>Lani
+</auteurModification>
+</row>
+<row idProduit="6615">
+<idAlarme>7237</idAlarme>
+<nomProduit>NICOPASS 1,5 mg SANS SUCRE EUCALYPTUS past</nomProduit>
+<codeProduit>13839b</codeProduit>
+<prixProduit>556.0</prixProduit>
+<quantiteActuel>2291</quantiteActuel>
+<quantiteAlarme>259</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Gamble</auteurCreation>
+<auteurModification>Cyrus
+</auteurModification>
+</row>
+<row idProduit="6616">
+<idAlarme>3449</idAlarme>
+<nomProduit>NICOPASS MENTHE FRAICHEUR 2,5 mg SANS SUCRE past</nomProduit>
+<codeProduit>6de45e</codeProduit>
+<prixProduit>1276.0</prixProduit>
+<quantiteActuel>2275</quantiteActuel>
+<quantiteAlarme>173</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-07-17</dateModification>
+<auteurCreation>Espinoza</auteurCreation>
+<auteurModification>Keith
+</auteurModification>
+</row>
+<row idProduit="6617">
+<idAlarme>6025</idAlarme>
+<nomProduit>NICOPASS REGLISSE MENTHE 2,5 mg SANS SUCRE past</nomProduit>
+<codeProduit>55bd10</codeProduit>
+<prixProduit>1142.0</prixProduit>
+<quantiteActuel>2024</quantiteActuel>
+<quantiteAlarme>139</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-09-12</dateModification>
+<auteurCreation>Vega</auteurCreation>
+<auteurModification>Chandler
+</auteurModification>
+</row>
+<row idProduit="6618">
+<idAlarme>3631</idAlarme>
+<nomProduit>NICOPASS SANS SUCRE MENTHE FRAICHEUR 1,5mg past</nomProduit>
+<codeProduit>0b92d7</codeProduit>
+<prixProduit>519.0</prixProduit>
+<quantiteActuel>1782</quantiteActuel>
+<quantiteAlarme>422</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Myers</auteurCreation>
+<auteurModification>Buffy
+</auteurModification>
+</row>
+<row idProduit="6619">
+<idAlarme>3798</idAlarme>
+<nomProduit>NICOPASS SANS SUCRE REGLISSE MENTHE 1,5mg past</nomProduit>
+<codeProduit>739541</codeProduit>
+<prixProduit>1069.0</prixProduit>
+<quantiteActuel>2397</quantiteActuel>
+<quantiteAlarme>362</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-10-02</dateModification>
+<auteurCreation>Delacruz</auteurCreation>
+<auteurModification>Elvis
+</auteurModification>
+</row>
+<row idProduit="6620">
+<idAlarme>1334</idAlarme>
+<nomProduit>NICOPATCH 14 mg/24h disp transderm</nomProduit>
+<codeProduit>35af85</codeProduit>
+<prixProduit>290.0</prixProduit>
+<quantiteActuel>2855</quantiteActuel>
+<quantiteAlarme>287</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-09-21</dateModification>
+<auteurCreation>Kelly</auteurCreation>
+<auteurModification>Kylie
+</auteurModification>
+</row>
+<row idProduit="6621">
+<idAlarme>8431</idAlarme>
+<nomProduit>NICOPATCH 21mg/24h disp transderm</nomProduit>
+<codeProduit>368cf4</codeProduit>
+<prixProduit>681.0</prixProduit>
+<quantiteActuel>2717</quantiteActuel>
+<quantiteAlarme>208</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Odom</auteurCreation>
+<auteurModification>Yasir
+</auteurModification>
+</row>
+<row idProduit="6622">
+<idAlarme>10537</idAlarme>
+<nomProduit>NICOPATCH 7mg/24h disp transderm</nomProduit>
+<codeProduit>eb2e7b</codeProduit>
+<prixProduit>1223.0</prixProduit>
+<quantiteActuel>2715</quantiteActuel>
+<quantiteAlarme>291</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Stewart</auteurCreation>
+<auteurModification>Wing
+</auteurModification>
+</row>
+<row idProduit="6623">
+<idAlarme>2400</idAlarme>
+<nomProduit>NICOPRIVE cp enr</nomProduit>
+<codeProduit>e17108</codeProduit>
+<prixProduit>968.0</prixProduit>
+<quantiteActuel>2910</quantiteActuel>
+<quantiteAlarme>428</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-09-07</dateModification>
+<auteurCreation>Fuentes</auteurCreation>
+<auteurModification>Samuel
+</auteurModification>
+</row>
+<row idProduit="6624">
+<idAlarme>24</idAlarme>
+<nomProduit>NICORETTE 2mg SANS SUCRE gomm macher medic</nomProduit>
+<codeProduit>dfce0e</codeProduit>
+<prixProduit>1031.0</prixProduit>
+<quantiteActuel>1706</quantiteActuel>
+<quantiteAlarme>376</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-07-15</dateModification>
+<auteurCreation>Moon</auteurCreation>
+<auteurModification>Bradley
+</auteurModification>
+</row>
+<row idProduit="6625">
+<idAlarme>3476</idAlarme>
+<nomProduit>NICORETTE 4mg SANS SUCRE gomm macher medic</nomProduit>
+<codeProduit>281d72</codeProduit>
+<prixProduit>1174.0</prixProduit>
+<quantiteActuel>1675</quantiteActuel>
+<quantiteAlarme>490</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-10-06</dateModification>
+<auteurCreation>Maldonado</auteurCreation>
+<auteurModification>Yolanda
+</auteurModification>
+</row>
+<row idProduit="6626">
+<idAlarme>6866</idAlarme>
+<nomProduit>NICORETTE FRUITS 2mg SANS SUCRE gomm macher medic</nomProduit>
+<codeProduit>3ca4e9</codeProduit>
+<prixProduit>1189.0</prixProduit>
+<quantiteActuel>2898</quantiteActuel>
+<quantiteAlarme>436</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Williams</auteurCreation>
+<auteurModification>Raymond
+</auteurModification>
+</row>
+<row idProduit="6627">
+<idAlarme>9311</idAlarme>
+<nomProduit>NICORETTE FRUITS 4mg SANS SUCRE gomm macher medic</nomProduit>
+<codeProduit>671ca7</codeProduit>
+<prixProduit>726.0</prixProduit>
+<quantiteActuel>2898</quantiteActuel>
+<quantiteAlarme>149</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-09-05</dateModification>
+<auteurCreation>Hooper</auteurCreation>
+<auteurModification>Daphne
+</auteurModification>
+</row>
+<row idProduit="6628">
+<idAlarme>7105</idAlarme>
+<nomProduit>NICORETTE INHALEUR 10 mg cart p inhal bucc</nomProduit>
+<codeProduit>55b5a4</codeProduit>
+<prixProduit>1448.0</prixProduit>
+<quantiteActuel>1976</quantiteActuel>
+<quantiteAlarme>350</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-10-04</dateModification>
+<auteurCreation>Jefferson</auteurCreation>
+<auteurModification>Emerson
+</auteurModification>
+</row>
+<row idProduit="6629">
+<idAlarme>5346</idAlarme>
+<nomProduit>NICORETTE MENTHE 2mg SANS SUCRE gomm macher medic</nomProduit>
+<codeProduit>af1172</codeProduit>
+<prixProduit>323.0</prixProduit>
+<quantiteActuel>2709</quantiteActuel>
+<quantiteAlarme>276</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-07-21</dateModification>
+<auteurCreation>Nguyen</auteurCreation>
+<auteurModification>Ayanna
+</auteurModification>
+</row>
+<row idProduit="6630">
+<idAlarme>8122</idAlarme>
+<nomProduit>NICORETTE MENTHE FRAICHE 2mg SANS SUCRE gomm macher medic</nomProduit>
+<codeProduit>b3688e</codeProduit>
+<prixProduit>645.0</prixProduit>
+<quantiteActuel>2463</quantiteActuel>
+<quantiteAlarme>134</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Cross</auteurCreation>
+<auteurModification>Lance
+</auteurModification>
+</row>
+<row idProduit="6631">
+<idAlarme>4407</idAlarme>
+<nomProduit>NICORETTE MENTHE FRAICHE 4mg SANS SUCRE gomm macher medic</nomProduit>
+<codeProduit>0487fc</codeProduit>
+<prixProduit>737.0</prixProduit>
+<quantiteActuel>1518</quantiteActuel>
+<quantiteAlarme>322</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-08-17</dateModification>
+<auteurCreation>Rowe</auteurCreation>
+<auteurModification>Hoyt
+</auteurModification>
+</row>
+<row idProduit="6632">
+<idAlarme>3774</idAlarme>
+<nomProduit>NICORETTE MENTHE GLACIALE 2 mg SANS SUCRE gomm macher medic</nomProduit>
+<codeProduit>2c00da</codeProduit>
+<prixProduit>756.0</prixProduit>
+<quantiteActuel>1863</quantiteActuel>
+<quantiteAlarme>371</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-09-03</dateModification>
+<auteurCreation>Mckenzie</auteurCreation>
+<auteurModification>Melvin
+</auteurModification>
+</row>
+<row idProduit="6633">
+<idAlarme>1835</idAlarme>
+<nomProduit>NICORETTE MENTHE GLACIALE 4 mg SANS SUCRE gomm macher medic</nomProduit>
+<codeProduit>05c128</codeProduit>
+<prixProduit>677.0</prixProduit>
+<quantiteActuel>2209</quantiteActuel>
+<quantiteAlarme>312</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>George</auteurCreation>
+<auteurModification>Wade
+</auteurModification>
+</row>
+<row idProduit="6634">
+<idAlarme>3420</idAlarme>
+<nomProduit>NICORETTE MICROTAB 2mg cp subling</nomProduit>
+<codeProduit>23ac1a</codeProduit>
+<prixProduit>390.0</prixProduit>
+<quantiteActuel>2356</quantiteActuel>
+<quantiteAlarme>372</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Knox</auteurCreation>
+<auteurModification>Linda
+</auteurModification>
+</row>
+<row idProduit="6635">
+<idAlarme>4514</idAlarme>
+<nomProduit>NICORETTE MICROTAB CITRON 2mg cp subling</nomProduit>
+<codeProduit>2b94dd</codeProduit>
+<prixProduit>748.0</prixProduit>
+<quantiteActuel>2560</quantiteActuel>
+<quantiteAlarme>471</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-09-28</dateModification>
+<auteurCreation>Michael</auteurCreation>
+<auteurModification>Tucker
+</auteurModification>
+</row>
+<row idProduit="6636">
+<idAlarme>8175</idAlarme>
+<nomProduit>NICORETTESKIN 10 mg/16 h disp transderm</nomProduit>
+<codeProduit>57720d</codeProduit>
+<prixProduit>309.0</prixProduit>
+<quantiteActuel>2367</quantiteActuel>
+<quantiteAlarme>484</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-06-21</dateModification>
+<auteurCreation>Miller</auteurCreation>
+<auteurModification>Gage
+</auteurModification>
+</row>
+<row idProduit="6637">
+<idAlarme>7127</idAlarme>
+<nomProduit>NICORETTESKIN 15 mg/16 h disp transderm</nomProduit>
+<codeProduit>84922a</codeProduit>
+<prixProduit>876.0</prixProduit>
+<quantiteActuel>2163</quantiteActuel>
+<quantiteAlarme>256</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Dejesus</auteurCreation>
+<auteurModification>Ezra
+</auteurModification>
+</row>
+<row idProduit="6638">
+<idAlarme>8264</idAlarme>
+<nomProduit>NICORETTESKIN 25 mg/16 h disp transderm</nomProduit>
+<codeProduit>0ffbfd</codeProduit>
+<prixProduit>237.0</prixProduit>
+<quantiteActuel>2842</quantiteActuel>
+<quantiteAlarme>137</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-08-24</dateModification>
+<auteurCreation>Meadows</auteurCreation>
+<auteurModification>Moses
+</auteurModification>
+</row>
+<row idProduit="6639">
+<idAlarme>65</idAlarme>
+<nomProduit>NICOTINELL FRUIT SANS SUCRE 2mg gomm macher medic</nomProduit>
+<codeProduit>0623d0</codeProduit>
+<prixProduit>613.0</prixProduit>
+<quantiteActuel>2810</quantiteActuel>
+<quantiteAlarme>291</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-07-30</dateModification>
+<auteurCreation>Hayden</auteurCreation>
+<auteurModification>Fritz
+</auteurModification>
+</row>
+<row idProduit="6640">
+<idAlarme>1503</idAlarme>
+<nomProduit>NICOTINELL MENTHE 1mg cp a sucer</nomProduit>
+<codeProduit>ab0350</codeProduit>
+<prixProduit>540.0</prixProduit>
+<quantiteActuel>2676</quantiteActuel>
+<quantiteAlarme>252</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-07-31</dateModification>
+<auteurCreation>Lindsay</auteurCreation>
+<auteurModification>Zachery
+</auteurModification>
+</row>
+<row idProduit="6641">
+<idAlarme>9018</idAlarme>
+<nomProduit>NICOTINELL MENTHE 2mg cp a sucer</nomProduit>
+<codeProduit>7b7f86</codeProduit>
+<prixProduit>602.0</prixProduit>
+<quantiteActuel>2520</quantiteActuel>
+<quantiteAlarme>377</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-09-29</dateModification>
+<auteurCreation>Gomez</auteurCreation>
+<auteurModification>Orlando
+</auteurModification>
+</row>
+<row idProduit="6642">
+<idAlarme>1211</idAlarme>
+<nomProduit>NICOTINELL MENTHE FRAICHEUR 2 mg SANS SUCRE gomm macher medic</nomProduit>
+<codeProduit>7b65a1</codeProduit>
+<prixProduit>510.0</prixProduit>
+<quantiteActuel>2651</quantiteActuel>
+<quantiteAlarme>269</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-08-05</dateModification>
+<auteurCreation>Cantrell</auteurCreation>
+<auteurModification>Skyler
+</auteurModification>
+</row>
+<row idProduit="6643">
+<idAlarme>7883</idAlarme>
+<nomProduit>NICOTINELL MENTHE FRAICHEUR 4 mg SANS SUCRE gomm macher medic</nomProduit>
+<codeProduit>ba9537</codeProduit>
+<prixProduit>1327.0</prixProduit>
+<quantiteActuel>1959</quantiteActuel>
+<quantiteAlarme>287</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-08-12</dateModification>
+<auteurCreation>Wong</auteurCreation>
+<auteurModification>Katell
+</auteurModification>
+</row>
+<row idProduit="6644">
+<idAlarme>1904</idAlarme>
+<nomProduit>NICOTINELL REGLISSE SANS SUCRE 2mg gomm macher medic</nomProduit>
+<codeProduit>0d6c84</codeProduit>
+<prixProduit>522.0</prixProduit>
+<quantiteActuel>2563</quantiteActuel>
+<quantiteAlarme>490</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-09-24</dateModification>
+<auteurCreation>Merrill</auteurCreation>
+<auteurModification>Emma
+</auteurModification>
+</row>
+<row idProduit="6645">
+<idAlarme>578</idAlarme>
+<nomProduit>NICOTINELL TTS 14 mg/24 disp transderm</nomProduit>
+<codeProduit>a615ea</codeProduit>
+<prixProduit>1457.0</prixProduit>
+<quantiteActuel>2516</quantiteActuel>
+<quantiteAlarme>332</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-09-28</dateModification>
+<auteurCreation>Whitaker</auteurCreation>
+<auteurModification>Octavius
+</auteurModification>
+</row>
+<row idProduit="6646">
+<idAlarme>8324</idAlarme>
+<nomProduit>NICOTINELL TTS 21 mg/24 disp transderm</nomProduit>
+<codeProduit>07f108</codeProduit>
+<prixProduit>1113.0</prixProduit>
+<quantiteActuel>2627</quantiteActuel>
+<quantiteAlarme>383</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-09-27</dateModification>
+<auteurCreation>Lara</auteurCreation>
+<auteurModification>Brielle
+</auteurModification>
+</row>
+<row idProduit="6647">
+<idAlarme>7846</idAlarme>
+<nomProduit>NICOTINELL TTS 7 mg/24 h disp transderm</nomProduit>
+<codeProduit>a8bda8</codeProduit>
+<prixProduit>1086.0</prixProduit>
+<quantiteActuel>1648</quantiteActuel>
+<quantiteAlarme>385</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-07-14</dateModification>
+<auteurCreation>Boyd</auteurCreation>
+<auteurModification>Genevieve
+</auteurModification>
+</row>
+<row idProduit="6648">
+<idAlarme>1129</idAlarme>
+<nomProduit>NIDREL 10 mg cp</nomProduit>
+<codeProduit>b9348a</codeProduit>
+<prixProduit>952.0</prixProduit>
+<quantiteActuel>2005</quantiteActuel>
+<quantiteAlarme>125</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-07-30</dateModification>
+<auteurCreation>Wyatt</auteurCreation>
+<auteurModification>Kirk
+</auteurModification>
+</row>
+<row idProduit="6649">
+<idAlarme>1273</idAlarme>
+<nomProduit>NIDREL 20 mg cp</nomProduit>
+<codeProduit>411b92</codeProduit>
+<prixProduit>1279.0</prixProduit>
+<quantiteActuel>2547</quantiteActuel>
+<quantiteAlarme>219</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-08-21</dateModification>
+<auteurCreation>Cooke</auteurCreation>
+<auteurModification>Jesse
+</auteurModification>
+</row>
+<row idProduit="6650">
+<idAlarme>8157</idAlarme>
+<nomProduit>NIFEDIPINE ARROW L.P. 30 mg cp pellic LP</nomProduit>
+<codeProduit>e58bab</codeProduit>
+<prixProduit>1261.0</prixProduit>
+<quantiteActuel>2773</quantiteActuel>
+<quantiteAlarme>246</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-07-02</dateModification>
+<auteurCreation>Lynn</auteurCreation>
+<auteurModification>Hector
+</auteurModification>
+</row>
+<row idProduit="6651">
+<idAlarme>6221</idAlarme>
+<nomProduit>NIFEDIPINE EG L.P. 30 mg cp pellic LP</nomProduit>
+<codeProduit>6a3a66</codeProduit>
+<prixProduit>1082.0</prixProduit>
+<quantiteActuel>2580</quantiteActuel>
+<quantiteAlarme>295</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-26</dateCreation>
+<dateModification>2010-09-09</dateModification>
+<auteurCreation>Christian</auteurCreation>
+<auteurModification>Haviva
+</auteurModification>
+</row>
+<row idProduit="6652">
+<idAlarme>6767</idAlarme>
+<nomProduit>NIFEDIPINE MYLAN L.P. 20 mg cp pellic LP</nomProduit>
+<codeProduit>c73dfd</codeProduit>
+<prixProduit>610.0</prixProduit>
+<quantiteActuel>1721</quantiteActuel>
+<quantiteAlarme>338</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-08-12</dateModification>
+<auteurCreation>Hogan</auteurCreation>
+<auteurModification>Ursula
+</auteurModification>
+</row>
+<row idProduit="6653">
+<idAlarme>4174</idAlarme>
+<nomProduit>NIFEDIPINE MYLAN L.P. 30 mg cp pellic LP</nomProduit>
+<codeProduit>45faba</codeProduit>
+<prixProduit>1172.0</prixProduit>
+<quantiteActuel>2135</quantiteActuel>
+<quantiteAlarme>208</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-08-25</dateModification>
+<auteurCreation>Pena</auteurCreation>
+<auteurModification>Tiger
+</auteurModification>
+</row>
+<row idProduit="6654">
+<idAlarme>5661</idAlarme>
+<nomProduit>NIFEDIPINE RANBAXY LP 30mg cp pellic LP</nomProduit>
+<codeProduit>678228</codeProduit>
+<prixProduit>957.0</prixProduit>
+<quantiteActuel>1530</quantiteActuel>
+<quantiteAlarme>207</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-09-24</dateModification>
+<auteurCreation>Mcdonald</auteurCreation>
+<auteurModification>Aidan
+</auteurModification>
+</row>
+<row idProduit="6655">
+<idAlarme>3998</idAlarme>
+<nomProduit>NIFEDIPINE RPG LP 20 mg cp enr LP</nomProduit>
+<codeProduit>4ce384</codeProduit>
+<prixProduit>500.0</prixProduit>
+<quantiteActuel>1713</quantiteActuel>
+<quantiteAlarme>421</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-27</dateCreation>
+<dateModification>2010-07-27</dateModification>
+<auteurCreation>Koch</auteurCreation>
+<auteurModification>Barclay
+</auteurModification>
+</row>
+<row idProduit="6656">
+<idAlarme>13</idAlarme>
+<nomProduit>NIFEDIPINE SANDOZ L.P. 30 mg cp pellic LP</nomProduit>
+<codeProduit>bdc6ec</codeProduit>
+<prixProduit>576.0</prixProduit>
+<quantiteActuel>2133</quantiteActuel>
+<quantiteAlarme>421</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Hickman</auteurCreation>
+<auteurModification>Reece
+</auteurModification>
+</row>
+<row idProduit="6657">
+<idAlarme>7631</idAlarme>
+<nomProduit>NIFEDIPINE TEVA LP 20 mg cp pellic LP</nomProduit>
+<codeProduit>82b6af</codeProduit>
+<prixProduit>1046.0</prixProduit>
+<quantiteActuel>1910</quantiteActuel>
+<quantiteAlarme>194</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Dean</auteurCreation>
+<auteurModification>Ian
+</auteurModification>
+</row>
+<row idProduit="6658">
+<idAlarme>505</idAlarme>
+<nomProduit>NIFLUGEL 2,5 % gel p appl loc</nomProduit>
+<codeProduit>c5904e</codeProduit>
+<prixProduit>1351.0</prixProduit>
+<quantiteActuel>2713</quantiteActuel>
+<quantiteAlarme>195</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>Moss</auteurCreation>
+<auteurModification>Rebekah
+</auteurModification>
+</row>
+<row idProduit="6659">
+<idAlarme>7445</idAlarme>
+<nomProduit>NIFLURIL 250 mg gel</nomProduit>
+<codeProduit>370283</codeProduit>
+<prixProduit>515.0</prixProduit>
+<quantiteActuel>1644</quantiteActuel>
+<quantiteAlarme>356</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-08-17</dateModification>
+<auteurCreation>Richmond</auteurCreation>
+<auteurModification>Yvette
+</auteurModification>
+</row>
+<row idProduit="6660">
+<idAlarme>9569</idAlarme>
+<nomProduit>NIFLURIL 400 mg suppos sec</nomProduit>
+<codeProduit>38f613</codeProduit>
+<prixProduit>567.0</prixProduit>
+<quantiteActuel>1877</quantiteActuel>
+<quantiteAlarme>193</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-08-18</dateModification>
+<auteurCreation>Huffman</auteurCreation>
+<auteurModification>Zeph
+</auteurModification>
+</row>
+<row idProduit="6661">
+<idAlarme>4717</idAlarme>
+<nomProduit>NIFLURIL 700 mg suppos</nomProduit>
+<codeProduit>2753e5</codeProduit>
+<prixProduit>249.0</prixProduit>
+<quantiteActuel>2739</quantiteActuel>
+<quantiteAlarme>395</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-09-17</dateModification>
+<auteurCreation>Stephens</auteurCreation>
+<auteurModification>Sheila
+</auteurModification>
+</row>
+<row idProduit="6662">
+<idAlarme>8195</idAlarme>
+<nomProduit>NIFUROXAZIDE ARROW 200 mg gel</nomProduit>
+<codeProduit>e22328</codeProduit>
+<prixProduit>801.0</prixProduit>
+<quantiteActuel>2027</quantiteActuel>
+<quantiteAlarme>246</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-09-24</dateModification>
+<auteurCreation>Sears</auteurCreation>
+<auteurModification>Lucy
+</auteurModification>
+</row>
+<row idProduit="6663">
+<idAlarme>6995</idAlarme>
+<nomProduit>NIFUROXAZIDE ARROW 4 % susp buv</nomProduit>
+<codeProduit>2af420</codeProduit>
+<prixProduit>952.0</prixProduit>
+<quantiteActuel>2331</quantiteActuel>
+<quantiteAlarme>484</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-07-02</dateModification>
+<auteurCreation>Valentine</auteurCreation>
+<auteurModification>Amos
+</auteurModification>
+</row>
+<row idProduit="6664">
+<idAlarme>6073</idAlarme>
+<nomProduit>NIFUROXAZIDE BIOGARAN 200 mg gel</nomProduit>
+<codeProduit>5c058e</codeProduit>
+<prixProduit>481.0</prixProduit>
+<quantiteActuel>2920</quantiteActuel>
+<quantiteAlarme>224</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Castro</auteurCreation>
+<auteurModification>Jennifer
+</auteurModification>
+</row>
+<row idProduit="6665">
+<idAlarme>4340</idAlarme>
+<nomProduit>NIFUROXAZIDE BIOGARAN CONSEIL 200 mg gel</nomProduit>
+<codeProduit>06e69f</codeProduit>
+<prixProduit>1007.0</prixProduit>
+<quantiteActuel>2633</quantiteActuel>
+<quantiteAlarme>182</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-08-16</dateModification>
+<auteurCreation>Rios</auteurCreation>
+<auteurModification>Elton
+</auteurModification>
+</row>
+<row idProduit="6666">
+<idAlarme>7286</idAlarme>
+<nomProduit>NIFUROXAZIDE CRISTERS 200 mg gel</nomProduit>
+<codeProduit>30238f</codeProduit>
+<prixProduit>1237.0</prixProduit>
+<quantiteActuel>1865</quantiteActuel>
+<quantiteAlarme>154</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-10-04</dateModification>
+<auteurCreation>Hopkins</auteurCreation>
+<auteurModification>Judah
+</auteurModification>
+</row>
+<row idProduit="6667">
+<idAlarme>8917</idAlarme>
+<nomProduit>NIFUROXAZIDE EG 200 mg gel</nomProduit>
+<codeProduit>8bfde1</codeProduit>
+<prixProduit>1046.0</prixProduit>
+<quantiteActuel>2920</quantiteActuel>
+<quantiteAlarme>212</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-09-24</dateModification>
+<auteurCreation>Walter</auteurCreation>
+<auteurModification>Andrew
+</auteurModification>
+</row>
+<row idProduit="6668">
+<idAlarme>7669</idAlarme>
+<nomProduit>NIFUROXAZIDE EG 4 % susp buv</nomProduit>
+<codeProduit>bb91f7</codeProduit>
+<prixProduit>206.0</prixProduit>
+<quantiteActuel>2201</quantiteActuel>
+<quantiteAlarme>364</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-07-15</dateModification>
+<auteurCreation>Thompson</auteurCreation>
+<auteurModification>Brandon
+</auteurModification>
+</row>
+<row idProduit="6669">
+<idAlarme>10127</idAlarme>
+<nomProduit>NIFUROXAZIDE MYLAN 200 mg gel</nomProduit>
+<codeProduit>06a5d1</codeProduit>
+<prixProduit>169.0</prixProduit>
+<quantiteActuel>1500</quantiteActuel>
+<quantiteAlarme>352</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-07-17</dateModification>
+<auteurCreation>Benson</auteurCreation>
+<auteurModification>Sacha
+</auteurModification>
+</row>
+<row idProduit="6670">
+<idAlarme>2728</idAlarme>
+<nomProduit>NIFUROXAZIDE RATIOPHARM CONSEIL 200mg gel</nomProduit>
+<codeProduit>56d6c3</codeProduit>
+<prixProduit>784.0</prixProduit>
+<quantiteActuel>1614</quantiteActuel>
+<quantiteAlarme>195</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-09-16</dateModification>
+<auteurCreation>Park</auteurCreation>
+<auteurModification>Selma
+</auteurModification>
+</row>
+<row idProduit="6671">
+<idAlarme>3642</idAlarme>
+<nomProduit>NIFUROXAZIDE RPG 200mg gel</nomProduit>
+<codeProduit>63e20c</codeProduit>
+<prixProduit>712.0</prixProduit>
+<quantiteActuel>1870</quantiteActuel>
+<quantiteAlarme>109</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Francis</auteurCreation>
+<auteurModification>Jaime
+</auteurModification>
+</row>
+<row idProduit="6672">
+<idAlarme>6111</idAlarme>
+<nomProduit>NIFUROXAZIDE SANDOZ 200mg gel</nomProduit>
+<codeProduit>b6fc02</codeProduit>
+<prixProduit>1403.0</prixProduit>
+<quantiteActuel>1813</quantiteActuel>
+<quantiteAlarme>275</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-09-04</dateModification>
+<auteurCreation>English</auteurCreation>
+<auteurModification>Imelda
+</auteurModification>
+</row>
+<row idProduit="6673">
+<idAlarme>9873</idAlarme>
+<nomProduit>NIFUROXAZIDE SANDOZ CONSEIL 200mg gel</nomProduit>
+<codeProduit>20547e</codeProduit>
+<prixProduit>1097.0</prixProduit>
+<quantiteActuel>2617</quantiteActuel>
+<quantiteAlarme>396</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-07-12</dateModification>
+<auteurCreation>Carson</auteurCreation>
+<auteurModification>Daniel
+</auteurModification>
+</row>
+<row idProduit="6674">
+<idAlarme>4747</idAlarme>
+<nomProduit>NIFUROXAZIDE TEVA 200 mg gel</nomProduit>
+<codeProduit>7f1c62</codeProduit>
+<prixProduit>849.0</prixProduit>
+<quantiteActuel>2506</quantiteActuel>
+<quantiteAlarme>212</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-08-09</dateModification>
+<auteurCreation>Palmer</auteurCreation>
+<auteurModification>Gay
+</auteurModification>
+</row>
+<row idProduit="6675">
+<idAlarme>7997</idAlarme>
+<nomProduit>NIFUROXAZIDE TEVA 4 % susp buv</nomProduit>
+<codeProduit>fc620d</codeProduit>
+<prixProduit>611.0</prixProduit>
+<quantiteActuel>1767</quantiteActuel>
+<quantiteAlarme>239</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-07-28</dateModification>
+<auteurCreation>Barker</auteurCreation>
+<auteurModification>Baxter
+</auteurModification>
+</row>
+<row idProduit="6676">
+<idAlarme>8987</idAlarme>
+<nomProduit>NIFUROXAZIDE WINTHROP 200mg gel</nomProduit>
+<codeProduit>3519cd</codeProduit>
+<prixProduit>505.0</prixProduit>
+<quantiteActuel>2238</quantiteActuel>
+<quantiteAlarme>436</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-09-20</dateModification>
+<auteurCreation>Cherry</auteurCreation>
+<auteurModification>Katelyn
+</auteurModification>
+</row>
+<row idProduit="6677">
+<idAlarme>7207</idAlarme>
+<nomProduit>NIFUROXAZIDE ZYDUS 200mg gel</nomProduit>
+<codeProduit>6ed482</codeProduit>
+<prixProduit>445.0</prixProduit>
+<quantiteActuel>1511</quantiteActuel>
+<quantiteAlarme>122</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-06-20</dateModification>
+<auteurCreation>Ashley</auteurCreation>
+<auteurModification>Gisela
+</auteurModification>
+</row>
+<row idProduit="6678">
+<idAlarme>7736</idAlarme>
+<nomProduit>NILEVAR 10 mg cp sec</nomProduit>
+<codeProduit>fc2483</codeProduit>
+<prixProduit>923.0</prixProduit>
+<quantiteActuel>2396</quantiteActuel>
+<quantiteAlarme>480</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-07-21</dateModification>
+<auteurCreation>Duncan</auteurCreation>
+<auteurModification>Phoebe
+</auteurModification>
+</row>
+<row idProduit="6679">
+<idAlarme>1856</idAlarme>
+<nomProduit>NIMBEX 2 mg/ml sol inj</nomProduit>
+<codeProduit>399838</codeProduit>
+<prixProduit>1214.0</prixProduit>
+<quantiteActuel>2453</quantiteActuel>
+<quantiteAlarme>307</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-06-17</dateModification>
+<auteurCreation>Aguirre</auteurCreation>
+<auteurModification>Zephania
+</auteurModification>
+</row>
+<row idProduit="6680">
+<idAlarme>8047</idAlarme>
+<nomProduit>NIMBEX 5mg/ml sol inj</nomProduit>
+<codeProduit>bcffdf</codeProduit>
+<prixProduit>973.0</prixProduit>
+<quantiteActuel>2697</quantiteActuel>
+<quantiteAlarme>420</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>Robles</auteurCreation>
+<auteurModification>Guy
+</auteurModification>
+</row>
+<row idProduit="6681">
+<idAlarme>479</idAlarme>
+<nomProduit>NIMESULIDE EG 100 mg cp</nomProduit>
+<codeProduit>ab8705</codeProduit>
+<prixProduit>560.0</prixProduit>
+<quantiteActuel>1726</quantiteActuel>
+<quantiteAlarme>210</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-07-24</dateModification>
+<auteurCreation>Lindsey</auteurCreation>
+<auteurModification>Wynter
+</auteurModification>
+</row>
+<row idProduit="6682">
+<idAlarme>807</idAlarme>
+<nomProduit>NIMESULIDE TEVA 100 mg cp</nomProduit>
+<codeProduit>b8d140</codeProduit>
+<prixProduit>683.0</prixProduit>
+<quantiteActuel>2226</quantiteActuel>
+<quantiteAlarme>408</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-08-19</dateModification>
+<auteurCreation>Carr</auteurCreation>
+<auteurModification>Joshua
+</auteurModification>
+</row>
+<row idProduit="6683">
+<idAlarme>2045</idAlarme>
+<nomProduit>NIMOTOP 10mg/50ml sol inj p perf</nomProduit>
+<codeProduit>5a79b9</codeProduit>
+<prixProduit>1082.0</prixProduit>
+<quantiteActuel>1789</quantiteActuel>
+<quantiteAlarme>440</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-07-28</dateModification>
+<auteurCreation>Osborn</auteurCreation>
+<auteurModification>Lane
+</auteurModification>
+</row>
+<row idProduit="6684">
+<idAlarme>324</idAlarme>
+<nomProduit>NIMOTOP 30mg cp pellic</nomProduit>
+<codeProduit>e63e3d</codeProduit>
+<prixProduit>562.0</prixProduit>
+<quantiteActuel>1976</quantiteActuel>
+<quantiteAlarme>304</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Bernard</auteurCreation>
+<auteurModification>Jenna
+</auteurModification>
+</row>
+<row idProduit="6685">
+<idAlarme>3875</idAlarme>
+<nomProduit>NIPENT 10mg pdre p sol inj</nomProduit>
+<codeProduit>ea5c6d</codeProduit>
+<prixProduit>697.0</prixProduit>
+<quantiteActuel>2209</quantiteActuel>
+<quantiteAlarme>314</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-08-14</dateModification>
+<auteurCreation>Mcbride</auteurCreation>
+<auteurModification>Tamara
+</auteurModification>
+</row>
+<row idProduit="6686">
+<idAlarme>10022</idAlarme>
+<nomProduit>NIQUITIN 14mg/24heures disp transderm</nomProduit>
+<codeProduit>4e8a05</codeProduit>
+<prixProduit>527.0</prixProduit>
+<quantiteActuel>1545</quantiteActuel>
+<quantiteAlarme>105</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-08-02</dateModification>
+<auteurCreation>Rojas</auteurCreation>
+<auteurModification>Quon
+</auteurModification>
+</row>
+<row idProduit="6687">
+<idAlarme>9555</idAlarme>
+<nomProduit>NIQUITIN 21mg/24heures disp transderm</nomProduit>
+<codeProduit>9f1b81</codeProduit>
+<prixProduit>281.0</prixProduit>
+<quantiteActuel>1879</quantiteActuel>
+<quantiteAlarme>303</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-09-23</dateModification>
+<auteurCreation>Abbott</auteurCreation>
+<auteurModification>Teagan
+</auteurModification>
+</row>
+<row idProduit="6688">
+<idAlarme>9240</idAlarme>
+<nomProduit>NIQUITIN 7mg/24heures disp transderm</nomProduit>
+<codeProduit>31a407</codeProduit>
+<prixProduit>195.0</prixProduit>
+<quantiteActuel>1942</quantiteActuel>
+<quantiteAlarme>342</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Phillips</auteurCreation>
+<auteurModification>Aiko
+</auteurModification>
+</row>
+<row idProduit="6689">
+<idAlarme>5188</idAlarme>
+<nomProduit>NIQUITIN MENTHE FRAICHE 2mg cp a sucer</nomProduit>
+<codeProduit>675211</codeProduit>
+<prixProduit>1445.0</prixProduit>
+<quantiteActuel>2739</quantiteActuel>
+<quantiteAlarme>312</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-08-01</dateModification>
+<auteurCreation>Armstrong</auteurCreation>
+<auteurModification>Malcolm
+</auteurModification>
+</row>
+<row idProduit="6690">
+<idAlarme>3381</idAlarme>
+<nomProduit>NIQUITIN MENTHE FRAICHE 4mg cp a sucer</nomProduit>
+<codeProduit>0c568d</codeProduit>
+<prixProduit>700.0</prixProduit>
+<quantiteActuel>1790</quantiteActuel>
+<quantiteAlarme>350</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-09-13</dateModification>
+<auteurCreation>Macias</auteurCreation>
+<auteurModification>Giselle
+</auteurModification>
+</row>
+<row idProduit="6691">
+<idAlarme>9538</idAlarme>
+<nomProduit>NIQUITIN SANS SUCRE 2mg cp a sucer</nomProduit>
+<codeProduit>143157</codeProduit>
+<prixProduit>237.0</prixProduit>
+<quantiteActuel>2235</quantiteActuel>
+<quantiteAlarme>134</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-07-11</dateModification>
+<auteurCreation>Mcbride</auteurCreation>
+<auteurModification>Brenna
+</auteurModification>
+</row>
+<row idProduit="6692">
+<idAlarme>156</idAlarme>
+<nomProduit>NIQUITIN SANS SUCRE 2mg gomm macher medic</nomProduit>
+<codeProduit>58d06d</codeProduit>
+<prixProduit>300.0</prixProduit>
+<quantiteActuel>2006</quantiteActuel>
+<quantiteAlarme>233</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-07-31</dateModification>
+<auteurCreation>Armstrong</auteurCreation>
+<auteurModification>Amaya
+</auteurModification>
+</row>
+<row idProduit="6693">
+<idAlarme>8047</idAlarme>
+<nomProduit>NIQUITIN SANS SUCRE 4mg cp a sucer</nomProduit>
+<codeProduit>512dd0</codeProduit>
+<prixProduit>158.0</prixProduit>
+<quantiteActuel>2208</quantiteActuel>
+<quantiteAlarme>225</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-12</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Lamb</auteurCreation>
+<auteurModification>Quintessa
+</auteurModification>
+</row>
+<row idProduit="6694">
+<idAlarme>6947</idAlarme>
+<nomProduit>NIQUITINMINIS 1,5 mg SANS SUCRE cp a sucer</nomProduit>
+<codeProduit>dba754</codeProduit>
+<prixProduit>1275.0</prixProduit>
+<quantiteActuel>1558</quantiteActuel>
+<quantiteAlarme>431</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-06-29</dateModification>
+<auteurCreation>Mitchell</auteurCreation>
+<auteurModification>Wendy
+</auteurModification>
+</row>
+<row idProduit="6695">
+<idAlarme>2985</idAlarme>
+<nomProduit>NIQUITINMINIS 4 mg SANS SUCRE cp a sucer</nomProduit>
+<codeProduit>5918c2</codeProduit>
+<prixProduit>394.0</prixProduit>
+<quantiteActuel>2993</quantiteActuel>
+<quantiteAlarme>493</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-07-31</dateModification>
+<auteurCreation>Robbins</auteurCreation>
+<auteurModification>Wynter
+</auteurModification>
+</row>
+<row idProduit="6696">
+<idAlarme>7052</idAlarme>
+<nomProduit>NISIS 160 mg cp pellic sec</nomProduit>
+<codeProduit>c8bfff</codeProduit>
+<prixProduit>1431.0</prixProduit>
+<quantiteActuel>2197</quantiteActuel>
+<quantiteAlarme>225</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-07-31</dateModification>
+<auteurCreation>Cortez</auteurCreation>
+<auteurModification>Alden
+</auteurModification>
+</row>
+<row idProduit="6697">
+<idAlarme>247</idAlarme>
+<nomProduit>NISIS 40mg cp pellic sec</nomProduit>
+<codeProduit>ae64c6</codeProduit>
+<prixProduit>198.0</prixProduit>
+<quantiteActuel>2201</quantiteActuel>
+<quantiteAlarme>487</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-08-11</dateModification>
+<auteurCreation>David</auteurCreation>
+<auteurModification>Phillip
+</auteurModification>
+</row>
+<row idProduit="6698">
+<idAlarme>9833</idAlarme>
+<nomProduit>NISIS 80 mg cp pellic sec</nomProduit>
+<codeProduit>5e342c</codeProduit>
+<prixProduit>1131.0</prixProduit>
+<quantiteActuel>2867</quantiteActuel>
+<quantiteAlarme>340</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-26</dateCreation>
+<dateModification>2010-08-25</dateModification>
+<auteurCreation>Brooks</auteurCreation>
+<auteurModification>Kim
+</auteurModification>
+</row>
+<row idProduit="6699">
+<idAlarme>6721</idAlarme>
+<nomProduit>NISISCO 160mg/12,5mg cp pellic</nomProduit>
+<codeProduit>8c6d5f</codeProduit>
+<prixProduit>219.0</prixProduit>
+<quantiteActuel>1682</quantiteActuel>
+<quantiteAlarme>450</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-06-23</dateModification>
+<auteurCreation>Fernandez</auteurCreation>
+<auteurModification>Florence
+</auteurModification>
+</row>
+<row idProduit="6700">
+<idAlarme>5845</idAlarme>
+<nomProduit>NISISCO 160mg/25mg cp pellic</nomProduit>
+<codeProduit>8e95c8</codeProduit>
+<prixProduit>816.0</prixProduit>
+<quantiteActuel>2674</quantiteActuel>
+<quantiteAlarme>246</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-09-24</dateModification>
+<auteurCreation>Blanchard</auteurCreation>
+<auteurModification>Nero
+</auteurModification>
+</row>
+<row idProduit="6701">
+<idAlarme>6529</idAlarme>
+<nomProduit>NISISCO 80mg/12,5mg cp pellic</nomProduit>
+<codeProduit>344ec2</codeProduit>
+<prixProduit>1455.0</prixProduit>
+<quantiteActuel>2189</quantiteActuel>
+<quantiteAlarme>196</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-06-17</dateModification>
+<auteurCreation>Harrison</auteurCreation>
+<auteurModification>Erin
+</auteurModification>
+</row>
+<row idProduit="6702">
+<idAlarme>6429</idAlarme>
+<nomProduit>NITRENDIPINE MYLAN 10 mg cp</nomProduit>
+<codeProduit>9b8c04</codeProduit>
+<prixProduit>1068.0</prixProduit>
+<quantiteActuel>1547</quantiteActuel>
+<quantiteAlarme>242</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-27</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Klein</auteurCreation>
+<auteurModification>Belle
+</auteurModification>
+</row>
+<row idProduit="6703">
+<idAlarme>621</idAlarme>
+<nomProduit>NITRENDIPINE MYLAN 20 mg cp sec</nomProduit>
+<codeProduit>41421b</codeProduit>
+<prixProduit>1130.0</prixProduit>
+<quantiteActuel>1765</quantiteActuel>
+<quantiteAlarme>422</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-10-04</dateModification>
+<auteurCreation>Travis</auteurCreation>
+<auteurModification>Gwendolyn
+</auteurModification>
+</row>
+<row idProduit="6704">
+<idAlarme>9400</idAlarme>
+<nomProduit>NITRENDIPINE TEVA 10mg cp</nomProduit>
+<codeProduit>21bd44</codeProduit>
+<prixProduit>228.0</prixProduit>
+<quantiteActuel>2124</quantiteActuel>
+<quantiteAlarme>206</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-06-20</dateModification>
+<auteurCreation>Weiss</auteurCreation>
+<auteurModification>Cullen
+</auteurModification>
+</row>
+<row idProduit="6705">
+<idAlarme>4131</idAlarme>
+<nomProduit>NITRENDIPINE TEVA 20mg cp</nomProduit>
+<codeProduit>8829c3</codeProduit>
+<prixProduit>660.0</prixProduit>
+<quantiteActuel>2600</quantiteActuel>
+<quantiteAlarme>172</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-08-04</dateModification>
+<auteurCreation>Day</auteurCreation>
+<auteurModification>Alice
+</auteurModification>
+</row>
+<row idProduit="6706">
+<idAlarme>6964</idAlarme>
+<nomProduit>NITRIATE 50 mg pdre/solv p sol p perf IV</nomProduit>
+<codeProduit>9c8a9b</codeProduit>
+<prixProduit>737.0</prixProduit>
+<quantiteActuel>2060</quantiteActuel>
+<quantiteAlarme>338</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-08-01</dateModification>
+<auteurCreation>Hart</auteurCreation>
+<auteurModification>Carissa
+</auteurModification>
+</row>
+<row idProduit="6707">
+<idAlarme>1512</idAlarme>
+<nomProduit>NITRIDERM TTS 10mg/24h disp transderm</nomProduit>
+<codeProduit>194ceb</codeProduit>
+<prixProduit>1210.0</prixProduit>
+<quantiteActuel>1854</quantiteActuel>
+<quantiteAlarme>423</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-09-28</dateModification>
+<auteurCreation>Christensen</auteurCreation>
+<auteurModification>Hasad
+</auteurModification>
+</row>
+<row idProduit="6708">
+<idAlarme>4193</idAlarme>
+<nomProduit>NITRIDERM TTS 15mg/24h disp transderm</nomProduit>
+<codeProduit>73a7b1</codeProduit>
+<prixProduit>536.0</prixProduit>
+<quantiteActuel>1573</quantiteActuel>
+<quantiteAlarme>302</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-07-05</dateModification>
+<auteurCreation>Guerrero</auteurCreation>
+<auteurModification>Edan
+</auteurModification>
+</row>
+<row idProduit="6709">
+<idAlarme>7238</idAlarme>
+<nomProduit>NITRIDERM TTS 5mg/24h disp transderm</nomProduit>
+<codeProduit>b144d1</codeProduit>
+<prixProduit>191.0</prixProduit>
+<quantiteActuel>2083</quantiteActuel>
+<quantiteAlarme>461</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-07-30</dateModification>
+<auteurCreation>Reid</auteurCreation>
+<auteurModification>Ralph
+</auteurModification>
+</row>
+<row idProduit="6710">
+<idAlarme>5829</idAlarme>
+<nomProduit>NITRONAL 1mg/ml sol p perf</nomProduit>
+<codeProduit>db89a1</codeProduit>
+<prixProduit>505.0</prixProduit>
+<quantiteActuel>1753</quantiteActuel>
+<quantiteAlarme>228</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>David</auteurCreation>
+<auteurModification>Yen
+</auteurModification>
+</row>
+<row idProduit="6711">
+<idAlarme>10382</idAlarme>
+<nomProduit>NITRONALSPRAY 0,4mg sol p pulv endobucc</nomProduit>
+<codeProduit>326968</codeProduit>
+<prixProduit>1100.0</prixProduit>
+<quantiteActuel>2158</quantiteActuel>
+<quantiteAlarme>434</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-07-18</dateModification>
+<auteurCreation>Goodwin</auteurCreation>
+<auteurModification>Xandra
+</auteurModification>
+</row>
+<row idProduit="6712">
+<idAlarme>3088</idAlarme>
+<nomProduit>NIVAQUINE 100 mg cp sec</nomProduit>
+<codeProduit>81b8c3</codeProduit>
+<prixProduit>868.0</prixProduit>
+<quantiteActuel>1788</quantiteActuel>
+<quantiteAlarme>339</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-09-07</dateModification>
+<auteurCreation>Lewis</auteurCreation>
+<auteurModification>Aurelia
+</auteurModification>
+</row>
+<row idProduit="6713">
+<idAlarme>3644</idAlarme>
+<nomProduit>NIVAQUINE 25mg/5ml sirop</nomProduit>
+<codeProduit>7e33ce</codeProduit>
+<prixProduit>767.0</prixProduit>
+<quantiteActuel>1829</quantiteActuel>
+<quantiteAlarme>316</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-09-03</dateModification>
+<auteurCreation>Yang</auteurCreation>
+<auteurModification>Jordan
+</auteurModification>
+</row>
+<row idProduit="6714">
+<idAlarme>2693</idAlarme>
+<nomProduit>NIVAQUINE 300mg cp pellic</nomProduit>
+<codeProduit>fc5e66</codeProduit>
+<prixProduit>659.0</prixProduit>
+<quantiteActuel>2580</quantiteActuel>
+<quantiteAlarme>445</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-08-25</dateModification>
+<auteurCreation>Noble</auteurCreation>
+<auteurModification>Gregory
+</auteurModification>
+</row>
+<row idProduit="6715">
+<idAlarme>1829</idAlarme>
+<nomProduit>NIZAXID 150 mg gel</nomProduit>
+<codeProduit>bb0931</codeProduit>
+<prixProduit>1131.0</prixProduit>
+<quantiteActuel>1745</quantiteActuel>
+<quantiteAlarme>421</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-09-09</dateModification>
+<auteurCreation>Hinton</auteurCreation>
+<auteurModification>Tatum
+</auteurModification>
+</row>
+<row idProduit="6716">
+<idAlarme>3118</idAlarme>
+<nomProduit>NIZORAL 200 mg cp</nomProduit>
+<codeProduit>f6bb74</codeProduit>
+<prixProduit>979.0</prixProduit>
+<quantiteActuel>2837</quantiteActuel>
+<quantiteAlarme>460</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-08-20</dateModification>
+<auteurCreation>Donaldson</auteurCreation>
+<auteurModification>Justine
+</auteurModification>
+</row>
+<row idProduit="6717">
+<idAlarme>7535</idAlarme>
+<nomProduit>NOCERTONE 60 mg cp pellic sec</nomProduit>
+<codeProduit>710868</codeProduit>
+<prixProduit>590.0</prixProduit>
+<quantiteActuel>1639</quantiteActuel>
+<quantiteAlarme>269</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Holcomb</auteurCreation>
+<auteurModification>Lydia
+</auteurModification>
+</row>
+<row idProduit="6718">
+<idAlarme>2506</idAlarme>
+<nomProduit>NOCTAMIDE 1 mg cp sec</nomProduit>
+<codeProduit>813c64</codeProduit>
+<prixProduit>1163.0</prixProduit>
+<quantiteActuel>2256</quantiteActuel>
+<quantiteAlarme>147</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Robertson</auteurCreation>
+<auteurModification>Aquila
+</auteurModification>
+</row>
+<row idProduit="6719">
+<idAlarme>8513</idAlarme>
+<nomProduit>NOCTAMIDE 2 mg cp sec</nomProduit>
+<codeProduit>4ae82a</codeProduit>
+<prixProduit>930.0</prixProduit>
+<quantiteActuel>2398</quantiteActuel>
+<quantiteAlarme>435</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Pitts</auteurCreation>
+<auteurModification>Violet
+</auteurModification>
+</row>
+<row idProduit="6720">
+<idAlarme>6591</idAlarme>
+<nomProduit>NOCTIUM sirop</nomProduit>
+<codeProduit>cb0b35</codeProduit>
+<prixProduit>539.0</prixProduit>
+<quantiteActuel>1572</quantiteActuel>
+<quantiteAlarme>409</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-10-06</dateModification>
+<auteurCreation>Daniels</auteurCreation>
+<auteurModification>Colette
+</auteurModification>
+</row>
+<row idProduit="6721">
+<idAlarme>6703</idAlarme>
+<nomProduit>NOCTRAN cp sec</nomProduit>
+<codeProduit>e51b2f</codeProduit>
+<prixProduit>588.0</prixProduit>
+<quantiteActuel>2043</quantiteActuel>
+<quantiteAlarme>156</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-09-25</dateModification>
+<auteurCreation>Atkins</auteurCreation>
+<auteurModification>Germaine
+</auteurModification>
+</row>
+<row idProduit="6722">
+<idAlarme>4938</idAlarme>
+<nomProduit>NOCTYL 15mg cp enr sec</nomProduit>
+<codeProduit>b16e6a</codeProduit>
+<prixProduit>605.0</prixProduit>
+<quantiteActuel>2394</quantiteActuel>
+<quantiteAlarme>143</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-22</dateCreation>
+<dateModification>2010-07-18</dateModification>
+<auteurCreation>Walls</auteurCreation>
+<auteurModification>Drake
+</auteurModification>
+</row>
+<row idProduit="6723">
+<idAlarme>5033</idAlarme>
+<nomProduit>NODEX sirop ad en unidose</nomProduit>
+<codeProduit>411035</codeProduit>
+<prixProduit>407.0</prixProduit>
+<quantiteActuel>2199</quantiteActuel>
+<quantiteAlarme>220</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-08-09</dateModification>
+<auteurCreation>Travis</auteurCreation>
+<auteurModification>Joel
+</auteurModification>
+</row>
+<row idProduit="6724">
+<idAlarme>10538</idAlarme>
+<nomProduit>NOLVADEX 10mg cp pellic</nomProduit>
+<codeProduit>d628a5</codeProduit>
+<prixProduit>1365.0</prixProduit>
+<quantiteActuel>1821</quantiteActuel>
+<quantiteAlarme>302</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-07-01</dateModification>
+<auteurCreation>Nieves</auteurCreation>
+<auteurModification>Matthew
+</auteurModification>
+</row>
+<row idProduit="6725">
+<idAlarme>4779</idAlarme>
+<nomProduit>NOLVADEX 20mg cp enr</nomProduit>
+<codeProduit>e87c71</codeProduit>
+<prixProduit>323.0</prixProduit>
+<quantiteActuel>2013</quantiteActuel>
+<quantiteAlarme>425</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-08-06</dateModification>
+<auteurCreation>Oliver</auteurCreation>
+<auteurModification>Walker
+</auteurModification>
+</row>
+<row idProduit="6726">
+<idAlarme>4380</idAlarme>
+<nomProduit>NOMEGESTROL ARROW 5 mg cp sec</nomProduit>
+<codeProduit>cf91b4</codeProduit>
+<prixProduit>352.0</prixProduit>
+<quantiteActuel>2640</quantiteActuel>
+<quantiteAlarme>199</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-08-11</dateModification>
+<auteurCreation>Craig</auteurCreation>
+<auteurModification>Jocelyn
+</auteurModification>
+</row>
+<row idProduit="6727">
+<idAlarme>2933</idAlarme>
+<nomProduit>NOMEGESTROL BIOGARAN 5mg cp sec</nomProduit>
+<codeProduit>c8fe49</codeProduit>
+<prixProduit>663.0</prixProduit>
+<quantiteActuel>2402</quantiteActuel>
+<quantiteAlarme>410</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-08-29</dateModification>
+<auteurCreation>Curry</auteurCreation>
+<auteurModification>Dominic
+</auteurModification>
+</row>
+<row idProduit="6728">
+<idAlarme>6712</idAlarme>
+<nomProduit>NOMEGESTROL EG 5mg cp sec</nomProduit>
+<codeProduit>a1f356</codeProduit>
+<prixProduit>680.0</prixProduit>
+<quantiteActuel>2603</quantiteActuel>
+<quantiteAlarme>103</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-08-11</dateModification>
+<auteurCreation>Koch</auteurCreation>
+<auteurModification>Marcia
+</auteurModification>
+</row>
+<row idProduit="6729">
+<idAlarme>113</idAlarme>
+<nomProduit>NOMEGESTROL MYLAN 5 mg cp sec</nomProduit>
+<codeProduit>dddf6d</codeProduit>
+<prixProduit>522.0</prixProduit>
+<quantiteActuel>1670</quantiteActuel>
+<quantiteAlarme>199</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-08-02</dateModification>
+<auteurCreation>Ingram</auteurCreation>
+<auteurModification>Whilemina
+</auteurModification>
+</row>
+<row idProduit="6730">
+<idAlarme>502</idAlarme>
+<nomProduit>NOMEGESTROL RATIOPHARM 5mg cp sec</nomProduit>
+<codeProduit>dbbefb</codeProduit>
+<prixProduit>1300.0</prixProduit>
+<quantiteActuel>2069</quantiteActuel>
+<quantiteAlarme>334</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-08-29</dateModification>
+<auteurCreation>William</auteurCreation>
+<auteurModification>Branden
+</auteurModification>
+</row>
+<row idProduit="6731">
+<idAlarme>8484</idAlarme>
+<nomProduit>NOMEGESTROL SANDOZ 5 mg cp sec</nomProduit>
+<codeProduit>55c60c</codeProduit>
+<prixProduit>894.0</prixProduit>
+<quantiteActuel>2284</quantiteActuel>
+<quantiteAlarme>238</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-10-06</dateModification>
+<auteurCreation>Parrish</auteurCreation>
+<auteurModification>Octavia
+</auteurModification>
+</row>
+<row idProduit="6732">
+<idAlarme>2700</idAlarme>
+<nomProduit>NOMEGESTROL TEVA 5mg cp sec</nomProduit>
+<codeProduit>f9fee7</codeProduit>
+<prixProduit>437.0</prixProduit>
+<quantiteActuel>1806</quantiteActuel>
+<quantiteAlarme>208</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Francis</auteurCreation>
+<auteurModification>Keelie
+</auteurModification>
+</row>
+<row idProduit="6733">
+<idAlarme>6890</idAlarme>
+<nomProduit>NOMEGESTROL WINTHROP 5 mg cp sec</nomProduit>
+<codeProduit>ad85b7</codeProduit>
+<prixProduit>687.0</prixProduit>
+<quantiteActuel>2701</quantiteActuel>
+<quantiteAlarme>390</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-06-20</dateModification>
+<auteurCreation>Petty</auteurCreation>
+<auteurModification>Sandra
+</auteurModification>
+</row>
+<row idProduit="6734">
+<idAlarme>8811</idAlarme>
+<nomProduit>NONAN sol p perf IV</nomProduit>
+<codeProduit>9c5254</codeProduit>
+<prixProduit>907.0</prixProduit>
+<quantiteActuel>2244</quantiteActuel>
+<quantiteAlarme>476</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-07-14</dateModification>
+<auteurCreation>Klein</auteurCreation>
+<auteurModification>Hilda
+</auteurModification>
+</row>
+<row idProduit="6735">
+<idAlarme>1559</idAlarme>
+<nomProduit>NOOTROPYL 1 200 mg sol buv</nomProduit>
+<codeProduit>b42c8a</codeProduit>
+<prixProduit>705.0</prixProduit>
+<quantiteActuel>2583</quantiteActuel>
+<quantiteAlarme>292</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-09-01</dateModification>
+<auteurCreation>Cunningham</auteurCreation>
+<auteurModification>Michelle
+</auteurModification>
+</row>
+<row idProduit="6736">
+<idAlarme>812</idAlarme>
+<nomProduit>NOOTROPYL 20 % sol buv</nomProduit>
+<codeProduit>1861db</codeProduit>
+<prixProduit>1011.0</prixProduit>
+<quantiteActuel>1821</quantiteActuel>
+<quantiteAlarme>193</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-10-02</dateModification>
+<auteurCreation>Snyder</auteurCreation>
+<auteurModification>Demetria
+</auteurModification>
+</row>
+<row idProduit="6737">
+<idAlarme>2348</idAlarme>
+<nomProduit>NOOTROPYL 3g/15ml sol inj</nomProduit>
+<codeProduit>6e23b1</codeProduit>
+<prixProduit>1205.0</prixProduit>
+<quantiteActuel>1707</quantiteActuel>
+<quantiteAlarme>267</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-07-24</dateModification>
+<auteurCreation>Alston</auteurCreation>
+<auteurModification>Vielka
+</auteurModification>
+</row>
+<row idProduit="6738">
+<idAlarme>7861</idAlarme>
+<nomProduit>NOOTROPYL 800 mg cp pellic</nomProduit>
+<codeProduit>f86078</codeProduit>
+<prixProduit>997.0</prixProduit>
+<quantiteActuel>2911</quantiteActuel>
+<quantiteAlarme>465</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Mann</auteurCreation>
+<auteurModification>Lunea
+</auteurModification>
+</row>
+<row idProduit="6739">
+<idAlarme>9543</idAlarme>
+<nomProduit>NOPRON 15 mg/5 ml sirop enf</nomProduit>
+<codeProduit>adc193</codeProduit>
+<prixProduit>794.0</prixProduit>
+<quantiteActuel>1968</quantiteActuel>
+<quantiteAlarme>341</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-06-21</dateModification>
+<auteurCreation>Little</auteurCreation>
+<auteurModification>Mohammad
+</auteurModification>
+</row>
+<row idProduit="6740">
+<idAlarme>8636</idAlarme>
+<nomProduit>NORADRENALINE (TARTRATE) AGUETTANT 2 mg/ml (SANS SULFITES) sol diluer p perf</nomProduit>
+<codeProduit>792cb3</codeProduit>
+<prixProduit>641.0</prixProduit>
+<quantiteActuel>2619</quantiteActuel>
+<quantiteAlarme>485</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-10-06</dateModification>
+<auteurCreation>Glenn</auteurCreation>
+<auteurModification>Maggie
+</auteurModification>
+</row>
+<row idProduit="6741">
+<idAlarme>671</idAlarme>
+<nomProduit>NORADRENALINE MYLAN 2 mg/ml SANS SULFITES sol diluer p perf</nomProduit>
+<codeProduit>cf593f</codeProduit>
+<prixProduit>823.0</prixProduit>
+<quantiteActuel>2849</quantiteActuel>
+<quantiteAlarme>136</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-08-11</dateModification>
+<auteurCreation>Whitaker</auteurCreation>
+<auteurModification>Kimberly
+</auteurModification>
+</row>
+<row idProduit="6742">
+<idAlarme>2602</idAlarme>
+<nomProduit>NORADRENALINE RENAUDIN SANS CONSERVATEUR 2mg/ml sol diluer p perf</nomProduit>
+<codeProduit>d48b69</codeProduit>
+<prixProduit>1246.0</prixProduit>
+<quantiteActuel>2339</quantiteActuel>
+<quantiteAlarme>307</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-07-03</dateModification>
+<auteurCreation>Walker</auteurCreation>
+<auteurModification>Lilah
+</auteurModification>
+</row>
+<row idProduit="6743">
+<idAlarme>1753</idAlarme>
+<nomProduit>NORADRENALINE TARTRATE RENAUDIN 2 mg/ml sol inj</nomProduit>
+<codeProduit>d46500</codeProduit>
+<prixProduit>632.0</prixProduit>
+<quantiteActuel>2053</quantiteActuel>
+<quantiteAlarme>496</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-08-11</dateModification>
+<auteurCreation>Fry</auteurCreation>
+<auteurModification>Thane
+</auteurModification>
+</row>
+<row idProduit="6744">
+<idAlarme>7367</idAlarme>
+<nomProduit>NORCHOLESTEROL IODE 131I CIS BIO INTERNATIONAL sol inj</nomProduit>
+<codeProduit>edbee7</codeProduit>
+<prixProduit>868.0</prixProduit>
+<quantiteActuel>1512</quantiteActuel>
+<quantiteAlarme>418</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-26</dateCreation>
+<dateModification>2010-10-01</dateModification>
+<auteurCreation>Casey</auteurCreation>
+<auteurModification>Cassady
+</auteurModification>
+</row>
+<row idProduit="6745">
+<idAlarme>211</idAlarme>
+<nomProduit>NORCURON 10mg pdre p sol inj</nomProduit>
+<codeProduit>072db0</codeProduit>
+<prixProduit>1269.0</prixProduit>
+<quantiteActuel>1781</quantiteActuel>
+<quantiteAlarme>216</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-09-10</dateModification>
+<auteurCreation>Logan</auteurCreation>
+<auteurModification>Laurel
+</auteurModification>
+</row>
+<row idProduit="6746">
+<idAlarme>3260</idAlarme>
+<nomProduit>NORCURON 4mg/ml pdre/solv p sol inj</nomProduit>
+<codeProduit>8ef618</codeProduit>
+<prixProduit>338.0</prixProduit>
+<quantiteActuel>1673</quantiteActuel>
+<quantiteAlarme>311</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Levy</auteurCreation>
+<auteurModification>Holly
+</auteurModification>
+</row>
+<row idProduit="6747">
+<idAlarme>5571</idAlarme>
+<nomProduit>NORDAZ 15 mg cp quadrisec</nomProduit>
+<codeProduit>d4ccdd</codeProduit>
+<prixProduit>840.0</prixProduit>
+<quantiteActuel>1687</quantiteActuel>
+<quantiteAlarme>396</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-10-02</dateModification>
+<auteurCreation>Mckee</auteurCreation>
+<auteurModification>Tashya
+</auteurModification>
+</row>
+<row idProduit="6748">
+<idAlarme>4592</idAlarme>
+<nomProduit>NORDAZ 7,5 mg cp sec</nomProduit>
+<codeProduit>347e33</codeProduit>
+<prixProduit>529.0</prixProduit>
+<quantiteActuel>2562</quantiteActuel>
+<quantiteAlarme>254</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-09-20</dateModification>
+<auteurCreation>Alvarez</auteurCreation>
+<auteurModification>Blythe
+</auteurModification>
+</row>
+<row idProduit="6749">
+<idAlarme>4596</idAlarme>
+<nomProduit>NORDITROPINE NORDIFLEX 15mg/1,5ml sol inj</nomProduit>
+<codeProduit>261eb0</codeProduit>
+<prixProduit>949.0</prixProduit>
+<quantiteActuel>1575</quantiteActuel>
+<quantiteAlarme>156</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Wade</auteurCreation>
+<auteurModification>Julian
+</auteurModification>
+</row>
+<row idProduit="6750">
+<idAlarme>4228</idAlarme>
+<nomProduit>NORDITROPINE SIMPLEXX 10 mg/1,5 ml sol inj en cartouche</nomProduit>
+<codeProduit>98416c</codeProduit>
+<prixProduit>233.0</prixProduit>
+<quantiteActuel>2594</quantiteActuel>
+<quantiteAlarme>447</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-09-17</dateModification>
+<auteurCreation>Goodman</auteurCreation>
+<auteurModification>Jermaine
+</auteurModification>
+</row>
+<row idProduit="6751">
+<idAlarme>874</idAlarme>
+<nomProduit>NORDITROPINE SIMPLEXX 15 mg/1,5 ml sol inj en cartouche</nomProduit>
+<codeProduit>6da1c2</codeProduit>
+<prixProduit>911.0</prixProduit>
+<quantiteActuel>2388</quantiteActuel>
+<quantiteAlarme>413</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-09-29</dateModification>
+<auteurCreation>Valentine</auteurCreation>
+<auteurModification>Hoyt
+</auteurModification>
+</row>
+<row idProduit="6752">
+<idAlarme>2622</idAlarme>
+<nomProduit>NORDITROPINE SIMPLEXX 5 mg/1,5 ml sol inj en cartouche</nomProduit>
+<codeProduit>d73aef</codeProduit>
+<prixProduit>797.0</prixProduit>
+<quantiteActuel>1663</quantiteActuel>
+<quantiteAlarme>345</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-09-17</dateModification>
+<auteurCreation>Knowles</auteurCreation>
+<auteurModification>Nichole
+</auteurModification>
+</row>
+<row idProduit="6753">
+<idAlarme>1621</idAlarme>
+<nomProduit>NORFLOXACINE ARROW 400mg cp pellic</nomProduit>
+<codeProduit>746213</codeProduit>
+<prixProduit>530.0</prixProduit>
+<quantiteActuel>1664</quantiteActuel>
+<quantiteAlarme>310</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Riley</auteurCreation>
+<auteurModification>Aphrodite
+</auteurModification>
+</row>
+<row idProduit="6754">
+<idAlarme>5175</idAlarme>
+<nomProduit>NORFLOXACINE BIOGARAN 400mg cp pellic</nomProduit>
+<codeProduit>454022</codeProduit>
+<prixProduit>1250.0</prixProduit>
+<quantiteActuel>1957</quantiteActuel>
+<quantiteAlarme>143</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-08-10</dateModification>
+<auteurCreation>Acosta</auteurCreation>
+<auteurModification>Keith
+</auteurModification>
+</row>
+<row idProduit="6755">
+<idAlarme>4486</idAlarme>
+<nomProduit>NORFLOXACINE CRISTERS 400 mg cp pellic</nomProduit>
+<codeProduit>1283ad</codeProduit>
+<prixProduit>1447.0</prixProduit>
+<quantiteActuel>2486</quantiteActuel>
+<quantiteAlarme>493</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-09-09</dateModification>
+<auteurCreation>Leon</auteurCreation>
+<auteurModification>Briar
+</auteurModification>
+</row>
+<row idProduit="6756">
+<idAlarme>9043</idAlarme>
+<nomProduit>NORFLOXACINE EG 400mg cp pellic</nomProduit>
+<codeProduit>a60e0e</codeProduit>
+<prixProduit>481.0</prixProduit>
+<quantiteActuel>2134</quantiteActuel>
+<quantiteAlarme>424</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-07-05</dateModification>
+<auteurCreation>May</auteurCreation>
+<auteurModification>Fulton
+</auteurModification>
+</row>
+<row idProduit="6757">
+<idAlarme>5470</idAlarme>
+<nomProduit>NORFLOXACINE MYLAN 400 mg cp pellic</nomProduit>
+<codeProduit>1b9b0a</codeProduit>
+<prixProduit>1275.0</prixProduit>
+<quantiteActuel>2161</quantiteActuel>
+<quantiteAlarme>489</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-09-13</dateModification>
+<auteurCreation>George</auteurCreation>
+<auteurModification>Fallon
+</auteurModification>
+</row>
+<row idProduit="6758">
+<idAlarme>493</idAlarme>
+<nomProduit>NORFLOXACINE QUALIMED 400mg cp pellic</nomProduit>
+<codeProduit>9685a3</codeProduit>
+<prixProduit>1093.0</prixProduit>
+<quantiteActuel>2287</quantiteActuel>
+<quantiteAlarme>243</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Morrison</auteurCreation>
+<auteurModification>Kristen
+</auteurModification>
+</row>
+<row idProduit="6759">
+<idAlarme>6841</idAlarme>
+<nomProduit>NORFLOXACINE RANBAXY 400mg cp pellic</nomProduit>
+<codeProduit>da247b</codeProduit>
+<prixProduit>363.0</prixProduit>
+<quantiteActuel>2806</quantiteActuel>
+<quantiteAlarme>489</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-07-02</dateModification>
+<auteurCreation>Huff</auteurCreation>
+<auteurModification>Nathan
+</auteurModification>
+</row>
+<row idProduit="6760">
+<idAlarme>5052</idAlarme>
+<nomProduit>NORFLOXACINE RATIOPHARM 400mg cp pellic</nomProduit>
+<codeProduit>2ab44a</codeProduit>
+<prixProduit>758.0</prixProduit>
+<quantiteActuel>2674</quantiteActuel>
+<quantiteAlarme>352</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Spence</auteurCreation>
+<auteurModification>Emery
+</auteurModification>
+</row>
+<row idProduit="6761">
+<idAlarme>3938</idAlarme>
+<nomProduit>NORFLOXACINE SANDOZ 400mg cp pellic</nomProduit>
+<codeProduit>7ebb4c</codeProduit>
+<prixProduit>1301.0</prixProduit>
+<quantiteActuel>1953</quantiteActuel>
+<quantiteAlarme>448</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Gomez</auteurCreation>
+<auteurModification>Maris
+</auteurModification>
+</row>
+<row idProduit="6762">
+<idAlarme>410</idAlarme>
+<nomProduit>NORFLOXACINE TEVA 400mg cp pellic</nomProduit>
+<codeProduit>4cca30</codeProduit>
+<prixProduit>1036.0</prixProduit>
+<quantiteActuel>2697</quantiteActuel>
+<quantiteAlarme>349</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-09-09</dateModification>
+<auteurCreation>Horne</auteurCreation>
+<auteurModification>Clayton
+</auteurModification>
+</row>
+<row idProduit="6763">
+<idAlarme>3648</idAlarme>
+<nomProduit>NORFLOXACINE WINTHROP 400mg cp pellic</nomProduit>
+<codeProduit>73e8a0</codeProduit>
+<prixProduit>626.0</prixProduit>
+<quantiteActuel>2207</quantiteActuel>
+<quantiteAlarme>109</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-09-04</dateModification>
+<auteurCreation>Blair</auteurCreation>
+<auteurModification>Bryar
+</auteurModification>
+</row>
+<row idProduit="6764">
+<idAlarme>8793</idAlarme>
+<nomProduit>NORGALAX gel rectal</nomProduit>
+<codeProduit>3e228b</codeProduit>
+<prixProduit>723.0</prixProduit>
+<quantiteActuel>2705</quantiteActuel>
+<quantiteAlarme>372</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-26</dateCreation>
+<dateModification>2010-06-17</dateModification>
+<auteurCreation>Stewart</auteurCreation>
+<auteurModification>Maggie
+</auteurModification>
+</row>
+<row idProduit="6765">
+<idAlarme>653</idAlarme>
+<nomProduit>NORLEVO 1,5mg cp</nomProduit>
+<codeProduit>2437ea</codeProduit>
+<prixProduit>1094.0</prixProduit>
+<quantiteActuel>2745</quantiteActuel>
+<quantiteAlarme>252</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-09-02</dateModification>
+<auteurCreation>Bray</auteurCreation>
+<auteurModification>Bianca
+</auteurModification>
+</row>
+<row idProduit="6766">
+<idAlarme>9873</idAlarme>
+<nomProduit>NORMACOL 62g/100g gle enr</nomProduit>
+<codeProduit>ac6215</codeProduit>
+<prixProduit>437.0</prixProduit>
+<quantiteActuel>1746</quantiteActuel>
+<quantiteAlarme>339</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-07-30</dateModification>
+<auteurCreation>Bryan</auteurCreation>
+<auteurModification>Neve
+</auteurModification>
+</row>
+<row idProduit="6767">
+<idAlarme>6457</idAlarme>
+<nomProduit>NORMACOL 62g/100g gle enr en vrac</nomProduit>
+<codeProduit>7089b8</codeProduit>
+<prixProduit>1403.0</prixProduit>
+<quantiteActuel>1739</quantiteActuel>
+<quantiteAlarme>333</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-06-23</dateModification>
+<auteurCreation>Mills</auteurCreation>
+<auteurModification>Jocelyn
+</auteurModification>
+</row>
+<row idProduit="6768">
+<idAlarme>1462</idAlarme>
+<nomProduit>NORMACOL LAVEMENT sol rect adulte</nomProduit>
+<codeProduit>aef5a7</codeProduit>
+<prixProduit>875.0</prixProduit>
+<quantiteActuel>2908</quantiteActuel>
+<quantiteAlarme>370</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Mcmahon</auteurCreation>
+<auteurModification>Boris
+</auteurModification>
+</row>
+<row idProduit="6769">
+<idAlarme>4523</idAlarme>
+<nomProduit>NORMACOL LAVEMENT sol rect enfant</nomProduit>
+<codeProduit>79ca5b</codeProduit>
+<prixProduit>1354.0</prixProduit>
+<quantiteActuel>1693</quantiteActuel>
+<quantiteAlarme>386</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-06-30</dateModification>
+<auteurCreation>Gray</auteurCreation>
+<auteurModification>Ali
+</auteurModification>
+</row>
+<row idProduit="6770">
+<idAlarme>7438</idAlarme>
+<nomProduit>NORMISON 10 mg cp</nomProduit>
+<codeProduit>aedfc9</codeProduit>
+<prixProduit>1468.0</prixProduit>
+<quantiteActuel>1741</quantiteActuel>
+<quantiteAlarme>199</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Hendricks</auteurCreation>
+<auteurModification>Galvin
+</auteurModification>
+</row>
+<row idProduit="6771">
+<idAlarme>419</idAlarme>
+<nomProduit>NORMISON 20 mg cp</nomProduit>
+<codeProduit>f49fe8</codeProduit>
+<prixProduit>1296.0</prixProduit>
+<quantiteActuel>1861</quantiteActuel>
+<quantiteAlarme>297</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-05</dateCreation>
+<dateModification>2010-09-30</dateModification>
+<auteurCreation>Gardner</auteurCreation>
+<auteurModification>Cailin
+</auteurModification>
+</row>
+<row idProduit="6772">
+<idAlarme>1203</idAlarme>
+<nomProduit>NORMOSANG 25mg/ml sol inj p perf</nomProduit>
+<codeProduit>9a52d4</codeProduit>
+<prixProduit>855.0</prixProduit>
+<quantiteActuel>2610</quantiteActuel>
+<quantiteAlarme>228</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-29</dateCreation>
+<dateModification>2010-09-04</dateModification>
+<auteurCreation>Tucker</auteurCreation>
+<auteurModification>Rhiannon
+</auteurModification>
+</row>
+<row idProduit="6773">
+<idAlarme>8620</idAlarme>
+<nomProduit>NOROXINE 400 mg cp enr</nomProduit>
+<codeProduit>c8368a</codeProduit>
+<prixProduit>461.0</prixProduit>
+<quantiteActuel>2689</quantiteActuel>
+<quantiteAlarme>304</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-06-26</dateModification>
+<auteurCreation>Horne</auteurCreation>
+<auteurModification>Elmo
+</auteurModification>
+</row>
+<row idProduit="6774">
+<idAlarme>8612</idAlarme>
+<nomProduit>NORPROLAC 150 ug cp</nomProduit>
+<codeProduit>19a5b5</codeProduit>
+<prixProduit>486.0</prixProduit>
+<quantiteActuel>2500</quantiteActuel>
+<quantiteAlarme>405</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-10-05</dateModification>
+<auteurCreation>Dunlap</auteurCreation>
+<auteurModification>Allistair
+</auteurModification>
+</row>
+<row idProduit="6775">
+<idAlarme>7640</idAlarme>
+<nomProduit>NORPROLAC 25 ug et 50 ug cp</nomProduit>
+<codeProduit>14a6f0</codeProduit>
+<prixProduit>197.0</prixProduit>
+<quantiteActuel>2959</quantiteActuel>
+<quantiteAlarme>407</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-07-13</dateModification>
+<auteurCreation>Irwin</auteurCreation>
+<auteurModification>Dale
+</auteurModification>
+</row>
+<row idProduit="6776">
+<idAlarme>10326</idAlarme>
+<nomProduit>NORPROLAC 75 ug cp</nomProduit>
+<codeProduit>e8713e</codeProduit>
+<prixProduit>1464.0</prixProduit>
+<quantiteActuel>1857</quantiteActuel>
+<quantiteAlarme>219</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Oconnor</auteurCreation>
+<auteurModification>Jena
+</auteurModification>
+</row>
+<row idProduit="6777">
+<idAlarme>737</idAlarme>
+<nomProduit>NORSET 15 mg/ml sol buv</nomProduit>
+<codeProduit>d83602</codeProduit>
+<prixProduit>997.0</prixProduit>
+<quantiteActuel>2019</quantiteActuel>
+<quantiteAlarme>496</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-07-22</dateModification>
+<auteurCreation>Sheppard</auteurCreation>
+<auteurModification>Xandra
+</auteurModification>
+</row>
+<row idProduit="6778">
+<idAlarme>2508</idAlarme>
+<nomProduit>NORSET 15mg cp pellic</nomProduit>
+<codeProduit>c60646</codeProduit>
+<prixProduit>193.0</prixProduit>
+<quantiteActuel>2258</quantiteActuel>
+<quantiteAlarme>492</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-09-12</dateModification>
+<auteurCreation>Hampton</auteurCreation>
+<auteurModification>Wing
+</auteurModification>
+</row>
+<row idProduit="6779">
+<idAlarme>2715</idAlarme>
+<nomProduit>NORTUSSINE sirop ad</nomProduit>
+<codeProduit>077316</codeProduit>
+<prixProduit>996.0</prixProduit>
+<quantiteActuel>1789</quantiteActuel>
+<quantiteAlarme>323</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-06-26</dateModification>
+<auteurCreation>Valdez</auteurCreation>
+<auteurModification>Hyacinth
+</auteurModification>
+</row>
+<row idProduit="6780">
+<idAlarme>4747</idAlarme>
+<nomProduit>NORVIR 100 mg cp pellic</nomProduit>
+<codeProduit>b8e896</codeProduit>
+<prixProduit>734.0</prixProduit>
+<quantiteActuel>2997</quantiteActuel>
+<quantiteAlarme>372</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-09-25</dateModification>
+<auteurCreation>Frederick</auteurCreation>
+<auteurModification>Tate
+</auteurModification>
+</row>
+<row idProduit="6781">
+<idAlarme>5617</idAlarme>
+<nomProduit>NORVIR 80 mg/ml sol buv</nomProduit>
+<codeProduit>6cf4da</codeProduit>
+<prixProduit>910.0</prixProduit>
+<quantiteActuel>2664</quantiteActuel>
+<quantiteAlarme>336</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Hanson</auteurCreation>
+<auteurModification>Jerome
+</auteurModification>
+</row>
+<row idProduit="6782">
+<idAlarme>4630</idAlarme>
+<nomProduit>NOTEZINE 100 mg cp sec</nomProduit>
+<codeProduit>4426f1</codeProduit>
+<prixProduit>227.0</prixProduit>
+<quantiteActuel>2246</quantiteActuel>
+<quantiteAlarme>491</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-10-04</dateModification>
+<auteurCreation>Parrish</auteurCreation>
+<auteurModification>Shea
+</auteurModification>
+</row>
+<row idProduit="6783">
+<idAlarme>7750</idAlarme>
+<nomProduit>NOVACETOL cp</nomProduit>
+<codeProduit>b08ae3</codeProduit>
+<prixProduit>802.0</prixProduit>
+<quantiteActuel>1969</quantiteActuel>
+<quantiteAlarme>122</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-09-27</dateModification>
+<auteurCreation>Burton</auteurCreation>
+<auteurModification>Jasper
+</auteurModification>
+</row>
+<row idProduit="6784">
+<idAlarme>7890</idAlarme>
+<nomProduit>NOVANTRONE 10mg/5ml sol diluer p perf</nomProduit>
+<codeProduit>20734a</codeProduit>
+<prixProduit>630.0</prixProduit>
+<quantiteActuel>1940</quantiteActuel>
+<quantiteAlarme>216</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-07-09</dateModification>
+<auteurCreation>Gill</auteurCreation>
+<auteurModification>Jessica
+</auteurModification>
+</row>
+<row idProduit="6785">
+<idAlarme>497</idAlarme>
+<nomProduit>NOVANTRONE 20mg/10ml sol inj p perf</nomProduit>
+<codeProduit>62a7b5</codeProduit>
+<prixProduit>437.0</prixProduit>
+<quantiteActuel>2159</quantiteActuel>
+<quantiteAlarme>439</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-08-25</dateModification>
+<auteurCreation>Griffith</auteurCreation>
+<auteurModification>Talon
+</auteurModification>
+</row>
+<row idProduit="6786">
+<idAlarme>4093</idAlarme>
+<nomProduit>NOVANTRONE 25mg/12,5ml sol diluer p perf</nomProduit>
+<codeProduit>a0d594</codeProduit>
+<prixProduit>384.0</prixProduit>
+<quantiteActuel>2959</quantiteActuel>
+<quantiteAlarme>118</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-09-21</dateModification>
+<auteurCreation>Camacho</auteurCreation>
+<auteurModification>Imogene
+</auteurModification>
+</row>
+<row idProduit="6787">
+<idAlarme>7899</idAlarme>
+<nomProduit>NOVATREX 2,5mg cp</nomProduit>
+<codeProduit>a8b39e</codeProduit>
+<prixProduit>211.0</prixProduit>
+<quantiteActuel>2375</quantiteActuel>
+<quantiteAlarme>274</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-09-25</dateModification>
+<auteurCreation>Glover</auteurCreation>
+<auteurModification>Clayton
+</auteurModification>
+</row>
+<row idProduit="6788">
+<idAlarme>6229</idAlarme>
+<nomProduit>NOVOFEMME cp pellic</nomProduit>
+<codeProduit>1bf62e</codeProduit>
+<prixProduit>671.0</prixProduit>
+<quantiteActuel>1874</quantiteActuel>
+<quantiteAlarme>301</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-08-24</dateModification>
+<auteurCreation>Atkinson</auteurCreation>
+<auteurModification>Baker
+</auteurModification>
+</row>
+<row idProduit="6789">
+<idAlarme>10120</idAlarme>
+<nomProduit>NOVONORM 0,5 mg cp</nomProduit>
+<codeProduit>e68384</codeProduit>
+<prixProduit>1380.0</prixProduit>
+<quantiteActuel>2625</quantiteActuel>
+<quantiteAlarme>265</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-06-26</dateModification>
+<auteurCreation>Boyle</auteurCreation>
+<auteurModification>Alexa
+</auteurModification>
+</row>
+<row idProduit="6790">
+<idAlarme>5844</idAlarme>
+<nomProduit>NOVONORM 1 mg cp</nomProduit>
+<codeProduit>05aed7</codeProduit>
+<prixProduit>328.0</prixProduit>
+<quantiteActuel>1902</quantiteActuel>
+<quantiteAlarme>118</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-08-12</dateModification>
+<auteurCreation>Hewitt</auteurCreation>
+<auteurModification>Dennis
+</auteurModification>
+</row>
+<row idProduit="6791">
+<idAlarme>4150</idAlarme>
+<nomProduit>NOVONORM 2 mg cp</nomProduit>
+<codeProduit>89fd93</codeProduit>
+<prixProduit>691.0</prixProduit>
+<quantiteActuel>1678</quantiteActuel>
+<quantiteAlarme>381</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-08-17</dateModification>
+<auteurCreation>House</auteurCreation>
+<auteurModification>Kadeem
+</auteurModification>
+</row>
+<row idProduit="6792">
+<idAlarme>2073</idAlarme>
+<nomProduit>NOVOPTINE 0,1mg/0,4ml collyre</nomProduit>
+<codeProduit>4941b1</codeProduit>
+<prixProduit>971.0</prixProduit>
+<quantiteActuel>1760</quantiteActuel>
+<quantiteAlarme>344</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-06-29</dateModification>
+<auteurCreation>Mcmillan</auteurCreation>
+<auteurModification>Mechelle
+</auteurModification>
+</row>
+<row idProduit="6793">
+<idAlarme>1164</idAlarme>
+<nomProduit>NOVOPTINE 2,5mg/10ml collyre</nomProduit>
+<codeProduit>acf09f</codeProduit>
+<prixProduit>578.0</prixProduit>
+<quantiteActuel>2613</quantiteActuel>
+<quantiteAlarme>362</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-06-23</dateModification>
+<auteurCreation>Reilly</auteurCreation>
+<auteurModification>Logan
+</auteurModification>
+</row>
+<row idProduit="6794">
+<idAlarme>9554</idAlarme>
+<nomProduit>NOVOPULMON NOVOLIZER 200ug/dose pdre p inhal</nomProduit>
+<codeProduit>c26f7f</codeProduit>
+<prixProduit>696.0</prixProduit>
+<quantiteActuel>2990</quantiteActuel>
+<quantiteAlarme>326</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-08-01</dateModification>
+<auteurCreation>Rivas</auteurCreation>
+<auteurModification>Hayes
+</auteurModification>
+</row>
+<row idProduit="6795">
+<idAlarme>2772</idAlarme>
+<nomProduit>NOVOPULMON NOVOLIZER 400ug/dose pdre p inhal</nomProduit>
+<codeProduit>1173ea</codeProduit>
+<prixProduit>1421.0</prixProduit>
+<quantiteActuel>2837</quantiteActuel>
+<quantiteAlarme>185</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-07-18</dateModification>
+<auteurCreation>Warren</auteurCreation>
+<auteurModification>Edward
+</auteurModification>
+</row>
+<row idProduit="6796">
+<idAlarme>3010</idAlarme>
+<nomProduit>NOVOSEVEN 1 mg (50 KUI) pdre/solv p sol inj</nomProduit>
+<codeProduit>e9af2e</codeProduit>
+<prixProduit>820.0</prixProduit>
+<quantiteActuel>1801</quantiteActuel>
+<quantiteAlarme>309</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>William</auteurCreation>
+<auteurModification>Dieter
+</auteurModification>
+</row>
+<row idProduit="6797">
+<idAlarme>8931</idAlarme>
+<nomProduit>NOVOSEVEN 2 mg (100 KUI) pdre/solv p sol inj</nomProduit>
+<codeProduit>a33108</codeProduit>
+<prixProduit>922.0</prixProduit>
+<quantiteActuel>2323</quantiteActuel>
+<quantiteAlarme>258</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-07-24</dateModification>
+<auteurCreation>Wagner</auteurCreation>
+<auteurModification>Louis
+</auteurModification>
+</row>
+<row idProduit="6798">
+<idAlarme>9615</idAlarme>
+<nomProduit>NOVOSEVEN 5 mg (250 KUI) pdre/solv p sol inj</nomProduit>
+<codeProduit>74c64d</codeProduit>
+<prixProduit>1501.0</prixProduit>
+<quantiteActuel>2924</quantiteActuel>
+<quantiteAlarme>368</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-05</dateCreation>
+<dateModification>2010-09-12</dateModification>
+<auteurCreation>Pickett</auteurCreation>
+<auteurModification>Adara
+</auteurModification>
+</row>
+<row idProduit="6799">
+<idAlarme>4755</idAlarme>
+<nomProduit>NOXAFIL 40mg/ml susp buv</nomProduit>
+<codeProduit>bcb957</codeProduit>
+<prixProduit>1296.0</prixProduit>
+<quantiteActuel>1770</quantiteActuel>
+<quantiteAlarme>178</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-29</dateCreation>
+<dateModification>2010-08-07</dateModification>
+<auteurCreation>Burch</auteurCreation>
+<auteurModification>Burton
+</auteurModification>
+</row>
+<row idProduit="6800">
+<idAlarme>792</idAlarme>
+<nomProduit>NOZINAN 100mg cp pellic sec</nomProduit>
+<codeProduit>bcad9c</codeProduit>
+<prixProduit>1087.0</prixProduit>
+<quantiteActuel>1867</quantiteActuel>
+<quantiteAlarme>151</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Sosa</auteurCreation>
+<auteurModification>Silas
+</auteurModification>
+</row>
+<row idProduit="6801">
+<idAlarme>100</idAlarme>
+<nomProduit>NOZINAN 25 mg/ml sol inj IM</nomProduit>
+<codeProduit>472df2</codeProduit>
+<prixProduit>1187.0</prixProduit>
+<quantiteActuel>2162</quantiteActuel>
+<quantiteAlarme>384</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-09-01</dateModification>
+<auteurCreation>Blevins</auteurCreation>
+<auteurModification>Lunea
+</auteurModification>
+</row>
+<row idProduit="6802">
+<idAlarme>5696</idAlarme>
+<nomProduit>NOZINAN 25mg cp pellic sec</nomProduit>
+<codeProduit>af750c</codeProduit>
+<prixProduit>1058.0</prixProduit>
+<quantiteActuel>2904</quantiteActuel>
+<quantiteAlarme>475</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-08-24</dateModification>
+<auteurCreation>Henderson</auteurCreation>
+<auteurModification>Prescott
+</auteurModification>
+</row>
+<row idProduit="6803">
+<idAlarme>5811</idAlarme>
+<nomProduit>NOZINAN 4 % sol buv</nomProduit>
+<codeProduit>9dd4e5</codeProduit>
+<prixProduit>1238.0</prixProduit>
+<quantiteActuel>2857</quantiteActuel>
+<quantiteAlarme>154</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-10-02</dateModification>
+<auteurCreation>Sawyer</auteurCreation>
+<auteurModification>Sebastian
+</auteurModification>
+</row>
+<row idProduit="6804">
+<idAlarme>3007</idAlarme>
+<nomProduit>NP100 PREMATURES AP-HP sol p perf</nomProduit>
+<codeProduit>93fccd</codeProduit>
+<prixProduit>535.0</prixProduit>
+<quantiteActuel>2938</quantiteActuel>
+<quantiteAlarme>270</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-10-01</dateModification>
+<auteurCreation>Mcintyre</auteurCreation>
+<auteurModification>Tatiana
+</auteurModification>
+</row>
+<row idProduit="6805">
+<idAlarme>9970</idAlarme>
+<nomProduit>NP2 AP-HP sol p perf enfant</nomProduit>
+<codeProduit>500800</codeProduit>
+<prixProduit>811.0</prixProduit>
+<quantiteActuel>1825</quantiteActuel>
+<quantiteAlarme>184</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-09-09</dateModification>
+<auteurCreation>Lang</auteurCreation>
+<auteurModification>Dominique
+</auteurModification>
+</row>
+<row idProduit="6806">
+<idAlarme>2746</idAlarme>
+<nomProduit>NPLATE 250 ug pdre p sol inj</nomProduit>
+<codeProduit>342a83</codeProduit>
+<prixProduit>944.0</prixProduit>
+<quantiteActuel>2912</quantiteActuel>
+<quantiteAlarme>257</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Pierce</auteurCreation>
+<auteurModification>Angela
+</auteurModification>
+</row>
+<row idProduit="6807">
+<idAlarme>6928</idAlarme>
+<nomProduit>NPLATE 250 ug pdre/solv p sol inj</nomProduit>
+<codeProduit>5bb5aa</codeProduit>
+<prixProduit>811.0</prixProduit>
+<quantiteActuel>1725</quantiteActuel>
+<quantiteAlarme>186</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-07-01</dateModification>
+<auteurCreation>Kim</auteurCreation>
+<auteurModification>Lee
+</auteurModification>
+</row>
+<row idProduit="6808">
+<idAlarme>1408</idAlarme>
+<nomProduit>NPLATE 500 ug pdre/solv p sol inj</nomProduit>
+<codeProduit>b24f40</codeProduit>
+<prixProduit>1488.0</prixProduit>
+<quantiteActuel>1856</quantiteActuel>
+<quantiteAlarme>110</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-09-04</dateModification>
+<auteurCreation>Davis</auteurCreation>
+<auteurModification>Basil
+</auteurModification>
+</row>
+<row idProduit="6809">
+<idAlarme>5221</idAlarme>
+<nomProduit>NUCTALON 2mg cp</nomProduit>
+<codeProduit>3d28fb</codeProduit>
+<prixProduit>367.0</prixProduit>
+<quantiteActuel>2032</quantiteActuel>
+<quantiteAlarme>499</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-09-09</dateModification>
+<auteurCreation>Villarreal</auteurCreation>
+<auteurModification>James
+</auteurModification>
+</row>
+<row idProduit="6810">
+<idAlarme>435</idAlarme>
+<nomProduit>NUREFLEX 200 mg cp enr</nomProduit>
+<codeProduit>a07c6f</codeProduit>
+<prixProduit>412.0</prixProduit>
+<quantiteActuel>2949</quantiteActuel>
+<quantiteAlarme>333</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-07-31</dateModification>
+<auteurCreation>Key</auteurCreation>
+<auteurModification>Graiden
+</auteurModification>
+</row>
+<row idProduit="6811">
+<idAlarme>3819</idAlarme>
+<nomProduit>NUREFLEX 300mg gel LP</nomProduit>
+<codeProduit>7e6302</codeProduit>
+<prixProduit>1173.0</prixProduit>
+<quantiteActuel>2984</quantiteActuel>
+<quantiteAlarme>140</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Doyle</auteurCreation>
+<auteurModification>Erich
+</auteurModification>
+</row>
+<row idProduit="6812">
+<idAlarme>3582</idAlarme>
+<nomProduit>NUREFLEX 400mg cp enr</nomProduit>
+<codeProduit>7a5a9e</codeProduit>
+<prixProduit>337.0</prixProduit>
+<quantiteActuel>1742</quantiteActuel>
+<quantiteAlarme>483</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Avila</auteurCreation>
+<auteurModification>Ishmael
+</auteurModification>
+</row>
+<row idProduit="6813">
+<idAlarme>39</idAlarme>
+<nomProduit>NUROFEN 200mg caps molle</nomProduit>
+<codeProduit>b83608</codeProduit>
+<prixProduit>1290.0</prixProduit>
+<quantiteActuel>2306</quantiteActuel>
+<quantiteAlarme>248</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-18</dateCreation>
+<dateModification>2010-06-26</dateModification>
+<auteurCreation>Bush</auteurCreation>
+<auteurModification>Rana
+</auteurModification>
+</row>
+<row idProduit="6814">
+<idAlarme>3713</idAlarme>
+<nomProduit>NUROFEN 200mg cp enr</nomProduit>
+<codeProduit>d86c03</codeProduit>
+<prixProduit>605.0</prixProduit>
+<quantiteActuel>2715</quantiteActuel>
+<quantiteAlarme>163</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-08-12</dateModification>
+<auteurCreation>Gallegos</auteurCreation>
+<auteurModification>Dennis
+</auteurModification>
+</row>
+<row idProduit="6815">
+<idAlarme>8029</idAlarme>
+<nomProduit>NUROFEN 400 mg caps molle</nomProduit>
+<codeProduit>5dbe42</codeProduit>
+<prixProduit>1029.0</prixProduit>
+<quantiteActuel>2980</quantiteActuel>
+<quantiteAlarme>458</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-22</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Wilcox</auteurCreation>
+<auteurModification>Keane
+</auteurModification>
+</row>
+<row idProduit="6816">
+<idAlarme>1281</idAlarme>
+<nomProduit>NUROFEN 400mg cp enr</nomProduit>
+<codeProduit>27bd4f</codeProduit>
+<prixProduit>1229.0</prixProduit>
+<quantiteActuel>2726</quantiteActuel>
+<quantiteAlarme>116</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-07-05</dateModification>
+<auteurCreation>Hester</auteurCreation>
+<auteurModification>Camilla
+</auteurModification>
+</row>
+<row idProduit="6817">
+<idAlarme>3332</idAlarme>
+<nomProduit>NUROFEN 5 % gel</nomProduit>
+<codeProduit>bba104</codeProduit>
+<prixProduit>709.0</prixProduit>
+<quantiteActuel>2378</quantiteActuel>
+<quantiteAlarme>275</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Perez</auteurCreation>
+<auteurModification>Asher
+</auteurModification>
+</row>
+<row idProduit="6818">
+<idAlarme>1691</idAlarme>
+<nomProduit>NUROFEN RHUME cp pellic</nomProduit>
+<codeProduit>eb81a6</codeProduit>
+<prixProduit>1320.0</prixProduit>
+<quantiteActuel>1555</quantiteActuel>
+<quantiteAlarme>244</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-07-09</dateModification>
+<auteurCreation>Washington</auteurCreation>
+<auteurModification>Thor
+</auteurModification>
+</row>
+<row idProduit="6819">
+<idAlarme>4713</idAlarme>
+<nomProduit>NUROFENFEM 400 mg cp pellic</nomProduit>
+<codeProduit>f6f787</codeProduit>
+<prixProduit>546.0</prixProduit>
+<quantiteActuel>1511</quantiteActuel>
+<quantiteAlarme>445</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-09-29</dateModification>
+<auteurCreation>Wiggins</auteurCreation>
+<auteurModification>Hermione
+</auteurModification>
+</row>
+<row idProduit="6820">
+<idAlarme>2095</idAlarme>
+<nomProduit>NUROFENFLASH 200 mg cp pellic</nomProduit>
+<codeProduit>188a59</codeProduit>
+<prixProduit>1409.0</prixProduit>
+<quantiteActuel>2077</quantiteActuel>
+<quantiteAlarme>402</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-08-12</dateModification>
+<auteurCreation>Pierce</auteurCreation>
+<auteurModification>Melissa
+</auteurModification>
+</row>
+<row idProduit="6821">
+<idAlarme>8171</idAlarme>
+<nomProduit>NUROFENFLASH 400 mg cp pellic</nomProduit>
+<codeProduit>1b3957</codeProduit>
+<prixProduit>712.0</prixProduit>
+<quantiteActuel>2410</quantiteActuel>
+<quantiteAlarme>113</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-09-02</dateModification>
+<auteurCreation>Dunn</auteurCreation>
+<auteurModification>Maxwell
+</auteurModification>
+</row>
+<row idProduit="6822">
+<idAlarme>9875</idAlarme>
+<nomProduit>NUROFENPRO 20 mg/ml susp buv sans sucre enfant nourrisson</nomProduit>
+<codeProduit>3fb8e2</codeProduit>
+<prixProduit>377.0</prixProduit>
+<quantiteActuel>1656</quantiteActuel>
+<quantiteAlarme>370</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-26</dateCreation>
+<dateModification>2010-07-31</dateModification>
+<auteurCreation>Koch</auteurCreation>
+<auteurModification>Otto
+</auteurModification>
+</row>
+<row idProduit="6823">
+<idAlarme>5418</idAlarme>
+<nomProduit>NUROFENTABS 200mg cp orodispers</nomProduit>
+<codeProduit>b15edd</codeProduit>
+<prixProduit>1141.0</prixProduit>
+<quantiteActuel>2644</quantiteActuel>
+<quantiteAlarme>265</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-05</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Jordan</auteurCreation>
+<auteurModification>Nomlanga
+</auteurModification>
+</row>
+<row idProduit="6824">
+<idAlarme>8331</idAlarme>
+<nomProduit>NUTRILAMINE 12 sol inj p perf</nomProduit>
+<codeProduit>116ae7</codeProduit>
+<prixProduit>895.0</prixProduit>
+<quantiteActuel>2750</quantiteActuel>
+<quantiteAlarme>448</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-09-28</dateModification>
+<auteurCreation>Compton</auteurCreation>
+<auteurModification>Luke
+</auteurModification>
+</row>
+<row idProduit="6825">
+<idAlarme>2350</idAlarme>
+<nomProduit>NUTRILAMINE 16 sol inj p perf</nomProduit>
+<codeProduit>52f13b</codeProduit>
+<prixProduit>747.0</prixProduit>
+<quantiteActuel>2770</quantiteActuel>
+<quantiteAlarme>135</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-06-21</dateModification>
+<auteurCreation>Ayers</auteurCreation>
+<auteurModification>Daria
+</auteurModification>
+</row>
+<row idProduit="6826">
+<idAlarme>6822</idAlarme>
+<nomProduit>NUTRILAMINE 9 sol inj IV</nomProduit>
+<codeProduit>75c430</codeProduit>
+<prixProduit>1021.0</prixProduit>
+<quantiteActuel>2274</quantiteActuel>
+<quantiteAlarme>179</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-09-27</dateModification>
+<auteurCreation>Acosta</auteurCreation>
+<auteurModification>Nissim
+</auteurModification>
+</row>
+<row idProduit="6827">
+<idAlarme>5855</idAlarme>
+<nomProduit>NUTRINEAL PD4 1,1 % sol p dial perit</nomProduit>
+<codeProduit>050861</codeProduit>
+<prixProduit>1131.0</prixProduit>
+<quantiteActuel>1731</quantiteActuel>
+<quantiteAlarme>203</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Dean</auteurCreation>
+<auteurModification>Declan
+</auteurModification>
+</row>
+<row idProduit="6828">
+<idAlarme>6463</idAlarme>
+<nomProduit>NUTRIVISC 5 % collyre en unidose</nomProduit>
+<codeProduit>149739</codeProduit>
+<prixProduit>298.0</prixProduit>
+<quantiteActuel>2954</quantiteActuel>
+<quantiteAlarme>247</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-07-10</dateModification>
+<auteurCreation>Patel</auteurCreation>
+<auteurModification>Hollee
+</auteurModification>
+</row>
+<row idProduit="6829">
+<idAlarme>55</idAlarme>
+<nomProduit>NUTRIVISC 5% collyre sol</nomProduit>
+<codeProduit>a887ba</codeProduit>
+<prixProduit>297.0</prixProduit>
+<quantiteActuel>2292</quantiteActuel>
+<quantiteAlarme>219</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-29</dateCreation>
+<dateModification>2010-08-23</dateModification>
+<auteurCreation>Ferrell</auteurCreation>
+<auteurModification>Fuller
+</auteurModification>
+</row>
+<row idProduit="6830">
+<idAlarme>8037</idAlarme>
+<nomProduit>NUTROPINAQ 10mg/2ml sol inj</nomProduit>
+<codeProduit>37140e</codeProduit>
+<prixProduit>1106.0</prixProduit>
+<quantiteActuel>2094</quantiteActuel>
+<quantiteAlarme>309</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Little</auteurCreation>
+<auteurModification>Joshua
+</auteurModification>
+</row>
+<row idProduit="6831">
+<idAlarme>7013</idAlarme>
+<nomProduit>NUVARING 15ug/120ug/24 heures syst diffus vagin</nomProduit>
+<codeProduit>f8cb37</codeProduit>
+<prixProduit>951.0</prixProduit>
+<quantiteActuel>2071</quantiteActuel>
+<quantiteAlarme>167</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-08-19</dateModification>
+<auteurCreation>Mcdaniel</auteurCreation>
+<auteurModification>Laith
+</auteurModification>
+</row>
+<row idProduit="6832">
+<idAlarme>9359</idAlarme>
+<nomProduit>NUX VOMICA COMPOSE BOIRON cp</nomProduit>
+<codeProduit>ad8c24</codeProduit>
+<prixProduit>940.0</prixProduit>
+<quantiteActuel>2643</quantiteActuel>
+<quantiteAlarme>421</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-07-29</dateModification>
+<auteurCreation>Myers</auteurCreation>
+<auteurModification>Ignatius
+</auteurModification>
+</row>
+<row idProduit="6833">
+<idAlarme>10193</idAlarme>
+<nomProduit>NUX VOMICA COMPOSE BOIRON gle</nomProduit>
+<codeProduit>cabb2f</codeProduit>
+<prixProduit>1192.0</prixProduit>
+<quantiteActuel>1766</quantiteActuel>
+<quantiteAlarme>267</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Mccall</auteurCreation>
+<auteurModification>Cally
+</auteurModification>
+</row>
+<row idProduit="6834">
+<idAlarme>2634</idAlarme>
+<nomProduit>NUX VOMICA COMPOSE BOIRON sol buv</nomProduit>
+<codeProduit>02457b</codeProduit>
+<prixProduit>211.0</prixProduit>
+<quantiteActuel>2902</quantiteActuel>
+<quantiteAlarme>253</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-07-16</dateModification>
+<auteurCreation>Santos</auteurCreation>
+<auteurModification>Anjolie
+</auteurModification>
+</row>
+<row idProduit="6835">
+<idAlarme>4605</idAlarme>
+<nomProduit>NYOGEL LP 0,1% gel ophtalm</nomProduit>
+<codeProduit>aa1394</codeProduit>
+<prixProduit>1008.0</prixProduit>
+<quantiteActuel>2728</quantiteActuel>
+<quantiteAlarme>486</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-09-28</dateModification>
+<auteurCreation>Bryant</auteurCreation>
+<auteurModification>Quail
+</auteurModification>
+</row>
+<row idProduit="6836">
+<idAlarme>3492</idAlarme>
+<nomProduit>NYOLOL 0,25% collyre</nomProduit>
+<codeProduit>dcfa8e</codeProduit>
+<prixProduit>787.0</prixProduit>
+<quantiteActuel>2080</quantiteActuel>
+<quantiteAlarme>413</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-10-04</dateModification>
+<auteurCreation>Harrington</auteurCreation>
+<auteurModification>Michelle
+</auteurModification>
+</row>
+<row idProduit="6837">
+<idAlarme>4723</idAlarme>
+<nomProduit>NYOLOL 0,5% collyre</nomProduit>
+<codeProduit>8f8bf7</codeProduit>
+<prixProduit>431.0</prixProduit>
+<quantiteActuel>1613</quantiteActuel>
+<quantiteAlarme>318</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-07-30</dateModification>
+<auteurCreation>Herrera</auteurCreation>
+<auteurModification>Lucy
+</auteurModification>
+</row>
+</root>

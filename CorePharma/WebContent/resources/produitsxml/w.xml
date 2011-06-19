@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<root>
+<row idProduit="10308">
+<idAlarme>1466</idAlarme>
+<nomProduit>WELLVONE 750mg/5ml susp buv</nomProduit>
+<codeProduit>0a5680</codeProduit>
+<prixProduit>1334.0</prixProduit>
+<quantiteActuel>2567</quantiteActuel>
+<quantiteAlarme>436</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Bryant</auteurCreation>
+<auteurModification>Keegan
+</auteurModification>
+</row>
+<row idProduit="10309">
+<idAlarme>8243</idAlarme>
+<nomProduit>WILFACTIN 100 UI/ml pdre/solv p sol inj</nomProduit>
+<codeProduit>f51296</codeProduit>
+<prixProduit>1334.0</prixProduit>
+<quantiteActuel>1787</quantiteActuel>
+<quantiteAlarme>411</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-08-11</dateModification>
+<auteurCreation>Maxwell</auteurCreation>
+<auteurModification>Solomon
+</auteurModification>
+</row>
+<row idProduit="10310">
+<idAlarme>1906</idAlarme>
+<nomProduit>WILSTART pdre/solv p sol inj</nomProduit>
+<codeProduit>705ca2</codeProduit>
+<prixProduit>1058.0</prixProduit>
+<quantiteActuel>1987</quantiteActuel>
+<quantiteAlarme>240</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-08-10</dateModification>
+<auteurCreation>Cannon</auteurCreation>
+<auteurModification>Alan
+</auteurModification>
+</row>
+<row idProduit="10311">
+<idAlarme>7717</idAlarme>
+<nomProduit>WYSTAMM 10mg cp</nomProduit>
+<codeProduit>c6f0be</codeProduit>
+<prixProduit>580.0</prixProduit>
+<quantiteActuel>2773</quantiteActuel>
+<quantiteAlarme>428</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-08-18</dateModification>
+<auteurCreation>Ramsey</auteurCreation>
+<auteurModification>Slade
+</auteurModification>
+</row>
+<row idProduit="10312">
+<idAlarme>279</idAlarme>
+<nomProduit>WYTENS 10mg/6,25mg cp pellic</nomProduit>
+<codeProduit>750358</codeProduit>
+<prixProduit>647.0</prixProduit>
+<quantiteActuel>2311</quantiteActuel>
+<quantiteAlarme>199</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-06-27</dateModification>
+<auteurCreation>Roberson</auteurCreation>
+<auteurModification>Alisa
+</auteurModification>
+</row>
+<row idProduit="10313">
+<idAlarme>6216</idAlarme>
+<nomProduit>WYTENS 2,5mg/6,25mg cp pellic</nomProduit>
+<codeProduit>9c92ae</codeProduit>
+<prixProduit>250.0</prixProduit>
+<quantiteActuel>2383</quantiteActuel>
+<quantiteAlarme>202</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-11</dateCreation>
+<dateModification>2010-08-20</dateModification>
+<auteurCreation>Pollard</auteurCreation>
+<auteurModification>Reese
+</auteurModification>
+</row>
+<row idProduit="10314">
+<idAlarme>667</idAlarme>
+<nomProduit>WYTENS 5mg/6,25mg cp pellic</nomProduit>
+<codeProduit>2bf713</codeProduit>
+<prixProduit>295.0</prixProduit>
+<quantiteActuel>2313</quantiteActuel>
+<quantiteAlarme>269</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-10-04</dateModification>
+<auteurCreation>Day</auteurCreation>
+<auteurModification>Jenna
+</auteurModification>
+</row>
+</root>

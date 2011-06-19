@@ -1,0 +1,4105 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<root>
+<row idProduit="4855">
+<idAlarme>175</idAlarme>
+<nomProduit>IASOCHOLINE 1 GBq/mL sol inj</nomProduit>
+<codeProduit>8144a0</codeProduit>
+<prixProduit>371.0</prixProduit>
+<quantiteActuel>2034</quantiteActuel>
+<quantiteAlarme>407</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Brown</auteurCreation>
+<auteurModification>Lee
+</auteurModification>
+</row>
+<row idProduit="4856">
+<idAlarme>9624</idAlarme>
+<nomProduit>IASODOPA 0,3 GBq/mL sol diluer inj</nomProduit>
+<codeProduit>3fb412</codeProduit>
+<prixProduit>456.0</prixProduit>
+<quantiteActuel>1686</quantiteActuel>
+<quantiteAlarme>497</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-09-18</dateModification>
+<auteurCreation>Whitaker</auteurCreation>
+<auteurModification>Noble
+</auteurModification>
+</row>
+<row idProduit="4857">
+<idAlarme>8778</idAlarme>
+<nomProduit>IASOFLU 2,0 GBq/mL sol inj</nomProduit>
+<codeProduit>aa5e53</codeProduit>
+<prixProduit>1271.0</prixProduit>
+<quantiteActuel>2668</quantiteActuel>
+<quantiteAlarme>451</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-06-22</dateModification>
+<auteurCreation>Suarez</auteurCreation>
+<auteurModification>Indigo
+</auteurModification>
+</row>
+<row idProduit="4858">
+<idAlarme>2796</idAlarme>
+<nomProduit>IBIS creme</nomProduit>
+<codeProduit>3e29fa</codeProduit>
+<prixProduit>1146.0</prixProduit>
+<quantiteActuel>2064</quantiteActuel>
+<quantiteAlarme>428</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-07-17</dateModification>
+<auteurCreation>Spencer</auteurCreation>
+<auteurModification>Ray
+</auteurModification>
+</row>
+<row idProduit="4859">
+<idAlarme>2509</idAlarme>
+<nomProduit>IBUPROFENE ALMUS 200mg cp pellic</nomProduit>
+<codeProduit>7319e0</codeProduit>
+<prixProduit>599.0</prixProduit>
+<quantiteActuel>2226</quantiteActuel>
+<quantiteAlarme>102</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-07-11</dateModification>
+<auteurCreation>Vinson</auteurCreation>
+<auteurModification>Mary
+</auteurModification>
+</row>
+<row idProduit="4860">
+<idAlarme>3386</idAlarme>
+<nomProduit>IBUPROFENE ALMUS 400mg cp pellic</nomProduit>
+<codeProduit>0ce0c3</codeProduit>
+<prixProduit>1310.0</prixProduit>
+<quantiteActuel>2858</quantiteActuel>
+<quantiteAlarme>165</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-06-17</dateModification>
+<auteurCreation>Ellison</auteurCreation>
+<auteurModification>Fulton
+</auteurModification>
+</row>
+<row idProduit="4861">
+<idAlarme>5081</idAlarme>
+<nomProduit>IBUPROFENE ARROW 200mg cp enr</nomProduit>
+<codeProduit>2cd239</codeProduit>
+<prixProduit>1470.0</prixProduit>
+<quantiteActuel>2240</quantiteActuel>
+<quantiteAlarme>124</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Sharpe</auteurCreation>
+<auteurModification>Illana
+</auteurModification>
+</row>
+<row idProduit="4862">
+<idAlarme>9537</idAlarme>
+<nomProduit>IBUPROFENE ARROW 400mg cp pellic</nomProduit>
+<codeProduit>272d4f</codeProduit>
+<prixProduit>291.0</prixProduit>
+<quantiteActuel>1956</quantiteActuel>
+<quantiteAlarme>398</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-09-24</dateModification>
+<auteurCreation>Velazquez</auteurCreation>
+<auteurModification>Quynn
+</auteurModification>
+</row>
+<row idProduit="4863">
+<idAlarme>4245</idAlarme>
+<nomProduit>IBUPROFENE ARROW 5% gel</nomProduit>
+<codeProduit>98e98e</codeProduit>
+<prixProduit>814.0</prixProduit>
+<quantiteActuel>2289</quantiteActuel>
+<quantiteAlarme>412</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-08-19</dateModification>
+<auteurCreation>Pennington</auteurCreation>
+<auteurModification>Wilma
+</auteurModification>
+</row>
+<row idProduit="4864">
+<idAlarme>5869</idAlarme>
+<nomProduit>IBUPROFENE ARROW CONSEIL 400 mg cp pellic</nomProduit>
+<codeProduit>8009fe</codeProduit>
+<prixProduit>1245.0</prixProduit>
+<quantiteActuel>1995</quantiteActuel>
+<quantiteAlarme>363</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-09-25</dateModification>
+<auteurCreation>Pope</auteurCreation>
+<auteurModification>Logan
+</auteurModification>
+</row>
+<row idProduit="4865">
+<idAlarme>1940</idAlarme>
+<nomProduit>IBUPROFENE BIOGARAN 200mg cp pellic</nomProduit>
+<codeProduit>8e108b</codeProduit>
+<prixProduit>426.0</prixProduit>
+<quantiteActuel>2654</quantiteActuel>
+<quantiteAlarme>499</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Mayo</auteurCreation>
+<auteurModification>Allen
+</auteurModification>
+</row>
+<row idProduit="4866">
+<idAlarme>3062</idAlarme>
+<nomProduit>IBUPROFENE BIOGARAN 400mg cp pellic</nomProduit>
+<codeProduit>264806</codeProduit>
+<prixProduit>1368.0</prixProduit>
+<quantiteActuel>2707</quantiteActuel>
+<quantiteAlarme>319</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-09-26</dateModification>
+<auteurCreation>Sanford</auteurCreation>
+<auteurModification>Guy
+</auteurModification>
+</row>
+<row idProduit="4867">
+<idAlarme>1094</idAlarme>
+<nomProduit>IBUPROFENE BIOGARAN CONSEIL 200 mg cp pellic</nomProduit>
+<codeProduit>79e945</codeProduit>
+<prixProduit>1245.0</prixProduit>
+<quantiteActuel>2419</quantiteActuel>
+<quantiteAlarme>262</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-10-04</dateModification>
+<auteurCreation>Willis</auteurCreation>
+<auteurModification>James
+</auteurModification>
+</row>
+<row idProduit="4868">
+<idAlarme>3548</idAlarme>
+<nomProduit>IBUPROFENE BIOGARAN CONSEIL 400 mg cp pellic</nomProduit>
+<codeProduit>08e570</codeProduit>
+<prixProduit>512.0</prixProduit>
+<quantiteActuel>2172</quantiteActuel>
+<quantiteAlarme>199</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-09-18</dateModification>
+<auteurCreation>Francis</auteurCreation>
+<auteurModification>Shoshana
+</auteurModification>
+</row>
+<row idProduit="4869">
+<idAlarme>2985</idAlarme>
+<nomProduit>IBUPROFENE CRISTERS 200 mg cp enr</nomProduit>
+<codeProduit>ecc5bd</codeProduit>
+<prixProduit>1004.0</prixProduit>
+<quantiteActuel>2414</quantiteActuel>
+<quantiteAlarme>354</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-07-31</dateModification>
+<auteurCreation>Irwin</auteurCreation>
+<auteurModification>Channing
+</auteurModification>
+</row>
+<row idProduit="4870">
+<idAlarme>9432</idAlarme>
+<nomProduit>IBUPROFENE CRISTERS 200mg cp pellic</nomProduit>
+<codeProduit>c49114</codeProduit>
+<prixProduit>432.0</prixProduit>
+<quantiteActuel>2806</quantiteActuel>
+<quantiteAlarme>447</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-08-19</dateModification>
+<auteurCreation>Hodge</auteurCreation>
+<auteurModification>Mikayla
+</auteurModification>
+</row>
+<row idProduit="4871">
+<idAlarme>4603</idAlarme>
+<nomProduit>IBUPROFENE CRISTERS 400 mg cp pellic</nomProduit>
+<codeProduit>a60456</codeProduit>
+<prixProduit>1134.0</prixProduit>
+<quantiteActuel>2545</quantiteActuel>
+<quantiteAlarme>486</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-08-17</dateModification>
+<auteurCreation>Mcclure</auteurCreation>
+<auteurModification>Freya
+</auteurModification>
+</row>
+<row idProduit="4872">
+<idAlarme>9289</idAlarme>
+<nomProduit>IBUPROFENE EG 200mg cp pellic</nomProduit>
+<codeProduit>9e6108</codeProduit>
+<prixProduit>747.0</prixProduit>
+<quantiteActuel>2387</quantiteActuel>
+<quantiteAlarme>187</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-09-12</dateModification>
+<auteurCreation>Sloan</auteurCreation>
+<auteurModification>Aline
+</auteurModification>
+</row>
+<row idProduit="4873">
+<idAlarme>6567</idAlarme>
+<nomProduit>IBUPROFENE EG 400mg cp pellic</nomProduit>
+<codeProduit>3ddd95</codeProduit>
+<prixProduit>630.0</prixProduit>
+<quantiteActuel>2753</quantiteActuel>
+<quantiteAlarme>433</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-09-01</dateModification>
+<auteurCreation>Calhoun</auteurCreation>
+<auteurModification>Camilla
+</auteurModification>
+</row>
+<row idProduit="4874">
+<idAlarme>7204</idAlarme>
+<nomProduit>IBUPROFENE ISOMED 200 mg cp enr</nomProduit>
+<codeProduit>8eafc3</codeProduit>
+<prixProduit>1013.0</prixProduit>
+<quantiteActuel>2572</quantiteActuel>
+<quantiteAlarme>368</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-18</dateCreation>
+<dateModification>2010-09-27</dateModification>
+<auteurCreation>Bolton</auteurCreation>
+<auteurModification>Trevor
+</auteurModification>
+</row>
+<row idProduit="4875">
+<idAlarme>10484</idAlarme>
+<nomProduit>IBUPROFENE MYLAN 20 mg/ml susp buv sans sucre enfant nourrisson</nomProduit>
+<codeProduit>a5ac41</codeProduit>
+<prixProduit>1331.0</prixProduit>
+<quantiteActuel>2925</quantiteActuel>
+<quantiteAlarme>108</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-09-02</dateModification>
+<auteurCreation>Skinner</auteurCreation>
+<auteurModification>Xenos
+</auteurModification>
+</row>
+<row idProduit="4876">
+<idAlarme>9566</idAlarme>
+<nomProduit>IBUPROFENE MYLAN 200 mg cp enr</nomProduit>
+<codeProduit>dd60f9</codeProduit>
+<prixProduit>1331.0</prixProduit>
+<quantiteActuel>2184</quantiteActuel>
+<quantiteAlarme>256</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-06-22</dateModification>
+<auteurCreation>Richardson</auteurCreation>
+<auteurModification>Yuli
+</auteurModification>
+</row>
+<row idProduit="4877">
+<idAlarme>5756</idAlarme>
+<nomProduit>IBUPROFENE MYLAN 400 mg cp efferv</nomProduit>
+<codeProduit>81eb12</codeProduit>
+<prixProduit>179.0</prixProduit>
+<quantiteActuel>2308</quantiteActuel>
+<quantiteAlarme>171</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-08-06</dateModification>
+<auteurCreation>Boone</auteurCreation>
+<auteurModification>Deanna
+</auteurModification>
+</row>
+<row idProduit="4878">
+<idAlarme>1326</idAlarme>
+<nomProduit>IBUPROFENE MYLAN 400 mg cp pellic</nomProduit>
+<codeProduit>0e1a90</codeProduit>
+<prixProduit>743.0</prixProduit>
+<quantiteActuel>1880</quantiteActuel>
+<quantiteAlarme>481</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-12</dateCreation>
+<dateModification>2010-08-21</dateModification>
+<auteurCreation>Michael</auteurCreation>
+<auteurModification>Gary
+</auteurModification>
+</row>
+<row idProduit="4879">
+<idAlarme>9168</idAlarme>
+<nomProduit>IBUPROFENE MYLAN 5 % sol p pulv cut</nomProduit>
+<codeProduit>274cd4</codeProduit>
+<prixProduit>729.0</prixProduit>
+<quantiteActuel>2836</quantiteActuel>
+<quantiteAlarme>488</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-07-02</dateModification>
+<auteurCreation>Bullock</auteurCreation>
+<auteurModification>Belle
+</auteurModification>
+</row>
+<row idProduit="4880">
+<idAlarme>6689</idAlarme>
+<nomProduit>IBUPROFENE QUALIMED 200mg cp enr</nomProduit>
+<codeProduit>6d5a5a</codeProduit>
+<prixProduit>341.0</prixProduit>
+<quantiteActuel>1760</quantiteActuel>
+<quantiteAlarme>314</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Cannon</auteurCreation>
+<auteurModification>Stone
+</auteurModification>
+</row>
+<row idProduit="4881">
+<idAlarme>9461</idAlarme>
+<nomProduit>IBUPROFENE RATIOPHARM 200mg cp enr</nomProduit>
+<codeProduit>98d958</codeProduit>
+<prixProduit>606.0</prixProduit>
+<quantiteActuel>2563</quantiteActuel>
+<quantiteAlarme>268</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-06-23</dateModification>
+<auteurCreation>Hendricks</auteurCreation>
+<auteurModification>Maxine
+</auteurModification>
+</row>
+<row idProduit="4882">
+<idAlarme>2026</idAlarme>
+<nomProduit>IBUPROFENE RATIOPHARM 400mg cp pellic</nomProduit>
+<codeProduit>deb83c</codeProduit>
+<prixProduit>960.0</prixProduit>
+<quantiteActuel>2795</quantiteActuel>
+<quantiteAlarme>205</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-07-13</dateModification>
+<auteurCreation>Stone</auteurCreation>
+<auteurModification>Mary
+</auteurModification>
+</row>
+<row idProduit="4883">
+<idAlarme>6924</idAlarme>
+<nomProduit>IBUPROFENE RATIOPHARM CONSEIL 200 mg cp enr</nomProduit>
+<codeProduit>fa4583</codeProduit>
+<prixProduit>724.0</prixProduit>
+<quantiteActuel>1950</quantiteActuel>
+<quantiteAlarme>498</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-06-17</dateModification>
+<auteurCreation>Cook</auteurCreation>
+<auteurModification>Callum
+</auteurModification>
+</row>
+<row idProduit="4884">
+<idAlarme>8244</idAlarme>
+<nomProduit>IBUPROFENE RATIOPHARM CONSEIL 5% gel</nomProduit>
+<codeProduit>11f2d7</codeProduit>
+<prixProduit>1167.0</prixProduit>
+<quantiteActuel>2851</quantiteActuel>
+<quantiteAlarme>389</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Goff</auteurCreation>
+<auteurModification>Ciara
+</auteurModification>
+</row>
+<row idProduit="4885">
+<idAlarme>197</idAlarme>
+<nomProduit>IBUPROFENE RPG 200mg cp pellic</nomProduit>
+<codeProduit>4357a7</codeProduit>
+<prixProduit>820.0</prixProduit>
+<quantiteActuel>1618</quantiteActuel>
+<quantiteAlarme>231</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-07-11</dateModification>
+<auteurCreation>Mercer</auteurCreation>
+<auteurModification>Yvette
+</auteurModification>
+</row>
+<row idProduit="4886">
+<idAlarme>3695</idAlarme>
+<nomProduit>IBUPROFENE RPG 400mg cp pellic</nomProduit>
+<codeProduit>e57c6c</codeProduit>
+<prixProduit>300.0</prixProduit>
+<quantiteActuel>1533</quantiteActuel>
+<quantiteAlarme>172</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-29</dateCreation>
+<dateModification>2010-08-29</dateModification>
+<auteurCreation>Graves</auteurCreation>
+<auteurModification>Rhea
+</auteurModification>
+</row>
+<row idProduit="4887">
+<idAlarme>4743</idAlarme>
+<nomProduit>IBUPROFENE SANDOZ 200mg cp enr</nomProduit>
+<codeProduit>1467fb</codeProduit>
+<prixProduit>650.0</prixProduit>
+<quantiteActuel>2472</quantiteActuel>
+<quantiteAlarme>102</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-09-18</dateModification>
+<auteurCreation>Hood</auteurCreation>
+<auteurModification>Zorita
+</auteurModification>
+</row>
+<row idProduit="4888">
+<idAlarme>5985</idAlarme>
+<nomProduit>IBUPROFENE SANDOZ 400mg cp enr</nomProduit>
+<codeProduit>7d6e12</codeProduit>
+<prixProduit>1327.0</prixProduit>
+<quantiteActuel>2273</quantiteActuel>
+<quantiteAlarme>232</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-11</dateCreation>
+<dateModification>2010-09-17</dateModification>
+<auteurCreation>Mills</auteurCreation>
+<auteurModification>Xenos
+</auteurModification>
+</row>
+<row idProduit="4889">
+<idAlarme>7984</idAlarme>
+<nomProduit>IBUPROFENE SANDOZ 400mg cp pellic</nomProduit>
+<codeProduit>510bf1</codeProduit>
+<prixProduit>1055.0</prixProduit>
+<quantiteActuel>1958</quantiteActuel>
+<quantiteAlarme>255</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Olsen</auteurCreation>
+<auteurModification>Jolene
+</auteurModification>
+</row>
+<row idProduit="4890">
+<idAlarme>6003</idAlarme>
+<nomProduit>IBUPROFENE SANDOZ CONSEIL 200mg cp enr</nomProduit>
+<codeProduit>5002b0</codeProduit>
+<prixProduit>521.0</prixProduit>
+<quantiteActuel>2303</quantiteActuel>
+<quantiteAlarme>324</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-22</dateCreation>
+<dateModification>2010-10-01</dateModification>
+<auteurCreation>Bass</auteurCreation>
+<auteurModification>Calvin
+</auteurModification>
+</row>
+<row idProduit="4891">
+<idAlarme>8891</idAlarme>
+<nomProduit>IBUPROFENE SANDOZ CONSEIL 400mg cp pellic</nomProduit>
+<codeProduit>3147b9</codeProduit>
+<prixProduit>1197.0</prixProduit>
+<quantiteActuel>2976</quantiteActuel>
+<quantiteAlarme>257</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Whitfield</auteurCreation>
+<auteurModification>Clarke
+</auteurModification>
+</row>
+<row idProduit="4892">
+<idAlarme>7499</idAlarme>
+<nomProduit>IBUPROFENE TEVA 200mg cp enr</nomProduit>
+<codeProduit>2e0620</codeProduit>
+<prixProduit>717.0</prixProduit>
+<quantiteActuel>2241</quantiteActuel>
+<quantiteAlarme>338</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-09-01</dateModification>
+<auteurCreation>Mcclain</auteurCreation>
+<auteurModification>Constance
+</auteurModification>
+</row>
+<row idProduit="4893">
+<idAlarme>4782</idAlarme>
+<nomProduit>IBUPROFENE TEVA CONSEIL 200 mg cp enr</nomProduit>
+<codeProduit>21b538</codeProduit>
+<prixProduit>1221.0</prixProduit>
+<quantiteActuel>2207</quantiteActuel>
+<quantiteAlarme>494</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-07-16</dateModification>
+<auteurCreation>Acosta</auteurCreation>
+<auteurModification>Isaac
+</auteurModification>
+</row>
+<row idProduit="4894">
+<idAlarme>3341</idAlarme>
+<nomProduit>IBUPROFENE ZYDUS 200mg cp enr</nomProduit>
+<codeProduit>070dc0</codeProduit>
+<prixProduit>251.0</prixProduit>
+<quantiteActuel>2110</quantiteActuel>
+<quantiteAlarme>347</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-08-05</dateModification>
+<auteurCreation>Koch</auteurCreation>
+<auteurModification>Shelley
+</auteurModification>
+</row>
+<row idProduit="4895">
+<idAlarme>9802</idAlarme>
+<nomProduit>IBUPROFENE ZYDUS 400mg cp pellic</nomProduit>
+<codeProduit>286144</codeProduit>
+<prixProduit>905.0</prixProduit>
+<quantiteActuel>2450</quantiteActuel>
+<quantiteAlarme>355</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-09-30</dateModification>
+<auteurCreation>Gonzales</auteurCreation>
+<auteurModification>Chaim
+</auteurModification>
+</row>
+<row idProduit="4896">
+<idAlarme>4539</idAlarme>
+<nomProduit>IBUTOP 5% gel p appl cut</nomProduit>
+<codeProduit>909979</codeProduit>
+<prixProduit>1308.0</prixProduit>
+<quantiteActuel>1857</quantiteActuel>
+<quantiteAlarme>252</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Hancock</auteurCreation>
+<auteurModification>Dora
+</auteurModification>
+</row>
+<row idProduit="4897">
+<idAlarme>10054</idAlarme>
+<nomProduit>ICAZ 2,5mg gel LP</nomProduit>
+<codeProduit>c1c03c</codeProduit>
+<prixProduit>850.0</prixProduit>
+<quantiteActuel>2023</quantiteActuel>
+<quantiteAlarme>321</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-08-18</dateModification>
+<auteurCreation>Gonzales</auteurCreation>
+<auteurModification>Zena
+</auteurModification>
+</row>
+<row idProduit="4898">
+<idAlarme>5938</idAlarme>
+<nomProduit>ICAZ 5mg gel LP</nomProduit>
+<codeProduit>6f5bdd</codeProduit>
+<prixProduit>1103.0</prixProduit>
+<quantiteActuel>2955</quantiteActuel>
+<quantiteAlarme>387</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-12</dateCreation>
+<dateModification>2010-07-17</dateModification>
+<auteurCreation>Marshall</auteurCreation>
+<auteurModification>Leandra
+</auteurModification>
+</row>
+<row idProduit="4899">
+<idAlarme>3187</idAlarme>
+<nomProduit>IDARAC 200 mg cp</nomProduit>
+<codeProduit>c6269c</codeProduit>
+<prixProduit>363.0</prixProduit>
+<quantiteActuel>2136</quantiteActuel>
+<quantiteAlarme>253</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-07-09</dateModification>
+<auteurCreation>Jackson</auteurCreation>
+<auteurModification>Roth
+</auteurModification>
+</row>
+<row idProduit="4900">
+<idAlarme>4693</idAlarme>
+<nomProduit>IDEOLAXYL cp pellic</nomProduit>
+<codeProduit>95aaef</codeProduit>
+<prixProduit>1031.0</prixProduit>
+<quantiteActuel>1619</quantiteActuel>
+<quantiteAlarme>347</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-06-30</dateModification>
+<auteurCreation>Boyle</auteurCreation>
+<auteurModification>Dieter
+</auteurModification>
+</row>
+<row idProduit="4901">
+<idAlarme>6315</idAlarme>
+<nomProduit>IDEOS cp a croquer</nomProduit>
+<codeProduit>80f0ba</codeProduit>
+<prixProduit>385.0</prixProduit>
+<quantiteActuel>2598</quantiteActuel>
+<quantiteAlarme>224</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Pierce</auteurCreation>
+<auteurModification>Lillith
+</auteurModification>
+</row>
+<row idProduit="4902">
+<idAlarme>8184</idAlarme>
+<nomProduit>IKARAN 2 mg/ml sol buv</nomProduit>
+<codeProduit>1741fd</codeProduit>
+<prixProduit>512.0</prixProduit>
+<quantiteActuel>2860</quantiteActuel>
+<quantiteAlarme>374</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Stewart</auteurCreation>
+<auteurModification>Jessamine
+</auteurModification>
+</row>
+<row idProduit="4903">
+<idAlarme>593</idAlarme>
+<nomProduit>IKARAN LP 5 mg cp LP</nomProduit>
+<codeProduit>3fe707</codeProduit>
+<prixProduit>1426.0</prixProduit>
+<quantiteActuel>2533</quantiteActuel>
+<quantiteAlarme>469</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-10-06</dateModification>
+<auteurCreation>Whitney</auteurCreation>
+<auteurModification>Caryn
+</auteurModification>
+</row>
+<row idProduit="4904">
+<idAlarme>10269</idAlarme>
+<nomProduit>IKOREL 10mg cp sec</nomProduit>
+<codeProduit>ba55b9</codeProduit>
+<prixProduit>1398.0</prixProduit>
+<quantiteActuel>1796</quantiteActuel>
+<quantiteAlarme>390</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-07-06</dateModification>
+<auteurCreation>Bradshaw</auteurCreation>
+<auteurModification>Ignacia
+</auteurModification>
+</row>
+<row idProduit="4905">
+<idAlarme>2474</idAlarme>
+<nomProduit>IKOREL 20mg cp</nomProduit>
+<codeProduit>472ad4</codeProduit>
+<prixProduit>297.0</prixProduit>
+<quantiteActuel>2195</quantiteActuel>
+<quantiteAlarme>232</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-09-08</dateModification>
+<auteurCreation>Salas</auteurCreation>
+<auteurModification>Barbara
+</auteurModification>
+</row>
+<row idProduit="4906">
+<idAlarme>9750</idAlarme>
+<nomProduit>ILARIS 150 mg pdre p sol inj</nomProduit>
+<codeProduit>f4a34f</codeProduit>
+<prixProduit>576.0</prixProduit>
+<quantiteActuel>1722</quantiteActuel>
+<quantiteAlarme>439</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-08-06</dateModification>
+<auteurCreation>Ortega</auteurCreation>
+<auteurModification>Porter
+</auteurModification>
+</row>
+<row idProduit="4907">
+<idAlarme>8288</idAlarme>
+<nomProduit>ILOMEDINE 0,1mg/1ml sol p perf</nomProduit>
+<codeProduit>555fb1</codeProduit>
+<prixProduit>864.0</prixProduit>
+<quantiteActuel>1880</quantiteActuel>
+<quantiteAlarme>373</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-09-03</dateModification>
+<auteurCreation>Snyder</auteurCreation>
+<auteurModification>Sybill
+</auteurModification>
+</row>
+<row idProduit="4908">
+<idAlarme>7742</idAlarme>
+<nomProduit>IMETH 10 mg cp sec</nomProduit>
+<codeProduit>0bd5df</codeProduit>
+<prixProduit>527.0</prixProduit>
+<quantiteActuel>1954</quantiteActuel>
+<quantiteAlarme>499</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Mckenzie</auteurCreation>
+<auteurModification>Kareem
+</auteurModification>
+</row>
+<row idProduit="4909">
+<idAlarme>2158</idAlarme>
+<nomProduit>IMIGRANE 10mg sol p pulv nasal</nomProduit>
+<codeProduit>92b53a</codeProduit>
+<prixProduit>562.0</prixProduit>
+<quantiteActuel>1839</quantiteActuel>
+<quantiteAlarme>461</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-08-23</dateModification>
+<auteurCreation>Ford</auteurCreation>
+<auteurModification>Hasad
+</auteurModification>
+</row>
+<row idProduit="4910">
+<idAlarme>5027</idAlarme>
+<nomProduit>IMIGRANE 20mg sol p pulv nasal</nomProduit>
+<codeProduit>a74ca0</codeProduit>
+<prixProduit>950.0</prixProduit>
+<quantiteActuel>2831</quantiteActuel>
+<quantiteAlarme>267</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Burch</auteurCreation>
+<auteurModification>Judah
+</auteurModification>
+</row>
+<row idProduit="4911">
+<idAlarme>6147</idAlarme>
+<nomProduit>IMIGRANE 50mg cp pellic</nomProduit>
+<codeProduit>d8200b</codeProduit>
+<prixProduit>807.0</prixProduit>
+<quantiteActuel>2890</quantiteActuel>
+<quantiteAlarme>435</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-07-13</dateModification>
+<auteurCreation>Ortiz</auteurCreation>
+<auteurModification>Damian
+</auteurModification>
+</row>
+<row idProduit="4912">
+<idAlarme>9978</idAlarme>
+<nomProduit>IMIGRANE 6mg/0,5ml sol inj</nomProduit>
+<codeProduit>b35940</codeProduit>
+<prixProduit>275.0</prixProduit>
+<quantiteActuel>2418</quantiteActuel>
+<quantiteAlarme>274</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-09-20</dateModification>
+<auteurCreation>Hopper</auteurCreation>
+<auteurModification>Belle
+</auteurModification>
+</row>
+<row idProduit="4913">
+<idAlarme>3719</idAlarme>
+<nomProduit>IMIJECT 6mg/0,5ml sol inj</nomProduit>
+<codeProduit>d95f91</codeProduit>
+<prixProduit>1460.0</prixProduit>
+<quantiteActuel>2853</quantiteActuel>
+<quantiteAlarme>181</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-07-12</dateModification>
+<auteurCreation>Bird</auteurCreation>
+<auteurModification>Fritz
+</auteurModification>
+</row>
+<row idProduit="4914">
+<idAlarme>4242</idAlarme>
+<nomProduit>IMIPENEM CILASTATINE KABI 250 mg/250 mg pdre p sol p perf</nomProduit>
+<codeProduit>9441a9</codeProduit>
+<prixProduit>566.0</prixProduit>
+<quantiteActuel>2219</quantiteActuel>
+<quantiteAlarme>126</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-07-18</dateModification>
+<auteurCreation>Cunningham</auteurCreation>
+<auteurModification>Isaiah
+</auteurModification>
+</row>
+<row idProduit="4915">
+<idAlarme>440</idAlarme>
+<nomProduit>IMIPENEM CILASTATINE KABI 500 mg/500 mg pdre p sol p perf</nomProduit>
+<codeProduit>51dd88</codeProduit>
+<prixProduit>1492.0</prixProduit>
+<quantiteActuel>1892</quantiteActuel>
+<quantiteAlarme>421</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Bass</auteurCreation>
+<auteurModification>Jescie
+</auteurModification>
+</row>
+<row idProduit="4916">
+<idAlarme>3450</idAlarme>
+<nomProduit>IMIPENEM CILASTATINE MYLAN 500 mg/500 mg pdre p sol p perf</nomProduit>
+<codeProduit>78de21</codeProduit>
+<prixProduit>1454.0</prixProduit>
+<quantiteActuel>1607</quantiteActuel>
+<quantiteAlarme>176</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Holcomb</auteurCreation>
+<auteurModification>Thomas
+</auteurModification>
+</row>
+<row idProduit="4917">
+<idAlarme>228</idAlarme>
+<nomProduit>IMIPENEM CILASTATINE RANBAXY 500 mg/500 mg pdre p sol p perf</nomProduit>
+<codeProduit>332137</codeProduit>
+<prixProduit>1172.0</prixProduit>
+<quantiteActuel>2285</quantiteActuel>
+<quantiteAlarme>346</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-08-09</dateModification>
+<auteurCreation>Fitzgerald</auteurCreation>
+<auteurModification>Maggy
+</auteurModification>
+</row>
+<row idProduit="4918">
+<idAlarme>1787</idAlarme>
+<nomProduit>IMIZINE 10% pate p us dent</nomProduit>
+<codeProduit>5eff63</codeProduit>
+<prixProduit>870.0</prixProduit>
+<quantiteActuel>2782</quantiteActuel>
+<quantiteAlarme>303</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-09-01</dateModification>
+<auteurCreation>Cochran</auteurCreation>
+<auteurModification>Meredith
+</auteurModification>
+</row>
+<row idProduit="4919">
+<idAlarme>2712</idAlarme>
+<nomProduit>IMMUCYST 81 mg pdre pour susp intraves</nomProduit>
+<codeProduit>24e13f</codeProduit>
+<prixProduit>506.0</prixProduit>
+<quantiteActuel>1623</quantiteActuel>
+<quantiteAlarme>197</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Atkins</auteurCreation>
+<auteurModification>Scarlett
+</auteurModification>
+</row>
+<row idProduit="4920">
+<idAlarme>1026</idAlarme>
+<nomProduit>IMMUCYST 81 mg pdre/solv p sol p admin intravesic</nomProduit>
+<codeProduit>35289c</codeProduit>
+<prixProduit>870.0</prixProduit>
+<quantiteActuel>2304</quantiteActuel>
+<quantiteAlarme>317</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-09-14</dateModification>
+<auteurCreation>Aguirre</auteurCreation>
+<auteurModification>Allen
+</auteurModification>
+</row>
+<row idProduit="4921">
+<idAlarme>592</idAlarme>
+<nomProduit>IMMUGRIP susp inj SC IM</nomProduit>
+<codeProduit>47cbb1</codeProduit>
+<prixProduit>709.0</prixProduit>
+<quantiteActuel>2927</quantiteActuel>
+<quantiteAlarme>484</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>Goodman</auteurCreation>
+<auteurModification>Anthony
+</auteurModification>
+</row>
+<row idProduit="4922">
+<idAlarme>7889</idAlarme>
+<nomProduit>IMMUNOGLOBULINE EQUINE TETANIQUE PASTEUR 1500UI/ml sol inj</nomProduit>
+<codeProduit>af8188</codeProduit>
+<prixProduit>1377.0</prixProduit>
+<quantiteActuel>2992</quantiteActuel>
+<quantiteAlarme>389</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-06-22</dateModification>
+<auteurCreation>Cantrell</auteurCreation>
+<auteurModification>Vivian
+</auteurModification>
+</row>
+<row idProduit="4923">
+<idAlarme>8674</idAlarme>
+<nomProduit>IMMUNOGLOBULINE HUMAINE SPECIFIQUE 100UI sol inj IM hepatite B</nomProduit>
+<codeProduit>e1b8d6</codeProduit>
+<prixProduit>1289.0</prixProduit>
+<quantiteActuel>2618</quantiteActuel>
+<quantiteAlarme>133</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-07-02</dateModification>
+<auteurCreation>Herring</auteurCreation>
+<auteurModification>Colin
+</auteurModification>
+</row>
+<row idProduit="4924">
+<idAlarme>10293</idAlarme>
+<nomProduit>IMMUNOGLOBULINE HUMAINE SPECIFIQUE 500UI sol inj IM hepatite B</nomProduit>
+<codeProduit>8e00f2</codeProduit>
+<prixProduit>364.0</prixProduit>
+<quantiteActuel>2623</quantiteActuel>
+<quantiteAlarme>355</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-07-10</dateModification>
+<auteurCreation>Alston</auteurCreation>
+<auteurModification>Yoshio
+</auteurModification>
+</row>
+<row idProduit="4925">
+<idAlarme>8442</idAlarme>
+<nomProduit>IMODIUM 0,2 mg/ml sol buv enfant</nomProduit>
+<codeProduit>5bdd1d</codeProduit>
+<prixProduit>1471.0</prixProduit>
+<quantiteActuel>2453</quantiteActuel>
+<quantiteAlarme>337</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Mcguire</auteurCreation>
+<auteurModification>Jack
+</auteurModification>
+</row>
+<row idProduit="4926">
+<idAlarme>6383</idAlarme>
+<nomProduit>IMODIUM 2 mg gel</nomProduit>
+<codeProduit>cad042</codeProduit>
+<prixProduit>469.0</prixProduit>
+<quantiteActuel>2249</quantiteActuel>
+<quantiteAlarme>325</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-09-18</dateModification>
+<auteurCreation>Leblanc</auteurCreation>
+<auteurModification>Tatiana
+</auteurModification>
+</row>
+<row idProduit="4927">
+<idAlarme>8761</idAlarme>
+<nomProduit>IMODIUMCAPS 2 mg gel</nomProduit>
+<codeProduit>2f47c9</codeProduit>
+<prixProduit>553.0</prixProduit>
+<quantiteActuel>2647</quantiteActuel>
+<quantiteAlarme>468</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-12</dateCreation>
+<dateModification>2010-06-20</dateModification>
+<auteurCreation>Mathews</auteurCreation>
+<auteurModification>MacKenzie
+</auteurModification>
+</row>
+<row idProduit="4928">
+<idAlarme>1890</idAlarme>
+<nomProduit>IMODIUMDUO cp</nomProduit>
+<codeProduit>5fa1d0</codeProduit>
+<prixProduit>811.0</prixProduit>
+<quantiteActuel>2480</quantiteActuel>
+<quantiteAlarme>230</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-08-25</dateModification>
+<auteurCreation>Jones</auteurCreation>
+<auteurModification>Zenaida
+</auteurModification>
+</row>
+<row idProduit="4929">
+<idAlarme>1012</idAlarme>
+<nomProduit>IMODIUMLINGUAL 2mg lyoph oral</nomProduit>
+<codeProduit>81e255</codeProduit>
+<prixProduit>736.0</prixProduit>
+<quantiteActuel>2968</quantiteActuel>
+<quantiteAlarme>471</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-08-18</dateModification>
+<auteurCreation>Park</auteurCreation>
+<auteurModification>Adria
+</auteurModification>
+</row>
+<row idProduit="4930">
+<idAlarme>7495</idAlarme>
+<nomProduit>IMOGAM RAGE 150 UI/ml sol inj IM</nomProduit>
+<codeProduit>09a34a</codeProduit>
+<prixProduit>591.0</prixProduit>
+<quantiteActuel>2564</quantiteActuel>
+<quantiteAlarme>166</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>Horton</auteurCreation>
+<auteurModification>Mariam
+</auteurModification>
+</row>
+<row idProduit="4931">
+<idAlarme>9239</idAlarme>
+<nomProduit>IMONOGAS 240mg caps molle</nomProduit>
+<codeProduit>d3908a</codeProduit>
+<prixProduit>266.0</prixProduit>
+<quantiteActuel>1901</quantiteActuel>
+<quantiteAlarme>209</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-07-10</dateModification>
+<auteurCreation>Norton</auteurCreation>
+<auteurModification>Jamalia
+</auteurModification>
+</row>
+<row idProduit="4932">
+<idAlarme>4517</idAlarme>
+<nomProduit>IMOSEPTYL 200 mg gel</nomProduit>
+<codeProduit>bac08a</codeProduit>
+<prixProduit>1444.0</prixProduit>
+<quantiteActuel>2505</quantiteActuel>
+<quantiteAlarme>326</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-08-10</dateModification>
+<auteurCreation>Vega</auteurCreation>
+<auteurModification>Shana
+</auteurModification>
+</row>
+<row idProduit="4933">
+<idAlarme>3047</idAlarme>
+<nomProduit>IMOVANE 3,75mg cp pellic</nomProduit>
+<codeProduit>b9f095</codeProduit>
+<prixProduit>1423.0</prixProduit>
+<quantiteActuel>2708</quantiteActuel>
+<quantiteAlarme>343</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-06-28</dateModification>
+<auteurCreation>Vargas</auteurCreation>
+<auteurModification>Odette
+</auteurModification>
+</row>
+<row idProduit="4934">
+<idAlarme>5617</idAlarme>
+<nomProduit>IMOVANE 7,5 mg cp pellic sec</nomProduit>
+<codeProduit>c9ebb0</codeProduit>
+<prixProduit>1199.0</prixProduit>
+<quantiteActuel>2857</quantiteActuel>
+<quantiteAlarme>215</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Koch</auteurCreation>
+<auteurModification>Darrel
+</auteurModification>
+</row>
+<row idProduit="4935">
+<idAlarme>541</idAlarme>
+<nomProduit>IMOVAX POLIO susp inj</nomProduit>
+<codeProduit>235961</codeProduit>
+<prixProduit>1488.0</prixProduit>
+<quantiteActuel>2380</quantiteActuel>
+<quantiteAlarme>317</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Sloan</auteurCreation>
+<auteurModification>Whitney
+</auteurModification>
+</row>
+<row idProduit="4936">
+<idAlarme>9929</idAlarme>
+<nomProduit>IMPORTAL 10 g pdre p sol buv</nomProduit>
+<codeProduit>33cc31</codeProduit>
+<prixProduit>1071.0</prixProduit>
+<quantiteActuel>2756</quantiteActuel>
+<quantiteAlarme>200</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>Medina</auteurCreation>
+<auteurModification>Whilemina
+</auteurModification>
+</row>
+<row idProduit="4937">
+<idAlarme>2340</idAlarme>
+<nomProduit>IMPORTAL 2,5 g pdre p sol buv</nomProduit>
+<codeProduit>80c130</codeProduit>
+<prixProduit>666.0</prixProduit>
+<quantiteActuel>1529</quantiteActuel>
+<quantiteAlarme>261</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Reilly</auteurCreation>
+<auteurModification>Lillian
+</auteurModification>
+</row>
+<row idProduit="4938">
+<idAlarme>420</idAlarme>
+<nomProduit>IMPORTAL 5 g pdre p sol buv</nomProduit>
+<codeProduit>cbba7d</codeProduit>
+<prixProduit>943.0</prixProduit>
+<quantiteActuel>1942</quantiteActuel>
+<quantiteAlarme>317</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-09-26</dateModification>
+<auteurCreation>Silva</auteurCreation>
+<auteurModification>Brittany
+</auteurModification>
+</row>
+<row idProduit="4939">
+<idAlarme>10051</idAlarme>
+<nomProduit>IMUKIN 100ug/0,5ml sol inj</nomProduit>
+<codeProduit>844bc6</codeProduit>
+<prixProduit>152.0</prixProduit>
+<quantiteActuel>2708</quantiteActuel>
+<quantiteAlarme>170</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-09-14</dateModification>
+<auteurCreation>Rollins</auteurCreation>
+<auteurModification>Denton
+</auteurModification>
+</row>
+<row idProduit="4940">
+<idAlarme>4597</idAlarme>
+<nomProduit>IMUREL 25mg cp pellic</nomProduit>
+<codeProduit>016a09</codeProduit>
+<prixProduit>733.0</prixProduit>
+<quantiteActuel>1767</quantiteActuel>
+<quantiteAlarme>490</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-06-22</dateModification>
+<auteurCreation>Barr</auteurCreation>
+<auteurModification>Ray
+</auteurModification>
+</row>
+<row idProduit="4941">
+<idAlarme>2519</idAlarme>
+<nomProduit>IMUREL 50 mg cp pellic</nomProduit>
+<codeProduit>30cda3</codeProduit>
+<prixProduit>294.0</prixProduit>
+<quantiteActuel>2521</quantiteActuel>
+<quantiteAlarme>346</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-08-20</dateModification>
+<auteurCreation>Jarvis</auteurCreation>
+<auteurModification>Tashya
+</auteurModification>
+</row>
+<row idProduit="4942">
+<idAlarme>7409</idAlarme>
+<nomProduit>IMUREL 50mg pdre p sol inj</nomProduit>
+<codeProduit>848eff</codeProduit>
+<prixProduit>1353.0</prixProduit>
+<quantiteActuel>2422</quantiteActuel>
+<quantiteAlarme>356</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-09-28</dateModification>
+<auteurCreation>Shields</auteurCreation>
+<auteurModification>Adrienne
+</auteurModification>
+</row>
+<row idProduit="4943">
+<idAlarme>7085</idAlarme>
+<nomProduit>INCIVO 375 mg cp pellic</nomProduit>
+<codeProduit>0edda8</codeProduit>
+<prixProduit>862.0</prixProduit>
+<quantiteActuel>2333</quantiteActuel>
+<quantiteAlarme>147</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-07-09</dateModification>
+<auteurCreation>Mcleod</auteurCreation>
+<auteurModification>Preston
+</auteurModification>
+</row>
+<row idProduit="4944">
+<idAlarme>1390</idAlarme>
+<nomProduit>INCRELEX 10mg/ml sol inj</nomProduit>
+<codeProduit>de5d3c</codeProduit>
+<prixProduit>1227.0</prixProduit>
+<quantiteActuel>2718</quantiteActuel>
+<quantiteAlarme>180</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-09-06</dateModification>
+<auteurCreation>Meyers</auteurCreation>
+<auteurModification>Rashad
+</auteurModification>
+</row>
+<row idProduit="4945">
+<idAlarme>1935</idAlarme>
+<nomProduit>INDAPAMIDE ARROW 1,5 mg cp enr LP</nomProduit>
+<codeProduit>3972f7</codeProduit>
+<prixProduit>1186.0</prixProduit>
+<quantiteActuel>2860</quantiteActuel>
+<quantiteAlarme>419</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-06-26</dateModification>
+<auteurCreation>Bates</auteurCreation>
+<auteurModification>Katell
+</auteurModification>
+</row>
+<row idProduit="4946">
+<idAlarme>5139</idAlarme>
+<nomProduit>INDAPAMIDE BIOGARAN 1,5mg cp enr LP</nomProduit>
+<codeProduit>4c3712</codeProduit>
+<prixProduit>846.0</prixProduit>
+<quantiteActuel>2887</quantiteActuel>
+<quantiteAlarme>222</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-27</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Sargent</auteurCreation>
+<auteurModification>Baxter
+</auteurModification>
+</row>
+<row idProduit="4947">
+<idAlarme>8471</idAlarme>
+<nomProduit>INDAPAMIDE BIOGARAN 2,5mg cp pellic</nomProduit>
+<codeProduit>120314</codeProduit>
+<prixProduit>1127.0</prixProduit>
+<quantiteActuel>2128</quantiteActuel>
+<quantiteAlarme>292</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Hobbs</auteurCreation>
+<auteurModification>Donovan
+</auteurModification>
+</row>
+<row idProduit="4948">
+<idAlarme>7894</idAlarme>
+<nomProduit>INDAPAMIDE EG LP 1,5 mg cp pellic LP</nomProduit>
+<codeProduit>746fe0</codeProduit>
+<prixProduit>717.0</prixProduit>
+<quantiteActuel>2527</quantiteActuel>
+<quantiteAlarme>314</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-09-08</dateModification>
+<auteurCreation>Gaines</auteurCreation>
+<auteurModification>Samantha
+</auteurModification>
+</row>
+<row idProduit="4949">
+<idAlarme>4217</idAlarme>
+<nomProduit>INDAPAMIDE ISOMED LP 1,5 mg cp pellic LP</nomProduit>
+<codeProduit>35d177</codeProduit>
+<prixProduit>1362.0</prixProduit>
+<quantiteActuel>2362</quantiteActuel>
+<quantiteAlarme>218</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-27</dateCreation>
+<dateModification>2010-09-02</dateModification>
+<auteurCreation>Sweet</auteurCreation>
+<auteurModification>Mollie
+</auteurModification>
+</row>
+<row idProduit="4950">
+<idAlarme>9117</idAlarme>
+<nomProduit>INDAPAMIDE MYLAN 2,5 mg cp pellic</nomProduit>
+<codeProduit>8630f8</codeProduit>
+<prixProduit>283.0</prixProduit>
+<quantiteActuel>1851</quantiteActuel>
+<quantiteAlarme>395</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-09-03</dateModification>
+<auteurCreation>Acosta</auteurCreation>
+<auteurModification>Brynn
+</auteurModification>
+</row>
+<row idProduit="4951">
+<idAlarme>4639</idAlarme>
+<nomProduit>INDAPAMIDE MYLAN LP 1,5 mg cp pellic LP</nomProduit>
+<codeProduit>a5626c</codeProduit>
+<prixProduit>524.0</prixProduit>
+<quantiteActuel>1927</quantiteActuel>
+<quantiteAlarme>319</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-07-29</dateModification>
+<auteurCreation>Riddle</auteurCreation>
+<auteurModification>Ali
+</auteurModification>
+</row>
+<row idProduit="4952">
+<idAlarme>5305</idAlarme>
+<nomProduit>INDAPAMIDE QUALIMED L.P. 1,5 mg cp pellic LP</nomProduit>
+<codeProduit>38b96e</codeProduit>
+<prixProduit>1023.0</prixProduit>
+<quantiteActuel>2103</quantiteActuel>
+<quantiteAlarme>487</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-09-10</dateModification>
+<auteurCreation>Torres</auteurCreation>
+<auteurModification>May
+</auteurModification>
+</row>
+<row idProduit="4953">
+<idAlarme>7716</idAlarme>
+<nomProduit>INDAPAMIDE RANBAXY LP 1,5 mg cp pellic LP</nomProduit>
+<codeProduit>3ec22d</codeProduit>
+<prixProduit>1163.0</prixProduit>
+<quantiteActuel>2716</quantiteActuel>
+<quantiteAlarme>419</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Marshall</auteurCreation>
+<auteurModification>Aladdin
+</auteurModification>
+</row>
+<row idProduit="4954">
+<idAlarme>8456</idAlarme>
+<nomProduit>INDAPAMIDE RATIOPHARM LP 1,5 mg cp pellic LP</nomProduit>
+<codeProduit>d81d34</codeProduit>
+<prixProduit>1155.0</prixProduit>
+<quantiteActuel>1698</quantiteActuel>
+<quantiteAlarme>144</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-26</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Lloyd</auteurCreation>
+<auteurModification>Gregory
+</auteurModification>
+</row>
+<row idProduit="4955">
+<idAlarme>1860</idAlarme>
+<nomProduit>INDAPAMIDE SANDOZ LP 1,5 mg cp pellic LP</nomProduit>
+<codeProduit>a3e85e</codeProduit>
+<prixProduit>1466.0</prixProduit>
+<quantiteActuel>2676</quantiteActuel>
+<quantiteAlarme>298</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-06-29</dateModification>
+<auteurCreation>Vance</auteurCreation>
+<auteurModification>Gage
+</auteurModification>
+</row>
+<row idProduit="4956">
+<idAlarme>1211</idAlarme>
+<nomProduit>INDAPAMIDE TEVA LP 1,5 mg cp pellic LP</nomProduit>
+<codeProduit>e8a44d</codeProduit>
+<prixProduit>1366.0</prixProduit>
+<quantiteActuel>2941</quantiteActuel>
+<quantiteAlarme>105</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Farmer</auteurCreation>
+<auteurModification>Solomon
+</auteurModification>
+</row>
+<row idProduit="4957">
+<idAlarme>5504</idAlarme>
+<nomProduit>INDAPAMIDE WINTHROP LP 1,5 mg cp pellic LP</nomProduit>
+<codeProduit>ab9617</codeProduit>
+<prixProduit>349.0</prixProduit>
+<quantiteActuel>1812</quantiteActuel>
+<quantiteAlarme>274</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-07-11</dateModification>
+<auteurCreation>Preston</auteurCreation>
+<auteurModification>Garrett
+</auteurModification>
+</row>
+<row idProduit="4958">
+<idAlarme>8104</idAlarme>
+<nomProduit>INDIARAL 2 mg gel</nomProduit>
+<codeProduit>7e37b9</codeProduit>
+<prixProduit>774.0</prixProduit>
+<quantiteActuel>2431</quantiteActuel>
+<quantiteAlarme>384</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Mcintosh</auteurCreation>
+<auteurModification>Blaze
+</auteurModification>
+</row>
+<row idProduit="4959">
+<idAlarme>1121</idAlarme>
+<nomProduit>INDOBIOTIC collyre en fl</nomProduit>
+<codeProduit>6bc6cc</codeProduit>
+<prixProduit>1060.0</prixProduit>
+<quantiteActuel>2270</quantiteActuel>
+<quantiteAlarme>365</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-09-06</dateModification>
+<auteurCreation>Gentry</auteurCreation>
+<auteurModification>Yeo
+</auteurModification>
+</row>
+<row idProduit="4960">
+<idAlarme>8478</idAlarme>
+<nomProduit>INDOBIOTIC collyre sol unid</nomProduit>
+<codeProduit>7a7fa8</codeProduit>
+<prixProduit>220.0</prixProduit>
+<quantiteActuel>1834</quantiteActuel>
+<quantiteAlarme>398</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-08-01</dateModification>
+<auteurCreation>Zimmerman</auteurCreation>
+<auteurModification>Zephania
+</auteurModification>
+</row>
+<row idProduit="4961">
+<idAlarme>6487</idAlarme>
+<nomProduit>INDOCID 100 mg suppos</nomProduit>
+<codeProduit>b6c258</codeProduit>
+<prixProduit>719.0</prixProduit>
+<quantiteActuel>1512</quantiteActuel>
+<quantiteAlarme>141</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-08-09</dateModification>
+<auteurCreation>Bowen</auteurCreation>
+<auteurModification>Maite
+</auteurModification>
+</row>
+<row idProduit="4962">
+<idAlarme>7732</idAlarme>
+<nomProduit>INDOCID 25 mg gel</nomProduit>
+<codeProduit>371398</codeProduit>
+<prixProduit>1471.0</prixProduit>
+<quantiteActuel>2822</quantiteActuel>
+<quantiteAlarme>409</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-09-14</dateModification>
+<auteurCreation>Rush</auteurCreation>
+<auteurModification>Preston
+</auteurModification>
+</row>
+<row idProduit="4963">
+<idAlarme>8692</idAlarme>
+<nomProduit>INDOCID 50 mg suppos</nomProduit>
+<codeProduit>22578a</codeProduit>
+<prixProduit>263.0</prixProduit>
+<quantiteActuel>2456</quantiteActuel>
+<quantiteAlarme>153</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-08-09</dateModification>
+<auteurCreation>Cross</auteurCreation>
+<auteurModification>Kevin
+</auteurModification>
+</row>
+<row idProduit="4964">
+<idAlarme>3022</idAlarme>
+<nomProduit>INDOCOLLYRE 0,1 % collyre en unidose</nomProduit>
+<codeProduit>d14cd0</codeProduit>
+<prixProduit>468.0</prixProduit>
+<quantiteActuel>2053</quantiteActuel>
+<quantiteAlarme>301</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-09-03</dateModification>
+<auteurCreation>Davidson</auteurCreation>
+<auteurModification>Aphrodite
+</auteurModification>
+</row>
+<row idProduit="4965">
+<idAlarme>3738</idAlarme>
+<nomProduit>INDOCOLLYRE 0,1% collyre</nomProduit>
+<codeProduit>e78f61</codeProduit>
+<prixProduit>1320.0</prixProduit>
+<quantiteActuel>2927</quantiteActuel>
+<quantiteAlarme>384</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-09-09</dateModification>
+<auteurCreation>Stanley</auteurCreation>
+<auteurModification>Camille
+</auteurModification>
+</row>
+<row idProduit="4966">
+<idAlarme>1731</idAlarme>
+<nomProduit>INDUCTOS 12mg kit pour implant</nomProduit>
+<codeProduit>6f10c3</codeProduit>
+<prixProduit>486.0</prixProduit>
+<quantiteActuel>2989</quantiteActuel>
+<quantiteAlarme>272</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-09-09</dateModification>
+<auteurCreation>Sawyer</auteurCreation>
+<auteurModification>Dorothy
+</auteurModification>
+</row>
+<row idProduit="4967">
+<idAlarme>4449</idAlarme>
+<nomProduit>INEGY 10mg/20mg cp</nomProduit>
+<codeProduit>0ab3cf</codeProduit>
+<prixProduit>294.0</prixProduit>
+<quantiteActuel>1872</quantiteActuel>
+<quantiteAlarme>479</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-08-25</dateModification>
+<auteurCreation>Knox</auteurCreation>
+<auteurModification>Kasper
+</auteurModification>
+</row>
+<row idProduit="4968">
+<idAlarme>8269</idAlarme>
+<nomProduit>INEGY 10mg/40mg cp</nomProduit>
+<codeProduit>74a094</codeProduit>
+<prixProduit>402.0</prixProduit>
+<quantiteActuel>2575</quantiteActuel>
+<quantiteAlarme>140</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Gilbert</auteurCreation>
+<auteurModification>Kirk
+</auteurModification>
+</row>
+<row idProduit="4969">
+<idAlarme>6165</idAlarme>
+<nomProduit>INEUROPE pdre/solv p sol inj</nomProduit>
+<codeProduit>b0ab5d</codeProduit>
+<prixProduit>297.0</prixProduit>
+<quantiteActuel>2805</quantiteActuel>
+<quantiteAlarme>423</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-07-12</dateModification>
+<auteurCreation>Keller</auteurCreation>
+<auteurModification>Geraldine
+</auteurModification>
+</row>
+<row idProduit="4970">
+<idAlarme>327</idAlarme>
+<nomProduit>INEXIUM 10 mg gle p susp buv</nomProduit>
+<codeProduit>f8be80</codeProduit>
+<prixProduit>887.0</prixProduit>
+<quantiteActuel>2735</quantiteActuel>
+<quantiteAlarme>245</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-07-01</dateModification>
+<auteurCreation>Dillard</auteurCreation>
+<auteurModification>Malik
+</auteurModification>
+</row>
+<row idProduit="4971">
+<idAlarme>5215</idAlarme>
+<nomProduit>INEXIUM 20 mg cp gastroresis</nomProduit>
+<codeProduit>24c5c1</codeProduit>
+<prixProduit>722.0</prixProduit>
+<quantiteActuel>2027</quantiteActuel>
+<quantiteAlarme>221</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-09-17</dateModification>
+<auteurCreation>Mcdowell</auteurCreation>
+<auteurModification>Hammett
+</auteurModification>
+</row>
+<row idProduit="4972">
+<idAlarme>133</idAlarme>
+<nomProduit>INEXIUM 40 mg cp gastroresis</nomProduit>
+<codeProduit>8de262</codeProduit>
+<prixProduit>869.0</prixProduit>
+<quantiteActuel>2292</quantiteActuel>
+<quantiteAlarme>370</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-08-06</dateModification>
+<auteurCreation>Dickerson</auteurCreation>
+<auteurModification>Todd
+</auteurModification>
+</row>
+<row idProduit="4973">
+<idAlarme>6839</idAlarme>
+<nomProduit>INEXIUM 40mg pdre p sol inj</nomProduit>
+<codeProduit>6c26af</codeProduit>
+<prixProduit>835.0</prixProduit>
+<quantiteActuel>2798</quantiteActuel>
+<quantiteAlarme>177</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Smith</auteurCreation>
+<auteurModification>Althea
+</auteurModification>
+</row>
+<row idProduit="4974">
+<idAlarme>8470</idAlarme>
+<nomProduit>INFANRIX HEXA pdre/susp p susp inj en seringue preremplie</nomProduit>
+<codeProduit>4047f5</codeProduit>
+<prixProduit>875.0</prixProduit>
+<quantiteActuel>1666</quantiteActuel>
+<quantiteAlarme>345</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-12</dateCreation>
+<dateModification>2010-09-02</dateModification>
+<auteurCreation>Bartlett</auteurCreation>
+<auteurModification>Indigo
+</auteurModification>
+</row>
+<row idProduit="4975">
+<idAlarme>1425</idAlarme>
+<nomProduit>INFANRIXQUINTA pdre/susp p susp inj IM</nomProduit>
+<codeProduit>b05f97</codeProduit>
+<prixProduit>630.0</prixProduit>
+<quantiteActuel>2285</quantiteActuel>
+<quantiteAlarme>484</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-09-05</dateModification>
+<auteurCreation>Burns</auteurCreation>
+<auteurModification>Rhoda
+</auteurModification>
+</row>
+<row idProduit="4976">
+<idAlarme>2039</idAlarme>
+<nomProduit>INFANRIXTETRA susp inj IM en ser</nomProduit>
+<codeProduit>c659b6</codeProduit>
+<prixProduit>990.0</prixProduit>
+<quantiteActuel>2682</quantiteActuel>
+<quantiteAlarme>137</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-09-01</dateModification>
+<auteurCreation>Moses</auteurCreation>
+<auteurModification>Dominic
+</auteurModification>
+</row>
+<row idProduit="4977">
+<idAlarme>4110</idAlarme>
+<nomProduit>INFLACED 20mg pdre efferv p sol buv</nomProduit>
+<codeProduit>bc0549</codeProduit>
+<prixProduit>1194.0</prixProduit>
+<quantiteActuel>1502</quantiteActuel>
+<quantiteAlarme>387</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-09-20</dateModification>
+<auteurCreation>Barnes</auteurCreation>
+<auteurModification>Tanek
+</auteurModification>
+</row>
+<row idProduit="4978">
+<idAlarme>4716</idAlarme>
+<nomProduit>INFLUDO sol buv</nomProduit>
+<codeProduit>1c90fc</codeProduit>
+<prixProduit>259.0</prixProduit>
+<quantiteActuel>1804</quantiteActuel>
+<quantiteAlarme>228</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-11</dateCreation>
+<dateModification>2010-09-04</dateModification>
+<auteurCreation>Haynes</auteurCreation>
+<auteurModification>Odessa
+</auteurModification>
+</row>
+<row idProduit="4979">
+<idAlarme>9904</idAlarme>
+<nomProduit>INFLUVAC susp inj SC IM en ser</nomProduit>
+<codeProduit>62e011</codeProduit>
+<prixProduit>825.0</prixProduit>
+<quantiteActuel>2120</quantiteActuel>
+<quantiteAlarme>120</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-09-02</dateModification>
+<auteurCreation>Mckay</auteurCreation>
+<auteurModification>Nash
+</auteurModification>
+</row>
+<row idProduit="4980">
+<idAlarme>461</idAlarme>
+<nomProduit>INFRACYANINE 25mg/10ml pdre/solv p sol inj</nomProduit>
+<codeProduit>c4677b</codeProduit>
+<prixProduit>1040.0</prixProduit>
+<quantiteActuel>2670</quantiteActuel>
+<quantiteAlarme>319</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-08-17</dateModification>
+<auteurCreation>Macias</auteurCreation>
+<auteurModification>Blaze
+</auteurModification>
+</row>
+<row idProduit="4981">
+<idAlarme>1609</idAlarme>
+<nomProduit>INIPOMP 20mg cp enr gastroresis</nomProduit>
+<codeProduit>ee6d04</codeProduit>
+<prixProduit>810.0</prixProduit>
+<quantiteActuel>2845</quantiteActuel>
+<quantiteAlarme>242</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-07-06</dateModification>
+<auteurCreation>Bell</auteurCreation>
+<auteurModification>Donna
+</auteurModification>
+</row>
+<row idProduit="4982">
+<idAlarme>4571</idAlarme>
+<nomProduit>INIPOMP 40 mg cp gastroresis</nomProduit>
+<codeProduit>c791c6</codeProduit>
+<prixProduit>1229.0</prixProduit>
+<quantiteActuel>2674</quantiteActuel>
+<quantiteAlarme>320</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-09-29</dateModification>
+<auteurCreation>Bruce</auteurCreation>
+<auteurModification>Brenden
+</auteurModification>
+</row>
+<row idProduit="4983">
+<idAlarme>10526</idAlarme>
+<nomProduit>INIPOMP 40mg pdre p sol inj IV</nomProduit>
+<codeProduit>ebead9</codeProduit>
+<prixProduit>229.0</prixProduit>
+<quantiteActuel>2416</quantiteActuel>
+<quantiteAlarme>334</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-08-05</dateModification>
+<auteurCreation>Terry</auteurCreation>
+<auteurModification>Whitney
+</auteurModification>
+</row>
+<row idProduit="4984">
+<idAlarme>8264</idAlarme>
+<nomProduit>INNOHEP 10 000 UI anti-Xa/0,5 ml sol inj SC</nomProduit>
+<codeProduit>e18f88</codeProduit>
+<prixProduit>443.0</prixProduit>
+<quantiteActuel>1539</quantiteActuel>
+<quantiteAlarme>172</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-09-17</dateModification>
+<auteurCreation>Hicks</auteurCreation>
+<auteurModification>Hope
+</auteurModification>
+</row>
+<row idProduit="4985">
+<idAlarme>8242</idAlarme>
+<nomProduit>INNOHEP 14 000 UI anti-Xa/0,7 ml sol inj SC</nomProduit>
+<codeProduit>d6bb19</codeProduit>
+<prixProduit>534.0</prixProduit>
+<quantiteActuel>2184</quantiteActuel>
+<quantiteAlarme>185</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-09-01</dateModification>
+<auteurCreation>Talley</auteurCreation>
+<auteurModification>Nash
+</auteurModification>
+</row>
+<row idProduit="4986">
+<idAlarme>7704</idAlarme>
+<nomProduit>INNOHEP 18 000 UI anti-Xa/0,9 ml sol inj SC</nomProduit>
+<codeProduit>f5c5ef</codeProduit>
+<prixProduit>496.0</prixProduit>
+<quantiteActuel>2470</quantiteActuel>
+<quantiteAlarme>259</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-09-21</dateModification>
+<auteurCreation>King</auteurCreation>
+<auteurModification>Octavia
+</auteurModification>
+</row>
+<row idProduit="4987">
+<idAlarme>9561</idAlarme>
+<nomProduit>INNOHEP 2500 UI anti-Xa/0,25 ml sol inj SC</nomProduit>
+<codeProduit>638631</codeProduit>
+<prixProduit>1173.0</prixProduit>
+<quantiteActuel>2427</quantiteActuel>
+<quantiteAlarme>162</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Cortez</auteurCreation>
+<auteurModification>Kamal
+</auteurModification>
+</row>
+<row idProduit="4988">
+<idAlarme>1365</idAlarme>
+<nomProduit>INNOHEP 3500 UI anti-Xa/0,35 ml sol inj SC</nomProduit>
+<codeProduit>a780ab</codeProduit>
+<prixProduit>552.0</prixProduit>
+<quantiteActuel>1542</quantiteActuel>
+<quantiteAlarme>111</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Figueroa</auteurCreation>
+<auteurModification>Uriel
+</auteurModification>
+</row>
+<row idProduit="4989">
+<idAlarme>6524</idAlarme>
+<nomProduit>INNOHEP 4500 UI anti-Xa/0,45 ml sol inj SC</nomProduit>
+<codeProduit>a95f4e</codeProduit>
+<prixProduit>590.0</prixProduit>
+<quantiteActuel>2731</quantiteActuel>
+<quantiteAlarme>111</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-06-21</dateModification>
+<auteurCreation>Bush</auteurCreation>
+<auteurModification>Hedy
+</auteurModification>
+</row>
+<row idProduit="4990">
+<idAlarme>8507</idAlarme>
+<nomProduit>INNOVAIR 100/6ug/dose sol p inhal</nomProduit>
+<codeProduit>8490eb</codeProduit>
+<prixProduit>1060.0</prixProduit>
+<quantiteActuel>1724</quantiteActuel>
+<quantiteAlarme>346</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-09-08</dateModification>
+<auteurCreation>Reid</auteurCreation>
+<auteurModification>Peter
+</auteurModification>
+</row>
+<row idProduit="4991">
+<idAlarme>7998</idAlarme>
+<nomProduit>INOD&apos;AIL gel gastroresis</nomProduit>
+<codeProduit>39ea07</codeProduit>
+<prixProduit>662.0</prixProduit>
+<quantiteActuel>2834</quantiteActuel>
+<quantiteAlarme>203</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-09-14</dateModification>
+<auteurCreation>Grant</auteurCreation>
+<auteurModification>Vielka
+</auteurModification>
+</row>
+<row idProduit="4992">
+<idAlarme>3189</idAlarme>
+<nomProduit>INOFER 100mg cp pellic</nomProduit>
+<codeProduit>7a1dd7</codeProduit>
+<prixProduit>339.0</prixProduit>
+<quantiteActuel>1844</quantiteActuel>
+<quantiteAlarme>128</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Walton</auteurCreation>
+<auteurModification>Sydnee
+</auteurModification>
+</row>
+<row idProduit="4993">
+<idAlarme>5363</idAlarme>
+<nomProduit>INOMAX gaz p inhal</nomProduit>
+<codeProduit>f2b9a7</codeProduit>
+<prixProduit>1444.0</prixProduit>
+<quantiteActuel>2335</quantiteActuel>
+<quantiteAlarme>392</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Webb</auteurCreation>
+<auteurModification>Zena
+</auteurModification>
+</row>
+<row idProduit="4994">
+<idAlarme>6649</idAlarme>
+<nomProduit>INONGAN creme</nomProduit>
+<codeProduit>f210b3</codeProduit>
+<prixProduit>306.0</prixProduit>
+<quantiteActuel>1801</quantiteActuel>
+<quantiteAlarme>352</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Santana</auteurCreation>
+<auteurModification>Graiden
+</auteurModification>
+</row>
+<row idProduit="4995">
+<idAlarme>1548</idAlarme>
+<nomProduit>INOTYOL pom</nomProduit>
+<codeProduit>cf5f6c</codeProduit>
+<prixProduit>1451.0</prixProduit>
+<quantiteActuel>2139</quantiteActuel>
+<quantiteAlarme>316</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-07-06</dateModification>
+<auteurCreation>Leach</auteurCreation>
+<auteurModification>Wynne
+</auteurModification>
+</row>
+<row idProduit="4996">
+<idAlarme>208</idAlarme>
+<nomProduit>INOVELON 100mg cp pellic</nomProduit>
+<codeProduit>0f652d</codeProduit>
+<prixProduit>1007.0</prixProduit>
+<quantiteActuel>1511</quantiteActuel>
+<quantiteAlarme>390</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-06-21</dateModification>
+<auteurCreation>Fernandez</auteurCreation>
+<auteurModification>Gage
+</auteurModification>
+</row>
+<row idProduit="4997">
+<idAlarme>8388</idAlarme>
+<nomProduit>INOVELON 200mg cp pellic</nomProduit>
+<codeProduit>f8aa52</codeProduit>
+<prixProduit>879.0</prixProduit>
+<quantiteActuel>1795</quantiteActuel>
+<quantiteAlarme>442</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Hull</auteurCreation>
+<auteurModification>Patricia
+</auteurModification>
+</row>
+<row idProduit="4998">
+<idAlarme>7081</idAlarme>
+<nomProduit>INOVELON 400mg cp pellic</nomProduit>
+<codeProduit>6a57ba</codeProduit>
+<prixProduit>485.0</prixProduit>
+<quantiteActuel>1524</quantiteActuel>
+<quantiteAlarme>192</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Contreras</auteurCreation>
+<auteurModification>Ashton
+</auteurModification>
+</row>
+<row idProduit="4999">
+<idAlarme>1758</idAlarme>
+<nomProduit>INSADOL 2,5% sol buv</nomProduit>
+<codeProduit>277dd4</codeProduit>
+<prixProduit>356.0</prixProduit>
+<quantiteActuel>1706</quantiteActuel>
+<quantiteAlarme>382</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-07-09</dateModification>
+<auteurCreation>Thompson</auteurCreation>
+<auteurModification>Priscilla
+</auteurModification>
+</row>
+<row idProduit="5000">
+<idAlarme>5289</idAlarme>
+<nomProduit>INSADOL 35mg cp enr</nomProduit>
+<codeProduit>1eb43e</codeProduit>
+<prixProduit>924.0</prixProduit>
+<quantiteActuel>1700</quantiteActuel>
+<quantiteAlarme>274</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-06-23</dateModification>
+<auteurCreation>Huffman</auteurCreation>
+<auteurModification>Drew
+</auteurModification>
+</row>
+<row idProduit="5001">
+<idAlarme>3391</idAlarme>
+<nomProduit>INSPRA 25mg cp pellic</nomProduit>
+<codeProduit>5af01c</codeProduit>
+<prixProduit>881.0</prixProduit>
+<quantiteActuel>2501</quantiteActuel>
+<quantiteAlarme>405</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-09-16</dateModification>
+<auteurCreation>Cobb</auteurCreation>
+<auteurModification>Georgia
+</auteurModification>
+</row>
+<row idProduit="5002">
+<idAlarme>9472</idAlarme>
+<nomProduit>INSPRA 50 mg cp pellic</nomProduit>
+<codeProduit>f52ac8</codeProduit>
+<prixProduit>502.0</prixProduit>
+<quantiteActuel>1730</quantiteActuel>
+<quantiteAlarme>124</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Schmidt</auteurCreation>
+<auteurModification>Kyra
+</auteurModification>
+</row>
+<row idProduit="5003">
+<idAlarme>4339</idAlarme>
+<nomProduit>INSTANYL 100 ug/dose sol p pulv nasal</nomProduit>
+<codeProduit>880832</codeProduit>
+<prixProduit>679.0</prixProduit>
+<quantiteActuel>2986</quantiteActuel>
+<quantiteAlarme>242</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-08-01</dateModification>
+<auteurCreation>William</auteurCreation>
+<auteurModification>Kermit
+</auteurModification>
+</row>
+<row idProduit="5004">
+<idAlarme>4907</idAlarme>
+<nomProduit>INSTANYL 200 ug/dose sol p pulv nasal</nomProduit>
+<codeProduit>904a4d</codeProduit>
+<prixProduit>1339.0</prixProduit>
+<quantiteActuel>1618</quantiteActuel>
+<quantiteAlarme>491</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-08-24</dateModification>
+<auteurCreation>Hodges</auteurCreation>
+<auteurModification>Talon
+</auteurModification>
+</row>
+<row idProduit="5005">
+<idAlarme>4560</idAlarme>
+<nomProduit>INSTANYL 50 ug/dose sol p pulv nasal</nomProduit>
+<codeProduit>6f92a3</codeProduit>
+<prixProduit>213.0</prixProduit>
+<quantiteActuel>2675</quantiteActuel>
+<quantiteAlarme>201</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-09-16</dateModification>
+<auteurCreation>Christian</auteurCreation>
+<auteurModification>Dara
+</auteurModification>
+</row>
+<row idProduit="5006">
+<idAlarme>8213</idAlarme>
+<nomProduit>INSTILLAGEL gel uretral</nomProduit>
+<codeProduit>fcc151</codeProduit>
+<prixProduit>1371.0</prixProduit>
+<quantiteActuel>2314</quantiteActuel>
+<quantiteAlarme>210</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-09-16</dateModification>
+<auteurCreation>Jimenez</auteurCreation>
+<auteurModification>Evangeline
+</auteurModification>
+</row>
+<row idProduit="5007">
+<idAlarme>10281</idAlarme>
+<nomProduit>INSULINE ACTRAPID 100 UI/ml sol inj</nomProduit>
+<codeProduit>d7d909</codeProduit>
+<prixProduit>664.0</prixProduit>
+<quantiteActuel>1683</quantiteActuel>
+<quantiteAlarme>176</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-07-22</dateModification>
+<auteurCreation>Cantrell</auteurCreation>
+<auteurModification>Lawrence
+</auteurModification>
+</row>
+<row idProduit="5008">
+<idAlarme>1369</idAlarme>
+<nomProduit>INSULINE ACTRAPID PENFILL 100 UI/ml sol inj SC IV</nomProduit>
+<codeProduit>4b9ee4</codeProduit>
+<prixProduit>884.0</prixProduit>
+<quantiteActuel>1804</quantiteActuel>
+<quantiteAlarme>116</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-06-27</dateModification>
+<auteurCreation>Morton</auteurCreation>
+<auteurModification>Drew
+</auteurModification>
+</row>
+<row idProduit="5009">
+<idAlarme>10245</idAlarme>
+<nomProduit>INSULINE APIDRA 100U/ml sol inj en cart</nomProduit>
+<codeProduit>b98709</codeProduit>
+<prixProduit>226.0</prixProduit>
+<quantiteActuel>2326</quantiteActuel>
+<quantiteAlarme>237</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-09-05</dateModification>
+<auteurCreation>Beach</auteurCreation>
+<auteurModification>Phyllis
+</auteurModification>
+</row>
+<row idProduit="5010">
+<idAlarme>2974</idAlarme>
+<nomProduit>INSULINE APIDRA 100U/ml sol inj en fl</nomProduit>
+<codeProduit>ac5384</codeProduit>
+<prixProduit>967.0</prixProduit>
+<quantiteActuel>2524</quantiteActuel>
+<quantiteAlarme>295</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-10-05</dateModification>
+<auteurCreation>Atkinson</auteurCreation>
+<auteurModification>Philip
+</auteurModification>
+</row>
+<row idProduit="5011">
+<idAlarme>4739</idAlarme>
+<nomProduit>INSULINE APIDRA 100U/ml sol inj en stylo Solostar</nomProduit>
+<codeProduit>00c7a0</codeProduit>
+<prixProduit>594.0</prixProduit>
+<quantiteActuel>1669</quantiteActuel>
+<quantiteAlarme>476</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-07-29</dateModification>
+<auteurCreation>Steele</auteurCreation>
+<auteurModification>Felicia
+</auteurModification>
+</row>
+<row idProduit="5012">
+<idAlarme>2265</idAlarme>
+<nomProduit>INSULINE INSULATARD 100 UI/ml susp inj SC</nomProduit>
+<codeProduit>8a5e74</codeProduit>
+<prixProduit>1089.0</prixProduit>
+<quantiteActuel>1834</quantiteActuel>
+<quantiteAlarme>236</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-05</dateCreation>
+<dateModification>2010-07-22</dateModification>
+<auteurCreation>Mercer</auteurCreation>
+<auteurModification>Elvis
+</auteurModification>
+</row>
+<row idProduit="5013">
+<idAlarme>2960</idAlarme>
+<nomProduit>INSULINE INSULATARD FLEXPEN 100 UI/ml susp inj SC</nomProduit>
+<codeProduit>30cf4c</codeProduit>
+<prixProduit>1063.0</prixProduit>
+<quantiteActuel>2195</quantiteActuel>
+<quantiteAlarme>202</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-07-12</dateModification>
+<auteurCreation>Austin</auteurCreation>
+<auteurModification>Dawn
+</auteurModification>
+</row>
+<row idProduit="5014">
+<idAlarme>9262</idAlarme>
+<nomProduit>INSULINE INSULATARD INNOLET 100 UI/ml susp inj SC en stylo</nomProduit>
+<codeProduit>5f8233</codeProduit>
+<prixProduit>1077.0</prixProduit>
+<quantiteActuel>2024</quantiteActuel>
+<quantiteAlarme>189</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-08-16</dateModification>
+<auteurCreation>Mckee</auteurCreation>
+<auteurModification>Colby
+</auteurModification>
+</row>
+<row idProduit="5015">
+<idAlarme>9815</idAlarme>
+<nomProduit>INSULINE INSULATARD PENFILL 100 UI/ml susp inj SC</nomProduit>
+<codeProduit>506e22</codeProduit>
+<prixProduit>1380.0</prixProduit>
+<quantiteActuel>2400</quantiteActuel>
+<quantiteAlarme>493</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Cote</auteurCreation>
+<auteurModification>Gary
+</auteurModification>
+</row>
+<row idProduit="5016">
+<idAlarme>9903</idAlarme>
+<nomProduit>INSULINE INSUPLANT 400UI/ml sol inj</nomProduit>
+<codeProduit>5816c1</codeProduit>
+<prixProduit>474.0</prixProduit>
+<quantiteActuel>1555</quantiteActuel>
+<quantiteAlarme>135</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Mcdaniel</auteurCreation>
+<auteurModification>Ayanna
+</auteurModification>
+</row>
+<row idProduit="5017">
+<idAlarme>2170</idAlarme>
+<nomProduit>INSULINE MIXTARD 30 100 UI/ml susp inj en flacon</nomProduit>
+<codeProduit>37ebe7</codeProduit>
+<prixProduit>888.0</prixProduit>
+<quantiteActuel>1805</quantiteActuel>
+<quantiteAlarme>171</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-06-27</dateModification>
+<auteurCreation>Morton</auteurCreation>
+<auteurModification>Buckminster
+</auteurModification>
+</row>
+<row idProduit="5018">
+<idAlarme>5631</idAlarme>
+<nomProduit>INSULINE NOVOMIX 30 FLEXPEN 100 U/ml susp inj SC</nomProduit>
+<codeProduit>3884a3</codeProduit>
+<prixProduit>1471.0</prixProduit>
+<quantiteActuel>1822</quantiteActuel>
+<quantiteAlarme>144</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-07-10</dateModification>
+<auteurCreation>Bryant</auteurCreation>
+<auteurModification>Colette
+</auteurModification>
+</row>
+<row idProduit="5019">
+<idAlarme>107</idAlarme>
+<nomProduit>INSULINE NOVOMIX 30 PENFILL 100 U/ml susp inj SC</nomProduit>
+<codeProduit>1d723d</codeProduit>
+<prixProduit>1334.0</prixProduit>
+<quantiteActuel>1836</quantiteActuel>
+<quantiteAlarme>261</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-07-09</dateModification>
+<auteurCreation>Noel</auteurCreation>
+<auteurModification>Dorian
+</auteurModification>
+</row>
+<row idProduit="5020">
+<idAlarme>200</idAlarme>
+<nomProduit>INSULINE NOVOMIX 50 FLEXPEN 100U/ml susp inj en stylo</nomProduit>
+<codeProduit>585821</codeProduit>
+<prixProduit>564.0</prixProduit>
+<quantiteActuel>2182</quantiteActuel>
+<quantiteAlarme>196</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-09-16</dateModification>
+<auteurCreation>Pace</auteurCreation>
+<auteurModification>Ivor
+</auteurModification>
+</row>
+<row idProduit="5021">
+<idAlarme>947</idAlarme>
+<nomProduit>INSULINE NOVOMIX 70 FLEXPEN 100U/ml susp inj</nomProduit>
+<codeProduit>45e2c3</codeProduit>
+<prixProduit>533.0</prixProduit>
+<quantiteActuel>1513</quantiteActuel>
+<quantiteAlarme>369</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-09-23</dateModification>
+<auteurCreation>Sharp</auteurCreation>
+<auteurModification>Lacey
+</auteurModification>
+</row>
+<row idProduit="5022">
+<idAlarme>7589</idAlarme>
+<nomProduit>INSULINE NOVORAPID 100U/ml sol inj</nomProduit>
+<codeProduit>97a1b2</codeProduit>
+<prixProduit>1020.0</prixProduit>
+<quantiteActuel>2487</quantiteActuel>
+<quantiteAlarme>215</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-06-29</dateModification>
+<auteurCreation>Huffman</auteurCreation>
+<auteurModification>Vera
+</auteurModification>
+</row>
+<row idProduit="5023">
+<idAlarme>8276</idAlarme>
+<nomProduit>INSULINE NOVORAPID FLEXPEN 100 U/ml sol inj SC</nomProduit>
+<codeProduit>c03122</codeProduit>
+<prixProduit>948.0</prixProduit>
+<quantiteActuel>1925</quantiteActuel>
+<quantiteAlarme>212</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-06-28</dateModification>
+<auteurCreation>Ortiz</auteurCreation>
+<auteurModification>Pearl
+</auteurModification>
+</row>
+<row idProduit="5024">
+<idAlarme>7137</idAlarme>
+<nomProduit>INSULINE NOVORAPID PENFILL 100 U/ml sol inj SC</nomProduit>
+<codeProduit>0f8276</codeProduit>
+<prixProduit>1261.0</prixProduit>
+<quantiteActuel>2608</quantiteActuel>
+<quantiteAlarme>122</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-08-17</dateModification>
+<auteurCreation>Bradford</auteurCreation>
+<auteurModification>Iris
+</auteurModification>
+</row>
+<row idProduit="5025">
+<idAlarme>8198</idAlarme>
+<nomProduit>INSUMAN BASAL 100 UI/ml susp inj</nomProduit>
+<codeProduit>745e3f</codeProduit>
+<prixProduit>1049.0</prixProduit>
+<quantiteActuel>2526</quantiteActuel>
+<quantiteAlarme>243</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-08-18</dateModification>
+<auteurCreation>Romero</auteurCreation>
+<auteurModification>Carly
+</auteurModification>
+</row>
+<row idProduit="5026">
+<idAlarme>4247</idAlarme>
+<nomProduit>INSUMAN BASAL OPTISET 100 UI/ml susp inj</nomProduit>
+<codeProduit>d5dfb8</codeProduit>
+<prixProduit>869.0</prixProduit>
+<quantiteActuel>2773</quantiteActuel>
+<quantiteAlarme>354</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Johnson</auteurCreation>
+<auteurModification>Ignacia
+</auteurModification>
+</row>
+<row idProduit="5027">
+<idAlarme>8919</idAlarme>
+<nomProduit>INSUMAN COMB 15 100 UI/ml susp inj</nomProduit>
+<codeProduit>e44d99</codeProduit>
+<prixProduit>1233.0</prixProduit>
+<quantiteActuel>2484</quantiteActuel>
+<quantiteAlarme>379</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-06-27</dateModification>
+<auteurCreation>Reeves</auteurCreation>
+<auteurModification>Samuel
+</auteurModification>
+</row>
+<row idProduit="5028">
+<idAlarme>6631</idAlarme>
+<nomProduit>INSUMAN COMB 15 OPTISET 100 UI/ml susp inj</nomProduit>
+<codeProduit>4de6a8</codeProduit>
+<prixProduit>447.0</prixProduit>
+<quantiteActuel>2067</quantiteActuel>
+<quantiteAlarme>121</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-22</dateCreation>
+<dateModification>2010-09-16</dateModification>
+<auteurCreation>Monroe</auteurCreation>
+<auteurModification>Leandra
+</auteurModification>
+</row>
+<row idProduit="5029">
+<idAlarme>6439</idAlarme>
+<nomProduit>INSUMAN COMB 25 100 UI/ml susp inj</nomProduit>
+<codeProduit>385ca4</codeProduit>
+<prixProduit>319.0</prixProduit>
+<quantiteActuel>1632</quantiteActuel>
+<quantiteAlarme>399</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Malone</auteurCreation>
+<auteurModification>Aidan
+</auteurModification>
+</row>
+<row idProduit="5030">
+<idAlarme>555</idAlarme>
+<nomProduit>INSUMAN COMB 25 OPTISET 100 UI/ml susp inj</nomProduit>
+<codeProduit>6ba869</codeProduit>
+<prixProduit>354.0</prixProduit>
+<quantiteActuel>2317</quantiteActuel>
+<quantiteAlarme>362</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-07-01</dateModification>
+<auteurCreation>Bell</auteurCreation>
+<auteurModification>Illiana
+</auteurModification>
+</row>
+<row idProduit="5031">
+<idAlarme>3026</idAlarme>
+<nomProduit>INSUMAN COMB 50 100 UI/ml susp inj</nomProduit>
+<codeProduit>a3c7d1</codeProduit>
+<prixProduit>1474.0</prixProduit>
+<quantiteActuel>2524</quantiteActuel>
+<quantiteAlarme>306</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-07-02</dateModification>
+<auteurCreation>Santos</auteurCreation>
+<auteurModification>Kermit
+</auteurModification>
+</row>
+<row idProduit="5032">
+<idAlarme>990</idAlarme>
+<nomProduit>INSUMAN COMB 50 OPTISET 100 UI/ml susp inj en stylo</nomProduit>
+<codeProduit>6de4bd</codeProduit>
+<prixProduit>598.0</prixProduit>
+<quantiteActuel>2914</quantiteActuel>
+<quantiteAlarme>132</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-08-11</dateModification>
+<auteurCreation>Salas</auteurCreation>
+<auteurModification>Tyler
+</auteurModification>
+</row>
+<row idProduit="5033">
+<idAlarme>4577</idAlarme>
+<nomProduit>INSUMAN INFUSAT 100 UI/ml sol inj</nomProduit>
+<codeProduit>3cddd0</codeProduit>
+<prixProduit>433.0</prixProduit>
+<quantiteActuel>2872</quantiteActuel>
+<quantiteAlarme>128</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-10-05</dateModification>
+<auteurCreation>Harding</auteurCreation>
+<auteurModification>Jada
+</auteurModification>
+</row>
+<row idProduit="5034">
+<idAlarme>6740</idAlarme>
+<nomProduit>INSUMAN RAPID 100 UI/ml sol inj en fl</nomProduit>
+<codeProduit>94e311</codeProduit>
+<prixProduit>1477.0</prixProduit>
+<quantiteActuel>2514</quantiteActuel>
+<quantiteAlarme>446</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-09-07</dateModification>
+<auteurCreation>Ramirez</auteurCreation>
+<auteurModification>Emily
+</auteurModification>
+</row>
+<row idProduit="5035">
+<idAlarme>7422</idAlarme>
+<nomProduit>INSUMAN RAPID OPTISET 100 UI/ml sol inj en stylo</nomProduit>
+<codeProduit>c8bf8e</codeProduit>
+<prixProduit>235.0</prixProduit>
+<quantiteActuel>2477</quantiteActuel>
+<quantiteAlarme>459</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-07-15</dateModification>
+<auteurCreation>Fisher</auteurCreation>
+<auteurModification>Nayda
+</auteurModification>
+</row>
+<row idProduit="5036">
+<idAlarme>8360</idAlarme>
+<nomProduit>INTEGRILIN 0,75 mg/ml sol p perf</nomProduit>
+<codeProduit>4c6ef8</codeProduit>
+<prixProduit>933.0</prixProduit>
+<quantiteActuel>2306</quantiteActuel>
+<quantiteAlarme>463</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-06-23</dateModification>
+<auteurCreation>Mann</auteurCreation>
+<auteurModification>Angela
+</auteurModification>
+</row>
+<row idProduit="5037">
+<idAlarme>6241</idAlarme>
+<nomProduit>INTEGRILIN 2 mg/ml sol inj</nomProduit>
+<codeProduit>7f41dd</codeProduit>
+<prixProduit>742.0</prixProduit>
+<quantiteActuel>1816</quantiteActuel>
+<quantiteAlarme>187</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-07-16</dateModification>
+<auteurCreation>James</auteurCreation>
+<auteurModification>Baker
+</auteurModification>
+</row>
+<row idProduit="5038">
+<idAlarme>6635</idAlarme>
+<nomProduit>INTELENCE 100 mg cp</nomProduit>
+<codeProduit>ae6ab5</codeProduit>
+<prixProduit>1097.0</prixProduit>
+<quantiteActuel>2356</quantiteActuel>
+<quantiteAlarme>204</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-09-18</dateModification>
+<auteurCreation>Davis</auteurCreation>
+<auteurModification>Yardley
+</auteurModification>
+</row>
+<row idProduit="5039">
+<idAlarme>1982</idAlarme>
+<nomProduit>INTERCRON sol buv</nomProduit>
+<codeProduit>a4f86a</codeProduit>
+<prixProduit>1234.0</prixProduit>
+<quantiteActuel>2643</quantiteActuel>
+<quantiteAlarme>266</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-07-14</dateModification>
+<auteurCreation>Graves</auteurCreation>
+<auteurModification>Honorato
+</auteurModification>
+</row>
+<row idProduit="5040">
+<idAlarme>9936</idAlarme>
+<nomProduit>INTERCYTON 200mg gel</nomProduit>
+<codeProduit>b8584d</codeProduit>
+<prixProduit>589.0</prixProduit>
+<quantiteActuel>1807</quantiteActuel>
+<quantiteAlarme>292</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-08-21</dateModification>
+<auteurCreation>Mcintyre</auteurCreation>
+<auteurModification>Harrison
+</auteurModification>
+</row>
+<row idProduit="5041">
+<idAlarme>9781</idAlarme>
+<nomProduit>INTETRIX gel</nomProduit>
+<codeProduit>280559</codeProduit>
+<prixProduit>506.0</prixProduit>
+<quantiteActuel>1758</quantiteActuel>
+<quantiteAlarme>138</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-07-15</dateModification>
+<auteurCreation>Pruitt</auteurCreation>
+<auteurModification>Beverly
+</auteurModification>
+</row>
+<row idProduit="5042">
+<idAlarme>10469</idAlarme>
+<nomProduit>INTRAIT DE MARRON D&apos;INDE &quot;P&quot; sol buv</nomProduit>
+<codeProduit>620841</codeProduit>
+<prixProduit>1382.0</prixProduit>
+<quantiteActuel>2603</quantiteActuel>
+<quantiteAlarme>481</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Jensen</auteurCreation>
+<auteurModification>Vaughan
+</auteurModification>
+</row>
+<row idProduit="5043">
+<idAlarme>3532</idAlarme>
+<nomProduit>INTRALGIS 200 mg cp pellic</nomProduit>
+<codeProduit>c7e8b8</codeProduit>
+<prixProduit>553.0</prixProduit>
+<quantiteActuel>1687</quantiteActuel>
+<quantiteAlarme>209</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-08-12</dateModification>
+<auteurCreation>Barron</auteurCreation>
+<auteurModification>Ethan
+</auteurModification>
+</row>
+<row idProduit="5044">
+<idAlarme>2749</idAlarme>
+<nomProduit>INTRALGIS 5% gel p appl loc</nomProduit>
+<codeProduit>b20a74</codeProduit>
+<prixProduit>476.0</prixProduit>
+<quantiteActuel>1931</quantiteActuel>
+<quantiteAlarme>479</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-07-26</dateModification>
+<auteurCreation>Witt</auteurCreation>
+<auteurModification>Joel
+</auteurModification>
+</row>
+<row idProduit="5045">
+<idAlarme>8269</idAlarme>
+<nomProduit>INTRALIPIDE 10% emuls p perf</nomProduit>
+<codeProduit>d9b410</codeProduit>
+<prixProduit>647.0</prixProduit>
+<quantiteActuel>1707</quantiteActuel>
+<quantiteAlarme>351</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-08-23</dateModification>
+<auteurCreation>Ball</auteurCreation>
+<auteurModification>Uma
+</auteurModification>
+</row>
+<row idProduit="5046">
+<idAlarme>2076</idAlarme>
+<nomProduit>INTRALIPIDE 20% emuls p perf</nomProduit>
+<codeProduit>250a64</codeProduit>
+<prixProduit>1167.0</prixProduit>
+<quantiteActuel>1685</quantiteActuel>
+<quantiteAlarme>141</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Weaver</auteurCreation>
+<auteurModification>Neville
+</auteurModification>
+</row>
+<row idProduit="5047">
+<idAlarme>2505</idAlarme>
+<nomProduit>INTRALIPIDE 30% emuls p perf</nomProduit>
+<codeProduit>8c7aa5</codeProduit>
+<prixProduit>1201.0</prixProduit>
+<quantiteActuel>2649</quantiteActuel>
+<quantiteAlarme>367</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Medina</auteurCreation>
+<auteurModification>Finn
+</auteurModification>
+</row>
+<row idProduit="5048">
+<idAlarme>10222</idAlarme>
+<nomProduit>INTRINSA 300ug/24h disp transderm</nomProduit>
+<codeProduit>f8addc</codeProduit>
+<prixProduit>1361.0</prixProduit>
+<quantiteActuel>2399</quantiteActuel>
+<quantiteAlarme>500</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-09-17</dateModification>
+<auteurCreation>Wilkins</auteurCreation>
+<auteurModification>Indigo
+</auteurModification>
+</row>
+<row idProduit="5049">
+<idAlarme>56</idAlarme>
+<nomProduit>INTRONA 10MUI/1ml sol inj SC IV</nomProduit>
+<codeProduit>21e59f</codeProduit>
+<prixProduit>672.0</prixProduit>
+<quantiteActuel>1537</quantiteActuel>
+<quantiteAlarme>442</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-29</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Lopez</auteurCreation>
+<auteurModification>Yardley
+</auteurModification>
+</row>
+<row idProduit="5050">
+<idAlarme>2240</idAlarme>
+<nomProduit>INTRONA 18 M UI/3 ml sol inj SC IV</nomProduit>
+<codeProduit>4691c9</codeProduit>
+<prixProduit>1397.0</prixProduit>
+<quantiteActuel>2457</quantiteActuel>
+<quantiteAlarme>419</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-09-29</dateModification>
+<auteurCreation>Waters</auteurCreation>
+<auteurModification>Yoshi
+</auteurModification>
+</row>
+<row idProduit="5051">
+<idAlarme>5169</idAlarme>
+<nomProduit>INTRONA 18MUI/1,2ml sol inj</nomProduit>
+<codeProduit>1b7f7a</codeProduit>
+<prixProduit>983.0</prixProduit>
+<quantiteActuel>2037</quantiteActuel>
+<quantiteAlarme>226</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-09-04</dateModification>
+<auteurCreation>Morse</auteurCreation>
+<auteurModification>Flavia
+</auteurModification>
+</row>
+<row idProduit="5052">
+<idAlarme>8273</idAlarme>
+<nomProduit>INTRONA 30MUI/1,2ml sol inj</nomProduit>
+<codeProduit>a5eb8d</codeProduit>
+<prixProduit>190.0</prixProduit>
+<quantiteActuel>1739</quantiteActuel>
+<quantiteAlarme>500</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-11</dateCreation>
+<dateModification>2010-07-11</dateModification>
+<auteurCreation>Beard</auteurCreation>
+<auteurModification>Garrison
+</auteurModification>
+</row>
+<row idProduit="5053">
+<idAlarme>9885</idAlarme>
+<nomProduit>INTRONA 60MUI/1,2ml sol inj</nomProduit>
+<codeProduit>c97a3c</codeProduit>
+<prixProduit>1095.0</prixProduit>
+<quantiteActuel>1755</quantiteActuel>
+<quantiteAlarme>268</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-10-04</dateModification>
+<auteurCreation>Woods</auteurCreation>
+<auteurModification>Breanna
+</auteurModification>
+</row>
+<row idProduit="5054">
+<idAlarme>5352</idAlarme>
+<nomProduit>INVANZ 1g pdre p sol diluer p perf</nomProduit>
+<codeProduit>6c8f8b</codeProduit>
+<prixProduit>816.0</prixProduit>
+<quantiteActuel>1866</quantiteActuel>
+<quantiteAlarme>181</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-09-20</dateModification>
+<auteurCreation>Larson</auteurCreation>
+<auteurModification>Honorato
+</auteurModification>
+</row>
+<row idProduit="5055">
+<idAlarme>1956</idAlarme>
+<nomProduit>INVIRASE 200 mg gel</nomProduit>
+<codeProduit>a72506</codeProduit>
+<prixProduit>605.0</prixProduit>
+<quantiteActuel>2001</quantiteActuel>
+<quantiteAlarme>323</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Mays</auteurCreation>
+<auteurModification>Jaden
+</auteurModification>
+</row>
+<row idProduit="5056">
+<idAlarme>9766</idAlarme>
+<nomProduit>INVIRASE 500mg cp pellic</nomProduit>
+<codeProduit>c90a7d</codeProduit>
+<prixProduit>1080.0</prixProduit>
+<quantiteActuel>1777</quantiteActuel>
+<quantiteAlarme>130</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-08-31</dateModification>
+<auteurCreation>Colon</auteurCreation>
+<auteurModification>Bradley
+</auteurModification>
+</row>
+<row idProduit="5057">
+<idAlarme>4435</idAlarme>
+<nomProduit>IOBENGUANE 131I 370 MBq/ml</nomProduit>
+<codeProduit>cb6946</codeProduit>
+<prixProduit>1425.0</prixProduit>
+<quantiteActuel>1736</quantiteActuel>
+<quantiteAlarme>306</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-09-26</dateModification>
+<auteurCreation>Snyder</auteurCreation>
+<auteurModification>Dorian
+</auteurModification>
+</row>
+<row idProduit="5058">
+<idAlarme>526</idAlarme>
+<nomProduit>IODURE (131 l) DE SODIUM CIS BIO INTERNATIONAL sol inj</nomProduit>
+<codeProduit>4cfd3e</codeProduit>
+<prixProduit>1469.0</prixProduit>
+<quantiteActuel>2979</quantiteActuel>
+<quantiteAlarme>181</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-08-14</dateModification>
+<auteurCreation>Mcclure</auteurCreation>
+<auteurModification>Austin
+</auteurModification>
+</row>
+<row idProduit="5059">
+<idAlarme>9692</idAlarme>
+<nomProduit>IODURE (131I) DE SODIUM 185 MBq/ml, MALLINCKRODT FRANCE sol inj</nomProduit>
+<codeProduit>7d27d9</codeProduit>
+<prixProduit>681.0</prixProduit>
+<quantiteActuel>1506</quantiteActuel>
+<quantiteAlarme>261</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-07-28</dateModification>
+<auteurCreation>Bird</auteurCreation>
+<auteurModification>Abdul
+</auteurModification>
+</row>
+<row idProduit="5060">
+<idAlarme>1177</idAlarme>
+<nomProduit>IODURE (131I) DE SODIUM 37 MBq/mL, MALLINCKRODT FRANCE sol inj</nomProduit>
+<codeProduit>6eb2d1</codeProduit>
+<prixProduit>1465.0</prixProduit>
+<quantiteActuel>1932</quantiteActuel>
+<quantiteAlarme>334</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-07-05</dateModification>
+<auteurCreation>Turner</auteurCreation>
+<auteurModification>Adara
+</auteurModification>
+</row>
+<row idProduit="5061">
+<idAlarme>8449</idAlarme>
+<nomProduit>IODURE (131I) DE SODIUM 370 mBq/ml, MALLINCKRODT FRANCE sol inj</nomProduit>
+<codeProduit>b023ba</codeProduit>
+<prixProduit>1379.0</prixProduit>
+<quantiteActuel>2609</quantiteActuel>
+<quantiteAlarme>472</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-07-23</dateModification>
+<auteurCreation>Kelley</auteurCreation>
+<auteurModification>Isaiah
+</auteurModification>
+</row>
+<row idProduit="5062">
+<idAlarme>3267</idAlarme>
+<nomProduit>IODURE 123I DE SODIUM CIS BIO INTERNATIONAL precurseur radiopharma</nomProduit>
+<codeProduit>6d7d8b</codeProduit>
+<prixProduit>853.0</prixProduit>
+<quantiteActuel>1778</quantiteActuel>
+<quantiteAlarme>162</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-07-28</dateModification>
+<auteurCreation>Whitney</auteurCreation>
+<auteurModification>Eugenia
+</auteurModification>
+</row>
+<row idProduit="5063">
+<idAlarme>8253</idAlarme>
+<nomProduit>IODURE 123I DE SODIUM CIS BIO INTERNATIONAL sol inj</nomProduit>
+<codeProduit>4fb9d9</codeProduit>
+<prixProduit>1483.0</prixProduit>
+<quantiteActuel>2424</quantiteActuel>
+<quantiteAlarme>420</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-08-11</dateModification>
+<auteurCreation>Bernard</auteurCreation>
+<auteurModification>Samson
+</auteurModification>
+</row>
+<row idProduit="5064">
+<idAlarme>5928</idAlarme>
+<nomProduit>IODURE 131l DE SODIUM CIS BIO INTERNATIONAL sol buv</nomProduit>
+<codeProduit>373729</codeProduit>
+<prixProduit>222.0</prixProduit>
+<quantiteActuel>2542</quantiteActuel>
+<quantiteAlarme>457</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Sparks</auteurCreation>
+<auteurModification>Rajah
+</auteurModification>
+</row>
+<row idProduit="5065">
+<idAlarme>9721</idAlarme>
+<nomProduit>IODURE DE POTASSIUM PHARMACIE CENTRALE DES ARMEES 130 mg cp sec</nomProduit>
+<codeProduit>55a8cf</codeProduit>
+<prixProduit>839.0</prixProduit>
+<quantiteActuel>1739</quantiteActuel>
+<quantiteAlarme>330</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-09-25</dateModification>
+<auteurCreation>Mcconnell</auteurCreation>
+<auteurModification>Chandler
+</auteurModification>
+</row>
+<row idProduit="5066">
+<idAlarme>2688</idAlarme>
+<nomProduit>IODURE DE POTASSIUM PHARMACIE CENTRALE DES ARMEES 65 mg cp sec</nomProduit>
+<codeProduit>a2ef0b</codeProduit>
+<prixProduit>688.0</prixProduit>
+<quantiteActuel>2406</quantiteActuel>
+<quantiteAlarme>108</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-09-09</dateModification>
+<auteurCreation>Love</auteurCreation>
+<auteurModification>Courtney
+</auteurModification>
+</row>
+<row idProduit="5067">
+<idAlarme>3906</idAlarme>
+<nomProduit>IODURE DE SODIUM MALLINCKRODT DIAGNOSTICA sol inj</nomProduit>
+<codeProduit>11b9c6</codeProduit>
+<prixProduit>1204.0</prixProduit>
+<quantiteActuel>2426</quantiteActuel>
+<quantiteAlarme>333</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Santos</auteurCreation>
+<auteurModification>Quinn
+</auteurModification>
+</row>
+<row idProduit="5068">
+<idAlarme>10494</idAlarme>
+<nomProduit>IOMERON 150 mg Iode/ml sol inj</nomProduit>
+<codeProduit>840cec</codeProduit>
+<prixProduit>918.0</prixProduit>
+<quantiteActuel>1575</quantiteActuel>
+<quantiteAlarme>426</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Buckley</auteurCreation>
+<auteurModification>Karen
+</auteurModification>
+</row>
+<row idProduit="5069">
+<idAlarme>1323</idAlarme>
+<nomProduit>IOMERON 200 mg Iode/ml sol inj</nomProduit>
+<codeProduit>4b1d3d</codeProduit>
+<prixProduit>1273.0</prixProduit>
+<quantiteActuel>2490</quantiteActuel>
+<quantiteAlarme>483</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-08-23</dateModification>
+<auteurCreation>Rosales</auteurCreation>
+<auteurModification>Jacob
+</auteurModification>
+</row>
+<row idProduit="5070">
+<idAlarme>3738</idAlarme>
+<nomProduit>IOMERON 250 mg Iode/ml sol inj</nomProduit>
+<codeProduit>dec770</codeProduit>
+<prixProduit>1153.0</prixProduit>
+<quantiteActuel>1887</quantiteActuel>
+<quantiteAlarme>121</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Wells</auteurCreation>
+<auteurModification>Patricia
+</auteurModification>
+</row>
+<row idProduit="5071">
+<idAlarme>8199</idAlarme>
+<nomProduit>IOMERON 300 mg Iode/ml sol inj</nomProduit>
+<codeProduit>f2241c</codeProduit>
+<prixProduit>303.0</prixProduit>
+<quantiteActuel>2480</quantiteActuel>
+<quantiteAlarme>203</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-10-02</dateModification>
+<auteurCreation>Hancock</auteurCreation>
+<auteurModification>Cain
+</auteurModification>
+</row>
+<row idProduit="5072">
+<idAlarme>6627</idAlarme>
+<nomProduit>IOMERON 350 mg Iode/ml sol inj</nomProduit>
+<codeProduit>760849</codeProduit>
+<prixProduit>1220.0</prixProduit>
+<quantiteActuel>1656</quantiteActuel>
+<quantiteAlarme>305</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-09-09</dateModification>
+<auteurCreation>Melendez</auteurCreation>
+<auteurModification>Lael
+</auteurModification>
+</row>
+<row idProduit="5073">
+<idAlarme>2719</idAlarme>
+<nomProduit>IOMERON 400 mg Iode/ml sol inj</nomProduit>
+<codeProduit>f356f6</codeProduit>
+<prixProduit>1345.0</prixProduit>
+<quantiteActuel>2734</quantiteActuel>
+<quantiteAlarme>417</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-06-23</dateModification>
+<auteurCreation>Whitley</auteurCreation>
+<auteurModification>Raymond
+</auteurModification>
+</row>
+<row idProduit="5074">
+<idAlarme>6088</idAlarme>
+<nomProduit>IONITAN sol p perf IV</nomProduit>
+<codeProduit>f317b6</codeProduit>
+<prixProduit>310.0</prixProduit>
+<quantiteActuel>2970</quantiteActuel>
+<quantiteAlarme>476</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Lancaster</auteurCreation>
+<auteurModification>Tobias
+</auteurModification>
+</row>
+<row idProduit="5075">
+<idAlarme>6285</idAlarme>
+<nomProduit>IOPAMIRON 200mg/ml sol inj</nomProduit>
+<codeProduit>7ab12d</codeProduit>
+<prixProduit>1192.0</prixProduit>
+<quantiteActuel>2941</quantiteActuel>
+<quantiteAlarme>359</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-05</dateCreation>
+<dateModification>2010-09-07</dateModification>
+<auteurCreation>Sharpe</auteurCreation>
+<auteurModification>Oleg
+</auteurModification>
+</row>
+<row idProduit="5076">
+<idAlarme>1914</idAlarme>
+<nomProduit>IOPAMIRON 300mg Iode/ml sol inj</nomProduit>
+<codeProduit>e6185d</codeProduit>
+<prixProduit>1074.0</prixProduit>
+<quantiteActuel>2034</quantiteActuel>
+<quantiteAlarme>150</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Fuentes</auteurCreation>
+<auteurModification>Hermione
+</auteurModification>
+</row>
+<row idProduit="5077">
+<idAlarme>6980</idAlarme>
+<nomProduit>IOPAMIRON 370 mg Iode/ml sol inj</nomProduit>
+<codeProduit>26ee6f</codeProduit>
+<prixProduit>992.0</prixProduit>
+<quantiteActuel>2962</quantiteActuel>
+<quantiteAlarme>434</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Pace</auteurCreation>
+<auteurModification>Dexter
+</auteurModification>
+</row>
+<row idProduit="5078">
+<idAlarme>4128</idAlarme>
+<nomProduit>IOPIDINE 0,5% collyre</nomProduit>
+<codeProduit>54e195</codeProduit>
+<prixProduit>600.0</prixProduit>
+<quantiteActuel>2312</quantiteActuel>
+<quantiteAlarme>239</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-08-07</dateModification>
+<auteurCreation>Wilder</auteurCreation>
+<auteurModification>Gray
+</auteurModification>
+</row>
+<row idProduit="5079">
+<idAlarme>9712</idAlarme>
+<nomProduit>IOPIDINE 1% collyre</nomProduit>
+<codeProduit>1a56f2</codeProduit>
+<prixProduit>1188.0</prixProduit>
+<quantiteActuel>1765</quantiteActuel>
+<quantiteAlarme>233</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-12</dateCreation>
+<dateModification>2010-07-24</dateModification>
+<auteurCreation>Talley</auteurCreation>
+<auteurModification>Blossom
+</auteurModification>
+</row>
+<row idProduit="5080">
+<idAlarme>9222</idAlarme>
+<nomProduit>IPECA COMPOSE BOIRON cp</nomProduit>
+<codeProduit>c32381</codeProduit>
+<prixProduit>193.0</prixProduit>
+<quantiteActuel>2405</quantiteActuel>
+<quantiteAlarme>298</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-29</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Henderson</auteurCreation>
+<auteurModification>Aaron
+</auteurModification>
+</row>
+<row idProduit="5081">
+<idAlarme>1902</idAlarme>
+<nomProduit>IPECA COMPOSE BOIRON gle</nomProduit>
+<codeProduit>6fa9e4</codeProduit>
+<prixProduit>185.0</prixProduit>
+<quantiteActuel>2919</quantiteActuel>
+<quantiteAlarme>271</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Ramos</auteurCreation>
+<auteurModification>Isabelle
+</auteurModification>
+</row>
+<row idProduit="5082">
+<idAlarme>8085</idAlarme>
+<nomProduit>IPECA COMPOSE BOIRON sol buv</nomProduit>
+<codeProduit>43396b</codeProduit>
+<prixProduit>650.0</prixProduit>
+<quantiteActuel>2530</quantiteActuel>
+<quantiteAlarme>426</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-07-28</dateModification>
+<auteurCreation>Trevino</auteurCreation>
+<auteurModification>Caryn
+</auteurModification>
+</row>
+<row idProduit="5083">
+<idAlarme>3633</idAlarme>
+<nomProduit>IPERTEN 10mg cp</nomProduit>
+<codeProduit>01a96f</codeProduit>
+<prixProduit>257.0</prixProduit>
+<quantiteActuel>2591</quantiteActuel>
+<quantiteAlarme>211</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-08-11</dateModification>
+<auteurCreation>Hodge</auteurCreation>
+<auteurModification>Rachel
+</auteurModification>
+</row>
+<row idProduit="5084">
+<idAlarme>4468</idAlarme>
+<nomProduit>IPERTEN 20mg cp</nomProduit>
+<codeProduit>b1274c</codeProduit>
+<prixProduit>770.0</prixProduit>
+<quantiteActuel>2491</quantiteActuel>
+<quantiteAlarme>219</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-12</dateCreation>
+<dateModification>2010-10-06</dateModification>
+<auteurCreation>Burch</auteurCreation>
+<auteurModification>Harlan
+</auteurModification>
+</row>
+<row idProduit="5085">
+<idAlarme>1668</idAlarme>
+<nomProduit>IPRATROPIUM AGUETTANT 0,25 mg/1 ml sol p inhal p nebulis Enf</nomProduit>
+<codeProduit>26dbbc</codeProduit>
+<prixProduit>728.0</prixProduit>
+<quantiteActuel>2890</quantiteActuel>
+<quantiteAlarme>147</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Roman</auteurCreation>
+<auteurModification>Brandon
+</auteurModification>
+</row>
+<row idProduit="5086">
+<idAlarme>1795</idAlarme>
+<nomProduit>IPRATROPIUM AGUETTANT 0,5 mg/2 ml sol p inhal p nebulis Ad</nomProduit>
+<codeProduit>1330c2</codeProduit>
+<prixProduit>528.0</prixProduit>
+<quantiteActuel>2623</quantiteActuel>
+<quantiteAlarme>143</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-09-04</dateModification>
+<auteurCreation>Garcia</auteurCreation>
+<auteurModification>Jolie
+</auteurModification>
+</row>
+<row idProduit="5087">
+<idAlarme>10152</idAlarme>
+<nomProduit>IPRATROPIUM ALMUS 0,5 mg/2 ml sol p inhal p nebulis en recipient unidose adulte</nomProduit>
+<codeProduit>5a1ec1</codeProduit>
+<prixProduit>1144.0</prixProduit>
+<quantiteActuel>2773</quantiteActuel>
+<quantiteAlarme>226</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Lynch</auteurCreation>
+<auteurModification>Seth
+</auteurModification>
+</row>
+<row idProduit="5088">
+<idAlarme>519</idAlarme>
+<nomProduit>IPRATROPIUM ARROW 0,25 mg/ml sol p inhal p nebulis Enf</nomProduit>
+<codeProduit>cb7032</codeProduit>
+<prixProduit>579.0</prixProduit>
+<quantiteActuel>1935</quantiteActuel>
+<quantiteAlarme>177</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Compton</auteurCreation>
+<auteurModification>Shelly
+</auteurModification>
+</row>
+<row idProduit="5089">
+<idAlarme>4631</idAlarme>
+<nomProduit>IPRATROPIUM ARROW 0,5 mg/2 ml sol p inhal p nebulis Ad</nomProduit>
+<codeProduit>b4cd04</codeProduit>
+<prixProduit>383.0</prixProduit>
+<quantiteActuel>2379</quantiteActuel>
+<quantiteAlarme>271</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Gibbs</auteurCreation>
+<auteurModification>Darrel
+</auteurModification>
+</row>
+<row idProduit="5090">
+<idAlarme>6041</idAlarme>
+<nomProduit>IPRATROPIUM MYLAN 0,25 mg/ml ENFANTS sol p inhal p nebulis enfant</nomProduit>
+<codeProduit>057235</codeProduit>
+<prixProduit>1172.0</prixProduit>
+<quantiteActuel>2979</quantiteActuel>
+<quantiteAlarme>226</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Moreno</auteurCreation>
+<auteurModification>Ciara
+</auteurModification>
+</row>
+<row idProduit="5091">
+<idAlarme>3868</idAlarme>
+<nomProduit>IPRATROPIUM MYLAN 0,5 mg/2 ml ADULTES sol p inhal p nebulis</nomProduit>
+<codeProduit>feb54d</codeProduit>
+<prixProduit>243.0</prixProduit>
+<quantiteActuel>1768</quantiteActuel>
+<quantiteAlarme>404</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Baird</auteurCreation>
+<auteurModification>Ignacia
+</auteurModification>
+</row>
+<row idProduit="5092">
+<idAlarme>4961</idAlarme>
+<nomProduit>IPRATROPIUM TEVA ADULTES 0,5 mg/2 ml sol p inhal p nebulis</nomProduit>
+<codeProduit>db3f72</codeProduit>
+<prixProduit>310.0</prixProduit>
+<quantiteActuel>2222</quantiteActuel>
+<quantiteAlarme>219</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-07-27</dateModification>
+<auteurCreation>Wilcox</auteurCreation>
+<auteurModification>Darius
+</auteurModification>
+</row>
+<row idProduit="5093">
+<idAlarme>3862</idAlarme>
+<nomProduit>IPRATROPIUM TEVA ENFANTS 0,25 mg/1 ml sol p inhal p nebulis</nomProduit>
+<codeProduit>faa32a</codeProduit>
+<prixProduit>775.0</prixProduit>
+<quantiteActuel>2036</quantiteActuel>
+<quantiteAlarme>269</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Fleming</auteurCreation>
+<auteurModification>Deacon
+</auteurModification>
+</row>
+<row idProduit="5094">
+<idAlarme>4658</idAlarme>
+<nomProduit>IRESSA 250 mg cp pellic</nomProduit>
+<codeProduit>825e2c</codeProduit>
+<prixProduit>585.0</prixProduit>
+<quantiteActuel>2555</quantiteActuel>
+<quantiteAlarme>358</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-06-20</dateModification>
+<auteurCreation>Alford</auteurCreation>
+<auteurModification>Basia
+</auteurModification>
+</row>
+<row idProduit="5095">
+<idAlarme>6882</idAlarme>
+<nomProduit>IRINOTECAN ACTAVIS 20 mg/ml sol diluer p perf</nomProduit>
+<codeProduit>96c19f</codeProduit>
+<prixProduit>410.0</prixProduit>
+<quantiteActuel>2014</quantiteActuel>
+<quantiteAlarme>421</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Hays</auteurCreation>
+<auteurModification>Jordan
+</auteurModification>
+</row>
+<row idProduit="5096">
+<idAlarme>9547</idAlarme>
+<nomProduit>IRINOTECAN EBEWE 20 mg/ml sol diluer p perf</nomProduit>
+<codeProduit>31367e</codeProduit>
+<prixProduit>746.0</prixProduit>
+<quantiteActuel>2212</quantiteActuel>
+<quantiteAlarme>304</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-05</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Wolf</auteurCreation>
+<auteurModification>Adrian
+</auteurModification>
+</row>
+<row idProduit="5097">
+<idAlarme>8268</idAlarme>
+<nomProduit>IRINOTECAN EBEWE PHARMA FRANCE 20 mg/ml sol diluer p perf</nomProduit>
+<codeProduit>79b1b2</codeProduit>
+<prixProduit>607.0</prixProduit>
+<quantiteActuel>1827</quantiteActuel>
+<quantiteAlarme>487</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-08-31</dateModification>
+<auteurCreation>Chambers</auteurCreation>
+<auteurModification>Bertha
+</auteurModification>
+</row>
+<row idProduit="5098">
+<idAlarme>7874</idAlarme>
+<nomProduit>IRINOTECAN HOSPIRA 20 mg/ml sol diluer p perf</nomProduit>
+<codeProduit>84b58d</codeProduit>
+<prixProduit>1424.0</prixProduit>
+<quantiteActuel>1532</quantiteActuel>
+<quantiteAlarme>474</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-07-21</dateModification>
+<auteurCreation>Blackwell</auteurCreation>
+<auteurModification>Harper
+</auteurModification>
+</row>
+<row idProduit="5099">
+<idAlarme>4349</idAlarme>
+<nomProduit>IRINOTECAN INTAS PHARMACEUTICALS 20 mg/ml sol diluer p perf</nomProduit>
+<codeProduit>4f1d19</codeProduit>
+<prixProduit>460.0</prixProduit>
+<quantiteActuel>2001</quantiteActuel>
+<quantiteAlarme>228</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-07-13</dateModification>
+<auteurCreation>Casey</auteurCreation>
+<auteurModification>Laith
+</auteurModification>
+</row>
+<row idProduit="5100">
+<idAlarme>752</idAlarme>
+<nomProduit>IRINOTECAN KABI 20 mg/ml sol diluer p perf</nomProduit>
+<codeProduit>d6565a</codeProduit>
+<prixProduit>1081.0</prixProduit>
+<quantiteActuel>1610</quantiteActuel>
+<quantiteAlarme>301</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-07-23</dateModification>
+<auteurCreation>Carpenter</auteurCreation>
+<auteurModification>Keane
+</auteurModification>
+</row>
+<row idProduit="5101">
+<idAlarme>364</idAlarme>
+<nomProduit>IRINOTECAN MYLAN 20 mg/ml sol diluer p perf</nomProduit>
+<codeProduit>0dec58</codeProduit>
+<prixProduit>182.0</prixProduit>
+<quantiteActuel>2618</quantiteActuel>
+<quantiteAlarme>340</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-06-29</dateModification>
+<auteurCreation>Mcclure</auteurCreation>
+<auteurModification>Dacey
+</auteurModification>
+</row>
+<row idProduit="5102">
+<idAlarme>10079</idAlarme>
+<nomProduit>IRINOTECAN TEVA 20 mg/ml sol diluer p perf</nomProduit>
+<codeProduit>1b7b35</codeProduit>
+<prixProduit>620.0</prixProduit>
+<quantiteActuel>2920</quantiteActuel>
+<quantiteAlarme>211</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Hunter</auteurCreation>
+<auteurModification>Audra
+</auteurModification>
+</row>
+<row idProduit="5103">
+<idAlarme>7817</idAlarme>
+<nomProduit>IRINOTECAN TEVA SANTE 20 mg/ml sol diluer p perf</nomProduit>
+<codeProduit>19ade3</codeProduit>
+<prixProduit>967.0</prixProduit>
+<quantiteActuel>1910</quantiteActuel>
+<quantiteAlarme>378</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-08-01</dateModification>
+<auteurCreation>Dillard</auteurCreation>
+<auteurModification>Buckminster
+</auteurModification>
+</row>
+<row idProduit="5104">
+<idAlarme>1998</idAlarme>
+<nomProduit>ISENTRESS 400mg cp pellic</nomProduit>
+<codeProduit>b6453c</codeProduit>
+<prixProduit>849.0</prixProduit>
+<quantiteActuel>2319</quantiteActuel>
+<quantiteAlarme>181</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-07-21</dateModification>
+<auteurCreation>Pacheco</auteurCreation>
+<auteurModification>Katelyn
+</auteurModification>
+</row>
+<row idProduit="5105">
+<idAlarme>10172</idAlarme>
+<nomProduit>ISIMIG 2,5 mg cp pellic</nomProduit>
+<codeProduit>531235</codeProduit>
+<prixProduit>494.0</prixProduit>
+<quantiteActuel>2904</quantiteActuel>
+<quantiteAlarme>280</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-05</dateCreation>
+<dateModification>2010-08-09</dateModification>
+<auteurCreation>Jordan</auteurCreation>
+<auteurModification>Anne
+</auteurModification>
+</row>
+<row idProduit="5106">
+<idAlarme>386</idAlarme>
+<nomProduit>ISKEDYL cp</nomProduit>
+<codeProduit>f2b7e8</codeProduit>
+<prixProduit>301.0</prixProduit>
+<quantiteActuel>2227</quantiteActuel>
+<quantiteAlarme>376</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Schroeder</auteurCreation>
+<auteurModification>Jamalia
+</auteurModification>
+</row>
+<row idProduit="5107">
+<idAlarme>2440</idAlarme>
+<nomProduit>ISKEDYL FORT cp</nomProduit>
+<codeProduit>6f78f5</codeProduit>
+<prixProduit>1413.0</prixProduit>
+<quantiteActuel>2128</quantiteActuel>
+<quantiteAlarme>177</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-09-03</dateModification>
+<auteurCreation>Dillon</auteurCreation>
+<auteurModification>Brody
+</auteurModification>
+</row>
+<row idProduit="5108">
+<idAlarme>10316</idAlarme>
+<nomProduit>ISKEDYL sol buv</nomProduit>
+<codeProduit>0ff46b</codeProduit>
+<prixProduit>382.0</prixProduit>
+<quantiteActuel>2312</quantiteActuel>
+<quantiteAlarme>284</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Vasquez</auteurCreation>
+<auteurModification>Ruby
+</auteurModification>
+</row>
+<row idProduit="5109">
+<idAlarme>9651</idAlarme>
+<nomProduit>ISOBAR cp sec</nomProduit>
+<codeProduit>314fa2</codeProduit>
+<prixProduit>1344.0</prixProduit>
+<quantiteActuel>2888</quantiteActuel>
+<quantiteAlarme>311</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-06-17</dateModification>
+<auteurCreation>Singleton</auteurCreation>
+<auteurModification>Rhoda
+</auteurModification>
+</row>
+<row idProduit="5110">
+<idAlarme>4859</idAlarme>
+<nomProduit>ISOCARD sol subling</nomProduit>
+<codeProduit>20d24d</codeProduit>
+<prixProduit>828.0</prixProduit>
+<quantiteActuel>1603</quantiteActuel>
+<quantiteAlarme>435</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-09-03</dateModification>
+<auteurCreation>Sawyer</auteurCreation>
+<auteurModification>Scarlet
+</auteurModification>
+</row>
+<row idProduit="5111">
+<idAlarme>10320</idAlarme>
+<nomProduit>ISODRIL PHENYLEPHRINE collyre</nomProduit>
+<codeProduit>d96dea</codeProduit>
+<prixProduit>815.0</prixProduit>
+<quantiteActuel>2505</quantiteActuel>
+<quantiteAlarme>305</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-08-12</dateModification>
+<auteurCreation>Moore</auteurCreation>
+<auteurModification>Erich
+</auteurModification>
+</row>
+<row idProduit="5112">
+<idAlarme>6903</idAlarme>
+<nomProduit>ISOFEBRIL VITAMINE C cp efferv</nomProduit>
+<codeProduit>2840c0</codeProduit>
+<prixProduit>781.0</prixProduit>
+<quantiteActuel>2695</quantiteActuel>
+<quantiteAlarme>269</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-09-30</dateModification>
+<auteurCreation>Jones</auteurCreation>
+<auteurModification>Ira
+</auteurModification>
+</row>
+<row idProduit="5113">
+<idAlarme>7706</idAlarme>
+<nomProduit>ISOFLURANE BELAMONT sol p inhal</nomProduit>
+<codeProduit>968be2</codeProduit>
+<prixProduit>965.0</prixProduit>
+<quantiteActuel>2489</quantiteActuel>
+<quantiteAlarme>162</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-06-28</dateModification>
+<auteurCreation>Hernandez</auteurCreation>
+<auteurModification>Sara
+</auteurModification>
+</row>
+<row idProduit="5114">
+<idAlarme>2054</idAlarme>
+<nomProduit>ISOFUNDINE sol p perf</nomProduit>
+<codeProduit>fea655</codeProduit>
+<prixProduit>1377.0</prixProduit>
+<quantiteActuel>2365</quantiteActuel>
+<quantiteAlarme>397</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-07-05</dateModification>
+<auteurCreation>Jacobs</auteurCreation>
+<auteurModification>Reece
+</auteurModification>
+</row>
+<row idProduit="5115">
+<idAlarme>6056</idAlarme>
+<nomProduit>ISOPRINOSINE 500 mg cp sec</nomProduit>
+<codeProduit>11fe99</codeProduit>
+<prixProduit>838.0</prixProduit>
+<quantiteActuel>2427</quantiteActuel>
+<quantiteAlarme>139</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-09-24</dateModification>
+<auteurCreation>Kirkland</auteurCreation>
+<auteurModification>Conan
+</auteurModification>
+</row>
+<row idProduit="5116">
+<idAlarme>9902</idAlarme>
+<nomProduit>ISOPTINE 120 mg gel</nomProduit>
+<codeProduit>589f86</codeProduit>
+<prixProduit>563.0</prixProduit>
+<quantiteActuel>1784</quantiteActuel>
+<quantiteAlarme>430</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-06-28</dateModification>
+<auteurCreation>Snow</auteurCreation>
+<auteurModification>Dalton
+</auteurModification>
+</row>
+<row idProduit="5117">
+<idAlarme>7968</idAlarme>
+<nomProduit>ISOPTINE 240mg cp pellic sec LP</nomProduit>
+<codeProduit>d54ac5</codeProduit>
+<prixProduit>793.0</prixProduit>
+<quantiteActuel>2905</quantiteActuel>
+<quantiteAlarme>107</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Kaufman</auteurCreation>
+<auteurModification>Yeo
+</auteurModification>
+</row>
+<row idProduit="5118">
+<idAlarme>7476</idAlarme>
+<nomProduit>ISOPTINE 40 mg cp enr</nomProduit>
+<codeProduit>dd57cf</codeProduit>
+<prixProduit>362.0</prixProduit>
+<quantiteActuel>1904</quantiteActuel>
+<quantiteAlarme>342</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Burris</auteurCreation>
+<auteurModification>Lawrence
+</auteurModification>
+</row>
+<row idProduit="5119">
+<idAlarme>1193</idAlarme>
+<nomProduit>ISOPTINE 5 mg/2 ml sol inj</nomProduit>
+<codeProduit>3ea487</codeProduit>
+<prixProduit>458.0</prixProduit>
+<quantiteActuel>1874</quantiteActuel>
+<quantiteAlarme>179</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-08-06</dateModification>
+<auteurCreation>Morris</auteurCreation>
+<auteurModification>Byron
+</auteurModification>
+</row>
+<row idProduit="5120">
+<idAlarme>508</idAlarme>
+<nomProduit>ISOPTO HOMATROPINE 1% collyre</nomProduit>
+<codeProduit>23e0b4</codeProduit>
+<prixProduit>1087.0</prixProduit>
+<quantiteActuel>1893</quantiteActuel>
+<quantiteAlarme>157</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-08-07</dateModification>
+<auteurCreation>Holden</auteurCreation>
+<auteurModification>Malik
+</auteurModification>
+</row>
+<row idProduit="5121">
+<idAlarme>8786</idAlarme>
+<nomProduit>ISOPTO-PILOCARPINE 0,5 % collyre</nomProduit>
+<codeProduit>060e3e</codeProduit>
+<prixProduit>1465.0</prixProduit>
+<quantiteActuel>1656</quantiteActuel>
+<quantiteAlarme>307</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Holland</auteurCreation>
+<auteurModification>Thor
+</auteurModification>
+</row>
+<row idProduit="5122">
+<idAlarme>10237</idAlarme>
+<nomProduit>ISOPTO-PILOCARPINE 1 % collyre</nomProduit>
+<codeProduit>3eeb17</codeProduit>
+<prixProduit>303.0</prixProduit>
+<quantiteActuel>2563</quantiteActuel>
+<quantiteAlarme>117</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-08-29</dateModification>
+<auteurCreation>Guy</auteurCreation>
+<auteurModification>Ian
+</auteurModification>
+</row>
+<row idProduit="5123">
+<idAlarme>2001</idAlarme>
+<nomProduit>ISOPTO-PILOCARPINE 2 % collyre</nomProduit>
+<codeProduit>281a7d</codeProduit>
+<prixProduit>1396.0</prixProduit>
+<quantiteActuel>2405</quantiteActuel>
+<quantiteAlarme>316</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-06-28</dateModification>
+<auteurCreation>Juarez</auteurCreation>
+<auteurModification>Hamish
+</auteurModification>
+</row>
+<row idProduit="5124">
+<idAlarme>7425</idAlarme>
+<nomProduit>ISORYTHM LP 125 mg gel LP</nomProduit>
+<codeProduit>2eb856</codeProduit>
+<prixProduit>1273.0</prixProduit>
+<quantiteActuel>1526</quantiteActuel>
+<quantiteAlarme>114</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>Strickland</auteurCreation>
+<auteurModification>Signe
+</auteurModification>
+</row>
+<row idProduit="5125">
+<idAlarme>3233</idAlarme>
+<nomProduit>ISORYTHM LP 250 mg gel LP</nomProduit>
+<codeProduit>f2c3c5</codeProduit>
+<prixProduit>1130.0</prixProduit>
+<quantiteActuel>2153</quantiteActuel>
+<quantiteAlarme>423</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-08-01</dateModification>
+<auteurCreation>Wiggins</auteurCreation>
+<auteurModification>Brady
+</auteurModification>
+</row>
+<row idProduit="5126">
+<idAlarme>4731</idAlarme>
+<nomProduit>ISOTRETINOINE TEVA 10mg caps molle</nomProduit>
+<codeProduit>39c7a8</codeProduit>
+<prixProduit>745.0</prixProduit>
+<quantiteActuel>2298</quantiteActuel>
+<quantiteAlarme>446</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-09-27</dateModification>
+<auteurCreation>Savage</auteurCreation>
+<auteurModification>Rina
+</auteurModification>
+</row>
+<row idProduit="5127">
+<idAlarme>9469</idAlarme>
+<nomProduit>ISOTRETINOINE TEVA 20mg caps molle</nomProduit>
+<codeProduit>1e0e4d</codeProduit>
+<prixProduit>1443.0</prixProduit>
+<quantiteActuel>2940</quantiteActuel>
+<quantiteAlarme>195</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-09-13</dateModification>
+<auteurCreation>Strickland</auteurCreation>
+<auteurModification>Micah
+</auteurModification>
+</row>
+<row idProduit="5128">
+<idAlarme>1289</idAlarme>
+<nomProduit>ISOTRETINOINE TEVA 40 mg caps molle</nomProduit>
+<codeProduit>18c3d4</codeProduit>
+<prixProduit>1415.0</prixProduit>
+<quantiteActuel>2074</quantiteActuel>
+<quantiteAlarme>379</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-07-24</dateModification>
+<auteurCreation>Madden</auteurCreation>
+<auteurModification>Imelda
+</auteurModification>
+</row>
+<row idProduit="5129">
+<idAlarme>216</idAlarme>
+<nomProduit>ISOTRETINOINE TEVA 5 mg caps molle</nomProduit>
+<codeProduit>c202da</codeProduit>
+<prixProduit>1137.0</prixProduit>
+<quantiteActuel>2064</quantiteActuel>
+<quantiteAlarme>296</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-09-03</dateModification>
+<auteurCreation>Kennedy</auteurCreation>
+<auteurModification>Indigo
+</auteurModification>
+</row>
+<row idProduit="5130">
+<idAlarme>1183</idAlarme>
+<nomProduit>ISUDRINE susp buv en sach</nomProduit>
+<codeProduit>763204</codeProduit>
+<prixProduit>1490.0</prixProduit>
+<quantiteActuel>2179</quantiteActuel>
+<quantiteAlarme>389</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Dawson</auteurCreation>
+<auteurModification>Yasir
+</auteurModification>
+</row>
+<row idProduit="5131">
+<idAlarme>8752</idAlarme>
+<nomProduit>ISUPREL 0,20mg/1ml sol inj</nomProduit>
+<codeProduit>c101fd</codeProduit>
+<prixProduit>1254.0</prixProduit>
+<quantiteActuel>2242</quantiteActuel>
+<quantiteAlarme>124</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-09-25</dateModification>
+<auteurCreation>William</auteurCreation>
+<auteurModification>Tasha
+</auteurModification>
+</row>
+<row idProduit="5132">
+<idAlarme>247</idAlarme>
+<nomProduit>ITAX shampooing antipoux</nomProduit>
+<codeProduit>a7391c</codeProduit>
+<prixProduit>1049.0</prixProduit>
+<quantiteActuel>2024</quantiteActuel>
+<quantiteAlarme>136</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-09-17</dateModification>
+<auteurCreation>Mckenzie</auteurCreation>
+<auteurModification>Quinn
+</auteurModification>
+</row>
+<row idProduit="5133">
+<idAlarme>3364</idAlarme>
+<nomProduit>ITEM ANTI POUX lotion</nomProduit>
+<codeProduit>ebd8b1</codeProduit>
+<prixProduit>776.0</prixProduit>
+<quantiteActuel>2947</quantiteActuel>
+<quantiteAlarme>269</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-07-26</dateModification>
+<auteurCreation>Russell</auteurCreation>
+<auteurModification>Petra
+</auteurModification>
+</row>
+<row idProduit="5134">
+<idAlarme>4542</idAlarme>
+<nomProduit>ITEM ANTI POUX shampooing</nomProduit>
+<codeProduit>7a0726</codeProduit>
+<prixProduit>1433.0</prixProduit>
+<quantiteActuel>2415</quantiteActuel>
+<quantiteAlarme>408</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-09-04</dateModification>
+<auteurCreation>Bean</auteurCreation>
+<auteurModification>Dennis
+</auteurModification>
+</row>
+<row idProduit="5135">
+<idAlarme>838</idAlarme>
+<nomProduit>ITRACONAZOLE MYLAN 100 mg gel</nomProduit>
+<codeProduit>13894d</codeProduit>
+<prixProduit>1411.0</prixProduit>
+<quantiteActuel>1696</quantiteActuel>
+<quantiteAlarme>133</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-27</dateCreation>
+<dateModification>2010-07-24</dateModification>
+<auteurCreation>Soto</auteurCreation>
+<auteurModification>Patrick
+</auteurModification>
+</row>
+<row idProduit="5136">
+<idAlarme>6606</idAlarme>
+<nomProduit>ITRACONAZOLE SANDOZ 100mg gel</nomProduit>
+<codeProduit>f6dd1f</codeProduit>
+<prixProduit>625.0</prixProduit>
+<quantiteActuel>2540</quantiteActuel>
+<quantiteAlarme>492</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-27</dateCreation>
+<dateModification>2010-09-03</dateModification>
+<auteurCreation>Gilliam</auteurCreation>
+<auteurModification>Raven
+</auteurModification>
+</row>
+<row idProduit="5137">
+<idAlarme>471</idAlarme>
+<nomProduit>ITRACONAZOLE TEVA 100mg gel</nomProduit>
+<codeProduit>b51079</codeProduit>
+<prixProduit>1157.0</prixProduit>
+<quantiteActuel>1575</quantiteActuel>
+<quantiteAlarme>472</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-08-01</dateModification>
+<auteurCreation>Berger</auteurCreation>
+<auteurModification>Aurora
+</auteurModification>
+</row>
+<row idProduit="5138">
+<idAlarme>3923</idAlarme>
+<nomProduit>IVELIP 20% emuls p perf</nomProduit>
+<codeProduit>831908</codeProduit>
+<prixProduit>1028.0</prixProduit>
+<quantiteActuel>2125</quantiteActuel>
+<quantiteAlarme>431</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-08-21</dateModification>
+<auteurCreation>Wolfe</auteurCreation>
+<auteurModification>Yuli
+</auteurModification>
+</row>
+<row idProduit="5139">
+<idAlarme>2553</idAlarme>
+<nomProduit>IVEMEND 115mg pdre p sol p perf</nomProduit>
+<codeProduit>ba27d1</codeProduit>
+<prixProduit>494.0</prixProduit>
+<quantiteActuel>1731</quantiteActuel>
+<quantiteAlarme>445</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-09-06</dateModification>
+<auteurCreation>Holden</auteurCreation>
+<auteurModification>Audrey
+</auteurModification>
+</row>
+<row idProduit="5140">
+<idAlarme>6842</idAlarme>
+<nomProduit>IVHEBEX 5000UI/100ml pdre/solv p sol p perf</nomProduit>
+<codeProduit>4c59ed</codeProduit>
+<prixProduit>1054.0</prixProduit>
+<quantiteActuel>2315</quantiteActuel>
+<quantiteAlarme>392</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-06-29</dateModification>
+<auteurCreation>Walter</auteurCreation>
+<auteurModification>Cathleen
+</auteurModification>
+</row>
+<row idProduit="5141">
+<idAlarme>5723</idAlarme>
+<nomProduit>IXEL 25 mg gel</nomProduit>
+<codeProduit>c38787</codeProduit>
+<prixProduit>725.0</prixProduit>
+<quantiteActuel>2282</quantiteActuel>
+<quantiteAlarme>358</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-08-12</dateModification>
+<auteurCreation>Wallace</auteurCreation>
+<auteurModification>Mercedes
+</auteurModification>
+</row>
+<row idProduit="5142">
+<idAlarme>4272</idAlarme>
+<nomProduit>IXEL 50 mg gel</nomProduit>
+<codeProduit>612b25</codeProduit>
+<prixProduit>861.0</prixProduit>
+<quantiteActuel>2261</quantiteActuel>
+<quantiteAlarme>186</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-10-01</dateModification>
+<auteurCreation>Arnold</auteurCreation>
+<auteurModification>Harlan
+</auteurModification>
+</row>
+<row idProduit="5143">
+<idAlarme>4330</idAlarme>
+<nomProduit>IXIARO susp inj</nomProduit>
+<codeProduit>a20e28</codeProduit>
+<prixProduit>444.0</prixProduit>
+<quantiteActuel>2084</quantiteActuel>
+<quantiteAlarme>354</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-07-03</dateModification>
+<auteurCreation>Mccall</auteurCreation>
+<auteurModification>Brenden
+</auteurModification>
+</row>
+<row idProduit="5144">
+<idAlarme>3263</idAlarme>
+<nomProduit>IXPRIM 37,5 mg/325 mg cp efferv</nomProduit>
+<codeProduit>0674f1</codeProduit>
+<prixProduit>1157.0</prixProduit>
+<quantiteActuel>2994</quantiteActuel>
+<quantiteAlarme>406</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-06-26</dateModification>
+<auteurCreation>Cooper</auteurCreation>
+<auteurModification>Dustin
+</auteurModification>
+</row>
+<row idProduit="5145">
+<idAlarme>6912</idAlarme>
+<nomProduit>IXPRIM 37,5mg/325mg cp pellic</nomProduit>
+<codeProduit>006e92</codeProduit>
+<prixProduit>413.0</prixProduit>
+<quantiteActuel>1589</quantiteActuel>
+<quantiteAlarme>384</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-08-13</dateModification>
+<auteurCreation>Mosley</auteurCreation>
+<auteurModification>Ulla
+</auteurModification>
+</row>
+<row idProduit="5146">
+<idAlarme>5260</idAlarme>
+<nomProduit>IZILOX 400 mg/250 ml sol p perf</nomProduit>
+<codeProduit>09f2d6</codeProduit>
+<prixProduit>714.0</prixProduit>
+<quantiteActuel>2124</quantiteActuel>
+<quantiteAlarme>173</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-07-12</dateModification>
+<auteurCreation>Hahn</auteurCreation>
+<auteurModification>Amity
+</auteurModification>
+</row>
+<row idProduit="5147">
+<idAlarme>1880</idAlarme>
+<nomProduit>IZILOX 400mg cp pellic</nomProduit>
+<codeProduit>223509</codeProduit>
+<prixProduit>562.0</prixProduit>
+<quantiteActuel>2218</quantiteActuel>
+<quantiteAlarme>346</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Duncan</auteurCreation>
+<auteurModification>Joshua
+</auteurModification>
+</row>
+</root>

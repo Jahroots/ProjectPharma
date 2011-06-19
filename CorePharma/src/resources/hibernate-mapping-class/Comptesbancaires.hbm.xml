@@ -1,29 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
-<!-- Generated 27 avr. 2011 12:11:52 by Hibernate Tools 3.4.0.CR1 -->
-<hibernate-mapping>
-  <class catalog="corepharma" name="Comptesbancaires" table="comptesbancaires">
-    <id name="idCompte" type="java.lang.Integer">
-      <column name="idCompte"/>
-      <generator class="identity"/>
-    </id>
-    <property name="codeBanque" type="string">
-      <column length="254" name="codeBanque"/>
-    </property>
-    <property name="codeGuichet" type="string">
-      <column length="254" name="codeGuichet"/>
-    </property>
-    <property name="numeroCompte" type="string">
-      <column length="254" name="numeroCompte"/>
-    </property>
-    <property name="rib" type="string">
-      <column length="254" name="rib"/>
-    </property>
-    <property name="iban" type="string">
-      <column length="254" name="iban"/>
-    </property>
-    <property name="bicAdresseSwift" type="string">
-      <column length="254" name="bicAdresseSwift"/>
-    </property>
-  </class>
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 15 juin 2011 16:02:57 by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping package="corepharma.domain">
+    <class name="Comptesbancaires" table="comptesbancaires" catalog="corepharma">
+        <id name="idCompte" type="java.lang.Integer">
+            <column name="idCompte" />
+            <generator class="identity" />
+        </id>
+        <property name="codeBanque" type="string">
+            <column name="codeBanque" length="254" />
+        </property>
+        <property name="codeGuichet" type="string">
+            <column name="codeGuichet" length="254" />
+        </property>
+        <property name="numeroCompte" type="string">
+            <column name="numeroCompte" length="254" />
+        </property>
+        <property name="rib" type="string">
+            <column name="rib" length="254" />
+        </property>
+        <property name="iban" type="string">
+            <column name="iban" length="254" />
+        </property>
+        <property name="bicAdresseSwift" type="string">
+            <column name="bicAdresseSwift" length="254" />
+        </property>
+    </class>
 </hibernate-mapping>

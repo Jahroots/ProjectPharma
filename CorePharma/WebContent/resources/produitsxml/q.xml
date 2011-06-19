@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<root>
+<row idProduit="8085">
+<idAlarme>5929</idAlarme>
+<nomProduit>QLAIRA cp pellic</nomProduit>
+<codeProduit>878e49</codeProduit>
+<prixProduit>1143.0</prixProduit>
+<quantiteActuel>2965</quantiteActuel>
+<quantiteAlarme>261</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-07-24</dateModification>
+<auteurCreation>Franco</auteurCreation>
+<auteurModification>Cora
+</auteurModification>
+</row>
+<row idProduit="8086">
+<idAlarme>5633</idAlarme>
+<nomProduit>QUADRAMET sol inj IV</nomProduit>
+<codeProduit>ed9463</codeProduit>
+<prixProduit>983.0</prixProduit>
+<quantiteActuel>2826</quantiteActuel>
+<quantiteAlarme>164</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-07-17</dateModification>
+<auteurCreation>Herring</auteurCreation>
+<auteurModification>Tamara
+</auteurModification>
+</row>
+<row idProduit="8087">
+<idAlarme>4866</idAlarme>
+<nomProduit>QUADRASA 2g pdre p sol rect</nomProduit>
+<codeProduit>62ae86</codeProduit>
+<prixProduit>153.0</prixProduit>
+<quantiteActuel>2367</quantiteActuel>
+<quantiteAlarme>463</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-10-04</dateModification>
+<auteurCreation>Ellis</auteurCreation>
+<auteurModification>Regan
+</auteurModification>
+</row>
+<row idProduit="8088">
+<idAlarme>8913</idAlarme>
+<nomProduit>QUESTRAN 4 g pdre oral</nomProduit>
+<codeProduit>7f1b58</codeProduit>
+<prixProduit>1378.0</prixProduit>
+<quantiteActuel>2703</quantiteActuel>
+<quantiteAlarme>117</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Sosa</auteurCreation>
+<auteurModification>Kyla
+</auteurModification>
+</row>
+<row idProduit="8089">
+<idAlarme>10417</idAlarme>
+<nomProduit>QUIETILINE cp quadrisec</nomProduit>
+<codeProduit>fa9d98</codeProduit>
+<prixProduit>1014.0</prixProduit>
+<quantiteActuel>2158</quantiteActuel>
+<quantiteAlarme>482</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-11</dateCreation>
+<dateModification>2010-07-20</dateModification>
+<auteurCreation>Nelson</auteurCreation>
+<auteurModification>Macaulay
+</auteurModification>
+</row>
+<row idProduit="8090">
+<idAlarme>7281</idAlarme>
+<nomProduit>QUIETUDE sirop</nomProduit>
+<codeProduit>6341df</codeProduit>
+<prixProduit>781.0</prixProduit>
+<quantiteActuel>2421</quantiteActuel>
+<quantiteAlarme>372</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-05</dateCreation>
+<dateModification>2010-08-21</dateModification>
+<auteurCreation>Ochoa</auteurCreation>
+<auteurModification>Connor
+</auteurModification>
+</row>
+<row idProduit="8091">
+<idAlarme>437</idAlarme>
+<nomProduit>QUINAPRIL ARROW 20mg cp pellic sec</nomProduit>
+<codeProduit>6413ef</codeProduit>
+<prixProduit>883.0</prixProduit>
+<quantiteActuel>1515</quantiteActuel>
+<quantiteAlarme>335</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Mayo</auteurCreation>
+<auteurModification>Morgan
+</auteurModification>
+</row>
+<row idProduit="8092">
+<idAlarme>4489</idAlarme>
+<nomProduit>QUINAPRIL ARROW 5mg cp pellic sec</nomProduit>
+<codeProduit>eb2f0a</codeProduit>
+<prixProduit>904.0</prixProduit>
+<quantiteActuel>1857</quantiteActuel>
+<quantiteAlarme>314</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Rutledge</auteurCreation>
+<auteurModification>Kasimir
+</auteurModification>
+</row>
+<row idProduit="8093">
+<idAlarme>3916</idAlarme>
+<nomProduit>QUINAPRIL BIOGARAN 20mg cp pellic sec</nomProduit>
+<codeProduit>5c537e</codeProduit>
+<prixProduit>537.0</prixProduit>
+<quantiteActuel>2418</quantiteActuel>
+<quantiteAlarme>158</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Wilkerson</auteurCreation>
+<auteurModification>Meghan
+</auteurModification>
+</row>
+<row idProduit="8094">
+<idAlarme>3960</idAlarme>
+<nomProduit>QUINAPRIL MYLAN 20 mg cp pellic sec</nomProduit>
+<codeProduit>888301</codeProduit>
+<prixProduit>1017.0</prixProduit>
+<quantiteActuel>2199</quantiteActuel>
+<quantiteAlarme>244</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-22</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Bird</auteurCreation>
+<auteurModification>Solomon
+</auteurModification>
+</row>
+<row idProduit="8095">
+<idAlarme>3328</idAlarme>
+<nomProduit>QUINAPRIL TEVA 10mg cp pellic</nomProduit>
+<codeProduit>c6a97a</codeProduit>
+<prixProduit>1162.0</prixProduit>
+<quantiteActuel>2116</quantiteActuel>
+<quantiteAlarme>118</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-08-13</dateModification>
+<auteurCreation>Kline</auteurCreation>
+<auteurModification>Gisela
+</auteurModification>
+</row>
+<row idProduit="8096">
+<idAlarme>6148</idAlarme>
+<nomProduit>QUINAPRIL TEVA 20mg cp pellic</nomProduit>
+<codeProduit>f110f2</codeProduit>
+<prixProduit>1048.0</prixProduit>
+<quantiteActuel>1645</quantiteActuel>
+<quantiteAlarme>215</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-08-13</dateModification>
+<auteurCreation>Davidson</auteurCreation>
+<auteurModification>Roth
+</auteurModification>
+</row>
+<row idProduit="8097">
+<idAlarme>5889</idAlarme>
+<nomProduit>QUINAPRIL TEVA 5mg cp pellic sec</nomProduit>
+<codeProduit>d256cd</codeProduit>
+<prixProduit>463.0</prixProduit>
+<quantiteActuel>2712</quantiteActuel>
+<quantiteAlarme>428</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-07-14</dateModification>
+<auteurCreation>Blankenship</auteurCreation>
+<auteurModification>Callum
+</auteurModification>
+</row>
+<row idProduit="8098">
+<idAlarme>5897</idAlarme>
+<nomProduit>QUINAPRIL WINTHROP 20mg cp pellic sec</nomProduit>
+<codeProduit>1b8fe1</codeProduit>
+<prixProduit>1014.0</prixProduit>
+<quantiteActuel>2916</quantiteActuel>
+<quantiteAlarme>463</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Everett</auteurCreation>
+<auteurModification>Yael
+</auteurModification>
+</row>
+<row idProduit="8099">
+<idAlarme>9249</idAlarme>
+<nomProduit>QUINAPRIL/HYDROCHLOROTHIAZIDE ACTAVIS 20 mg/12,5 mg cp pellic sec</nomProduit>
+<codeProduit>7ba936</codeProduit>
+<prixProduit>422.0</prixProduit>
+<quantiteActuel>2998</quantiteActuel>
+<quantiteAlarme>127</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-10-01</dateModification>
+<auteurCreation>Cortez</auteurCreation>
+<auteurModification>Kato
+</auteurModification>
+</row>
+<row idProduit="8100">
+<idAlarme>363</idAlarme>
+<nomProduit>QUINAPRIL/HYDROCHLOROTHIAZIDE EG 20 mg/12,5 mg cp pellic sec</nomProduit>
+<codeProduit>5f6a53</codeProduit>
+<prixProduit>897.0</prixProduit>
+<quantiteActuel>1699</quantiteActuel>
+<quantiteAlarme>234</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-07-31</dateModification>
+<auteurCreation>Castillo</auteurCreation>
+<auteurModification>Lacey
+</auteurModification>
+</row>
+<row idProduit="8101">
+<idAlarme>9408</idAlarme>
+<nomProduit>QUINAPRIL/HYDROCHLOROTHIAZIDE MYLAN 20 mg/12,5 mg cp pellic sec</nomProduit>
+<codeProduit>cd6d55</codeProduit>
+<prixProduit>170.0</prixProduit>
+<quantiteActuel>1635</quantiteActuel>
+<quantiteAlarme>406</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-08-16</dateModification>
+<auteurCreation>Lee</auteurCreation>
+<auteurModification>Daryl
+</auteurModification>
+</row>
+<row idProduit="8102">
+<idAlarme>7483</idAlarme>
+<nomProduit>QUINAPRIL/HYDROCHLOROTHIAZIDE WINTHROP 20 mg/12,5 mg cp pellic sec</nomProduit>
+<codeProduit>7804e0</codeProduit>
+<prixProduit>900.0</prixProduit>
+<quantiteActuel>1610</quantiteActuel>
+<quantiteAlarme>473</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-09-29</dateModification>
+<auteurCreation>Floyd</auteurCreation>
+<auteurModification>Alfonso
+</auteurModification>
+</row>
+<row idProduit="8103">
+<idAlarme>8634</idAlarme>
+<nomProduit>QUINAPRIL/HYDROCHLOROTHIAZIDE WYVERN MEDICAL 20mg/12,5mg cp pellic sec</nomProduit>
+<codeProduit>514e1a</codeProduit>
+<prixProduit>1120.0</prixProduit>
+<quantiteActuel>2843</quantiteActuel>
+<quantiteAlarme>472</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Parrish</auteurCreation>
+<auteurModification>Salvador
+</auteurModification>
+</row>
+<row idProduit="8104">
+<idAlarme>0</idAlarme>
+<nomProduit>QUINIMAX 125 mg cp pellic sec</nomProduit>
+<codeProduit>231935</codeProduit>
+<prixProduit>947.0</prixProduit>
+<quantiteActuel>2114</quantiteActuel>
+<quantiteAlarme>457</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-09-25</dateModification>
+<auteurCreation>Ware</auteurCreation>
+<auteurModification>Castor
+</auteurModification>
+</row>
+<row idProduit="8105">
+<idAlarme>2268</idAlarme>
+<nomProduit>QUINIMAX 125mg/1ml sol inj</nomProduit>
+<codeProduit>f16923</codeProduit>
+<prixProduit>299.0</prixProduit>
+<quantiteActuel>1583</quantiteActuel>
+<quantiteAlarme>387</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-09-06</dateModification>
+<auteurCreation>Green</auteurCreation>
+<auteurModification>Driscoll
+</auteurModification>
+</row>
+<row idProduit="8106">
+<idAlarme>8389</idAlarme>
+<nomProduit>QUINIMAX 250mg/2ml sol inj</nomProduit>
+<codeProduit>611197</codeProduit>
+<prixProduit>522.0</prixProduit>
+<quantiteActuel>1957</quantiteActuel>
+<quantiteAlarme>468</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Holmes</auteurCreation>
+<auteurModification>Sybill
+</auteurModification>
+</row>
+<row idProduit="8107">
+<idAlarme>7752</idAlarme>
+<nomProduit>QUINIMAX 500 mg cp pellic sec</nomProduit>
+<codeProduit>d1d822</codeProduit>
+<prixProduit>821.0</prixProduit>
+<quantiteActuel>1735</quantiteActuel>
+<quantiteAlarme>500</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-10-01</dateModification>
+<auteurCreation>Murphy</auteurCreation>
+<auteurModification>Darrel
+</auteurModification>
+</row>
+<row idProduit="8108">
+<idAlarme>2092</idAlarme>
+<nomProduit>QUINIMAX 500mg/4ml sol inj</nomProduit>
+<codeProduit>ee250f</codeProduit>
+<prixProduit>445.0</prixProduit>
+<quantiteActuel>1612</quantiteActuel>
+<quantiteAlarme>483</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-11</dateCreation>
+<dateModification>2010-07-06</dateModification>
+<auteurCreation>Lester</auteurCreation>
+<auteurModification>Jerry
+</auteurModification>
+</row>
+<row idProduit="8109">
+<idAlarme>9210</idAlarme>
+<nomProduit>QUININE CHLORHYDRATE LAFRAN 224,75mg cp</nomProduit>
+<codeProduit>72f32c</codeProduit>
+<prixProduit>1281.0</prixProduit>
+<quantiteActuel>1579</quantiteActuel>
+<quantiteAlarme>359</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-09-21</dateModification>
+<auteurCreation>Norris</auteurCreation>
+<auteurModification>Harding
+</auteurModification>
+</row>
+<row idProduit="8110">
+<idAlarme>3006</idAlarme>
+<nomProduit>QUININE CHLORHYDRATE LAFRAN 449,50mg cp</nomProduit>
+<codeProduit>381137</codeProduit>
+<prixProduit>1264.0</prixProduit>
+<quantiteActuel>2186</quantiteActuel>
+<quantiteAlarme>134</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Miles</auteurCreation>
+<auteurModification>Julie
+</auteurModification>
+</row>
+<row idProduit="8111">
+<idAlarme>7591</idAlarme>
+<nomProduit>QUININE SULFATE LAFRAN 217,2 mg cp</nomProduit>
+<codeProduit>3da14e</codeProduit>
+<prixProduit>1276.0</prixProduit>
+<quantiteActuel>2078</quantiteActuel>
+<quantiteAlarme>450</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-07-23</dateModification>
+<auteurCreation>Barrera</auteurCreation>
+<auteurModification>Courtney
+</auteurModification>
+</row>
+<row idProduit="8112">
+<idAlarme>8947</idAlarme>
+<nomProduit>QUININE SULFATE LAFRAN 434,4 mg cp</nomProduit>
+<codeProduit>37dd60</codeProduit>
+<prixProduit>835.0</prixProduit>
+<quantiteActuel>2757</quantiteActuel>
+<quantiteAlarme>360</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-09-18</dateModification>
+<auteurCreation>Allen</auteurCreation>
+<auteurModification>Freya
+</auteurModification>
+</row>
+<row idProduit="8113">
+<idAlarme>7471</idAlarme>
+<nomProduit>QUININE VITAMINE C GRAND cp enr</nomProduit>
+<codeProduit>c9fbec</codeProduit>
+<prixProduit>610.0</prixProduit>
+<quantiteActuel>2826</quantiteActuel>
+<quantiteAlarme>492</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-26</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Bennett</auteurCreation>
+<auteurModification>Idola
+</auteurModification>
+</row>
+<row idProduit="8114">
+<idAlarme>1562</idAlarme>
+<nomProduit>QUINTONINE sirop</nomProduit>
+<codeProduit>e07de7</codeProduit>
+<prixProduit>397.0</prixProduit>
+<quantiteActuel>2746</quantiteActuel>
+<quantiteAlarme>490</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-08-17</dateModification>
+<auteurCreation>Wade</auteurCreation>
+<auteurModification>Chaney
+</auteurModification>
+</row>
+<row idProduit="8115">
+<idAlarme>3862</idAlarme>
+<nomProduit>QUITAXON 10 mg cp pellic sec</nomProduit>
+<codeProduit>b63d71</codeProduit>
+<prixProduit>845.0</prixProduit>
+<quantiteActuel>2027</quantiteActuel>
+<quantiteAlarme>299</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-07-31</dateModification>
+<auteurCreation>Woodard</auteurCreation>
+<auteurModification>Joseph
+</auteurModification>
+</row>
+<row idProduit="8116">
+<idAlarme>7038</idAlarme>
+<nomProduit>QUITAXON 10mg/ml sol buv</nomProduit>
+<codeProduit>8361bc</codeProduit>
+<prixProduit>1277.0</prixProduit>
+<quantiteActuel>2956</quantiteActuel>
+<quantiteAlarme>124</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-07-10</dateModification>
+<auteurCreation>Ferrell</auteurCreation>
+<auteurModification>Isabella
+</auteurModification>
+</row>
+<row idProduit="8117">
+<idAlarme>681</idAlarme>
+<nomProduit>QUITAXON 25mg/2ml sol inj</nomProduit>
+<codeProduit>cfef4c</codeProduit>
+<prixProduit>1196.0</prixProduit>
+<quantiteActuel>2687</quantiteActuel>
+<quantiteAlarme>157</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-07-11</dateModification>
+<auteurCreation>Hopkins</auteurCreation>
+<auteurModification>Keaton
+</auteurModification>
+</row>
+<row idProduit="8118">
+<idAlarme>9004</idAlarme>
+<nomProduit>QUITAXON 50mg cp pellic sec</nomProduit>
+<codeProduit>f4ef74</codeProduit>
+<prixProduit>185.0</prixProduit>
+<quantiteActuel>1945</quantiteActuel>
+<quantiteAlarme>465</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Sears</auteurCreation>
+<auteurModification>Brittany
+</auteurModification>
+</row>
+<row idProduit="8119">
+<idAlarme>8114</idAlarme>
+<nomProduit>QUOTANE 0,5 % creme</nomProduit>
+<codeProduit>5c57c5</codeProduit>
+<prixProduit>524.0</prixProduit>
+<quantiteActuel>2536</quantiteActuel>
+<quantiteAlarme>212</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Horn</auteurCreation>
+<auteurModification>Jordan
+</auteurModification>
+</row>
+<row idProduit="8120">
+<idAlarme>9233</idAlarme>
+<nomProduit>QUTENZA 179 mg patch cutane</nomProduit>
+<codeProduit>e8812d</codeProduit>
+<prixProduit>287.0</prixProduit>
+<quantiteActuel>1668</quantiteActuel>
+<quantiteAlarme>107</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-07-24</dateModification>
+<auteurCreation>Mullins</auteurCreation>
+<auteurModification>Alma
+</auteurModification>
+</row>
+<row idProduit="8121">
+<idAlarme>8304</idAlarme>
+<nomProduit>QVAR AUTOHALER 100 ug/dose sol p inhal en fl press</nomProduit>
+<codeProduit>cb08d3</codeProduit>
+<prixProduit>917.0</prixProduit>
+<quantiteActuel>2873</quantiteActuel>
+<quantiteAlarme>441</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-08-04</dateModification>
+<auteurCreation>Kramer</auteurCreation>
+<auteurModification>Barry
+</auteurModification>
+</row>
+<row idProduit="8122">
+<idAlarme>3889</idAlarme>
+<nomProduit>QVAR AUTOHALER 100ug sol p inhal en fl press</nomProduit>
+<codeProduit>85f086</codeProduit>
+<prixProduit>989.0</prixProduit>
+<quantiteActuel>2349</quantiteActuel>
+<quantiteAlarme>118</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-07-13</dateModification>
+<auteurCreation>Holden</auteurCreation>
+<auteurModification>Mariam
+</auteurModification>
+</row>
+<row idProduit="8123">
+<idAlarme>5499</idAlarme>
+<nomProduit>QVARSPRAY 100 ug/dose sol p inhal</nomProduit>
+<codeProduit>692376</codeProduit>
+<prixProduit>506.0</prixProduit>
+<quantiteActuel>2889</quantiteActuel>
+<quantiteAlarme>277</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Nixon</auteurCreation>
+<auteurModification>Signe
+</auteurModification>
+</row>
+</root>

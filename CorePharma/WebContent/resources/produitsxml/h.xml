@@ -1,0 +1,2579 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<root>
+<row idProduit="4671">
+<idAlarme>1255</idAlarme>
+<nomProduit>HAEMOPRESSIN 1 mg pdre/solv p sol inj</nomProduit>
+<codeProduit>c8dcd5</codeProduit>
+<prixProduit>1057.0</prixProduit>
+<quantiteActuel>1643</quantiteActuel>
+<quantiteAlarme>207</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-06-26</dateModification>
+<auteurCreation>Vinson</auteurCreation>
+<auteurModification>Scarlet
+</auteurModification>
+</row>
+<row idProduit="4672">
+<idAlarme>7251</idAlarme>
+<nomProduit>HALDOL 1 mg cp</nomProduit>
+<codeProduit>55fb1b</codeProduit>
+<prixProduit>154.0</prixProduit>
+<quantiteActuel>1665</quantiteActuel>
+<quantiteAlarme>498</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Bass</auteurCreation>
+<auteurModification>Jessamine
+</auteurModification>
+</row>
+<row idProduit="4673">
+<idAlarme>4724</idAlarme>
+<nomProduit>HALDOL 2 mg/ml sol buv</nomProduit>
+<codeProduit>13d6a4</codeProduit>
+<prixProduit>935.0</prixProduit>
+<quantiteActuel>2767</quantiteActuel>
+<quantiteAlarme>302</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Walsh</auteurCreation>
+<auteurModification>Gabriel
+</auteurModification>
+</row>
+<row idProduit="4674">
+<idAlarme>319</idAlarme>
+<nomProduit>HALDOL 5 mg cp</nomProduit>
+<codeProduit>d89d61</codeProduit>
+<prixProduit>509.0</prixProduit>
+<quantiteActuel>2135</quantiteActuel>
+<quantiteAlarme>238</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-10-06</dateModification>
+<auteurCreation>Dale</auteurCreation>
+<auteurModification>Emi
+</auteurModification>
+</row>
+<row idProduit="4675">
+<idAlarme>8332</idAlarme>
+<nomProduit>HALDOL 5mg/ml sol inj</nomProduit>
+<codeProduit>ec999b</codeProduit>
+<prixProduit>159.0</prixProduit>
+<quantiteActuel>2710</quantiteActuel>
+<quantiteAlarme>448</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-07-16</dateModification>
+<auteurCreation>Talley</auteurCreation>
+<auteurModification>Todd
+</auteurModification>
+</row>
+<row idProduit="4676">
+<idAlarme>641</idAlarme>
+<nomProduit>HALDOL DECANOAS sol inj</nomProduit>
+<codeProduit>9c76cb</codeProduit>
+<prixProduit>415.0</prixProduit>
+<quantiteActuel>2567</quantiteActuel>
+<quantiteAlarme>491</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Mullen</auteurCreation>
+<auteurModification>Oleg
+</auteurModification>
+</row>
+<row idProduit="4677">
+<idAlarme>2800</idAlarme>
+<nomProduit>HALFAN 100 mg/5 ml susp buv</nomProduit>
+<codeProduit>59a189</codeProduit>
+<prixProduit>641.0</prixProduit>
+<quantiteActuel>2080</quantiteActuel>
+<quantiteAlarme>161</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-07-28</dateModification>
+<auteurCreation>Slater</auteurCreation>
+<auteurModification>Urielle
+</auteurModification>
+</row>
+<row idProduit="4678">
+<idAlarme>10318</idAlarme>
+<nomProduit>HALFAN 250 mg cp sec</nomProduit>
+<codeProduit>6242ae</codeProduit>
+<prixProduit>687.0</prixProduit>
+<quantiteActuel>2001</quantiteActuel>
+<quantiteAlarme>368</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-07-05</dateModification>
+<auteurCreation>Anderson</auteurCreation>
+<auteurModification>Guinevere
+</auteurModification>
+</row>
+<row idProduit="4679">
+<idAlarme>6232</idAlarme>
+<nomProduit>HALOPERIDOL RENAUDIN 0,05 % sol buv en goutte</nomProduit>
+<codeProduit>469ad6</codeProduit>
+<prixProduit>440.0</prixProduit>
+<quantiteActuel>1587</quantiteActuel>
+<quantiteAlarme>271</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-07-06</dateModification>
+<auteurCreation>Taylor</auteurCreation>
+<auteurModification>Fritz
+</auteurModification>
+</row>
+<row idProduit="4680">
+<idAlarme>7372</idAlarme>
+<nomProduit>HALOTHANE BELAMONT liq p inhal p vapeur</nomProduit>
+<codeProduit>e7b961</codeProduit>
+<prixProduit>1391.0</prixProduit>
+<quantiteActuel>2509</quantiteActuel>
+<quantiteAlarme>271</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-10-05</dateModification>
+<auteurCreation>Mason</auteurCreation>
+<auteurModification>Catherine
+</auteurModification>
+</row>
+<row idProduit="4681">
+<idAlarme>8690</idAlarme>
+<nomProduit>HAMAMELIS COMPOSE BOIRON cp</nomProduit>
+<codeProduit>01b3f0</codeProduit>
+<prixProduit>777.0</prixProduit>
+<quantiteActuel>2844</quantiteActuel>
+<quantiteAlarme>252</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Mason</auteurCreation>
+<auteurModification>Burke
+</auteurModification>
+</row>
+<row idProduit="4682">
+<idAlarme>6441</idAlarme>
+<nomProduit>HAMAMELIS COMPOSE BOIRON gle</nomProduit>
+<codeProduit>81c296</codeProduit>
+<prixProduit>1101.0</prixProduit>
+<quantiteActuel>2708</quantiteActuel>
+<quantiteAlarme>329</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-09-23</dateModification>
+<auteurCreation>Rollins</auteurCreation>
+<auteurModification>Conan
+</auteurModification>
+</row>
+<row idProduit="4683">
+<idAlarme>1226</idAlarme>
+<nomProduit>HAMAMELIS COMPOSE BOIRON sol buv</nomProduit>
+<codeProduit>9a2893</codeProduit>
+<prixProduit>468.0</prixProduit>
+<quantiteActuel>2260</quantiteActuel>
+<quantiteAlarme>293</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-07-14</dateModification>
+<auteurCreation>Dorsey</auteurCreation>
+<auteurModification>Maite
+</auteurModification>
+</row>
+<row idProduit="4684">
+<idAlarme>3360</idAlarme>
+<nomProduit>HARMONE T cp enr</nomProduit>
+<codeProduit>b7be97</codeProduit>
+<prixProduit>757.0</prixProduit>
+<quantiteActuel>1695</quantiteActuel>
+<quantiteAlarme>255</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-07-26</dateModification>
+<auteurCreation>Jacobs</auteurCreation>
+<auteurModification>Vincent
+</auteurModification>
+</row>
+<row idProduit="4685">
+<idAlarme>4911</idAlarme>
+<nomProduit>HARMONET cp enr</nomProduit>
+<codeProduit>b5ac9f</codeProduit>
+<prixProduit>697.0</prixProduit>
+<quantiteActuel>2344</quantiteActuel>
+<quantiteAlarme>331</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-06-17</dateModification>
+<auteurCreation>Hill</auteurCreation>
+<auteurModification>Kameko
+</auteurModification>
+</row>
+<row idProduit="4686">
+<idAlarme>4192</idAlarme>
+<nomProduit>HARPADOL ARKOGELULES gel</nomProduit>
+<codeProduit>f584ff</codeProduit>
+<prixProduit>1452.0</prixProduit>
+<quantiteActuel>2312</quantiteActuel>
+<quantiteAlarme>288</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Sims</auteurCreation>
+<auteurModification>Aaron
+</auteurModification>
+</row>
+<row idProduit="4687">
+<idAlarme>4859</idAlarme>
+<nomProduit>HAVLANE 1 mg cp sec</nomProduit>
+<codeProduit>49a94f</codeProduit>
+<prixProduit>566.0</prixProduit>
+<quantiteActuel>1627</quantiteActuel>
+<quantiteAlarme>364</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-07-18</dateModification>
+<auteurCreation>Richardson</auteurCreation>
+<auteurModification>Scott
+</auteurModification>
+</row>
+<row idProduit="4688">
+<idAlarme>1472</idAlarme>
+<nomProduit>HAVRIX 1 440 U Elisa/ml susp inj IM ad en ser</nomProduit>
+<codeProduit>7a6438</codeProduit>
+<prixProduit>892.0</prixProduit>
+<quantiteActuel>2421</quantiteActuel>
+<quantiteAlarme>161</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-09-27</dateModification>
+<auteurCreation>Velez</auteurCreation>
+<auteurModification>Jarrod
+</auteurModification>
+</row>
+<row idProduit="4689">
+<idAlarme>368</idAlarme>
+<nomProduit>HAVRIX 720 U Elisa/0,5 ml susp inj IM enf/nour en ser</nomProduit>
+<codeProduit>9bef3a</codeProduit>
+<prixProduit>218.0</prixProduit>
+<quantiteActuel>2694</quantiteActuel>
+<quantiteAlarme>240</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-09-29</dateModification>
+<auteurCreation>Gardner</auteurCreation>
+<auteurModification>Nero
+</auteurModification>
+</row>
+<row idProduit="4690">
+<idAlarme>3242</idAlarme>
+<nomProduit>HAXIFAL 500mg cp efferv</nomProduit>
+<codeProduit>750dc1</codeProduit>
+<prixProduit>280.0</prixProduit>
+<quantiteActuel>1628</quantiteActuel>
+<quantiteAlarme>397</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-08-25</dateModification>
+<auteurCreation>Turner</auteurCreation>
+<auteurModification>Buckminster
+</auteurModification>
+</row>
+<row idProduit="4691">
+<idAlarme>2285</idAlarme>
+<nomProduit>HBVAXPRO 10ug/ml susp inj</nomProduit>
+<codeProduit>0d5a7b</codeProduit>
+<prixProduit>371.0</prixProduit>
+<quantiteActuel>2746</quantiteActuel>
+<quantiteAlarme>302</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-09-25</dateModification>
+<auteurCreation>Ashley</auteurCreation>
+<auteurModification>Cameron
+</auteurModification>
+</row>
+<row idProduit="4692">
+<idAlarme>9296</idAlarme>
+<nomProduit>HBVAXPRO 40ug/ml susp inj patients predialyses et dialyses</nomProduit>
+<codeProduit>c8174e</codeProduit>
+<prixProduit>634.0</prixProduit>
+<quantiteActuel>2614</quantiteActuel>
+<quantiteAlarme>214</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-09-24</dateModification>
+<auteurCreation>Horton</auteurCreation>
+<auteurModification>Graham
+</auteurModification>
+</row>
+<row idProduit="4693">
+<idAlarme>9248</idAlarme>
+<nomProduit>HBVAXPRO 5ug/0,5ml susp inj</nomProduit>
+<codeProduit>75d0fb</codeProduit>
+<prixProduit>166.0</prixProduit>
+<quantiteActuel>1936</quantiteActuel>
+<quantiteAlarme>496</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-07-02</dateModification>
+<auteurCreation>Flowers</auteurCreation>
+<auteurModification>Caesar
+</auteurModification>
+</row>
+<row idProduit="4694">
+<idAlarme>8540</idAlarme>
+<nomProduit>HEAFUSINE 10% sol p perf</nomProduit>
+<codeProduit>a1ddcb</codeProduit>
+<prixProduit>256.0</prixProduit>
+<quantiteActuel>2608</quantiteActuel>
+<quantiteAlarme>238</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Valencia</auteurCreation>
+<auteurModification>Clinton
+</auteurModification>
+</row>
+<row idProduit="4695">
+<idAlarme>5052</idAlarme>
+<nomProduit>HEAFUSINE 6% sol p perf</nomProduit>
+<codeProduit>33993f</codeProduit>
+<prixProduit>256.0</prixProduit>
+<quantiteActuel>1868</quantiteActuel>
+<quantiteAlarme>246</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Graves</auteurCreation>
+<auteurModification>Hayden
+</auteurModification>
+</row>
+<row idProduit="4696">
+<idAlarme>8026</idAlarme>
+<nomProduit>HEC pom p appl cut/nasal</nomProduit>
+<codeProduit>bee316</codeProduit>
+<prixProduit>1166.0</prixProduit>
+<quantiteActuel>1962</quantiteActuel>
+<quantiteAlarme>486</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Wilkins</auteurCreation>
+<auteurModification>Amy
+</auteurModification>
+</row>
+<row idProduit="4697">
+<idAlarme>8788</idAlarme>
+<nomProduit>HEGOR ANTIPOUX shampooing</nomProduit>
+<codeProduit>ca7770</codeProduit>
+<prixProduit>591.0</prixProduit>
+<quantiteActuel>2216</quantiteActuel>
+<quantiteAlarme>384</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-08-14</dateModification>
+<auteurCreation>Moon</auteurCreation>
+<auteurModification>Abigail
+</auteurModification>
+</row>
+<row idProduit="4698">
+<idAlarme>9199</idAlarme>
+<nomProduit>HELICIDINE 10 % sirop</nomProduit>
+<codeProduit>a31188</codeProduit>
+<prixProduit>970.0</prixProduit>
+<quantiteActuel>2898</quantiteActuel>
+<quantiteAlarme>403</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-07-27</dateModification>
+<auteurCreation>Osborn</auteurCreation>
+<auteurModification>Byron
+</auteurModification>
+</row>
+<row idProduit="4699">
+<idAlarme>8870</idAlarme>
+<nomProduit>HELICOBACTER TEST INFAI 45mg pdre p sol buv</nomProduit>
+<codeProduit>686efa</codeProduit>
+<prixProduit>589.0</prixProduit>
+<quantiteActuel>2830</quantiteActuel>
+<quantiteAlarme>228</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-08-11</dateModification>
+<auteurCreation>Hill</auteurCreation>
+<auteurModification>Mohammad
+</auteurModification>
+</row>
+<row idProduit="4700">
+<idAlarme>5252</idAlarme>
+<nomProduit>HELICOBACTER TEST INFAI 75mg pdre p sol buv avec sac</nomProduit>
+<codeProduit>078718</codeProduit>
+<prixProduit>360.0</prixProduit>
+<quantiteActuel>2548</quantiteActuel>
+<quantiteAlarme>394</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-09-26</dateModification>
+<auteurCreation>Oconnor</auteurCreation>
+<auteurModification>Yen
+</auteurModification>
+</row>
+<row idProduit="4701">
+<idAlarme>2617</idAlarme>
+<nomProduit>HELICOBACTER TEST INFAI 75mg pdre p sol buv avec tube</nomProduit>
+<codeProduit>e3dd09</codeProduit>
+<prixProduit>821.0</prixProduit>
+<quantiteActuel>2349</quantiteActuel>
+<quantiteAlarme>249</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-09-28</dateModification>
+<auteurCreation>Solomon</auteurCreation>
+<auteurModification>Stacey
+</auteurModification>
+</row>
+<row idProduit="4702">
+<idAlarme>10166</idAlarme>
+<nomProduit>HELIKIT 75 mg pdre p sol buv</nomProduit>
+<codeProduit>a9397d</codeProduit>
+<prixProduit>599.0</prixProduit>
+<quantiteActuel>2765</quantiteActuel>
+<quantiteAlarme>195</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Buck</auteurCreation>
+<auteurModification>Mona
+</auteurModification>
+</row>
+<row idProduit="4703">
+<idAlarme>4173</idAlarme>
+<nomProduit>HELIXATE NEXGEN 1000UI pdre/solv p sol inj</nomProduit>
+<codeProduit>cbd804</codeProduit>
+<prixProduit>1111.0</prixProduit>
+<quantiteActuel>2701</quantiteActuel>
+<quantiteAlarme>210</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-18</dateCreation>
+<dateModification>2010-08-11</dateModification>
+<auteurCreation>Decker</auteurCreation>
+<auteurModification>Bertha
+</auteurModification>
+</row>
+<row idProduit="4704">
+<idAlarme>3281</idAlarme>
+<nomProduit>HELIXATE NEXGEN 2000UI pdre/solv p sol inj</nomProduit>
+<codeProduit>7fccf7</codeProduit>
+<prixProduit>386.0</prixProduit>
+<quantiteActuel>2628</quantiteActuel>
+<quantiteAlarme>438</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-09-23</dateModification>
+<auteurCreation>Vincent</auteurCreation>
+<auteurModification>Samuel
+</auteurModification>
+</row>
+<row idProduit="4705">
+<idAlarme>10198</idAlarme>
+<nomProduit>HELIXATE NEXGEN 250UI pdre/solv p sol inj</nomProduit>
+<codeProduit>955565</codeProduit>
+<prixProduit>186.0</prixProduit>
+<quantiteActuel>1600</quantiteActuel>
+<quantiteAlarme>452</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-09-04</dateModification>
+<auteurCreation>Guy</auteurCreation>
+<auteurModification>Palmer
+</auteurModification>
+</row>
+<row idProduit="4706">
+<idAlarme>557</idAlarme>
+<nomProduit>HELIXATE NEXGEN 500UI pdre/solv p sol inj</nomProduit>
+<codeProduit>2bbd7e</codeProduit>
+<prixProduit>350.0</prixProduit>
+<quantiteActuel>2148</quantiteActuel>
+<quantiteAlarme>470</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-08-20</dateModification>
+<auteurCreation>Rosales</auteurCreation>
+<auteurModification>Rafael
+</auteurModification>
+</row>
+<row idProduit="4707">
+<idAlarme>7785</idAlarme>
+<nomProduit>HELMINTOX 125mg cp pellic sec</nomProduit>
+<codeProduit>503ad6</codeProduit>
+<prixProduit>476.0</prixProduit>
+<quantiteActuel>2093</quantiteActuel>
+<quantiteAlarme>116</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-07-26</dateModification>
+<auteurCreation>Nicholson</auteurCreation>
+<auteurModification>Melissa
+</auteurModification>
+</row>
+<row idProduit="4708">
+<idAlarme>9703</idAlarme>
+<nomProduit>HELMINTOX 125mg/2,5ml susp buv</nomProduit>
+<codeProduit>bfc293</codeProduit>
+<prixProduit>787.0</prixProduit>
+<quantiteActuel>2379</quantiteActuel>
+<quantiteAlarme>147</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-08-04</dateModification>
+<auteurCreation>Fleming</auteurCreation>
+<auteurModification>Mufutau
+</auteurModification>
+</row>
+<row idProduit="4709">
+<idAlarme>3491</idAlarme>
+<nomProduit>HELMINTOX 250 mg cp pellic sec</nomProduit>
+<codeProduit>8780d6</codeProduit>
+<prixProduit>872.0</prixProduit>
+<quantiteActuel>2745</quantiteActuel>
+<quantiteAlarme>233</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Gonzalez</auteurCreation>
+<auteurModification>Geoffrey
+</auteurModification>
+</row>
+<row idProduit="4710">
+<idAlarme>6432</idAlarme>
+<nomProduit>HELONIAS COMPOSE BOIRON cp</nomProduit>
+<codeProduit>f15ba1</codeProduit>
+<prixProduit>1088.0</prixProduit>
+<quantiteActuel>2133</quantiteActuel>
+<quantiteAlarme>317</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-06-30</dateModification>
+<auteurCreation>Pennington</auteurCreation>
+<auteurModification>Steven
+</auteurModification>
+</row>
+<row idProduit="4711">
+<idAlarme>10140</idAlarme>
+<nomProduit>HELONIAS COMPOSE BOIRON gle</nomProduit>
+<codeProduit>cf77fe</codeProduit>
+<prixProduit>411.0</prixProduit>
+<quantiteActuel>1506</quantiteActuel>
+<quantiteAlarme>156</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Bullock</auteurCreation>
+<auteurModification>Deacon
+</auteurModification>
+</row>
+<row idProduit="4712">
+<idAlarme>5712</idAlarme>
+<nomProduit>HELONIAS COMPOSE BOIRON sol buv</nomProduit>
+<codeProduit>c5cf3c</codeProduit>
+<prixProduit>1260.0</prixProduit>
+<quantiteActuel>1939</quantiteActuel>
+<quantiteAlarme>448</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-10-02</dateModification>
+<auteurCreation>Rogers</auteurCreation>
+<auteurModification>Whitney
+</auteurModification>
+</row>
+<row idProduit="4713">
+<idAlarme>1958</idAlarme>
+<nomProduit>HEMAGENE TAILLEUR 200 mg cp pellic</nomProduit>
+<codeProduit>d74e80</codeProduit>
+<prixProduit>942.0</prixProduit>
+<quantiteActuel>2451</quantiteActuel>
+<quantiteAlarme>384</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-09-02</dateModification>
+<auteurCreation>Crawford</auteurCreation>
+<auteurModification>Reese
+</auteurModification>
+</row>
+<row idProduit="4714">
+<idAlarme>6348</idAlarme>
+<nomProduit>HEMEDONINE 5 mg/ml sol buv</nomProduit>
+<codeProduit>eaee4e</codeProduit>
+<prixProduit>584.0</prixProduit>
+<quantiteActuel>2805</quantiteActuel>
+<quantiteAlarme>426</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-09-21</dateModification>
+<auteurCreation>Zamora</auteurCreation>
+<auteurModification>Quamar
+</auteurModification>
+</row>
+<row idProduit="4715">
+<idAlarme>6948</idAlarme>
+<nomProduit>HEMI-DAONIL 2,5mg cp sec</nomProduit>
+<codeProduit>d5ac48</codeProduit>
+<prixProduit>1225.0</prixProduit>
+<quantiteActuel>2058</quantiteActuel>
+<quantiteAlarme>303</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Barber</auteurCreation>
+<auteurModification>Anastasia
+</auteurModification>
+</row>
+<row idProduit="4716">
+<idAlarme>9453</idAlarme>
+<nomProduit>HEMIGOXINE NATIVELLE 0,125 mg cp</nomProduit>
+<codeProduit>af1e83</codeProduit>
+<prixProduit>1389.0</prixProduit>
+<quantiteActuel>2407</quantiteActuel>
+<quantiteAlarme>334</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-08-19</dateModification>
+<auteurCreation>Cruz</auteurCreation>
+<auteurModification>Cooper
+</auteurModification>
+</row>
+<row idProduit="4717">
+<idAlarme>9230</idAlarme>
+<nomProduit>HEMOBIEF 2 sol inj p hemofiltr</nomProduit>
+<codeProduit>f0f967</codeProduit>
+<prixProduit>433.0</prixProduit>
+<quantiteActuel>2506</quantiteActuel>
+<quantiteAlarme>169</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-06-26</dateModification>
+<auteurCreation>Orr</auteurCreation>
+<auteurModification>Ralph
+</auteurModification>
+</row>
+<row idProduit="4718">
+<idAlarme>5254</idAlarme>
+<nomProduit>HEMOCLAR 0,5 % creme</nomProduit>
+<codeProduit>220061</codeProduit>
+<prixProduit>573.0</prixProduit>
+<quantiteActuel>1797</quantiteActuel>
+<quantiteAlarme>252</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-08-23</dateModification>
+<auteurCreation>Hawkins</auteurCreation>
+<auteurModification>Kristen
+</auteurModification>
+</row>
+<row idProduit="4719">
+<idAlarme>9756</idAlarme>
+<nomProduit>HEMOLEVEN 1000UI pdre/solv p sol inj</nomProduit>
+<codeProduit>cffc1b</codeProduit>
+<prixProduit>804.0</prixProduit>
+<quantiteActuel>2091</quantiteActuel>
+<quantiteAlarme>194</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-08-16</dateModification>
+<auteurCreation>Stevenson</auteurCreation>
+<auteurModification>Brynn
+</auteurModification>
+</row>
+<row idProduit="4720">
+<idAlarme>2122</idAlarme>
+<nomProduit>HEMOSOL B0 sol p hemofiltr/hemodial/hemodial continu</nomProduit>
+<codeProduit>8024d5</codeProduit>
+<prixProduit>1221.0</prixProduit>
+<quantiteActuel>2133</quantiteActuel>
+<quantiteAlarme>358</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-10-05</dateModification>
+<auteurCreation>Castillo</auteurCreation>
+<auteurModification>Angela
+</auteurModification>
+</row>
+<row idProduit="4721">
+<idAlarme>2543</idAlarme>
+<nomProduit>HEPACLEM cp pellic</nomProduit>
+<codeProduit>62265d</codeProduit>
+<prixProduit>381.0</prixProduit>
+<quantiteActuel>2766</quantiteActuel>
+<quantiteAlarme>349</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-27</dateCreation>
+<dateModification>2010-06-27</dateModification>
+<auteurCreation>Pickett</auteurCreation>
+<auteurModification>Laurel
+</auteurModification>
+</row>
+<row idProduit="4722">
+<idAlarme>2819</idAlarme>
+<nomProduit>HEPADIAL 50 mg cp enr</nomProduit>
+<codeProduit>1a1069</codeProduit>
+<prixProduit>1219.0</prixProduit>
+<quantiteActuel>2043</quantiteActuel>
+<quantiteAlarme>339</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Ayala</auteurCreation>
+<auteurModification>Yoshio
+</auteurModification>
+</row>
+<row idProduit="4723">
+<idAlarme>3718</idAlarme>
+<nomProduit>HEPAGRUME sol buv</nomProduit>
+<codeProduit>bac624</codeProduit>
+<prixProduit>1103.0</prixProduit>
+<quantiteActuel>2241</quantiteActuel>
+<quantiteAlarme>333</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-27</dateCreation>
+<dateModification>2010-09-01</dateModification>
+<auteurCreation>Lyons</auteurCreation>
+<auteurModification>Lionel
+</auteurModification>
+</row>
+<row idProduit="4724">
+<idAlarme>1863</idAlarme>
+<nomProduit>HEPANEPHROL sol buv</nomProduit>
+<codeProduit>06c4eb</codeProduit>
+<prixProduit>1073.0</prixProduit>
+<quantiteActuel>2181</quantiteActuel>
+<quantiteAlarme>453</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-08-06</dateModification>
+<auteurCreation>Talley</auteurCreation>
+<auteurModification>Palmer
+</auteurModification>
+</row>
+<row idProduit="4725">
+<idAlarme>6640</idAlarme>
+<nomProduit>HEPARGITOL pdre p sol buv</nomProduit>
+<codeProduit>f4ebb9</codeProduit>
+<prixProduit>491.0</prixProduit>
+<quantiteActuel>2789</quantiteActuel>
+<quantiteAlarme>322</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-08-17</dateModification>
+<auteurCreation>Hicks</auteurCreation>
+<auteurModification>Roary
+</auteurModification>
+</row>
+<row idProduit="4726">
+<idAlarme>3993</idAlarme>
+<nomProduit>HEPARINE CHOAY 25 000 UI/5 ml sol inj</nomProduit>
+<codeProduit>fef8b3</codeProduit>
+<prixProduit>1252.0</prixProduit>
+<quantiteActuel>1530</quantiteActuel>
+<quantiteAlarme>345</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-06-26</dateModification>
+<auteurCreation>Murray</auteurCreation>
+<auteurModification>Rana
+</auteurModification>
+</row>
+<row idProduit="4727">
+<idAlarme>382</idAlarme>
+<nomProduit>HEPARINE CHOAY 5000UI/ml sol inj IV</nomProduit>
+<codeProduit>db4a99</codeProduit>
+<prixProduit>850.0</prixProduit>
+<quantiteActuel>2559</quantiteActuel>
+<quantiteAlarme>284</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-08-09</dateModification>
+<auteurCreation>Reese</auteurCreation>
+<auteurModification>September
+</auteurModification>
+</row>
+<row idProduit="4728">
+<idAlarme>428</idAlarme>
+<nomProduit>HEPARINE SODIQUE PANPHARMA 25 000 UI/5 ml sol inj IV</nomProduit>
+<codeProduit>010257</codeProduit>
+<prixProduit>1283.0</prixProduit>
+<quantiteActuel>2926</quantiteActuel>
+<quantiteAlarme>263</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-10-02</dateModification>
+<auteurCreation>Tillman</auteurCreation>
+<auteurModification>Xenos
+</auteurModification>
+</row>
+<row idProduit="4729">
+<idAlarme>9314</idAlarme>
+<nomProduit>HEPATO-DRAINOL sol buv</nomProduit>
+<codeProduit>0d7802</codeProduit>
+<prixProduit>1014.0</prixProduit>
+<quantiteActuel>1816</quantiteActuel>
+<quantiteAlarme>313</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-09-08</dateModification>
+<auteurCreation>Carey</auteurCreation>
+<auteurModification>Bethany
+</auteurModification>
+</row>
+<row idProduit="4730">
+<idAlarme>8446</idAlarme>
+<nomProduit>HEPATOFLORINE tis en sach-doses</nomProduit>
+<codeProduit>c9ade3</codeProduit>
+<prixProduit>1119.0</prixProduit>
+<quantiteActuel>2020</quantiteActuel>
+<quantiteAlarme>339</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-07-24</dateModification>
+<auteurCreation>Fletcher</auteurCreation>
+<auteurModification>Amanda
+</auteurModification>
+</row>
+<row idProduit="4731">
+<idAlarme>6014</idAlarme>
+<nomProduit>HEPATO-SOLUTINES sol buv</nomProduit>
+<codeProduit>1b3799</codeProduit>
+<prixProduit>1113.0</prixProduit>
+<quantiteActuel>2124</quantiteActuel>
+<quantiteAlarme>369</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Arnold</auteurCreation>
+<auteurModification>Melvin
+</auteurModification>
+</row>
+<row idProduit="4732">
+<idAlarme>5407</idAlarme>
+<nomProduit>HEPATOUM BRULURES D&apos;ESTOMAC cp a croquer</nomProduit>
+<codeProduit>d27a64</codeProduit>
+<prixProduit>1069.0</prixProduit>
+<quantiteActuel>1869</quantiteActuel>
+<quantiteAlarme>327</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Woods</auteurCreation>
+<auteurModification>Dustin
+</auteurModification>
+</row>
+<row idProduit="4733">
+<idAlarme>3637</idAlarme>
+<nomProduit>HEPATOUM sol buv</nomProduit>
+<codeProduit>2b6120</codeProduit>
+<prixProduit>1215.0</prixProduit>
+<quantiteActuel>2606</quantiteActuel>
+<quantiteAlarme>244</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Mccarty</auteurCreation>
+<auteurModification>Clio
+</auteurModification>
+</row>
+<row idProduit="4734">
+<idAlarme>11</idAlarme>
+<nomProduit>HEPSERA 10mg cp</nomProduit>
+<codeProduit>f22320</codeProduit>
+<prixProduit>1211.0</prixProduit>
+<quantiteActuel>1874</quantiteActuel>
+<quantiteAlarme>290</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-07-05</dateModification>
+<auteurCreation>Johnson</auteurCreation>
+<auteurModification>Phoebe
+</auteurModification>
+</row>
+<row idProduit="4735">
+<idAlarme>492</idAlarme>
+<nomProduit>HEPT A MYL 187,8mg cp</nomProduit>
+<codeProduit>db9323</codeProduit>
+<prixProduit>607.0</prixProduit>
+<quantiteActuel>2188</quantiteActuel>
+<quantiteAlarme>416</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Thompson</auteurCreation>
+<auteurModification>Zeph
+</auteurModification>
+</row>
+<row idProduit="4736">
+<idAlarme>8550</idAlarme>
+<nomProduit>HEPT A MYL 30,5% sol buv</nomProduit>
+<codeProduit>54112b</codeProduit>
+<prixProduit>1118.0</prixProduit>
+<quantiteActuel>2899</quantiteActuel>
+<quantiteAlarme>165</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Randolph</auteurCreation>
+<auteurModification>Sade
+</auteurModification>
+</row>
+<row idProduit="4737">
+<idAlarme>9074</idAlarme>
+<nomProduit>HEPTAMINOL RICHARD 30,5 % sol buv</nomProduit>
+<codeProduit>7302c7</codeProduit>
+<prixProduit>566.0</prixProduit>
+<quantiteActuel>2702</quantiteActuel>
+<quantiteAlarme>420</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-09-04</dateModification>
+<auteurCreation>Richardson</auteurCreation>
+<auteurModification>Sonia
+</auteurModification>
+</row>
+<row idProduit="4738">
+<idAlarme>10031</idAlarme>
+<nomProduit>HERBESAN tis sachet-dose</nomProduit>
+<codeProduit>c660c2</codeProduit>
+<prixProduit>390.0</prixProduit>
+<quantiteActuel>1754</quantiteActuel>
+<quantiteAlarme>313</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-22</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Glenn</auteurCreation>
+<auteurModification>Madeline
+</auteurModification>
+</row>
+<row idProduit="4739">
+<idAlarme>641</idAlarme>
+<nomProduit>HERCEPTIN 150mg pdre p sol p perf</nomProduit>
+<codeProduit>b8d200</codeProduit>
+<prixProduit>1260.0</prixProduit>
+<quantiteActuel>2610</quantiteActuel>
+<quantiteAlarme>124</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-09-27</dateModification>
+<auteurCreation>Ayala</auteurCreation>
+<auteurModification>Travis
+</auteurModification>
+</row>
+<row idProduit="4740">
+<idAlarme>6889</idAlarme>
+<nomProduit>HERPEVIR 5% creme</nomProduit>
+<codeProduit>634d18</codeProduit>
+<prixProduit>1029.0</prixProduit>
+<quantiteActuel>2716</quantiteActuel>
+<quantiteAlarme>165</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Rosa</auteurCreation>
+<auteurModification>Charlotte
+</auteurModification>
+</row>
+<row idProduit="4741">
+<idAlarme>8140</idAlarme>
+<nomProduit>HEXABRIX 200 200 mg Iode/ml sol inj</nomProduit>
+<codeProduit>0d0d83</codeProduit>
+<prixProduit>536.0</prixProduit>
+<quantiteActuel>1871</quantiteActuel>
+<quantiteAlarme>205</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-07-05</dateModification>
+<auteurCreation>Bradford</auteurCreation>
+<auteurModification>Maia
+</auteurModification>
+</row>
+<row idProduit="4742">
+<idAlarme>1225</idAlarme>
+<nomProduit>HEXABRIX 320 320 mg Iode/ml sol inj</nomProduit>
+<codeProduit>bfb60c</codeProduit>
+<prixProduit>503.0</prixProduit>
+<quantiteActuel>2871</quantiteActuel>
+<quantiteAlarme>207</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-05</dateCreation>
+<dateModification>2010-09-07</dateModification>
+<auteurCreation>Hamilton</auteurCreation>
+<auteurModification>Hedley
+</auteurModification>
+</row>
+<row idProduit="4743">
+<idAlarme>7449</idAlarme>
+<nomProduit>HEXALYSE cp a sucer</nomProduit>
+<codeProduit>9de378</codeProduit>
+<prixProduit>1375.0</prixProduit>
+<quantiteActuel>2818</quantiteActuel>
+<quantiteAlarme>193</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-07-26</dateModification>
+<auteurCreation>Mathews</auteurCreation>
+<auteurModification>Whitney
+</auteurModification>
+</row>
+<row idProduit="4744">
+<idAlarme>2733</idAlarme>
+<nomProduit>HEXAMIDINE GILBERT 0,1 % sol p appl cut</nomProduit>
+<codeProduit>29c067</codeProduit>
+<prixProduit>151.0</prixProduit>
+<quantiteActuel>2041</quantiteActuel>
+<quantiteAlarme>265</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-10-02</dateModification>
+<auteurCreation>Merritt</auteurCreation>
+<auteurModification>Stewart
+</auteurModification>
+</row>
+<row idProduit="4745">
+<idAlarme>9742</idAlarme>
+<nomProduit>HEXAMIDINE MYLAN 1POUR MILLE sol p appl loc</nomProduit>
+<codeProduit>c00352</codeProduit>
+<prixProduit>502.0</prixProduit>
+<quantiteActuel>2783</quantiteActuel>
+<quantiteAlarme>357</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-10-05</dateModification>
+<auteurCreation>Bright</auteurCreation>
+<auteurModification>Rhoda
+</auteurModification>
+</row>
+<row idProduit="4746">
+<idAlarme>4936</idAlarme>
+<nomProduit>HEXAMIDINE RATIOPHARM 1POUR MILLE sol p appl loc</nomProduit>
+<codeProduit>5ede9a</codeProduit>
+<prixProduit>1037.0</prixProduit>
+<quantiteActuel>1565</quantiteActuel>
+<quantiteAlarme>123</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-09-21</dateModification>
+<auteurCreation>Harris</auteurCreation>
+<auteurModification>Coby
+</auteurModification>
+</row>
+<row idProduit="4747">
+<idAlarme>6071</idAlarme>
+<nomProduit>HEXAPNEUMINE sirop adulte</nomProduit>
+<codeProduit>4c7892</codeProduit>
+<prixProduit>964.0</prixProduit>
+<quantiteActuel>2448</quantiteActuel>
+<quantiteAlarme>421</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Norris</auteurCreation>
+<auteurModification>Dieter
+</auteurModification>
+</row>
+<row idProduit="4748">
+<idAlarme>3669</idAlarme>
+<nomProduit>HEXAPNEUMINE sirop enfant</nomProduit>
+<codeProduit>52babf</codeProduit>
+<prixProduit>1283.0</prixProduit>
+<quantiteActuel>2949</quantiteActuel>
+<quantiteAlarme>150</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-27</dateCreation>
+<dateModification>2010-07-02</dateModification>
+<auteurCreation>Daniels</auteurCreation>
+<auteurModification>Cameron
+</auteurModification>
+</row>
+<row idProduit="4749">
+<idAlarme>6952</idAlarme>
+<nomProduit>HEXAPNEUMINE sirop nourrisson</nomProduit>
+<codeProduit>bf80ba</codeProduit>
+<prixProduit>353.0</prixProduit>
+<quantiteActuel>2734</quantiteActuel>
+<quantiteAlarme>181</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-07-16</dateModification>
+<auteurCreation>Barlow</auteurCreation>
+<auteurModification>Xena
+</auteurModification>
+</row>
+<row idProduit="4750">
+<idAlarme>4996</idAlarme>
+<nomProduit>HEXAQUINE cp enr</nomProduit>
+<codeProduit>dad376</codeProduit>
+<prixProduit>1130.0</prixProduit>
+<quantiteActuel>2989</quantiteActuel>
+<quantiteAlarme>499</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-07-18</dateModification>
+<auteurCreation>Morin</auteurCreation>
+<auteurModification>Noble
+</auteurModification>
+</row>
+<row idProduit="4751">
+<idAlarme>8054</idAlarme>
+<nomProduit>HEXAQUINE suppos ad</nomProduit>
+<codeProduit>2ce33e</codeProduit>
+<prixProduit>1146.0</prixProduit>
+<quantiteActuel>2607</quantiteActuel>
+<quantiteAlarme>405</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-09-29</dateModification>
+<auteurCreation>Irwin</auteurCreation>
+<auteurModification>Illana
+</auteurModification>
+</row>
+<row idProduit="4752">
+<idAlarme>1452</idAlarme>
+<nomProduit>HEXARHUME cp</nomProduit>
+<codeProduit>5f2c11</codeProduit>
+<prixProduit>379.0</prixProduit>
+<quantiteActuel>2787</quantiteActuel>
+<quantiteAlarme>484</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-07-28</dateModification>
+<auteurCreation>Horton</auteurCreation>
+<auteurModification>Echo
+</auteurModification>
+</row>
+<row idProduit="4753">
+<idAlarme>8678</idAlarme>
+<nomProduit>HEXASEPTINE 0,1 % sol p appl loc</nomProduit>
+<codeProduit>568064</codeProduit>
+<prixProduit>976.0</prixProduit>
+<quantiteActuel>1891</quantiteActuel>
+<quantiteAlarme>413</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-09-26</dateModification>
+<auteurCreation>Galloway</auteurCreation>
+<auteurModification>Lester
+</auteurModification>
+</row>
+<row idProduit="4754">
+<idAlarme>1077</idAlarme>
+<nomProduit>HEXASPRAY collut</nomProduit>
+<codeProduit>07a79c</codeProduit>
+<prixProduit>1242.0</prixProduit>
+<quantiteActuel>1644</quantiteActuel>
+<quantiteAlarme>195</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-09-06</dateModification>
+<auteurCreation>Blankenship</auteurCreation>
+<auteurModification>Lucius
+</auteurModification>
+</row>
+<row idProduit="4755">
+<idAlarme>9110</idAlarme>
+<nomProduit>HEXASTAT 100 mg gel</nomProduit>
+<codeProduit>c89542</codeProduit>
+<prixProduit>786.0</prixProduit>
+<quantiteActuel>2307</quantiteActuel>
+<quantiteAlarme>200</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Murray</auteurCreation>
+<auteurModification>Jenette
+</auteurModification>
+</row>
+<row idProduit="4756">
+<idAlarme>3667</idAlarme>
+<nomProduit>HEXATRIONE 2 % susp inj</nomProduit>
+<codeProduit>2c0957</codeProduit>
+<prixProduit>852.0</prixProduit>
+<quantiteActuel>1830</quantiteActuel>
+<quantiteAlarme>388</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Hays</auteurCreation>
+<auteurModification>Lewis
+</auteurModification>
+</row>
+<row idProduit="4757">
+<idAlarme>7991</idAlarme>
+<nomProduit>HEXOMEDINE 0,1 % gel p appl loc</nomProduit>
+<codeProduit>c44539</codeProduit>
+<prixProduit>902.0</prixProduit>
+<quantiteActuel>2649</quantiteActuel>
+<quantiteAlarme>475</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-07-13</dateModification>
+<auteurCreation>Fitzpatrick</auteurCreation>
+<auteurModification>Emerald
+</auteurModification>
+</row>
+<row idProduit="4758">
+<idAlarme>8684</idAlarme>
+<nomProduit>HEXOMEDINE 0,1 % sol p appl cut en fl pulv</nomProduit>
+<codeProduit>49bad5</codeProduit>
+<prixProduit>260.0</prixProduit>
+<quantiteActuel>1507</quantiteActuel>
+<quantiteAlarme>122</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-08-11</dateModification>
+<auteurCreation>Velez</auteurCreation>
+<auteurModification>Kasimir
+</auteurModification>
+</row>
+<row idProduit="4759">
+<idAlarme>10227</idAlarme>
+<nomProduit>HEXOMEDINE 0,1% sol p appl loc</nomProduit>
+<codeProduit>84aac2</codeProduit>
+<prixProduit>237.0</prixProduit>
+<quantiteActuel>1891</quantiteActuel>
+<quantiteAlarme>383</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-11</dateCreation>
+<dateModification>2010-09-30</dateModification>
+<auteurCreation>Chang</auteurCreation>
+<auteurModification>Renee
+</auteurModification>
+</row>
+<row idProduit="4760">
+<idAlarme>2068</idAlarme>
+<nomProduit>HEXOMEDINE TRANSCUTANEE 0,15% sol p appl loc</nomProduit>
+<codeProduit>a0f74a</codeProduit>
+<prixProduit>712.0</prixProduit>
+<quantiteActuel>2522</quantiteActuel>
+<quantiteAlarme>256</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-08-13</dateModification>
+<auteurCreation>Todd</auteurCreation>
+<auteurModification>Rudyard
+</auteurModification>
+</row>
+<row idProduit="4761">
+<idAlarme>3242</idAlarme>
+<nomProduit>HEXTRIL 0,1 % bain bouche</nomProduit>
+<codeProduit>e15841</codeProduit>
+<prixProduit>1217.0</prixProduit>
+<quantiteActuel>2545</quantiteActuel>
+<quantiteAlarme>390</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-08-05</dateModification>
+<auteurCreation>Taylor</auteurCreation>
+<auteurModification>Debra
+</auteurModification>
+</row>
+<row idProduit="4762">
+<idAlarme>6374</idAlarme>
+<nomProduit>HEXTRIL 0,5 % gel gingiv</nomProduit>
+<codeProduit>364f5a</codeProduit>
+<prixProduit>350.0</prixProduit>
+<quantiteActuel>2597</quantiteActuel>
+<quantiteAlarme>431</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-08-10</dateModification>
+<auteurCreation>Gordon</auteurCreation>
+<auteurModification>Natalie
+</auteurModification>
+</row>
+<row idProduit="4763">
+<idAlarme>7118</idAlarme>
+<nomProduit>HEXTRIL MENTHE 0,1% sol p bain bouch</nomProduit>
+<codeProduit>f77421</codeProduit>
+<prixProduit>1401.0</prixProduit>
+<quantiteActuel>2824</quantiteActuel>
+<quantiteAlarme>451</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-07-06</dateModification>
+<auteurCreation>Valencia</auteurCreation>
+<auteurModification>Rooney
+</auteurModification>
+</row>
+<row idProduit="4764">
+<idAlarme>4242</idAlarme>
+<nomProduit>HEXTRIL pate dentifr</nomProduit>
+<codeProduit>684c21</codeProduit>
+<prixProduit>423.0</prixProduit>
+<quantiteActuel>2605</quantiteActuel>
+<quantiteAlarme>414</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-09-20</dateModification>
+<auteurCreation>Perry</auteurCreation>
+<auteurModification>Guinevere
+</auteurModification>
+</row>
+<row idProduit="4765">
+<idAlarme>8617</idAlarme>
+<nomProduit>HEXVIX 85mg pdre/solv p sol p admin intravesic</nomProduit>
+<codeProduit>71343e</codeProduit>
+<prixProduit>1336.0</prixProduit>
+<quantiteActuel>1781</quantiteActuel>
+<quantiteAlarme>461</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Vazquez</auteurCreation>
+<auteurModification>Lester
+</auteurModification>
+</row>
+<row idProduit="4766">
+<idAlarme>9651</idAlarme>
+<nomProduit>HIBIDIL sol p appl loc sterile</nomProduit>
+<codeProduit>a8bd55</codeProduit>
+<prixProduit>238.0</prixProduit>
+<quantiteActuel>2766</quantiteActuel>
+<quantiteAlarme>213</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Ellison</auteurCreation>
+<auteurModification>Brynn
+</auteurModification>
+</row>
+<row idProduit="4767">
+<idAlarme>771</idAlarme>
+<nomProduit>HIBISCRUB 4% sol moussante</nomProduit>
+<codeProduit>cbfbf7</codeProduit>
+<prixProduit>792.0</prixProduit>
+<quantiteActuel>2181</quantiteActuel>
+<quantiteAlarme>424</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-08-19</dateModification>
+<auteurCreation>Ayala</auteurCreation>
+<auteurModification>Adena
+</auteurModification>
+</row>
+<row idProduit="4768">
+<idAlarme>1941</idAlarme>
+<nomProduit>HIBITANE CHAMP 0,5 % sol p appl loc</nomProduit>
+<codeProduit>f07e2a</codeProduit>
+<prixProduit>1147.0</prixProduit>
+<quantiteActuel>1667</quantiteActuel>
+<quantiteAlarme>286</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Ray</auteurCreation>
+<auteurModification>Margaret
+</auteurModification>
+</row>
+<row idProduit="4769">
+<idAlarme>1353</idAlarme>
+<nomProduit>HIRUCREME creme</nomProduit>
+<codeProduit>738669</codeProduit>
+<prixProduit>240.0</prixProduit>
+<quantiteActuel>2304</quantiteActuel>
+<quantiteAlarme>409</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-09-14</dateModification>
+<auteurCreation>Soto</auteurCreation>
+<auteurModification>Zeph
+</auteurModification>
+</row>
+<row idProduit="4770">
+<idAlarme>7629</idAlarme>
+<nomProduit>HISTOFLUINE P sol buv</nomProduit>
+<codeProduit>f8337e</codeProduit>
+<prixProduit>293.0</prixProduit>
+<quantiteActuel>2808</quantiteActuel>
+<quantiteAlarme>154</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-07-28</dateModification>
+<auteurCreation>Pickett</auteurCreation>
+<auteurModification>Hiram
+</auteurModification>
+</row>
+<row idProduit="4771">
+<idAlarme>8012</idAlarme>
+<nomProduit>HOLGYEME 2 mg/0,035 mg cp enr</nomProduit>
+<codeProduit>709adc</codeProduit>
+<prixProduit>1345.0</prixProduit>
+<quantiteActuel>1644</quantiteActuel>
+<quantiteAlarme>222</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-09-28</dateModification>
+<auteurCreation>Castro</auteurCreation>
+<auteurModification>Roary
+</auteurModification>
+</row>
+<row idProduit="4772">
+<idAlarme>2754</idAlarme>
+<nomProduit>HOLOXAN 1000mg pdre p sol inj</nomProduit>
+<codeProduit>65b8f5</codeProduit>
+<prixProduit>525.0</prixProduit>
+<quantiteActuel>1846</quantiteActuel>
+<quantiteAlarme>429</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-08-20</dateModification>
+<auteurCreation>Mckinney</auteurCreation>
+<auteurModification>Baker
+</auteurModification>
+</row>
+<row idProduit="4773">
+<idAlarme>6192</idAlarme>
+<nomProduit>HOLOXAN 2000mg pdre p us parenter</nomProduit>
+<codeProduit>dcfea1</codeProduit>
+<prixProduit>1089.0</prixProduit>
+<quantiteActuel>2380</quantiteActuel>
+<quantiteAlarme>281</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-08-10</dateModification>
+<auteurCreation>Pittman</auteurCreation>
+<auteurModification>Trevor
+</auteurModification>
+</row>
+<row idProduit="4774">
+<idAlarme>5256</idAlarme>
+<nomProduit>HOMEOAFTYL cp a sucer</nomProduit>
+<codeProduit>b52946</codeProduit>
+<prixProduit>1133.0</prixProduit>
+<quantiteActuel>1560</quantiteActuel>
+<quantiteAlarme>296</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-08-17</dateModification>
+<auteurCreation>Rodriquez</auteurCreation>
+<auteurModification>Yuri
+</auteurModification>
+</row>
+<row idProduit="4775">
+<idAlarme>8717</idAlarme>
+<nomProduit>HOMEOGENE 46 cp</nomProduit>
+<codeProduit>fcf0b5</codeProduit>
+<prixProduit>1265.0</prixProduit>
+<quantiteActuel>2231</quantiteActuel>
+<quantiteAlarme>205</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-11</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>Moon</auteurCreation>
+<auteurModification>Shay
+</auteurModification>
+</row>
+<row idProduit="4776">
+<idAlarme>8990</idAlarme>
+<nomProduit>HOMEOGENE 9 cp</nomProduit>
+<codeProduit>0bda74</codeProduit>
+<prixProduit>318.0</prixProduit>
+<quantiteActuel>1954</quantiteActuel>
+<quantiteAlarme>219</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Bird</auteurCreation>
+<auteurModification>Sharon
+</auteurModification>
+</row>
+<row idProduit="4777">
+<idAlarme>371</idAlarme>
+<nomProduit>HOMEOMUNIL gle</nomProduit>
+<codeProduit>609b7d</codeProduit>
+<prixProduit>592.0</prixProduit>
+<quantiteActuel>1624</quantiteActuel>
+<quantiteAlarme>217</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-08-12</dateModification>
+<auteurCreation>Chambers</auteurCreation>
+<auteurModification>Reese
+</auteurModification>
+</row>
+<row idProduit="4778">
+<idAlarme>2203</idAlarme>
+<nomProduit>HOMEOPLASMINE pom</nomProduit>
+<codeProduit>145ae1</codeProduit>
+<prixProduit>872.0</prixProduit>
+<quantiteActuel>1740</quantiteActuel>
+<quantiteAlarme>434</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Holman</auteurCreation>
+<auteurModification>Malik
+</auteurModification>
+</row>
+<row idProduit="4779">
+<idAlarme>9154</idAlarme>
+<nomProduit>HOMEOPTIC collyre</nomProduit>
+<codeProduit>c09a67</codeProduit>
+<prixProduit>789.0</prixProduit>
+<quantiteActuel>2742</quantiteActuel>
+<quantiteAlarme>482</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-07-17</dateModification>
+<auteurCreation>Vasquez</auteurCreation>
+<auteurModification>Caldwell
+</auteurModification>
+</row>
+<row idProduit="4780">
+<idAlarme>7123</idAlarme>
+<nomProduit>HOMEOVOX cp enr</nomProduit>
+<codeProduit>52b739</codeProduit>
+<prixProduit>1349.0</prixProduit>
+<quantiteActuel>2641</quantiteActuel>
+<quantiteAlarme>352</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Le</auteurCreation>
+<auteurModification>Marah
+</auteurModification>
+</row>
+<row idProduit="4781">
+<idAlarme>8632</idAlarme>
+<nomProduit>HUILE DE FOIE DE MORUE COOPER sol buv</nomProduit>
+<codeProduit>446ab5</codeProduit>
+<prixProduit>1388.0</prixProduit>
+<quantiteActuel>2410</quantiteActuel>
+<quantiteAlarme>255</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-07-12</dateModification>
+<auteurCreation>Hurst</auteurCreation>
+<auteurModification>Norman
+</auteurModification>
+</row>
+<row idProduit="4782">
+<idAlarme>3419</idAlarme>
+<nomProduit>HUILE DE PARAFFINE COOPER sol buv</nomProduit>
+<codeProduit>2956b9</codeProduit>
+<prixProduit>1388.0</prixProduit>
+<quantiteActuel>2024</quantiteActuel>
+<quantiteAlarme>487</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Hardin</auteurCreation>
+<auteurModification>Danielle
+</auteurModification>
+</row>
+<row idProduit="4783">
+<idAlarme>10312</idAlarme>
+<nomProduit>HUILE DE PARAFFINE GIFRER huil buv</nomProduit>
+<codeProduit>bfdc50</codeProduit>
+<prixProduit>344.0</prixProduit>
+<quantiteActuel>1521</quantiteActuel>
+<quantiteAlarme>447</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-07-27</dateModification>
+<auteurCreation>Marshall</auteurCreation>
+<auteurModification>Curran
+</auteurModification>
+</row>
+<row idProduit="4784">
+<idAlarme>10019</idAlarme>
+<nomProduit>HUILE DE PARAFFINE GILBERT huil buv</nomProduit>
+<codeProduit>0da171</codeProduit>
+<prixProduit>566.0</prixProduit>
+<quantiteActuel>2484</quantiteActuel>
+<quantiteAlarme>155</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-11</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Mccarthy</auteurCreation>
+<auteurModification>Germane
+</auteurModification>
+</row>
+<row idProduit="4785">
+<idAlarme>8214</idAlarme>
+<nomProduit>HUILE DE RICIN COOPER sol buv</nomProduit>
+<codeProduit>36a2f3</codeProduit>
+<prixProduit>1475.0</prixProduit>
+<quantiteActuel>1699</quantiteActuel>
+<quantiteAlarme>319</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Owens</auteurCreation>
+<auteurModification>Illana
+</auteurModification>
+</row>
+<row idProduit="4786">
+<idAlarme>8572</idAlarme>
+<nomProduit>HUILE GOMENOLEE 2 % sol p instil nasal</nomProduit>
+<codeProduit>90287d</codeProduit>
+<prixProduit>529.0</prixProduit>
+<quantiteActuel>1785</quantiteActuel>
+<quantiteAlarme>211</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Mcguire</auteurCreation>
+<auteurModification>Ebony
+</auteurModification>
+</row>
+<row idProduit="4787">
+<idAlarme>7904</idAlarme>
+<nomProduit>HUILE GOMENOLEE 5 % sol p instil nasal</nomProduit>
+<codeProduit>a9509a</codeProduit>
+<prixProduit>350.0</prixProduit>
+<quantiteActuel>2060</quantiteActuel>
+<quantiteAlarme>204</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-08-25</dateModification>
+<auteurCreation>Langley</auteurCreation>
+<auteurModification>Carson
+</auteurModification>
+</row>
+<row idProduit="4788">
+<idAlarme>4151</idAlarme>
+<nomProduit>HUMALOG 100 UI/ml sol inj</nomProduit>
+<codeProduit>8ce346</codeProduit>
+<prixProduit>1272.0</prixProduit>
+<quantiteActuel>2616</quantiteActuel>
+<quantiteAlarme>306</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Buchanan</auteurCreation>
+<auteurModification>Grady
+</auteurModification>
+</row>
+<row idProduit="4789">
+<idAlarme>2743</idAlarme>
+<nomProduit>HUMALOG 100 UI/ml sol inj en fl</nomProduit>
+<codeProduit>50f31c</codeProduit>
+<prixProduit>398.0</prixProduit>
+<quantiteActuel>1729</quantiteActuel>
+<quantiteAlarme>310</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Stevens</auteurCreation>
+<auteurModification>Yoko
+</auteurModification>
+</row>
+<row idProduit="4790">
+<idAlarme>1499</idAlarme>
+<nomProduit>HUMALOG KWIKPEN 100UI/ml sol inj</nomProduit>
+<codeProduit>2b8177</codeProduit>
+<prixProduit>528.0</prixProduit>
+<quantiteActuel>1853</quantiteActuel>
+<quantiteAlarme>142</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-08-24</dateModification>
+<auteurCreation>Pope</auteurCreation>
+<auteurModification>Doris
+</auteurModification>
+</row>
+<row idProduit="4791">
+<idAlarme>2918</idAlarme>
+<nomProduit>HUMALOG MIX 25 100 UI/ml susp inj</nomProduit>
+<codeProduit>fe2c63</codeProduit>
+<prixProduit>398.0</prixProduit>
+<quantiteActuel>2258</quantiteActuel>
+<quantiteAlarme>351</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-07-20</dateModification>
+<auteurCreation>Hays</auteurCreation>
+<auteurModification>Peter
+</auteurModification>
+</row>
+<row idProduit="4792">
+<idAlarme>2387</idAlarme>
+<nomProduit>HUMALOG MIX 25 KWIKPEN 100 UI/ml susp inj</nomProduit>
+<codeProduit>90bd43</codeProduit>
+<prixProduit>1459.0</prixProduit>
+<quantiteActuel>2360</quantiteActuel>
+<quantiteAlarme>484</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Woods</auteurCreation>
+<auteurModification>Oscar
+</auteurModification>
+</row>
+<row idProduit="4793">
+<idAlarme>1128</idAlarme>
+<nomProduit>HUMALOG MIX 50 100 UI/ml susp inj</nomProduit>
+<codeProduit>7f174d</codeProduit>
+<prixProduit>623.0</prixProduit>
+<quantiteActuel>1556</quantiteActuel>
+<quantiteAlarme>405</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-10-01</dateModification>
+<auteurCreation>Thornton</auteurCreation>
+<auteurModification>Channing
+</auteurModification>
+</row>
+<row idProduit="4794">
+<idAlarme>2982</idAlarme>
+<nomProduit>HUMALOG MIX 50 KWIKPEN 100 UI/ml susp inj</nomProduit>
+<codeProduit>6926e7</codeProduit>
+<prixProduit>1363.0</prixProduit>
+<quantiteActuel>2951</quantiteActuel>
+<quantiteAlarme>355</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-08-02</dateModification>
+<auteurCreation>Love</auteurCreation>
+<auteurModification>Moses
+</auteurModification>
+</row>
+<row idProduit="4795">
+<idAlarme>1623</idAlarme>
+<nomProduit>HUMEX 5 % EXPECTORANT SANS SUCRE sol buv Ad</nomProduit>
+<codeProduit>1a6ab4</codeProduit>
+<prixProduit>213.0</prixProduit>
+<quantiteActuel>2051</quantiteActuel>
+<quantiteAlarme>170</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-22</dateCreation>
+<dateModification>2010-07-20</dateModification>
+<auteurCreation>Black</auteurCreation>
+<auteurModification>Josiah
+</auteurModification>
+</row>
+<row idProduit="4796">
+<idAlarme>1757</idAlarme>
+<nomProduit>HUMEX ALLERGIE CETIRIZINE cp pellic sec</nomProduit>
+<codeProduit>e05c41</codeProduit>
+<prixProduit>173.0</prixProduit>
+<quantiteActuel>2143</quantiteActuel>
+<quantiteAlarme>371</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-07-28</dateModification>
+<auteurCreation>Guzman</auteurCreation>
+<auteurModification>Summer
+</auteurModification>
+</row>
+<row idProduit="4797">
+<idAlarme>6998</idAlarme>
+<nomProduit>HUMEX CONJONCTIVITE ALLERGIQUE 2 % collyre sol</nomProduit>
+<codeProduit>6a3699</codeProduit>
+<prixProduit>1074.0</prixProduit>
+<quantiteActuel>1637</quantiteActuel>
+<quantiteAlarme>430</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Hobbs</auteurCreation>
+<auteurModification>Nita
+</auteurModification>
+</row>
+<row idProduit="4798">
+<idAlarme>7414</idAlarme>
+<nomProduit>HUMEX CONJONCTIVITE ALLERGIQUE 2 % collyre sol rec unid</nomProduit>
+<codeProduit>545028</codeProduit>
+<prixProduit>1337.0</prixProduit>
+<quantiteActuel>1507</quantiteActuel>
+<quantiteAlarme>266</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Webster</auteurCreation>
+<auteurModification>Holmes
+</auteurModification>
+</row>
+<row idProduit="4799">
+<idAlarme>5008</idAlarme>
+<nomProduit>HUMEX ETAT GRIPPAL gel</nomProduit>
+<codeProduit>c63bea</codeProduit>
+<prixProduit>941.0</prixProduit>
+<quantiteActuel>2821</quantiteActuel>
+<quantiteAlarme>254</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Francis</auteurCreation>
+<auteurModification>Gabriel
+</auteurModification>
+</row>
+<row idProduit="4800">
+<idAlarme>4570</idAlarme>
+<nomProduit>HUMEX EXPECTORANT CARBOCISTEINE 750 mg/10 ml ADULTES SANS SUCRE sol buv</nomProduit>
+<codeProduit>7c7885</codeProduit>
+<prixProduit>677.0</prixProduit>
+<quantiteActuel>1728</quantiteActuel>
+<quantiteAlarme>290</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Mcgowan</auteurCreation>
+<auteurModification>Kyra
+</auteurModification>
+</row>
+<row idProduit="4801">
+<idAlarme>8147</idAlarme>
+<nomProduit>HUMEX EXPECTORANT SANS SUCRE 100 mg cp a sucer</nomProduit>
+<codeProduit>fedc0e</codeProduit>
+<prixProduit>592.0</prixProduit>
+<quantiteActuel>1929</quantiteActuel>
+<quantiteAlarme>104</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Washington</auteurCreation>
+<auteurModification>Althea
+</auteurModification>
+</row>
+<row idProduit="4802">
+<idAlarme>3907</idAlarme>
+<nomProduit>HUMEX EXPECTORANT sirop ad</nomProduit>
+<codeProduit>858af8</codeProduit>
+<prixProduit>1324.0</prixProduit>
+<quantiteActuel>1591</quantiteActuel>
+<quantiteAlarme>168</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-09-25</dateModification>
+<auteurCreation>Gill</auteurCreation>
+<auteurModification>Wendy
+</auteurModification>
+</row>
+<row idProduit="4803">
+<idAlarme>8785</idAlarme>
+<nomProduit>HUMEX FOURNIER 0,04 % sol p pulv nasal</nomProduit>
+<codeProduit>b52e39</codeProduit>
+<prixProduit>730.0</prixProduit>
+<quantiteActuel>1651</quantiteActuel>
+<quantiteAlarme>233</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-07-21</dateModification>
+<auteurCreation>Chen</auteurCreation>
+<auteurModification>Hedy
+</auteurModification>
+</row>
+<row idProduit="4804">
+<idAlarme>7858</idAlarme>
+<nomProduit>HUMEX GORGE IRRITEE LIDOCAINE gomm oral</nomProduit>
+<codeProduit>bf1816</codeProduit>
+<prixProduit>1134.0</prixProduit>
+<quantiteActuel>2045</quantiteActuel>
+<quantiteAlarme>466</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Freeman</auteurCreation>
+<auteurModification>Kristen
+</auteurModification>
+</row>
+<row idProduit="4805">
+<idAlarme>8202</idAlarme>
+<nomProduit>HUMEX INHALER tampon impreg p inhal p fumig</nomProduit>
+<codeProduit>d7b532</codeProduit>
+<prixProduit>1199.0</prixProduit>
+<quantiteActuel>1994</quantiteActuel>
+<quantiteAlarme>308</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Marsh</auteurCreation>
+<auteurModification>Angela
+</auteurModification>
+</row>
+<row idProduit="4806">
+<idAlarme>7968</idAlarme>
+<nomProduit>HUMEX MAL DE GORGE collut</nomProduit>
+<codeProduit>3e92ad</codeProduit>
+<prixProduit>1496.0</prixProduit>
+<quantiteActuel>2907</quantiteActuel>
+<quantiteAlarme>406</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-08-14</dateModification>
+<auteurCreation>Mccormick</auteurCreation>
+<auteurModification>Griffith
+</auteurModification>
+</row>
+<row idProduit="4807">
+<idAlarme>3387</idAlarme>
+<nomProduit>HUMEX MAL DE GORGE FRUITS ROUGES 20mg SANS SUCRE past</nomProduit>
+<codeProduit>4cd175</codeProduit>
+<prixProduit>1130.0</prixProduit>
+<quantiteActuel>2504</quantiteActuel>
+<quantiteAlarme>376</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-07-18</dateModification>
+<auteurCreation>Cannon</auteurCreation>
+<auteurModification>Asher
+</auteurModification>
+</row>
+<row idProduit="4808">
+<idAlarme>3372</idAlarme>
+<nomProduit>HUMEX MAL DE GORGE MENTHE 20mg SANS SUCRE past</nomProduit>
+<codeProduit>cae9b5</codeProduit>
+<prixProduit>1139.0</prixProduit>
+<quantiteActuel>2461</quantiteActuel>
+<quantiteAlarme>250</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Mack</auteurCreation>
+<auteurModification>Kenyon
+</auteurModification>
+</row>
+<row idProduit="4809">
+<idAlarme>5515</idAlarme>
+<nomProduit>HUMEX MAL DE GORGE MIEL CITRON 20mg past</nomProduit>
+<codeProduit>c2b70d</codeProduit>
+<prixProduit>627.0</prixProduit>
+<quantiteActuel>2833</quantiteActuel>
+<quantiteAlarme>244</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-08-19</dateModification>
+<auteurCreation>Christian</auteurCreation>
+<auteurModification>Wyoming
+</auteurModification>
+</row>
+<row idProduit="4810">
+<idAlarme>8709</idAlarme>
+<nomProduit>HUMEX MAL DE GORGE ORANGE 20mg past</nomProduit>
+<codeProduit>3cfc93</codeProduit>
+<prixProduit>1303.0</prixProduit>
+<quantiteActuel>2671</quantiteActuel>
+<quantiteAlarme>257</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-09-30</dateModification>
+<auteurCreation>Avila</auteurCreation>
+<auteurModification>Dominic
+</auteurModification>
+</row>
+<row idProduit="4811">
+<idAlarme>5638</idAlarme>
+<nomProduit>HUMEX RHINITE ALLERGIQUE cp pellic</nomProduit>
+<codeProduit>a334cd</codeProduit>
+<prixProduit>418.0</prixProduit>
+<quantiteActuel>1994</quantiteActuel>
+<quantiteAlarme>472</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-08-23</dateModification>
+<auteurCreation>Peters</auteurCreation>
+<auteurModification>Emery
+</auteurModification>
+</row>
+<row idProduit="4812">
+<idAlarme>9257</idAlarme>
+<nomProduit>HUMEX RHUME cp/gel</nomProduit>
+<codeProduit>e87fb2</codeProduit>
+<prixProduit>1287.0</prixProduit>
+<quantiteActuel>2307</quantiteActuel>
+<quantiteAlarme>319</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Bush</auteurCreation>
+<auteurModification>Ariana
+</auteurModification>
+</row>
+<row idProduit="4813">
+<idAlarme>3715</idAlarme>
+<nomProduit>HUMEX RHUME DES FOINS A LA BECLOMETASONE 50u/dose susp p pulv nasal</nomProduit>
+<codeProduit>87ac61</codeProduit>
+<prixProduit>752.0</prixProduit>
+<quantiteActuel>2345</quantiteActuel>
+<quantiteAlarme>347</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Vargas</auteurCreation>
+<auteurModification>Gabriel
+</auteurModification>
+</row>
+<row idProduit="4814">
+<idAlarme>522</idAlarme>
+<nomProduit>HUMEX TOUX SECHE DEXTROMETHORPHANE sirop ad</nomProduit>
+<codeProduit>028709</codeProduit>
+<prixProduit>1070.0</prixProduit>
+<quantiteActuel>1766</quantiteActuel>
+<quantiteAlarme>429</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Hopkins</auteurCreation>
+<auteurModification>Ferdinand
+</auteurModification>
+</row>
+<row idProduit="4815">
+<idAlarme>5972</idAlarme>
+<nomProduit>HUMEX TOUX SECHE DEXTROMETHORPHANE sirop enf</nomProduit>
+<codeProduit>51d407</codeProduit>
+<prixProduit>1249.0</prixProduit>
+<quantiteActuel>1751</quantiteActuel>
+<quantiteAlarme>274</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-09-16</dateModification>
+<auteurCreation>Knapp</auteurCreation>
+<auteurModification>Grant
+</auteurModification>
+</row>
+<row idProduit="4816">
+<idAlarme>6709</idAlarme>
+<nomProduit>HUMEX TOUX SECHE PHOLCODINE sirop ad</nomProduit>
+<codeProduit>03a581</codeProduit>
+<prixProduit>714.0</prixProduit>
+<quantiteActuel>2022</quantiteActuel>
+<quantiteAlarme>246</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-07-16</dateModification>
+<auteurCreation>Anderson</auteurCreation>
+<auteurModification>Craig
+</auteurModification>
+</row>
+<row idProduit="4817">
+<idAlarme>1152</idAlarme>
+<nomProduit>HUMEX TOUX SECHE PHOLCODINE sirop enf</nomProduit>
+<codeProduit>7eaade</codeProduit>
+<prixProduit>1347.0</prixProduit>
+<quantiteActuel>1531</quantiteActuel>
+<quantiteAlarme>419</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Soto</auteurCreation>
+<auteurModification>Holmes
+</auteurModification>
+</row>
+<row idProduit="4818">
+<idAlarme>4191</idAlarme>
+<nomProduit>HUMIRA 40mg sol inj en ser preremp</nomProduit>
+<codeProduit>41a58d</codeProduit>
+<prixProduit>1279.0</prixProduit>
+<quantiteActuel>1763</quantiteActuel>
+<quantiteAlarme>176</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-07-15</dateModification>
+<auteurCreation>Watts</auteurCreation>
+<auteurModification>Kitra
+</auteurModification>
+</row>
+<row idProduit="4819">
+<idAlarme>99</idAlarme>
+<nomProduit>HUMIRA 40mg sol inj stylo</nomProduit>
+<codeProduit>e35c9b</codeProduit>
+<prixProduit>595.0</prixProduit>
+<quantiteActuel>1692</quantiteActuel>
+<quantiteAlarme>333</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-10-05</dateModification>
+<auteurCreation>Sims</auteurCreation>
+<auteurModification>Grady
+</auteurModification>
+</row>
+<row idProduit="4820">
+<idAlarme>3316</idAlarme>
+<nomProduit>HUMOXAL sol nasal</nomProduit>
+<codeProduit>9fad90</codeProduit>
+<prixProduit>271.0</prixProduit>
+<quantiteActuel>2740</quantiteActuel>
+<quantiteAlarme>381</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-06-22</dateModification>
+<auteurCreation>Dillon</auteurCreation>
+<auteurModification>Chaney
+</auteurModification>
+</row>
+<row idProduit="4821">
+<idAlarme>1454</idAlarme>
+<nomProduit>HYALGAN 20mg/2ml sol inj en seringue preremplie</nomProduit>
+<codeProduit>0f9e81</codeProduit>
+<prixProduit>1213.0</prixProduit>
+<quantiteActuel>1823</quantiteActuel>
+<quantiteAlarme>360</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-09-21</dateModification>
+<auteurCreation>Skinner</auteurCreation>
+<auteurModification>Rebekah
+</auteurModification>
+</row>
+<row idProduit="4822">
+<idAlarme>3550</idAlarme>
+<nomProduit>HYCAMTIN 0,25mg gel</nomProduit>
+<codeProduit>57053a</codeProduit>
+<prixProduit>874.0</prixProduit>
+<quantiteActuel>1508</quantiteActuel>
+<quantiteAlarme>269</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-06-20</dateModification>
+<auteurCreation>Morrison</auteurCreation>
+<auteurModification>Aaron
+</auteurModification>
+</row>
+<row idProduit="4823">
+<idAlarme>10124</idAlarme>
+<nomProduit>HYCAMTIN 1mg gel</nomProduit>
+<codeProduit>cb3c46</codeProduit>
+<prixProduit>1407.0</prixProduit>
+<quantiteActuel>2188</quantiteActuel>
+<quantiteAlarme>353</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-06-26</dateModification>
+<auteurCreation>Perkins</auteurCreation>
+<auteurModification>Clinton
+</auteurModification>
+</row>
+<row idProduit="4824">
+<idAlarme>1387</idAlarme>
+<nomProduit>HYCAMTIN 4mg pdre p sol diluer p perf</nomProduit>
+<codeProduit>4b60ed</codeProduit>
+<prixProduit>180.0</prixProduit>
+<quantiteActuel>1554</quantiteActuel>
+<quantiteAlarme>223</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-07-17</dateModification>
+<auteurCreation>Mcclure</auteurCreation>
+<auteurModification>Hop
+</auteurModification>
+</row>
+<row idProduit="4825">
+<idAlarme>2974</idAlarme>
+<nomProduit>HYDERGINE 1 mg/ml sol buv</nomProduit>
+<codeProduit>4a9b69</codeProduit>
+<prixProduit>1390.0</prixProduit>
+<quantiteActuel>1928</quantiteActuel>
+<quantiteAlarme>424</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-22</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Villarreal</auteurCreation>
+<auteurModification>Emma
+</auteurModification>
+</row>
+<row idProduit="4826">
+<idAlarme>8827</idAlarme>
+<nomProduit>HYDERGINE 4,5 mg cp sec</nomProduit>
+<codeProduit>b0c08d</codeProduit>
+<prixProduit>1263.0</prixProduit>
+<quantiteActuel>2605</quantiteActuel>
+<quantiteAlarme>342</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-09-30</dateModification>
+<auteurCreation>Gilbert</auteurCreation>
+<auteurModification>Philip
+</auteurModification>
+</row>
+<row idProduit="4827">
+<idAlarme>86</idAlarme>
+<nomProduit>HYDRACORT 0,5 % creme</nomProduit>
+<codeProduit>596848</codeProduit>
+<prixProduit>758.0</prixProduit>
+<quantiteActuel>2092</quantiteActuel>
+<quantiteAlarme>119</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-07-22</dateModification>
+<auteurCreation>Britt</auteurCreation>
+<auteurModification>Carson
+</auteurModification>
+</row>
+<row idProduit="4828">
+<idAlarme>8510</idAlarme>
+<nomProduit>HYDRASTIS COMPOSE BOIRON cp</nomProduit>
+<codeProduit>de09ae</codeProduit>
+<prixProduit>1199.0</prixProduit>
+<quantiteActuel>2558</quantiteActuel>
+<quantiteAlarme>495</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-10-01</dateModification>
+<auteurCreation>Martin</auteurCreation>
+<auteurModification>Xantha
+</auteurModification>
+</row>
+<row idProduit="4829">
+<idAlarme>9339</idAlarme>
+<nomProduit>HYDRASTIS COMPOSE BOIRON gle</nomProduit>
+<codeProduit>11d932</codeProduit>
+<prixProduit>844.0</prixProduit>
+<quantiteActuel>2875</quantiteActuel>
+<quantiteAlarme>118</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-09-10</dateModification>
+<auteurCreation>Chapman</auteurCreation>
+<auteurModification>Steven
+</auteurModification>
+</row>
+<row idProduit="4830">
+<idAlarme>3857</idAlarme>
+<nomProduit>HYDRASTIS COMPOSE BOIRON sol buv</nomProduit>
+<codeProduit>08c245</codeProduit>
+<prixProduit>871.0</prixProduit>
+<quantiteActuel>1728</quantiteActuel>
+<quantiteAlarme>355</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-08-09</dateModification>
+<auteurCreation>Velasquez</auteurCreation>
+<auteurModification>Nola
+</auteurModification>
+</row>
+<row idProduit="4831">
+<idAlarme>2647</idAlarme>
+<nomProduit>HYDREA 500 mg gel</nomProduit>
+<codeProduit>022aef</codeProduit>
+<prixProduit>195.0</prixProduit>
+<quantiteActuel>2681</quantiteActuel>
+<quantiteAlarme>341</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-08-29</dateModification>
+<auteurCreation>Holmes</auteurCreation>
+<auteurModification>Kaitlin
+</auteurModification>
+</row>
+<row idProduit="4832">
+<idAlarme>5879</idAlarme>
+<nomProduit>HYDROCLONAZONE 12,2mg cp p sol buv</nomProduit>
+<codeProduit>cbf38d</codeProduit>
+<prixProduit>1179.0</prixProduit>
+<quantiteActuel>1545</quantiteActuel>
+<quantiteAlarme>373</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-08-20</dateModification>
+<auteurCreation>Deleon</auteurCreation>
+<auteurModification>Amy
+</auteurModification>
+</row>
+<row idProduit="4833">
+<idAlarme>8343</idAlarme>
+<nomProduit>HYDROCORTANCYL 2,5 % susp inj</nomProduit>
+<codeProduit>6eec09</codeProduit>
+<prixProduit>629.0</prixProduit>
+<quantiteActuel>1812</quantiteActuel>
+<quantiteAlarme>467</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-08-31</dateModification>
+<auteurCreation>Ray</auteurCreation>
+<auteurModification>Brendan
+</auteurModification>
+</row>
+<row idProduit="4834">
+<idAlarme>9423</idAlarme>
+<nomProduit>HYDROCORTISONE KERAPHARM 1 % creme</nomProduit>
+<codeProduit>a35c06</codeProduit>
+<prixProduit>926.0</prixProduit>
+<quantiteActuel>2136</quantiteActuel>
+<quantiteAlarme>186</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Morton</auteurCreation>
+<auteurModification>Allen
+</auteurModification>
+</row>
+<row idProduit="4835">
+<idAlarme>2960</idAlarme>
+<nomProduit>HYDROCORTISONE ROUSSEL 10 mg cp sec</nomProduit>
+<codeProduit>6ad66a</codeProduit>
+<prixProduit>911.0</prixProduit>
+<quantiteActuel>2850</quantiteActuel>
+<quantiteAlarme>143</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-07-03</dateModification>
+<auteurCreation>Salazar</auteurCreation>
+<auteurModification>Lev
+</auteurModification>
+</row>
+<row idProduit="4836">
+<idAlarme>1084</idAlarme>
+<nomProduit>HYDROCORTISONE UPJOHN 100 mg pdre/solv p sol inj</nomProduit>
+<codeProduit>8e05e4</codeProduit>
+<prixProduit>1436.0</prixProduit>
+<quantiteActuel>1984</quantiteActuel>
+<quantiteAlarme>200</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-08-11</dateModification>
+<auteurCreation>Cohen</auteurCreation>
+<auteurModification>Brody
+</auteurModification>
+</row>
+<row idProduit="4837">
+<idAlarme>3614</idAlarme>
+<nomProduit>HYDROCORTISONE UPJOHN 500 mg pdre/solv p sol inj</nomProduit>
+<codeProduit>0a9066</codeProduit>
+<prixProduit>1167.0</prixProduit>
+<quantiteActuel>2706</quantiteActuel>
+<quantiteAlarme>276</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-07-09</dateModification>
+<auteurCreation>Kidd</auteurCreation>
+<auteurModification>Zorita
+</auteurModification>
+</row>
+<row idProduit="4838">
+<idAlarme>9360</idAlarme>
+<nomProduit>HYDROSOL POLYVITAMINE PHARMADEVELOPPEMENT sol buv en gte</nomProduit>
+<codeProduit>03f322</codeProduit>
+<prixProduit>306.0</prixProduit>
+<quantiteActuel>1991</quantiteActuel>
+<quantiteAlarme>297</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-09-28</dateModification>
+<auteurCreation>Mccray</auteurCreation>
+<auteurModification>Belle
+</auteurModification>
+</row>
+<row idProduit="4839">
+<idAlarme>2016</idAlarme>
+<nomProduit>HYDROXYDES ALUMINIUM/MAGNESIUM SANDOZ CONSEIL 400mg/400mg cp a croquer</nomProduit>
+<codeProduit>2b5a12</codeProduit>
+<prixProduit>371.0</prixProduit>
+<quantiteActuel>1739</quantiteActuel>
+<quantiteAlarme>164</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-09-17</dateModification>
+<auteurCreation>Lopez</auteurCreation>
+<auteurModification>Craig
+</auteurModification>
+</row>
+<row idProduit="4840">
+<idAlarme>6990</idAlarme>
+<nomProduit>HYDROXYZINE RENAUDIN 100mg/2ml sol inj</nomProduit>
+<codeProduit>36cbbb</codeProduit>
+<prixProduit>1041.0</prixProduit>
+<quantiteActuel>1871</quantiteActuel>
+<quantiteAlarme>434</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Cleveland</auteurCreation>
+<auteurModification>Briar
+</auteurModification>
+</row>
+<row idProduit="4841">
+<idAlarme>4061</idAlarme>
+<nomProduit>HYPERAMINE 20 sol inj p perf</nomProduit>
+<codeProduit>514e83</codeProduit>
+<prixProduit>1042.0</prixProduit>
+<quantiteActuel>2943</quantiteActuel>
+<quantiteAlarme>260</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-07-18</dateModification>
+<auteurCreation>Terry</auteurCreation>
+<auteurModification>Shafira
+</auteurModification>
+</row>
+<row idProduit="4842">
+<idAlarme>3338</idAlarme>
+<nomProduit>HYPERAMINE 25 sol inj p perf</nomProduit>
+<codeProduit>b22a63</codeProduit>
+<prixProduit>1086.0</prixProduit>
+<quantiteActuel>2488</quantiteActuel>
+<quantiteAlarme>219</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>Crawford</auteurCreation>
+<auteurModification>Marah
+</auteurModification>
+</row>
+<row idProduit="4843">
+<idAlarme>6082</idAlarme>
+<nomProduit>HYPERAMINE 30 sol inj p perf</nomProduit>
+<codeProduit>37a7ee</codeProduit>
+<prixProduit>998.0</prixProduit>
+<quantiteActuel>2590</quantiteActuel>
+<quantiteAlarme>417</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-07-03</dateModification>
+<auteurCreation>Russell</auteurCreation>
+<auteurModification>Nigel
+</auteurModification>
+</row>
+<row idProduit="4844">
+<idAlarme>10072</idAlarme>
+<nomProduit>HYPERHES sol p perf</nomProduit>
+<codeProduit>e3fd8f</codeProduit>
+<prixProduit>1487.0</prixProduit>
+<quantiteActuel>1900</quantiteActuel>
+<quantiteAlarme>253</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-07-24</dateModification>
+<auteurCreation>Moody</auteurCreation>
+<auteurModification>Eric
+</auteurModification>
+</row>
+<row idProduit="4845">
+<idAlarme>2756</idAlarme>
+<nomProduit>HYPERIUM 1 mg cp</nomProduit>
+<codeProduit>d2d35c</codeProduit>
+<prixProduit>462.0</prixProduit>
+<quantiteActuel>2756</quantiteActuel>
+<quantiteAlarme>269</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-08-24</dateModification>
+<auteurCreation>Higgins</auteurCreation>
+<auteurModification>Avye
+</auteurModification>
+</row>
+<row idProduit="4846">
+<idAlarme>6862</idAlarme>
+<nomProduit>HYPNOMIDATE 2mg/ml sol inj</nomProduit>
+<codeProduit>d23fd8</codeProduit>
+<prixProduit>239.0</prixProduit>
+<quantiteActuel>2190</quantiteActuel>
+<quantiteAlarme>359</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Morse</auteurCreation>
+<auteurModification>Selma
+</auteurModification>
+</row>
+<row idProduit="4847">
+<idAlarme>5591</idAlarme>
+<nomProduit>HYPNOVEL 1 mg/ml sol inj IM IV et rectale</nomProduit>
+<codeProduit>f0aa9c</codeProduit>
+<prixProduit>206.0</prixProduit>
+<quantiteActuel>2813</quantiteActuel>
+<quantiteAlarme>406</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-07-30</dateModification>
+<auteurCreation>Hickman</auteurCreation>
+<auteurModification>Claudia
+</auteurModification>
+</row>
+<row idProduit="4848">
+<idAlarme>2080</idAlarme>
+<nomProduit>HYPNOVEL 5mg/ml sol inj</nomProduit>
+<codeProduit>6599a3</codeProduit>
+<prixProduit>825.0</prixProduit>
+<quantiteActuel>2849</quantiteActuel>
+<quantiteAlarme>102</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Tillman</auteurCreation>
+<auteurModification>Quinn
+</auteurModification>
+</row>
+<row idProduit="4849">
+<idAlarme>8605</idAlarme>
+<nomProduit>HYPOSTAMINE 100 mg cp</nomProduit>
+<codeProduit>0f5c2f</codeProduit>
+<prixProduit>1242.0</prixProduit>
+<quantiteActuel>2959</quantiteActuel>
+<quantiteAlarme>219</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-12</dateCreation>
+<dateModification>2010-09-20</dateModification>
+<auteurCreation>Castro</auteurCreation>
+<auteurModification>Wing
+</auteurModification>
+</row>
+<row idProduit="4850">
+<idAlarme>9046</idAlarme>
+<nomProduit>HYTACAND 16mg/12,5mg cp</nomProduit>
+<codeProduit>53038a</codeProduit>
+<prixProduit>294.0</prixProduit>
+<quantiteActuel>1625</quantiteActuel>
+<quantiteAlarme>280</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-07-26</dateModification>
+<auteurCreation>Bowman</auteurCreation>
+<auteurModification>Allegra
+</auteurModification>
+</row>
+<row idProduit="4851">
+<idAlarme>6811</idAlarme>
+<nomProduit>HYTACAND 8 mg/12,5 mg cp</nomProduit>
+<codeProduit>af7c49</codeProduit>
+<prixProduit>1177.0</prixProduit>
+<quantiteActuel>2020</quantiteActuel>
+<quantiteAlarme>498</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-07-17</dateModification>
+<auteurCreation>Lynn</auteurCreation>
+<auteurModification>Sandra
+</auteurModification>
+</row>
+<row idProduit="4852">
+<idAlarme>1162</idAlarme>
+<nomProduit>HYTRINE 1 mg cp</nomProduit>
+<codeProduit>5c1bea</codeProduit>
+<prixProduit>581.0</prixProduit>
+<quantiteActuel>1873</quantiteActuel>
+<quantiteAlarme>126</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-08-24</dateModification>
+<auteurCreation>Casey</auteurCreation>
+<auteurModification>Abra
+</auteurModification>
+</row>
+<row idProduit="4853">
+<idAlarme>4125</idAlarme>
+<nomProduit>HYTRINE 5 mg cp</nomProduit>
+<codeProduit>f29ce4</codeProduit>
+<prixProduit>1476.0</prixProduit>
+<quantiteActuel>1526</quantiteActuel>
+<quantiteAlarme>293</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Valenzuela</auteurCreation>
+<auteurModification>Salvador
+</auteurModification>
+</row>
+<row idProduit="4854">
+<idAlarme>4282</idAlarme>
+<nomProduit>HYZAAR 50 mg/12,5 mg cp pellic</nomProduit>
+<codeProduit>470d61</codeProduit>
+<prixProduit>987.0</prixProduit>
+<quantiteActuel>2996</quantiteActuel>
+<quantiteAlarme>253</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-10-06</dateModification>
+<auteurCreation>Ford</auteurCreation>
+<auteurModification>Murphy
+</auteurModification>
+</row>
+</root>

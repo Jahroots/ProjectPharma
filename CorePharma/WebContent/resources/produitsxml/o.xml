@@ -1,0 +1,4917 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<root>
+<row idProduit="6838">
+<idAlarme>6117</idAlarme>
+<nomProduit>OBEFLORINE tis en sach-dose</nomProduit>
+<codeProduit>823572</codeProduit>
+<prixProduit>386.0</prixProduit>
+<quantiteActuel>2233</quantiteActuel>
+<quantiteAlarme>385</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-08-04</dateModification>
+<auteurCreation>Hendricks</auteurCreation>
+<auteurModification>Tucker
+</auteurModification>
+</row>
+<row idProduit="6839">
+<idAlarme>10176</idAlarme>
+<nomProduit>OCTAFIX 100UI/ml pdre/solv p sol inj</nomProduit>
+<codeProduit>28aee4</codeProduit>
+<prixProduit>1048.0</prixProduit>
+<quantiteActuel>2944</quantiteActuel>
+<quantiteAlarme>308</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-08-23</dateModification>
+<auteurCreation>Craig</auteurCreation>
+<auteurModification>Autumn
+</auteurModification>
+</row>
+<row idProduit="6840">
+<idAlarme>1727</idAlarme>
+<nomProduit>OCTAGAM 50mg/ml sol p perf</nomProduit>
+<codeProduit>ab7d60</codeProduit>
+<prixProduit>1314.0</prixProduit>
+<quantiteActuel>2308</quantiteActuel>
+<quantiteAlarme>136</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-08-13</dateModification>
+<auteurCreation>Morton</auteurCreation>
+<auteurModification>Clayton
+</auteurModification>
+</row>
+<row idProduit="6841">
+<idAlarme>3108</idAlarme>
+<nomProduit>OCTANATE 100UI/ml pdre/solv p sol inj</nomProduit>
+<codeProduit>62049d</codeProduit>
+<prixProduit>1425.0</prixProduit>
+<quantiteActuel>2699</quantiteActuel>
+<quantiteAlarme>172</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-18</dateCreation>
+<dateModification>2010-09-05</dateModification>
+<auteurCreation>Ballard</auteurCreation>
+<auteurModification>Isaac
+</auteurModification>
+</row>
+<row idProduit="6842">
+<idAlarme>7601</idAlarme>
+<nomProduit>OCTANATE 50UI/ml pdre/solv p sol inj</nomProduit>
+<codeProduit>428b0e</codeProduit>
+<prixProduit>1007.0</prixProduit>
+<quantiteActuel>2194</quantiteActuel>
+<quantiteAlarme>269</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-07-10</dateModification>
+<auteurCreation>Johns</auteurCreation>
+<auteurModification>Dean
+</auteurModification>
+</row>
+<row idProduit="6843">
+<idAlarme>8881</idAlarme>
+<nomProduit>OCTAPLEX 500 UI pdre/solv p sol p perf</nomProduit>
+<codeProduit>b6c55c</codeProduit>
+<prixProduit>295.0</prixProduit>
+<quantiteActuel>2864</quantiteActuel>
+<quantiteAlarme>240</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Turner</auteurCreation>
+<auteurModification>Drake
+</auteurModification>
+</row>
+<row idProduit="6844">
+<idAlarme>1097</idAlarme>
+<nomProduit>OCTIM 150 ug/dose sol p pulv nasal</nomProduit>
+<codeProduit>66b1b3</codeProduit>
+<prixProduit>1193.0</prixProduit>
+<quantiteActuel>2275</quantiteActuel>
+<quantiteAlarme>455</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-07-29</dateModification>
+<auteurCreation>Carney</auteurCreation>
+<auteurModification>Cade
+</auteurModification>
+</row>
+<row idProduit="6845">
+<idAlarme>8978</idAlarme>
+<nomProduit>OCTREOTIDE HOSPIRA 100 ug/1 ml sol inj</nomProduit>
+<codeProduit>c39319</codeProduit>
+<prixProduit>877.0</prixProduit>
+<quantiteActuel>1712</quantiteActuel>
+<quantiteAlarme>135</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-18</dateCreation>
+<dateModification>2010-06-28</dateModification>
+<auteurCreation>Mckinney</auteurCreation>
+<auteurModification>Brenden
+</auteurModification>
+</row>
+<row idProduit="6846">
+<idAlarme>1475</idAlarme>
+<nomProduit>OCTREOTIDE HOSPIRA 50 ug/1 ml sol inj</nomProduit>
+<codeProduit>55c260</codeProduit>
+<prixProduit>1234.0</prixProduit>
+<quantiteActuel>1647</quantiteActuel>
+<quantiteAlarme>291</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-09-23</dateModification>
+<auteurCreation>Duke</auteurCreation>
+<auteurModification>Charles
+</auteurModification>
+</row>
+<row idProduit="6847">
+<idAlarme>1709</idAlarme>
+<nomProduit>OCTREOTIDE HOSPIRA 500 ug/1 ml sol inj</nomProduit>
+<codeProduit>bef52b</codeProduit>
+<prixProduit>341.0</prixProduit>
+<quantiteActuel>1838</quantiteActuel>
+<quantiteAlarme>422</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-06-21</dateModification>
+<auteurCreation>Navarro</auteurCreation>
+<auteurModification>Dieter
+</auteurModification>
+</row>
+<row idProduit="6848">
+<idAlarme>3910</idAlarme>
+<nomProduit>OCUFEN 0,03 % collyre en unidose</nomProduit>
+<codeProduit>3d0880</codeProduit>
+<prixProduit>297.0</prixProduit>
+<quantiteActuel>2742</quantiteActuel>
+<quantiteAlarme>255</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Duffy</auteurCreation>
+<auteurModification>Tyler
+</auteurModification>
+</row>
+<row idProduit="6849">
+<idAlarme>10126</idAlarme>
+<nomProduit>ODDIBIL 250 mg cp enr</nomProduit>
+<codeProduit>699bec</codeProduit>
+<prixProduit>576.0</prixProduit>
+<quantiteActuel>2188</quantiteActuel>
+<quantiteAlarme>498</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>King</auteurCreation>
+<auteurModification>Evan
+</auteurModification>
+</row>
+<row idProduit="6850">
+<idAlarme>8526</idAlarme>
+<nomProduit>ODRIK 0,5 mg gel</nomProduit>
+<codeProduit>9d44a3</codeProduit>
+<prixProduit>848.0</prixProduit>
+<quantiteActuel>2840</quantiteActuel>
+<quantiteAlarme>249</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Frederick</auteurCreation>
+<auteurModification>Carter
+</auteurModification>
+</row>
+<row idProduit="6851">
+<idAlarme>5486</idAlarme>
+<nomProduit>ODRIK 2 mg gel</nomProduit>
+<codeProduit>dc3e15</codeProduit>
+<prixProduit>606.0</prixProduit>
+<quantiteActuel>2122</quantiteActuel>
+<quantiteAlarme>464</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-09-25</dateModification>
+<auteurCreation>Noble</auteurCreation>
+<auteurModification>Melanie
+</auteurModification>
+</row>
+<row idProduit="6852">
+<idAlarme>7198</idAlarme>
+<nomProduit>ODRIK 4mg gel</nomProduit>
+<codeProduit>c59e26</codeProduit>
+<prixProduit>716.0</prixProduit>
+<quantiteActuel>2117</quantiteActuel>
+<quantiteAlarme>423</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-08-23</dateModification>
+<auteurCreation>Cox</auteurCreation>
+<auteurModification>Adrian
+</auteurModification>
+</row>
+<row idProduit="6853">
+<idAlarme>10181</idAlarme>
+<nomProduit>OESCLIM 25 ug/24 h disp transderm</nomProduit>
+<codeProduit>f36552</codeProduit>
+<prixProduit>1394.0</prixProduit>
+<quantiteActuel>2360</quantiteActuel>
+<quantiteAlarme>228</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Yang</auteurCreation>
+<auteurModification>Martina
+</auteurModification>
+</row>
+<row idProduit="6854">
+<idAlarme>2030</idAlarme>
+<nomProduit>OESCLIM 37,5 ug/24 h disp transderm</nomProduit>
+<codeProduit>798e6b</codeProduit>
+<prixProduit>682.0</prixProduit>
+<quantiteActuel>2648</quantiteActuel>
+<quantiteAlarme>175</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-09-10</dateModification>
+<auteurCreation>Finch</auteurCreation>
+<auteurModification>Bo
+</auteurModification>
+</row>
+<row idProduit="6855">
+<idAlarme>88</idAlarme>
+<nomProduit>OESCLIM 50 ug/24 h disp transderm</nomProduit>
+<codeProduit>398d03</codeProduit>
+<prixProduit>346.0</prixProduit>
+<quantiteActuel>2714</quantiteActuel>
+<quantiteAlarme>106</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Trevino</auteurCreation>
+<auteurModification>Kelly
+</auteurModification>
+</row>
+<row idProduit="6856">
+<idAlarme>2712</idAlarme>
+<nomProduit>OESTRODOSE 0,06% gel p appl cut</nomProduit>
+<codeProduit>33cdbd</codeProduit>
+<prixProduit>576.0</prixProduit>
+<quantiteActuel>1732</quantiteActuel>
+<quantiteAlarme>157</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Ratliff</auteurCreation>
+<auteurModification>Audrey
+</auteurModification>
+</row>
+<row idProduit="6857">
+<idAlarme>7495</idAlarme>
+<nomProduit>OESTROGEL 0,06% gel p appl cut tube</nomProduit>
+<codeProduit>8da906</codeProduit>
+<prixProduit>585.0</prixProduit>
+<quantiteActuel>2778</quantiteActuel>
+<quantiteAlarme>266</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-06-20</dateModification>
+<auteurCreation>Ellison</auteurCreation>
+<auteurModification>Ali
+</auteurModification>
+</row>
+<row idProduit="6858">
+<idAlarme>2771</idAlarme>
+<nomProduit>OFLOCET 1,5mg/0,5ml sol auric</nomProduit>
+<codeProduit>264782</codeProduit>
+<prixProduit>194.0</prixProduit>
+<quantiteActuel>2952</quantiteActuel>
+<quantiteAlarme>490</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-08-10</dateModification>
+<auteurCreation>Sears</auteurCreation>
+<auteurModification>Jakeem
+</auteurModification>
+</row>
+<row idProduit="6859">
+<idAlarme>2339</idAlarme>
+<nomProduit>OFLOCET 200mg cp pellic sec</nomProduit>
+<codeProduit>15566f</codeProduit>
+<prixProduit>1454.0</prixProduit>
+<quantiteActuel>2624</quantiteActuel>
+<quantiteAlarme>428</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-08-23</dateModification>
+<auteurCreation>Baldwin</auteurCreation>
+<auteurModification>Azalia
+</auteurModification>
+</row>
+<row idProduit="6860">
+<idAlarme>8597</idAlarme>
+<nomProduit>OFLOCET 200mg/40ml sol inj p perf</nomProduit>
+<codeProduit>1911d6</codeProduit>
+<prixProduit>464.0</prixProduit>
+<quantiteActuel>1634</quantiteActuel>
+<quantiteAlarme>221</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-07-18</dateModification>
+<auteurCreation>Deleon</auteurCreation>
+<auteurModification>Jolene
+</auteurModification>
+</row>
+<row idProduit="6861">
+<idAlarme>5694</idAlarme>
+<nomProduit>OFLOXACINE AGUETTANT 200mg/40ml sol inj p perf</nomProduit>
+<codeProduit>bf9f84</codeProduit>
+<prixProduit>1472.0</prixProduit>
+<quantiteActuel>2033</quantiteActuel>
+<quantiteAlarme>357</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-06-17</dateModification>
+<auteurCreation>Patel</auteurCreation>
+<auteurModification>Declan
+</auteurModification>
+</row>
+<row idProduit="6862">
+<idAlarme>5140</idAlarme>
+<nomProduit>OFLOXACINE ALMUS 200mg cp pellic sec</nomProduit>
+<codeProduit>afdd91</codeProduit>
+<prixProduit>582.0</prixProduit>
+<quantiteActuel>2261</quantiteActuel>
+<quantiteAlarme>145</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Cunningham</auteurCreation>
+<auteurModification>Ivan
+</auteurModification>
+</row>
+<row idProduit="6863">
+<idAlarme>2673</idAlarme>
+<nomProduit>OFLOXACINE ARROW 200mg cp pellic sec</nomProduit>
+<codeProduit>d35c1b</codeProduit>
+<prixProduit>1056.0</prixProduit>
+<quantiteActuel>1961</quantiteActuel>
+<quantiteAlarme>231</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-07-12</dateModification>
+<auteurCreation>Lewis</auteurCreation>
+<auteurModification>Rooney
+</auteurModification>
+</row>
+<row idProduit="6864">
+<idAlarme>6050</idAlarme>
+<nomProduit>OFLOXACINE BIOGARAN 200mg cp pellic sec</nomProduit>
+<codeProduit>5338b2</codeProduit>
+<prixProduit>369.0</prixProduit>
+<quantiteActuel>2842</quantiteActuel>
+<quantiteAlarme>465</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-06-20</dateModification>
+<auteurCreation>Franks</auteurCreation>
+<auteurModification>Lester
+</auteurModification>
+</row>
+<row idProduit="6865">
+<idAlarme>3131</idAlarme>
+<nomProduit>OFLOXACINE EG 200mg cp pellic sec</nomProduit>
+<codeProduit>f98f49</codeProduit>
+<prixProduit>197.0</prixProduit>
+<quantiteActuel>2987</quantiteActuel>
+<quantiteAlarme>417</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-08-25</dateModification>
+<auteurCreation>Webster</auteurCreation>
+<auteurModification>Joseph
+</auteurModification>
+</row>
+<row idProduit="6866">
+<idAlarme>8809</idAlarme>
+<nomProduit>OFLOXACINE MACO-PHARMA 200mg/40ml S inj p perf</nomProduit>
+<codeProduit>cd61e8</codeProduit>
+<prixProduit>1146.0</prixProduit>
+<quantiteActuel>2484</quantiteActuel>
+<quantiteAlarme>305</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-22</dateCreation>
+<dateModification>2010-10-05</dateModification>
+<auteurCreation>Copeland</auteurCreation>
+<auteurModification>Phyllis
+</auteurModification>
+</row>
+<row idProduit="6867">
+<idAlarme>7357</idAlarme>
+<nomProduit>OFLOXACINE MYLAN 200 mg cp pellic sec</nomProduit>
+<codeProduit>f272f1</codeProduit>
+<prixProduit>795.0</prixProduit>
+<quantiteActuel>1832</quantiteActuel>
+<quantiteAlarme>232</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Logan</auteurCreation>
+<auteurModification>Brenna
+</auteurModification>
+</row>
+<row idProduit="6868">
+<idAlarme>2656</idAlarme>
+<nomProduit>OFLOXACINE MYLAN 200 mg/40 mg sol inj p perf</nomProduit>
+<codeProduit>a21816</codeProduit>
+<prixProduit>805.0</prixProduit>
+<quantiteActuel>2801</quantiteActuel>
+<quantiteAlarme>261</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-08-14</dateModification>
+<auteurCreation>Bentley</auteurCreation>
+<auteurModification>Fulton
+</auteurModification>
+</row>
+<row idProduit="6869">
+<idAlarme>3434</idAlarme>
+<nomProduit>OFLOXACINE MYLAN PHARMA 200 mg/40 ml sol p perf</nomProduit>
+<codeProduit>b9f332</codeProduit>
+<prixProduit>1222.0</prixProduit>
+<quantiteActuel>2590</quantiteActuel>
+<quantiteAlarme>285</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>French</auteurCreation>
+<auteurModification>Quail
+</auteurModification>
+</row>
+<row idProduit="6870">
+<idAlarme>8169</idAlarme>
+<nomProduit>OFLOXACINE QUALIMED 200mg cp pellic sec</nomProduit>
+<codeProduit>67ae16</codeProduit>
+<prixProduit>400.0</prixProduit>
+<quantiteActuel>2792</quantiteActuel>
+<quantiteAlarme>414</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-09-05</dateModification>
+<auteurCreation>England</auteurCreation>
+<auteurModification>India
+</auteurModification>
+</row>
+<row idProduit="6871">
+<idAlarme>6825</idAlarme>
+<nomProduit>OFLOXACINE RANBAXY 200mg cp pellic sec</nomProduit>
+<codeProduit>980bcf</codeProduit>
+<prixProduit>682.0</prixProduit>
+<quantiteActuel>1604</quantiteActuel>
+<quantiteAlarme>386</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>Potter</auteurCreation>
+<auteurModification>Ian
+</auteurModification>
+</row>
+<row idProduit="6872">
+<idAlarme>727</idAlarme>
+<nomProduit>OFLOXACINE RATIOPHARM 200mg cp pellic sec</nomProduit>
+<codeProduit>173be6</codeProduit>
+<prixProduit>1165.0</prixProduit>
+<quantiteActuel>1554</quantiteActuel>
+<quantiteAlarme>460</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-08-11</dateModification>
+<auteurCreation>Cash</auteurCreation>
+<auteurModification>Gregory
+</auteurModification>
+</row>
+<row idProduit="6873">
+<idAlarme>4953</idAlarme>
+<nomProduit>OFLOXACINE SANDOZ 200mg cp pellic sec</nomProduit>
+<codeProduit>56673b</codeProduit>
+<prixProduit>362.0</prixProduit>
+<quantiteActuel>2894</quantiteActuel>
+<quantiteAlarme>294</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-07-13</dateModification>
+<auteurCreation>Gregory</auteurCreation>
+<auteurModification>Hannah
+</auteurModification>
+</row>
+<row idProduit="6874">
+<idAlarme>2889</idAlarme>
+<nomProduit>OFLOXACINE TEVA 200mg cp pellic sec</nomProduit>
+<codeProduit>4d64f1</codeProduit>
+<prixProduit>872.0</prixProduit>
+<quantiteActuel>2490</quantiteActuel>
+<quantiteAlarme>412</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-07-27</dateModification>
+<auteurCreation>Lopez</auteurCreation>
+<auteurModification>Kenyon
+</auteurModification>
+</row>
+<row idProduit="6875">
+<idAlarme>7344</idAlarme>
+<nomProduit>OFLOXACINE WINTHROP 200mg cp pellic sec</nomProduit>
+<codeProduit>a74744</codeProduit>
+<prixProduit>1171.0</prixProduit>
+<quantiteActuel>1742</quantiteActuel>
+<quantiteAlarme>133</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-08-07</dateModification>
+<auteurCreation>Nguyen</auteurCreation>
+<auteurModification>Elmo
+</auteurModification>
+</row>
+<row idProduit="6876">
+<idAlarme>7850</idAlarme>
+<nomProduit>OFLOXACINE WINTHROP 200mg/40ml sol p perf</nomProduit>
+<codeProduit>c661d5</codeProduit>
+<prixProduit>1075.0</prixProduit>
+<quantiteActuel>2494</quantiteActuel>
+<quantiteAlarme>378</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-06-27</dateModification>
+<auteurCreation>William</auteurCreation>
+<auteurModification>Cadman
+</auteurModification>
+</row>
+<row idProduit="6877">
+<idAlarme>761</idAlarme>
+<nomProduit>OGAST 15mg gel gastroresis</nomProduit>
+<codeProduit>dc417d</codeProduit>
+<prixProduit>1388.0</prixProduit>
+<quantiteActuel>2292</quantiteActuel>
+<quantiteAlarme>127</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Boyd</auteurCreation>
+<auteurModification>Cole
+</auteurModification>
+</row>
+<row idProduit="6878">
+<idAlarme>8476</idAlarme>
+<nomProduit>OGAST 30mg gel gastroresis</nomProduit>
+<codeProduit>9ceba8</codeProduit>
+<prixProduit>560.0</prixProduit>
+<quantiteActuel>2419</quantiteActuel>
+<quantiteAlarme>135</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Cox</auteurCreation>
+<auteurModification>Scarlet
+</auteurModification>
+</row>
+<row idProduit="6879">
+<idAlarme>9905</idAlarme>
+<nomProduit>OGASTORO 15mg cp orodispers</nomProduit>
+<codeProduit>a67695</codeProduit>
+<prixProduit>1211.0</prixProduit>
+<quantiteActuel>1632</quantiteActuel>
+<quantiteAlarme>117</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Terry</auteurCreation>
+<auteurModification>Preston
+</auteurModification>
+</row>
+<row idProduit="6880">
+<idAlarme>5220</idAlarme>
+<nomProduit>OGASTORO 30mg cp orodispers</nomProduit>
+<codeProduit>9ef652</codeProduit>
+<prixProduit>684.0</prixProduit>
+<quantiteActuel>1729</quantiteActuel>
+<quantiteAlarme>159</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-08-12</dateModification>
+<auteurCreation>Freeman</auteurCreation>
+<auteurModification>Magee
+</auteurModification>
+</row>
+<row idProduit="6881">
+<idAlarme>10322</idAlarme>
+<nomProduit>OKIMUS cp enr</nomProduit>
+<codeProduit>d6bd44</codeProduit>
+<prixProduit>320.0</prixProduit>
+<quantiteActuel>2334</quantiteActuel>
+<quantiteAlarme>324</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-06-30</dateModification>
+<auteurCreation>Gallegos</auteurCreation>
+<auteurModification>Wendy
+</auteurModification>
+</row>
+<row idProduit="6882">
+<idAlarme>3484</idAlarme>
+<nomProduit>OLICLINOMEL N4-550E emuls p perf</nomProduit>
+<codeProduit>dfb174</codeProduit>
+<prixProduit>1050.0</prixProduit>
+<quantiteActuel>1639</quantiteActuel>
+<quantiteAlarme>108</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-08-11</dateModification>
+<auteurCreation>King</auteurCreation>
+<auteurModification>Alika
+</auteurModification>
+</row>
+<row idProduit="6883">
+<idAlarme>10218</idAlarme>
+<nomProduit>OLICLINOMEL N5-800E emuls p perf</nomProduit>
+<codeProduit>ea0326</codeProduit>
+<prixProduit>411.0</prixProduit>
+<quantiteActuel>2248</quantiteActuel>
+<quantiteAlarme>405</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-06-26</dateModification>
+<auteurCreation>Poole</auteurCreation>
+<auteurModification>Thomas
+</auteurModification>
+</row>
+<row idProduit="6884">
+<idAlarme>424</idAlarme>
+<nomProduit>OLICLINOMEL N6-900 emuls p perf</nomProduit>
+<codeProduit>b9cc8c</codeProduit>
+<prixProduit>508.0</prixProduit>
+<quantiteActuel>1795</quantiteActuel>
+<quantiteAlarme>122</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-07-23</dateModification>
+<auteurCreation>Alvarez</auteurCreation>
+<auteurModification>Kylie
+</auteurModification>
+</row>
+<row idProduit="6885">
+<idAlarme>5594</idAlarme>
+<nomProduit>OLICLINOMEL N6-900E emuls p perf</nomProduit>
+<codeProduit>143deb</codeProduit>
+<prixProduit>628.0</prixProduit>
+<quantiteActuel>2368</quantiteActuel>
+<quantiteAlarme>268</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Wagner</auteurCreation>
+<auteurModification>Jared
+</auteurModification>
+</row>
+<row idProduit="6886">
+<idAlarme>3421</idAlarme>
+<nomProduit>OLICLINOMEL N7-1000 emuls p perf</nomProduit>
+<codeProduit>62b45f</codeProduit>
+<prixProduit>976.0</prixProduit>
+<quantiteActuel>2671</quantiteActuel>
+<quantiteAlarme>141</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-08-28</dateModification>
+<auteurCreation>Stewart</auteurCreation>
+<auteurModification>Wendy
+</auteurModification>
+</row>
+<row idProduit="6887">
+<idAlarme>9274</idAlarme>
+<nomProduit>OLICLINOMEL N7-1000E emuls p perf</nomProduit>
+<codeProduit>d998d6</codeProduit>
+<prixProduit>1288.0</prixProduit>
+<quantiteActuel>2545</quantiteActuel>
+<quantiteAlarme>351</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-08-20</dateModification>
+<auteurCreation>Anthony</auteurCreation>
+<auteurModification>Kiona
+</auteurModification>
+</row>
+<row idProduit="6888">
+<idAlarme>6331</idAlarme>
+<nomProduit>OLICLINOMEL N8-800 emuls p perf</nomProduit>
+<codeProduit>9c18de</codeProduit>
+<prixProduit>455.0</prixProduit>
+<quantiteActuel>1558</quantiteActuel>
+<quantiteAlarme>397</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Odom</auteurCreation>
+<auteurModification>Elijah
+</auteurModification>
+</row>
+<row idProduit="6889">
+<idAlarme>6041</idAlarme>
+<nomProduit>OLIGO-ELEMENTS AGUETTANT sol p perf IV enf/nour</nomProduit>
+<codeProduit>191800</codeProduit>
+<prixProduit>230.0</prixProduit>
+<quantiteActuel>2837</quantiteActuel>
+<quantiteAlarme>213</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-09-01</dateModification>
+<auteurCreation>Galloway</auteurCreation>
+<auteurModification>Elijah
+</auteurModification>
+</row>
+<row idProduit="6890">
+<idAlarme>7956</idAlarme>
+<nomProduit>OLIGOSOL BISMUTH sol buv en amp</nomProduit>
+<codeProduit>5b4e4e</codeProduit>
+<prixProduit>308.0</prixProduit>
+<quantiteActuel>2623</quantiteActuel>
+<quantiteAlarme>219</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-10-04</dateModification>
+<auteurCreation>Reynolds</auteurCreation>
+<auteurModification>Chaney
+</auteurModification>
+</row>
+<row idProduit="6891">
+<idAlarme>2782</idAlarme>
+<nomProduit>OLIGOSOL COBALT sol buv en amp</nomProduit>
+<codeProduit>fdc0ec</codeProduit>
+<prixProduit>721.0</prixProduit>
+<quantiteActuel>2594</quantiteActuel>
+<quantiteAlarme>273</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>Chandler</auteurCreation>
+<auteurModification>Boris
+</auteurModification>
+</row>
+<row idProduit="6892">
+<idAlarme>9412</idAlarme>
+<nomProduit>OLIGOSOL CUIVRE sol buv en amp</nomProduit>
+<codeProduit>d6f1d4</codeProduit>
+<prixProduit>1278.0</prixProduit>
+<quantiteActuel>2237</quantiteActuel>
+<quantiteAlarme>475</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-05</dateCreation>
+<dateModification>2010-07-14</dateModification>
+<auteurCreation>Knox</auteurCreation>
+<auteurModification>Alfreda
+</auteurModification>
+</row>
+<row idProduit="6893">
+<idAlarme>4735</idAlarme>
+<nomProduit>OLIGOSOL CUIVRE-OR-ARGENT sol buv en fl</nomProduit>
+<codeProduit>4c5a1b</codeProduit>
+<prixProduit>388.0</prixProduit>
+<quantiteActuel>1673</quantiteActuel>
+<quantiteAlarme>219</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-06-21</dateModification>
+<auteurCreation>Daniels</auteurCreation>
+<auteurModification>Andrew
+</auteurModification>
+</row>
+<row idProduit="6894">
+<idAlarme>924</idAlarme>
+<nomProduit>OLIGOSOL FLUOR sol buv</nomProduit>
+<codeProduit>da25ca</codeProduit>
+<prixProduit>605.0</prixProduit>
+<quantiteActuel>2631</quantiteActuel>
+<quantiteAlarme>344</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-09-29</dateModification>
+<auteurCreation>Schneider</auteurCreation>
+<auteurModification>Grady
+</auteurModification>
+</row>
+<row idProduit="6895">
+<idAlarme>2291</idAlarme>
+<nomProduit>OLIGOSOL LITHIUM sol buv en amp</nomProduit>
+<codeProduit>172ae3</codeProduit>
+<prixProduit>889.0</prixProduit>
+<quantiteActuel>1717</quantiteActuel>
+<quantiteAlarme>424</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-07-15</dateModification>
+<auteurCreation>Parker</auteurCreation>
+<auteurModification>Jolie
+</auteurModification>
+</row>
+<row idProduit="6896">
+<idAlarme>1421</idAlarme>
+<nomProduit>OLIGOSOL MAGNESIUM sol buv en amp</nomProduit>
+<codeProduit>ba75e0</codeProduit>
+<prixProduit>454.0</prixProduit>
+<quantiteActuel>2976</quantiteActuel>
+<quantiteAlarme>434</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Edwards</auteurCreation>
+<auteurModification>Rhona
+</auteurModification>
+</row>
+<row idProduit="6897">
+<idAlarme>28</idAlarme>
+<nomProduit>OLIGOSOL MANGANESE sol buv en amp</nomProduit>
+<codeProduit>19d1f1</codeProduit>
+<prixProduit>235.0</prixProduit>
+<quantiteActuel>2822</quantiteActuel>
+<quantiteAlarme>237</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-08-14</dateModification>
+<auteurCreation>Elliott</auteurCreation>
+<auteurModification>Kelsey
+</auteurModification>
+</row>
+<row idProduit="6898">
+<idAlarme>3108</idAlarme>
+<nomProduit>OLIGOSOL MANGANESE-COBALT sol buv en amp</nomProduit>
+<codeProduit>f2c7eb</codeProduit>
+<prixProduit>289.0</prixProduit>
+<quantiteActuel>2664</quantiteActuel>
+<quantiteAlarme>154</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-08-31</dateModification>
+<auteurCreation>Rivers</auteurCreation>
+<auteurModification>Yetta
+</auteurModification>
+</row>
+<row idProduit="6899">
+<idAlarme>3512</idAlarme>
+<nomProduit>OLIGOSOL MANGANESE-CUIVRE sol buv en amp</nomProduit>
+<codeProduit>017a45</codeProduit>
+<prixProduit>791.0</prixProduit>
+<quantiteActuel>1551</quantiteActuel>
+<quantiteAlarme>135</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-08-17</dateModification>
+<auteurCreation>Horn</auteurCreation>
+<auteurModification>Aristotle
+</auteurModification>
+</row>
+<row idProduit="6900">
+<idAlarme>502</idAlarme>
+<nomProduit>OLIGOSOL MANGANESE-CUIVRE-COBALT sol buv en amp</nomProduit>
+<codeProduit>8319c5</codeProduit>
+<prixProduit>479.0</prixProduit>
+<quantiteActuel>1626</quantiteActuel>
+<quantiteAlarme>311</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-07-30</dateModification>
+<auteurCreation>Mann</auteurCreation>
+<auteurModification>Heidi
+</auteurModification>
+</row>
+<row idProduit="6901">
+<idAlarme>6104</idAlarme>
+<nomProduit>OLIGOSOL NICKEL-COBALT sol buv en amp</nomProduit>
+<codeProduit>d23234</codeProduit>
+<prixProduit>689.0</prixProduit>
+<quantiteActuel>2599</quantiteActuel>
+<quantiteAlarme>350</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Ayers</auteurCreation>
+<auteurModification>Lucy
+</auteurModification>
+</row>
+<row idProduit="6902">
+<idAlarme>8901</idAlarme>
+<nomProduit>OLIGOSOL PHOSPHORE sol buv en amp</nomProduit>
+<codeProduit>2ef717</codeProduit>
+<prixProduit>906.0</prixProduit>
+<quantiteActuel>2944</quantiteActuel>
+<quantiteAlarme>476</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Vaughan</auteurCreation>
+<auteurModification>Hunter
+</auteurModification>
+</row>
+<row idProduit="6903">
+<idAlarme>7433</idAlarme>
+<nomProduit>OLIGOSOL POTASSIUM sol buv en amp</nomProduit>
+<codeProduit>2c3320</codeProduit>
+<prixProduit>330.0</prixProduit>
+<quantiteActuel>2637</quantiteActuel>
+<quantiteAlarme>500</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-08-14</dateModification>
+<auteurCreation>Knowles</auteurCreation>
+<auteurModification>Clementine
+</auteurModification>
+</row>
+<row idProduit="6904">
+<idAlarme>8965</idAlarme>
+<nomProduit>OLIGOSOL SELENIUM 100ug/2ml sol buv</nomProduit>
+<codeProduit>76f674</codeProduit>
+<prixProduit>882.0</prixProduit>
+<quantiteActuel>2723</quantiteActuel>
+<quantiteAlarme>364</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-08-07</dateModification>
+<auteurCreation>Crawford</auteurCreation>
+<auteurModification>Dale
+</auteurModification>
+</row>
+<row idProduit="6905">
+<idAlarme>201</idAlarme>
+<nomProduit>OLIGOSOL SOUFRE sol buv en amp</nomProduit>
+<codeProduit>02e159</codeProduit>
+<prixProduit>858.0</prixProduit>
+<quantiteActuel>1643</quantiteActuel>
+<quantiteAlarme>352</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-09-12</dateModification>
+<auteurCreation>Delgado</auteurCreation>
+<auteurModification>Benjamin
+</auteurModification>
+</row>
+<row idProduit="6906">
+<idAlarme>7415</idAlarme>
+<nomProduit>OLIGOSOL ZINC sol buv en amp</nomProduit>
+<codeProduit>0c5b1e</codeProduit>
+<prixProduit>1147.0</prixProduit>
+<quantiteActuel>2450</quantiteActuel>
+<quantiteAlarme>374</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-09-17</dateModification>
+<auteurCreation>Howell</auteurCreation>
+<auteurModification>Regina
+</auteurModification>
+</row>
+<row idProduit="6907">
+<idAlarme>9767</idAlarme>
+<nomProduit>OLIGOSOL ZINC-CUIVRE sol buv en amp</nomProduit>
+<codeProduit>c5de32</codeProduit>
+<prixProduit>285.0</prixProduit>
+<quantiteActuel>2201</quantiteActuel>
+<quantiteAlarme>270</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Hopper</auteurCreation>
+<auteurModification>Russell
+</auteurModification>
+</row>
+<row idProduit="6908">
+<idAlarme>2726</idAlarme>
+<nomProduit>OLIGOSOL ZINC-NICKEL-COBALT sol buv en amp</nomProduit>
+<codeProduit>e6576b</codeProduit>
+<prixProduit>1329.0</prixProduit>
+<quantiteActuel>2128</quantiteActuel>
+<quantiteAlarme>460</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-08-18</dateModification>
+<auteurCreation>Jacobs</auteurCreation>
+<auteurModification>Rigel
+</auteurModification>
+</row>
+<row idProduit="6909">
+<idAlarme>7060</idAlarme>
+<nomProduit>OLIGOSTIM COBALT cp subling</nomProduit>
+<codeProduit>efd6ef</codeProduit>
+<prixProduit>1397.0</prixProduit>
+<quantiteActuel>2386</quantiteActuel>
+<quantiteAlarme>383</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-08-11</dateModification>
+<auteurCreation>Roberson</auteurCreation>
+<auteurModification>Gabriel
+</auteurModification>
+</row>
+<row idProduit="6910">
+<idAlarme>3599</idAlarme>
+<nomProduit>OLIGOSTIM CUIVRE cp subling</nomProduit>
+<codeProduit>9399ce</codeProduit>
+<prixProduit>324.0</prixProduit>
+<quantiteActuel>2529</quantiteActuel>
+<quantiteAlarme>407</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Waller</auteurCreation>
+<auteurModification>Quinn
+</auteurModification>
+</row>
+<row idProduit="6911">
+<idAlarme>946</idAlarme>
+<nomProduit>OLIGOSTIM CUIVRE OR ARGENT cp</nomProduit>
+<codeProduit>3e8311</codeProduit>
+<prixProduit>967.0</prixProduit>
+<quantiteActuel>2761</quantiteActuel>
+<quantiteAlarme>345</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-10-01</dateModification>
+<auteurCreation>Underwood</auteurCreation>
+<auteurModification>Ahmed
+</auteurModification>
+</row>
+<row idProduit="6912">
+<idAlarme>5209</idAlarme>
+<nomProduit>OLIGOSTIM FLUOR cp subling</nomProduit>
+<codeProduit>fe6bc3</codeProduit>
+<prixProduit>182.0</prixProduit>
+<quantiteActuel>2117</quantiteActuel>
+<quantiteAlarme>228</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-07-06</dateModification>
+<auteurCreation>Dawson</auteurCreation>
+<auteurModification>Beck
+</auteurModification>
+</row>
+<row idProduit="6913">
+<idAlarme>3920</idAlarme>
+<nomProduit>OLIGOSTIM LITHIUM cp subling</nomProduit>
+<codeProduit>852293</codeProduit>
+<prixProduit>815.0</prixProduit>
+<quantiteActuel>1688</quantiteActuel>
+<quantiteAlarme>317</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-10-04</dateModification>
+<auteurCreation>Levy</auteurCreation>
+<auteurModification>Wayne
+</auteurModification>
+</row>
+<row idProduit="6914">
+<idAlarme>7680</idAlarme>
+<nomProduit>OLIGOSTIM MAGNESIUM cp subling</nomProduit>
+<codeProduit>236458</codeProduit>
+<prixProduit>949.0</prixProduit>
+<quantiteActuel>1648</quantiteActuel>
+<quantiteAlarme>389</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-05</dateCreation>
+<dateModification>2010-08-13</dateModification>
+<auteurCreation>Tyler</auteurCreation>
+<auteurModification>Germaine
+</auteurModification>
+</row>
+<row idProduit="6915">
+<idAlarme>8352</idAlarme>
+<nomProduit>OLIGOSTIM MANGANESE cp subling</nomProduit>
+<codeProduit>ca1382</codeProduit>
+<prixProduit>437.0</prixProduit>
+<quantiteActuel>2641</quantiteActuel>
+<quantiteAlarme>320</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-09-28</dateModification>
+<auteurCreation>Pate</auteurCreation>
+<auteurModification>Quinlan
+</auteurModification>
+</row>
+<row idProduit="6916">
+<idAlarme>2888</idAlarme>
+<nomProduit>OLIGOSTIM MANGANESE-COBALT cp subling</nomProduit>
+<codeProduit>dff3ce</codeProduit>
+<prixProduit>746.0</prixProduit>
+<quantiteActuel>2351</quantiteActuel>
+<quantiteAlarme>332</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-09-30</dateModification>
+<auteurCreation>Galloway</auteurCreation>
+<auteurModification>Bethany
+</auteurModification>
+</row>
+<row idProduit="6917">
+<idAlarme>4965</idAlarme>
+<nomProduit>OLIGOSTIM MANGANESE-CUIVRE cp subling</nomProduit>
+<codeProduit>9993fd</codeProduit>
+<prixProduit>1346.0</prixProduit>
+<quantiteActuel>2450</quantiteActuel>
+<quantiteAlarme>297</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-08-13</dateModification>
+<auteurCreation>Burke</auteurCreation>
+<auteurModification>Keaton
+</auteurModification>
+</row>
+<row idProduit="6918">
+<idAlarme>3493</idAlarme>
+<nomProduit>OLIGOSTIM MANGANESE-CUIVRE-COBALT cp subling</nomProduit>
+<codeProduit>55f701</codeProduit>
+<prixProduit>1092.0</prixProduit>
+<quantiteActuel>2321</quantiteActuel>
+<quantiteAlarme>470</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-09-23</dateModification>
+<auteurCreation>Joyce</auteurCreation>
+<auteurModification>Reese
+</auteurModification>
+</row>
+<row idProduit="6919">
+<idAlarme>1304</idAlarme>
+<nomProduit>OLIGOSTIM PHOSPHORE cp subling</nomProduit>
+<codeProduit>ddb0a3</codeProduit>
+<prixProduit>250.0</prixProduit>
+<quantiteActuel>2269</quantiteActuel>
+<quantiteAlarme>481</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-27</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Mack</auteurCreation>
+<auteurModification>Tarik
+</auteurModification>
+</row>
+<row idProduit="6920">
+<idAlarme>8630</idAlarme>
+<nomProduit>OLIGOSTIM POTASSIUM cp subling</nomProduit>
+<codeProduit>9fe7b7</codeProduit>
+<prixProduit>1200.0</prixProduit>
+<quantiteActuel>2166</quantiteActuel>
+<quantiteAlarme>499</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-07-03</dateModification>
+<auteurCreation>England</auteurCreation>
+<auteurModification>Jemima
+</auteurModification>
+</row>
+<row idProduit="6921">
+<idAlarme>8546</idAlarme>
+<nomProduit>OLIGOSTIM SELENIUM 19ug cp</nomProduit>
+<codeProduit>f1f4bb</codeProduit>
+<prixProduit>1072.0</prixProduit>
+<quantiteActuel>2863</quantiteActuel>
+<quantiteAlarme>195</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-09-05</dateModification>
+<auteurCreation>Walsh</auteurCreation>
+<auteurModification>Jackson
+</auteurModification>
+</row>
+<row idProduit="6922">
+<idAlarme>1265</idAlarme>
+<nomProduit>OLIGOSTIM SOUFRE cp subling</nomProduit>
+<codeProduit>22bdb0</codeProduit>
+<prixProduit>310.0</prixProduit>
+<quantiteActuel>2112</quantiteActuel>
+<quantiteAlarme>196</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-09-21</dateModification>
+<auteurCreation>Hickman</auteurCreation>
+<auteurModification>Idona
+</auteurModification>
+</row>
+<row idProduit="6923">
+<idAlarme>7185</idAlarme>
+<nomProduit>OLIGOSTIM ZINC cp subling</nomProduit>
+<codeProduit>2914e2</codeProduit>
+<prixProduit>1456.0</prixProduit>
+<quantiteActuel>1680</quantiteActuel>
+<quantiteAlarme>313</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-07-28</dateModification>
+<auteurCreation>Kelly</auteurCreation>
+<auteurModification>Damon
+</auteurModification>
+</row>
+<row idProduit="6924">
+<idAlarme>8907</idAlarme>
+<nomProduit>OLIGOSTIM ZINC CUIVRE cp</nomProduit>
+<codeProduit>918993</codeProduit>
+<prixProduit>648.0</prixProduit>
+<quantiteActuel>2548</quantiteActuel>
+<quantiteAlarme>408</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-08-18</dateModification>
+<auteurCreation>Wilkins</auteurCreation>
+<auteurModification>Driscoll
+</auteurModification>
+</row>
+<row idProduit="6925">
+<idAlarme>7736</idAlarme>
+<nomProduit>OLIGOSTIM ZINC-NICKEL-COBALT cp</nomProduit>
+<codeProduit>5aacd7</codeProduit>
+<prixProduit>1296.0</prixProduit>
+<quantiteActuel>2545</quantiteActuel>
+<quantiteAlarme>180</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Bailey</auteurCreation>
+<auteurModification>Denise
+</auteurModification>
+</row>
+<row idProduit="6926">
+<idAlarme>5945</idAlarme>
+<nomProduit>OLIMEL N7 emuls p perf</nomProduit>
+<codeProduit>7dca6f</codeProduit>
+<prixProduit>878.0</prixProduit>
+<quantiteActuel>2403</quantiteActuel>
+<quantiteAlarme>339</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-08-28</dateModification>
+<auteurCreation>Moore</auteurCreation>
+<auteurModification>Juliet
+</auteurModification>
+</row>
+<row idProduit="6927">
+<idAlarme>5869</idAlarme>
+<nomProduit>OLIMEL N7E emuls p perf</nomProduit>
+<codeProduit>728f3e</codeProduit>
+<prixProduit>295.0</prixProduit>
+<quantiteActuel>2041</quantiteActuel>
+<quantiteAlarme>215</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-08-04</dateModification>
+<auteurCreation>Franklin</auteurCreation>
+<auteurModification>Genevieve
+</auteurModification>
+</row>
+<row idProduit="6928">
+<idAlarme>6029</idAlarme>
+<nomProduit>OLIMEL N9 emuls p perf</nomProduit>
+<codeProduit>7435bb</codeProduit>
+<prixProduit>948.0</prixProduit>
+<quantiteActuel>2365</quantiteActuel>
+<quantiteAlarme>487</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-07-28</dateModification>
+<auteurCreation>Faulkner</auteurCreation>
+<auteurModification>Nero
+</auteurModification>
+</row>
+<row idProduit="6929">
+<idAlarme>884</idAlarme>
+<nomProduit>OLIMEL N9E emuls p perf</nomProduit>
+<codeProduit>84d5d9</codeProduit>
+<prixProduit>1204.0</prixProduit>
+<quantiteActuel>2456</quantiteActuel>
+<quantiteAlarme>438</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-09-24</dateModification>
+<auteurCreation>Ware</auteurCreation>
+<auteurModification>Patrick
+</auteurModification>
+</row>
+<row idProduit="6930">
+<idAlarme>6644</idAlarme>
+<nomProduit>OLMETEC 10mg cp pellic</nomProduit>
+<codeProduit>6471ff</codeProduit>
+<prixProduit>1098.0</prixProduit>
+<quantiteActuel>2292</quantiteActuel>
+<quantiteAlarme>301</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-10-01</dateModification>
+<auteurCreation>Garcia</auteurCreation>
+<auteurModification>Burton
+</auteurModification>
+</row>
+<row idProduit="6931">
+<idAlarme>3625</idAlarme>
+<nomProduit>OLMETEC 20mg cp pellic</nomProduit>
+<codeProduit>1c935a</codeProduit>
+<prixProduit>853.0</prixProduit>
+<quantiteActuel>2603</quantiteActuel>
+<quantiteAlarme>472</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-09-25</dateModification>
+<auteurCreation>Potter</auteurCreation>
+<auteurModification>Paki
+</auteurModification>
+</row>
+<row idProduit="6932">
+<idAlarme>7584</idAlarme>
+<nomProduit>OLMETEC 40mg cp pellic</nomProduit>
+<codeProduit>d73160</codeProduit>
+<prixProduit>465.0</prixProduit>
+<quantiteActuel>2103</quantiteActuel>
+<quantiteAlarme>176</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-07-23</dateModification>
+<auteurCreation>Carson</auteurCreation>
+<auteurModification>Kelsie
+</auteurModification>
+</row>
+<row idProduit="6933">
+<idAlarme>2176</idAlarme>
+<nomProduit>OLMIFON 300 mg cp pellic</nomProduit>
+<codeProduit>231144</codeProduit>
+<prixProduit>1241.0</prixProduit>
+<quantiteActuel>2552</quantiteActuel>
+<quantiteAlarme>322</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-07-23</dateModification>
+<auteurCreation>Dean</auteurCreation>
+<auteurModification>Kay
+</auteurModification>
+</row>
+<row idProduit="6934">
+<idAlarme>8313</idAlarme>
+<nomProduit>OMACOR caps molle</nomProduit>
+<codeProduit>661a00</codeProduit>
+<prixProduit>1123.0</prixProduit>
+<quantiteActuel>2479</quantiteActuel>
+<quantiteAlarme>273</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-09-17</dateModification>
+<auteurCreation>England</auteurCreation>
+<auteurModification>Chaim
+</auteurModification>
+</row>
+<row idProduit="6935">
+<idAlarme>1443</idAlarme>
+<nomProduit>OMACOR capsul molle</nomProduit>
+<codeProduit>ccee69</codeProduit>
+<prixProduit>1398.0</prixProduit>
+<quantiteActuel>1833</quantiteActuel>
+<quantiteAlarme>410</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-09-05</dateModification>
+<auteurCreation>Hendrix</auteurCreation>
+<auteurModification>Rashad
+</auteurModification>
+</row>
+<row idProduit="6936">
+<idAlarme>5325</idAlarme>
+<nomProduit>OMACOR capsule molle</nomProduit>
+<codeProduit>cf0338</codeProduit>
+<prixProduit>789.0</prixProduit>
+<quantiteActuel>1886</quantiteActuel>
+<quantiteAlarme>153</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-26</dateCreation>
+<dateModification>2010-09-24</dateModification>
+<auteurCreation>Thomas</auteurCreation>
+<auteurModification>Stewart
+</auteurModification>
+</row>
+<row idProduit="6937">
+<idAlarme>9964</idAlarme>
+<nomProduit>OMEGAVEN emuls p perf</nomProduit>
+<codeProduit>aad4b1</codeProduit>
+<prixProduit>613.0</prixProduit>
+<quantiteActuel>1989</quantiteActuel>
+<quantiteAlarme>137</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-07-13</dateModification>
+<auteurCreation>Johnston</auteurCreation>
+<auteurModification>Lee
+</auteurModification>
+</row>
+<row idProduit="6938">
+<idAlarme>64</idAlarme>
+<nomProduit>OMEPRAZOLE ACTAVIS 10 mg gel gastroresis</nomProduit>
+<codeProduit>a63d59</codeProduit>
+<prixProduit>1225.0</prixProduit>
+<quantiteActuel>1993</quantiteActuel>
+<quantiteAlarme>156</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-10-05</dateModification>
+<auteurCreation>Molina</auteurCreation>
+<auteurModification>Shafira
+</auteurModification>
+</row>
+<row idProduit="6939">
+<idAlarme>5592</idAlarme>
+<nomProduit>OMEPRAZOLE ACTAVIS 20 mg gel gastroresis</nomProduit>
+<codeProduit>fa8eed</codeProduit>
+<prixProduit>284.0</prixProduit>
+<quantiteActuel>1645</quantiteActuel>
+<quantiteAlarme>164</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-08-10</dateModification>
+<auteurCreation>Vaughn</auteurCreation>
+<auteurModification>Gail
+</auteurModification>
+</row>
+<row idProduit="6940">
+<idAlarme>6840</idAlarme>
+<nomProduit>OMEPRAZOLE ALMUS 10mg gel gastroresis</nomProduit>
+<codeProduit>7d1ac9</codeProduit>
+<prixProduit>1225.0</prixProduit>
+<quantiteActuel>2938</quantiteActuel>
+<quantiteAlarme>273</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-06-30</dateModification>
+<auteurCreation>Cole</auteurCreation>
+<auteurModification>Fiona
+</auteurModification>
+</row>
+<row idProduit="6941">
+<idAlarme>6761</idAlarme>
+<nomProduit>OMEPRAZOLE ALMUS 20mg gel gastroresis</nomProduit>
+<codeProduit>775584</codeProduit>
+<prixProduit>1028.0</prixProduit>
+<quantiteActuel>1833</quantiteActuel>
+<quantiteAlarme>145</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-09-18</dateModification>
+<auteurCreation>Mcguire</auteurCreation>
+<auteurModification>Brooke
+</auteurModification>
+</row>
+<row idProduit="6942">
+<idAlarme>7960</idAlarme>
+<nomProduit>OMEPRAZOLE ALTER 10mg gel gastroresis</nomProduit>
+<codeProduit>25006a</codeProduit>
+<prixProduit>595.0</prixProduit>
+<quantiteActuel>2584</quantiteActuel>
+<quantiteAlarme>310</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-12</dateCreation>
+<dateModification>2010-07-18</dateModification>
+<auteurCreation>Salas</auteurCreation>
+<auteurModification>Nayda
+</auteurModification>
+</row>
+<row idProduit="6943">
+<idAlarme>6503</idAlarme>
+<nomProduit>OMEPRAZOLE ALTER 20mg gel gastroresis</nomProduit>
+<codeProduit>c3c74b</codeProduit>
+<prixProduit>516.0</prixProduit>
+<quantiteActuel>2654</quantiteActuel>
+<quantiteAlarme>192</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-08-24</dateModification>
+<auteurCreation>Melendez</auteurCreation>
+<auteurModification>Julian
+</auteurModification>
+</row>
+<row idProduit="6944">
+<idAlarme>3879</idAlarme>
+<nomProduit>OMEPRAZOLE ARROW GENERIQUES 10mg gel gastroresis</nomProduit>
+<codeProduit>820202</codeProduit>
+<prixProduit>1130.0</prixProduit>
+<quantiteActuel>2774</quantiteActuel>
+<quantiteAlarme>417</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-07-21</dateModification>
+<auteurCreation>Callahan</auteurCreation>
+<auteurModification>Justina
+</auteurModification>
+</row>
+<row idProduit="6945">
+<idAlarme>1476</idAlarme>
+<nomProduit>OMEPRAZOLE ARROW GENERIQUES 20mg gel gastroresis</nomProduit>
+<codeProduit>928c33</codeProduit>
+<prixProduit>1131.0</prixProduit>
+<quantiteActuel>2493</quantiteActuel>
+<quantiteAlarme>258</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>French</auteurCreation>
+<auteurModification>Maisie
+</auteurModification>
+</row>
+<row idProduit="6946">
+<idAlarme>0</idAlarme>
+<nomProduit>OMEPRAZOLE BIOGARAN 10mg gel gastroresis</nomProduit>
+<codeProduit>626b2f</codeProduit>
+<prixProduit>707.0</prixProduit>
+<quantiteActuel>2907</quantiteActuel>
+<quantiteAlarme>168</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Young</auteurCreation>
+<auteurModification>Dominique
+</auteurModification>
+</row>
+<row idProduit="6947">
+<idAlarme>10445</idAlarme>
+<nomProduit>OMEPRAZOLE BIOGARAN 20mg gel gastroresis</nomProduit>
+<codeProduit>086b45</codeProduit>
+<prixProduit>633.0</prixProduit>
+<quantiteActuel>2113</quantiteActuel>
+<quantiteAlarme>436</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Villarreal</auteurCreation>
+<auteurModification>Shelly
+</auteurModification>
+</row>
+<row idProduit="6948">
+<idAlarme>4033</idAlarme>
+<nomProduit>OMEPRAZOLE BOUCHARA RECORDATI 10mg gel gastroresis</nomProduit>
+<codeProduit>f56bcb</codeProduit>
+<prixProduit>1006.0</prixProduit>
+<quantiteActuel>1949</quantiteActuel>
+<quantiteAlarme>354</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Duncan</auteurCreation>
+<auteurModification>Ignatius
+</auteurModification>
+</row>
+<row idProduit="6949">
+<idAlarme>8295</idAlarme>
+<nomProduit>OMEPRAZOLE BOUCHARA-RECORDATI 20mg gel gastroresis</nomProduit>
+<codeProduit>c14f8a</codeProduit>
+<prixProduit>351.0</prixProduit>
+<quantiteActuel>1857</quantiteActuel>
+<quantiteAlarme>287</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-08-16</dateModification>
+<auteurCreation>Adams</auteurCreation>
+<auteurModification>Henry
+</auteurModification>
+</row>
+<row idProduit="6950">
+<idAlarme>2246</idAlarme>
+<nomProduit>OMEPRAZOLE CRISTERS 10 mg gel gastroresis</nomProduit>
+<codeProduit>082df7</codeProduit>
+<prixProduit>389.0</prixProduit>
+<quantiteActuel>2027</quantiteActuel>
+<quantiteAlarme>297</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Gould</auteurCreation>
+<auteurModification>Ryan
+</auteurModification>
+</row>
+<row idProduit="6951">
+<idAlarme>7851</idAlarme>
+<nomProduit>OMEPRAZOLE CRISTERS 20 mg gel gastroresis</nomProduit>
+<codeProduit>066532</codeProduit>
+<prixProduit>1069.0</prixProduit>
+<quantiteActuel>1748</quantiteActuel>
+<quantiteAlarme>414</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-09-10</dateModification>
+<auteurCreation>Pierce</auteurCreation>
+<auteurModification>Hop
+</auteurModification>
+</row>
+<row idProduit="6952">
+<idAlarme>9609</idAlarme>
+<nomProduit>OMEPRAZOLE EG 10mg gel gastroresis</nomProduit>
+<codeProduit>e77e9d</codeProduit>
+<prixProduit>1240.0</prixProduit>
+<quantiteActuel>1564</quantiteActuel>
+<quantiteAlarme>199</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-09-01</dateModification>
+<auteurCreation>Obrien</auteurCreation>
+<auteurModification>Zenia
+</auteurModification>
+</row>
+<row idProduit="6953">
+<idAlarme>4453</idAlarme>
+<nomProduit>OMEPRAZOLE EG 20mg gel gastroresis</nomProduit>
+<codeProduit>529326</codeProduit>
+<prixProduit>551.0</prixProduit>
+<quantiteActuel>1526</quantiteActuel>
+<quantiteAlarme>110</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Soto</auteurCreation>
+<auteurModification>Cade
+</auteurModification>
+</row>
+<row idProduit="6954">
+<idAlarme>3812</idAlarme>
+<nomProduit>OMEPRAZOLE G GAM 20mg gel gastroresis</nomProduit>
+<codeProduit>bcf48c</codeProduit>
+<prixProduit>810.0</prixProduit>
+<quantiteActuel>1632</quantiteActuel>
+<quantiteAlarme>183</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-08-31</dateModification>
+<auteurCreation>Durham</auteurCreation>
+<auteurModification>Nyssa
+</auteurModification>
+</row>
+<row idProduit="6955">
+<idAlarme>4989</idAlarme>
+<nomProduit>OMEPRAZOLE GERDA 10 mg gel gastroresis</nomProduit>
+<codeProduit>9ffeae</codeProduit>
+<prixProduit>797.0</prixProduit>
+<quantiteActuel>2165</quantiteActuel>
+<quantiteAlarme>128</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-09-23</dateModification>
+<auteurCreation>Yang</auteurCreation>
+<auteurModification>Driscoll
+</auteurModification>
+</row>
+<row idProduit="6956">
+<idAlarme>7082</idAlarme>
+<nomProduit>OMEPRAZOLE GERDA 20 mg gel gastroresis</nomProduit>
+<codeProduit>0d5069</codeProduit>
+<prixProduit>544.0</prixProduit>
+<quantiteActuel>2342</quantiteActuel>
+<quantiteAlarme>246</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-09-20</dateModification>
+<auteurCreation>Kelly</auteurCreation>
+<auteurModification>Rama
+</auteurModification>
+</row>
+<row idProduit="6957">
+<idAlarme>4138</idAlarme>
+<nomProduit>OMEPRAZOLE ISOMED 10 mg gel gastroresis</nomProduit>
+<codeProduit>61f444</codeProduit>
+<prixProduit>734.0</prixProduit>
+<quantiteActuel>1898</quantiteActuel>
+<quantiteAlarme>440</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-09-06</dateModification>
+<auteurCreation>Joyce</auteurCreation>
+<auteurModification>Chastity
+</auteurModification>
+</row>
+<row idProduit="6958">
+<idAlarme>9646</idAlarme>
+<nomProduit>OMEPRAZOLE ISOMED 20 mg gel gastroresis</nomProduit>
+<codeProduit>1f0dee</codeProduit>
+<prixProduit>839.0</prixProduit>
+<quantiteActuel>2736</quantiteActuel>
+<quantiteAlarme>424</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-08-31</dateModification>
+<auteurCreation>Lawson</auteurCreation>
+<auteurModification>Hoyt
+</auteurModification>
+</row>
+<row idProduit="6959">
+<idAlarme>2848</idAlarme>
+<nomProduit>OMEPRAZOLE MYLAN 10 mg gel gastroresis</nomProduit>
+<codeProduit>5bf13d</codeProduit>
+<prixProduit>1154.0</prixProduit>
+<quantiteActuel>2539</quantiteActuel>
+<quantiteAlarme>367</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-09-09</dateModification>
+<auteurCreation>Donovan</auteurCreation>
+<auteurModification>Dane
+</auteurModification>
+</row>
+<row idProduit="6960">
+<idAlarme>9318</idAlarme>
+<nomProduit>OMEPRAZOLE MYLAN 20 mg gel gastroresis</nomProduit>
+<codeProduit>f724d9</codeProduit>
+<prixProduit>1095.0</prixProduit>
+<quantiteActuel>1686</quantiteActuel>
+<quantiteAlarme>175</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Calderon</auteurCreation>
+<auteurModification>Nita
+</auteurModification>
+</row>
+<row idProduit="6961">
+<idAlarme>5698</idAlarme>
+<nomProduit>OMEPRAZOLE PHR LAB 10 mg gel gastroresis</nomProduit>
+<codeProduit>24588b</codeProduit>
+<prixProduit>1016.0</prixProduit>
+<quantiteActuel>2592</quantiteActuel>
+<quantiteAlarme>220</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-09-14</dateModification>
+<auteurCreation>Kerr</auteurCreation>
+<auteurModification>Oprah
+</auteurModification>
+</row>
+<row idProduit="6962">
+<idAlarme>8861</idAlarme>
+<nomProduit>OMEPRAZOLE PHR LAB 20 mg gel gastroresis</nomProduit>
+<codeProduit>c3b80d</codeProduit>
+<prixProduit>1170.0</prixProduit>
+<quantiteActuel>1792</quantiteActuel>
+<quantiteAlarme>351</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-08-21</dateModification>
+<auteurCreation>Fulton</auteurCreation>
+<auteurModification>Herman
+</auteurModification>
+</row>
+<row idProduit="6963">
+<idAlarme>7698</idAlarme>
+<nomProduit>OMEPRAZOLE QUALIMED 10mg gel gastroresis</nomProduit>
+<codeProduit>2897e8</codeProduit>
+<prixProduit>1055.0</prixProduit>
+<quantiteActuel>1957</quantiteActuel>
+<quantiteAlarme>376</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-08-07</dateModification>
+<auteurCreation>Pittman</auteurCreation>
+<auteurModification>Dante
+</auteurModification>
+</row>
+<row idProduit="6964">
+<idAlarme>2790</idAlarme>
+<nomProduit>OMEPRAZOLE QUALIMED 20mg gel gastroresis</nomProduit>
+<codeProduit>9df94d</codeProduit>
+<prixProduit>568.0</prixProduit>
+<quantiteActuel>2965</quantiteActuel>
+<quantiteAlarme>423</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-08-04</dateModification>
+<auteurCreation>Livingston</auteurCreation>
+<auteurModification>Aquila
+</auteurModification>
+</row>
+<row idProduit="6965">
+<idAlarme>2207</idAlarme>
+<nomProduit>OMEPRAZOLE RATIO 20mg gel gastroresis</nomProduit>
+<codeProduit>29ce4a</codeProduit>
+<prixProduit>1243.0</prixProduit>
+<quantiteActuel>2353</quantiteActuel>
+<quantiteAlarme>370</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-07-14</dateModification>
+<auteurCreation>Mann</auteurCreation>
+<auteurModification>Abel
+</auteurModification>
+</row>
+<row idProduit="6966">
+<idAlarme>6406</idAlarme>
+<nomProduit>OMEPRAZOLE RATIOPHARM 10mg gel gastroresis</nomProduit>
+<codeProduit>783bec</codeProduit>
+<prixProduit>1496.0</prixProduit>
+<quantiteActuel>1670</quantiteActuel>
+<quantiteAlarme>486</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-09-02</dateModification>
+<auteurCreation>Stanton</auteurCreation>
+<auteurModification>Hu
+</auteurModification>
+</row>
+<row idProduit="6967">
+<idAlarme>9969</idAlarme>
+<nomProduit>OMEPRAZOLE RPG 10mg gel gastroresis</nomProduit>
+<codeProduit>84006a</codeProduit>
+<prixProduit>770.0</prixProduit>
+<quantiteActuel>2249</quantiteActuel>
+<quantiteAlarme>334</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Riggs</auteurCreation>
+<auteurModification>Chancellor
+</auteurModification>
+</row>
+<row idProduit="6968">
+<idAlarme>366</idAlarme>
+<nomProduit>OMEPRAZOLE RPG 20mg gel gastroresis</nomProduit>
+<codeProduit>144bd2</codeProduit>
+<prixProduit>1013.0</prixProduit>
+<quantiteActuel>2476</quantiteActuel>
+<quantiteAlarme>193</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-08-12</dateModification>
+<auteurCreation>Graham</auteurCreation>
+<auteurModification>Sandra
+</auteurModification>
+</row>
+<row idProduit="6969">
+<idAlarme>2572</idAlarme>
+<nomProduit>OMEPRAZOLE SANDOZ 10 mg gel gastroresis</nomProduit>
+<codeProduit>0dcc47</codeProduit>
+<prixProduit>1044.0</prixProduit>
+<quantiteActuel>2187</quantiteActuel>
+<quantiteAlarme>236</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-11</dateCreation>
+<dateModification>2010-08-18</dateModification>
+<auteurCreation>Ellis</auteurCreation>
+<auteurModification>Whilemina
+</auteurModification>
+</row>
+<row idProduit="6970">
+<idAlarme>1951</idAlarme>
+<nomProduit>OMEPRAZOLE SANDOZ 20 mg gel gastroresis</nomProduit>
+<codeProduit>2ccb9d</codeProduit>
+<prixProduit>943.0</prixProduit>
+<quantiteActuel>2770</quantiteActuel>
+<quantiteAlarme>341</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-08-24</dateModification>
+<auteurCreation>Hardin</auteurCreation>
+<auteurModification>Christine
+</auteurModification>
+</row>
+<row idProduit="6971">
+<idAlarme>5375</idAlarme>
+<nomProduit>OMEPRAZOLE SANDOZ 40 mg pdre p sol p perf</nomProduit>
+<codeProduit>35e223</codeProduit>
+<prixProduit>371.0</prixProduit>
+<quantiteActuel>2980</quantiteActuel>
+<quantiteAlarme>472</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-08-04</dateModification>
+<auteurCreation>Collier</auteurCreation>
+<auteurModification>Cassidy
+</auteurModification>
+</row>
+<row idProduit="6972">
+<idAlarme>9633</idAlarme>
+<nomProduit>OMEPRAZOLE TEVA 10mg gel gastroresis</nomProduit>
+<codeProduit>937305</codeProduit>
+<prixProduit>381.0</prixProduit>
+<quantiteActuel>2481</quantiteActuel>
+<quantiteAlarme>356</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-10-05</dateModification>
+<auteurCreation>Abbott</auteurCreation>
+<auteurModification>Yoshi
+</auteurModification>
+</row>
+<row idProduit="6973">
+<idAlarme>10421</idAlarme>
+<nomProduit>OMEPRAZOLE TEVA 20mg gel gastroresis</nomProduit>
+<codeProduit>f5f5b8</codeProduit>
+<prixProduit>1384.0</prixProduit>
+<quantiteActuel>2140</quantiteActuel>
+<quantiteAlarme>119</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-08-20</dateModification>
+<auteurCreation>Saunders</auteurCreation>
+<auteurModification>Julian
+</auteurModification>
+</row>
+<row idProduit="6974">
+<idAlarme>444</idAlarme>
+<nomProduit>OMEPRAZOLE WINTHROP 10mg gel gastroresis</nomProduit>
+<codeProduit>907af4</codeProduit>
+<prixProduit>594.0</prixProduit>
+<quantiteActuel>2316</quantiteActuel>
+<quantiteAlarme>467</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-09-08</dateModification>
+<auteurCreation>Moses</auteurCreation>
+<auteurModification>Drake
+</auteurModification>
+</row>
+<row idProduit="6975">
+<idAlarme>5462</idAlarme>
+<nomProduit>OMEPRAZOLE WINTHROP 20mg gel gastroresis</nomProduit>
+<codeProduit>dfcb3e</codeProduit>
+<prixProduit>921.0</prixProduit>
+<quantiteActuel>2138</quantiteActuel>
+<quantiteAlarme>248</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-06-23</dateModification>
+<auteurCreation>Garrison</auteurCreation>
+<auteurModification>Mason
+</auteurModification>
+</row>
+<row idProduit="6976">
+<idAlarme>1230</idAlarme>
+<nomProduit>OMEPRAZOLE ZYDUS 10mg gel gastroresis</nomProduit>
+<codeProduit>e30ceb</codeProduit>
+<prixProduit>672.0</prixProduit>
+<quantiteActuel>2640</quantiteActuel>
+<quantiteAlarme>214</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-09-23</dateModification>
+<auteurCreation>Martinez</auteurCreation>
+<auteurModification>Zeph
+</auteurModification>
+</row>
+<row idProduit="6977">
+<idAlarme>2992</idAlarme>
+<nomProduit>OMEPRAZOLE ZYDUS 20mg gel gastroresis</nomProduit>
+<codeProduit>ee0c98</codeProduit>
+<prixProduit>764.0</prixProduit>
+<quantiteActuel>2231</quantiteActuel>
+<quantiteAlarme>106</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-10-04</dateModification>
+<auteurCreation>Richards</auteurCreation>
+<auteurModification>Xantha
+</auteurModification>
+</row>
+<row idProduit="6978">
+<idAlarme>1557</idAlarme>
+<nomProduit>OMEXEL L.P. 0,4mg cp pellic LP</nomProduit>
+<codeProduit>1a6226</codeProduit>
+<prixProduit>1292.0</prixProduit>
+<quantiteActuel>1655</quantiteActuel>
+<quantiteAlarme>248</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-18</dateCreation>
+<dateModification>2010-06-28</dateModification>
+<auteurCreation>Willis</auteurCreation>
+<auteurModification>Martin
+</auteurModification>
+</row>
+<row idProduit="6979">
+<idAlarme>5940</idAlarme>
+<nomProduit>OMIX 0,4mg gel (ugle LP)</nomProduit>
+<codeProduit>f59155</codeProduit>
+<prixProduit>216.0</prixProduit>
+<quantiteActuel>2585</quantiteActuel>
+<quantiteAlarme>219</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-08-04</dateModification>
+<auteurCreation>Powell</auteurCreation>
+<auteurModification>McKenzie
+</auteurModification>
+</row>
+<row idProduit="6980">
+<idAlarme>3858</idAlarme>
+<nomProduit>OMNIPAQUE 180 mg Iode/ml sol inj</nomProduit>
+<codeProduit>790569</codeProduit>
+<prixProduit>1383.0</prixProduit>
+<quantiteActuel>2823</quantiteActuel>
+<quantiteAlarme>481</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-06-29</dateModification>
+<auteurCreation>Mcintosh</auteurCreation>
+<auteurModification>Francesca
+</auteurModification>
+</row>
+<row idProduit="6981">
+<idAlarme>5027</idAlarme>
+<nomProduit>OMNIPAQUE 240 mg Iode/ml sol inj</nomProduit>
+<codeProduit>d58a21</codeProduit>
+<prixProduit>433.0</prixProduit>
+<quantiteActuel>2982</quantiteActuel>
+<quantiteAlarme>173</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Vaughan</auteurCreation>
+<auteurModification>Madeline
+</auteurModification>
+</row>
+<row idProduit="6982">
+<idAlarme>10236</idAlarme>
+<nomProduit>OMNIPAQUE 300 mg Iode/ml sol inj</nomProduit>
+<codeProduit>618a18</codeProduit>
+<prixProduit>1027.0</prixProduit>
+<quantiteActuel>1958</quantiteActuel>
+<quantiteAlarme>218</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-09-14</dateModification>
+<auteurCreation>Puckett</auteurCreation>
+<auteurModification>Igor
+</auteurModification>
+</row>
+<row idProduit="6983">
+<idAlarme>7799</idAlarme>
+<nomProduit>OMNIPAQUE 350 mg Iode/ml sol inj</nomProduit>
+<codeProduit>46309c</codeProduit>
+<prixProduit>949.0</prixProduit>
+<quantiteActuel>2552</quantiteActuel>
+<quantiteAlarme>251</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-09-07</dateModification>
+<auteurCreation>Rodriguez</auteurCreation>
+<auteurModification>Fredericka
+</auteurModification>
+</row>
+<row idProduit="6984">
+<idAlarme>9269</idAlarme>
+<nomProduit>OMNISCAN 0,5 mmol/ml sol inj ser</nomProduit>
+<codeProduit>e2cddf</codeProduit>
+<prixProduit>692.0</prixProduit>
+<quantiteActuel>2267</quantiteActuel>
+<quantiteAlarme>178</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-09-05</dateModification>
+<auteurCreation>Bradshaw</auteurCreation>
+<auteurModification>Garrett
+</auteurModification>
+</row>
+<row idProduit="6985">
+<idAlarme>4319</idAlarme>
+<nomProduit>OMNISCAN 0,5mmol/ml sol inj</nomProduit>
+<codeProduit>d144de</codeProduit>
+<prixProduit>439.0</prixProduit>
+<quantiteActuel>2549</quantiteActuel>
+<quantiteAlarme>415</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-05</dateCreation>
+<dateModification>2010-06-17</dateModification>
+<auteurCreation>Warner</auteurCreation>
+<auteurModification>Plato
+</auteurModification>
+</row>
+<row idProduit="6986">
+<idAlarme>5039</idAlarme>
+<nomProduit>OMNITROPE 3,3mg/ml sol inj</nomProduit>
+<codeProduit>370488</codeProduit>
+<prixProduit>1363.0</prixProduit>
+<quantiteActuel>2856</quantiteActuel>
+<quantiteAlarme>354</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Rosa</auteurCreation>
+<auteurModification>Angelica
+</auteurModification>
+</row>
+<row idProduit="6987">
+<idAlarme>6752</idAlarme>
+<nomProduit>OMNITROPE 6,7mg/ml sol inj</nomProduit>
+<codeProduit>716492</codeProduit>
+<prixProduit>682.0</prixProduit>
+<quantiteActuel>1679</quantiteActuel>
+<quantiteAlarme>406</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Chaney</auteurCreation>
+<auteurModification>Myles
+</auteurModification>
+</row>
+<row idProduit="6988">
+<idAlarme>3937</idAlarme>
+<nomProduit>ONBREZ BREEZHALER 150 ug pdre p inhal en gel</nomProduit>
+<codeProduit>a0b0df</codeProduit>
+<prixProduit>919.0</prixProduit>
+<quantiteActuel>2169</quantiteActuel>
+<quantiteAlarme>311</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-09-26</dateModification>
+<auteurCreation>Hendricks</auteurCreation>
+<auteurModification>Rinah
+</auteurModification>
+</row>
+<row idProduit="6989">
+<idAlarme>4498</idAlarme>
+<nomProduit>ONBREZ BREEZHALER 300 ug pdre p inhal en gel</nomProduit>
+<codeProduit>9f665d</codeProduit>
+<prixProduit>258.0</prixProduit>
+<quantiteActuel>2734</quantiteActuel>
+<quantiteAlarme>414</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-09-01</dateModification>
+<auteurCreation>Sampson</auteurCreation>
+<auteurModification>Karly
+</auteurModification>
+</row>
+<row idProduit="6990">
+<idAlarme>1470</idAlarme>
+<nomProduit>ONCOVIN 1mg sol inj</nomProduit>
+<codeProduit>778052</codeProduit>
+<prixProduit>931.0</prixProduit>
+<quantiteActuel>1614</quantiteActuel>
+<quantiteAlarme>118</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Norris</auteurCreation>
+<auteurModification>Rylee
+</auteurModification>
+</row>
+<row idProduit="6991">
+<idAlarme>3786</idAlarme>
+<nomProduit>ONCTOSE creme</nomProduit>
+<codeProduit>e3cda9</codeProduit>
+<prixProduit>868.0</prixProduit>
+<quantiteActuel>2094</quantiteActuel>
+<quantiteAlarme>214</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-08-20</dateModification>
+<auteurCreation>Lindsey</auteurCreation>
+<auteurModification>Ria
+</auteurModification>
+</row>
+<row idProduit="6992">
+<idAlarme>730</idAlarme>
+<nomProduit>ONCTOSE HYDROCORTISONE creme</nomProduit>
+<codeProduit>4e9890</codeProduit>
+<prixProduit>711.0</prixProduit>
+<quantiteActuel>2424</quantiteActuel>
+<quantiteAlarme>315</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Slater</auteurCreation>
+<auteurModification>Lucian
+</auteurModification>
+</row>
+<row idProduit="6993">
+<idAlarme>3915</idAlarme>
+<nomProduit>ONDANSETRON AGUETTANT 2mg/ml sol inj</nomProduit>
+<codeProduit>8bf56e</codeProduit>
+<prixProduit>424.0</prixProduit>
+<quantiteActuel>2012</quantiteActuel>
+<quantiteAlarme>192</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-06-22</dateModification>
+<auteurCreation>Huffman</auteurCreation>
+<auteurModification>Cameran
+</auteurModification>
+</row>
+<row idProduit="6994">
+<idAlarme>9758</idAlarme>
+<nomProduit>ONDANSETRON ARROW 2mg/ml sol inj</nomProduit>
+<codeProduit>4138bc</codeProduit>
+<prixProduit>831.0</prixProduit>
+<quantiteActuel>2589</quantiteActuel>
+<quantiteAlarme>152</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-06-27</dateModification>
+<auteurCreation>Stevens</auteurCreation>
+<auteurModification>Harding
+</auteurModification>
+</row>
+<row idProduit="6995">
+<idAlarme>5172</idAlarme>
+<nomProduit>ONDANSETRON ARROW 8mg cp orodispers</nomProduit>
+<codeProduit>02009f</codeProduit>
+<prixProduit>1445.0</prixProduit>
+<quantiteActuel>2422</quantiteActuel>
+<quantiteAlarme>272</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-08-31</dateModification>
+<auteurCreation>Galloway</auteurCreation>
+<auteurModification>Peter
+</auteurModification>
+</row>
+<row idProduit="6996">
+<idAlarme>7234</idAlarme>
+<nomProduit>ONDANSETRON ARROW 8mg cp pellic</nomProduit>
+<codeProduit>d7ce62</codeProduit>
+<prixProduit>537.0</prixProduit>
+<quantiteActuel>2741</quantiteActuel>
+<quantiteAlarme>349</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-09-07</dateModification>
+<auteurCreation>Hawkins</auteurCreation>
+<auteurModification>Zachary
+</auteurModification>
+</row>
+<row idProduit="6997">
+<idAlarme>6197</idAlarme>
+<nomProduit>ONDANSETRON BIOGARAN 8mg cp orodispers</nomProduit>
+<codeProduit>34872f</codeProduit>
+<prixProduit>1394.0</prixProduit>
+<quantiteActuel>2617</quantiteActuel>
+<quantiteAlarme>113</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-08-11</dateModification>
+<auteurCreation>Gallagher</auteurCreation>
+<auteurModification>Charity
+</auteurModification>
+</row>
+<row idProduit="6998">
+<idAlarme>3179</idAlarme>
+<nomProduit>ONDANSETRON BIOGARAN 8mg cp pellic</nomProduit>
+<codeProduit>18e7b5</codeProduit>
+<prixProduit>315.0</prixProduit>
+<quantiteActuel>2316</quantiteActuel>
+<quantiteAlarme>110</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-09-29</dateModification>
+<auteurCreation>Cantu</auteurCreation>
+<auteurModification>Medge
+</auteurModification>
+</row>
+<row idProduit="6999">
+<idAlarme>1340</idAlarme>
+<nomProduit>ONDANSETRON CRISTERS 8 mg cp orodispers</nomProduit>
+<codeProduit>87320f</codeProduit>
+<prixProduit>685.0</prixProduit>
+<quantiteActuel>2101</quantiteActuel>
+<quantiteAlarme>152</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-08-11</dateModification>
+<auteurCreation>Poole</auteurCreation>
+<auteurModification>Wayne
+</auteurModification>
+</row>
+<row idProduit="7000">
+<idAlarme>4645</idAlarme>
+<nomProduit>ONDANSETRON CRISTERS 8 mg cp pellic</nomProduit>
+<codeProduit>0bb544</codeProduit>
+<prixProduit>1237.0</prixProduit>
+<quantiteActuel>2550</quantiteActuel>
+<quantiteAlarme>142</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-09-17</dateModification>
+<auteurCreation>Gonzalez</auteurCreation>
+<auteurModification>Xanthus
+</auteurModification>
+</row>
+<row idProduit="7001">
+<idAlarme>9696</idAlarme>
+<nomProduit>ONDANSETRON EG 8mg cp orodispers</nomProduit>
+<codeProduit>e29eb9</codeProduit>
+<prixProduit>1088.0</prixProduit>
+<quantiteActuel>1873</quantiteActuel>
+<quantiteAlarme>462</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Rose</auteurCreation>
+<auteurModification>Savannah
+</auteurModification>
+</row>
+<row idProduit="7002">
+<idAlarme>2518</idAlarme>
+<nomProduit>ONDANSETRON EG 8mg cp pellic</nomProduit>
+<codeProduit>4e0923</codeProduit>
+<prixProduit>1345.0</prixProduit>
+<quantiteActuel>2674</quantiteActuel>
+<quantiteAlarme>100</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Henson</auteurCreation>
+<auteurModification>Kibo
+</auteurModification>
+</row>
+<row idProduit="7003">
+<idAlarme>9118</idAlarme>
+<nomProduit>ONDANSETRON INTAS 2 mg/ml sol inj</nomProduit>
+<codeProduit>beab43</codeProduit>
+<prixProduit>1309.0</prixProduit>
+<quantiteActuel>1735</quantiteActuel>
+<quantiteAlarme>343</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-06-21</dateModification>
+<auteurCreation>Flowers</auteurCreation>
+<auteurModification>Miranda
+</auteurModification>
+</row>
+<row idProduit="7004">
+<idAlarme>551</idAlarme>
+<nomProduit>ONDANSETRON MYLAN 2 mg/ml sol inj</nomProduit>
+<codeProduit>fd10f6</codeProduit>
+<prixProduit>1052.0</prixProduit>
+<quantiteActuel>1762</quantiteActuel>
+<quantiteAlarme>327</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Bullock</auteurCreation>
+<auteurModification>Belle
+</auteurModification>
+</row>
+<row idProduit="7005">
+<idAlarme>7483</idAlarme>
+<nomProduit>ONDANSETRON MYLAN 8 mg cp orodispers</nomProduit>
+<codeProduit>4cc4fc</codeProduit>
+<prixProduit>364.0</prixProduit>
+<quantiteActuel>2087</quantiteActuel>
+<quantiteAlarme>262</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-09-03</dateModification>
+<auteurCreation>Dennis</auteurCreation>
+<auteurModification>Luke
+</auteurModification>
+</row>
+<row idProduit="7006">
+<idAlarme>2166</idAlarme>
+<nomProduit>ONDANSETRON MYLAN 8 mg cp pellic</nomProduit>
+<codeProduit>48da2f</codeProduit>
+<prixProduit>352.0</prixProduit>
+<quantiteActuel>1634</quantiteActuel>
+<quantiteAlarme>399</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-07-23</dateModification>
+<auteurCreation>Rowland</auteurCreation>
+<auteurModification>Buffy
+</auteurModification>
+</row>
+<row idProduit="7007">
+<idAlarme>8379</idAlarme>
+<nomProduit>ONDANSETRON QUALIMED 8mg cp orodispers</nomProduit>
+<codeProduit>8192fb</codeProduit>
+<prixProduit>805.0</prixProduit>
+<quantiteActuel>1637</quantiteActuel>
+<quantiteAlarme>250</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-08-14</dateModification>
+<auteurCreation>Knowles</auteurCreation>
+<auteurModification>Kay
+</auteurModification>
+</row>
+<row idProduit="7008">
+<idAlarme>7818</idAlarme>
+<nomProduit>ONDANSETRON QUALIMED 8mg cp pellic</nomProduit>
+<codeProduit>e0e0c9</codeProduit>
+<prixProduit>864.0</prixProduit>
+<quantiteActuel>2119</quantiteActuel>
+<quantiteAlarme>240</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Dotson</auteurCreation>
+<auteurModification>Brady
+</auteurModification>
+</row>
+<row idProduit="7009">
+<idAlarme>8466</idAlarme>
+<nomProduit>ONDANSETRON RANBAXY 8mg cp pellic</nomProduit>
+<codeProduit>adea2f</codeProduit>
+<prixProduit>1466.0</prixProduit>
+<quantiteActuel>1708</quantiteActuel>
+<quantiteAlarme>237</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-07-02</dateModification>
+<auteurCreation>Wilkins</auteurCreation>
+<auteurModification>Carl
+</auteurModification>
+</row>
+<row idProduit="7010">
+<idAlarme>1794</idAlarme>
+<nomProduit>ONDANSETRON RATIOPHARM 8mg cp orodispers</nomProduit>
+<codeProduit>04526a</codeProduit>
+<prixProduit>446.0</prixProduit>
+<quantiteActuel>2724</quantiteActuel>
+<quantiteAlarme>426</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Frye</auteurCreation>
+<auteurModification>Sylvia
+</auteurModification>
+</row>
+<row idProduit="7011">
+<idAlarme>5393</idAlarme>
+<nomProduit>ONDANSETRON RATIOPHARM 8mg cp pellic</nomProduit>
+<codeProduit>6a86d7</codeProduit>
+<prixProduit>780.0</prixProduit>
+<quantiteActuel>1723</quantiteActuel>
+<quantiteAlarme>174</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Gilliam</auteurCreation>
+<auteurModification>Leandra
+</auteurModification>
+</row>
+<row idProduit="7012">
+<idAlarme>2363</idAlarme>
+<nomProduit>ONDANSETRON RENAUDIN 2mg/ml sol inj</nomProduit>
+<codeProduit>8c81e9</codeProduit>
+<prixProduit>359.0</prixProduit>
+<quantiteActuel>1855</quantiteActuel>
+<quantiteAlarme>200</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-07-28</dateModification>
+<auteurCreation>Jordan</auteurCreation>
+<auteurModification>Cruz
+</auteurModification>
+</row>
+<row idProduit="7013">
+<idAlarme>5717</idAlarme>
+<nomProduit>ONDANSETRON SANDOZ 4 mg cp orodispers</nomProduit>
+<codeProduit>b4bceb</codeProduit>
+<prixProduit>1266.0</prixProduit>
+<quantiteActuel>2611</quantiteActuel>
+<quantiteAlarme>192</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-08-06</dateModification>
+<auteurCreation>Goodman</auteurCreation>
+<auteurModification>Alexandra
+</auteurModification>
+</row>
+<row idProduit="7014">
+<idAlarme>6349</idAlarme>
+<nomProduit>ONDANSETRON SANDOZ 8 mg cp orodispers</nomProduit>
+<codeProduit>db1e9a</codeProduit>
+<prixProduit>738.0</prixProduit>
+<quantiteActuel>2278</quantiteActuel>
+<quantiteAlarme>141</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-09-08</dateModification>
+<auteurCreation>Harrison</auteurCreation>
+<auteurModification>Rylee
+</auteurModification>
+</row>
+<row idProduit="7015">
+<idAlarme>1150</idAlarme>
+<nomProduit>ONDANSETRON SANDOZ 8mg cp pellic</nomProduit>
+<codeProduit>22d640</codeProduit>
+<prixProduit>1101.0</prixProduit>
+<quantiteActuel>1781</quantiteActuel>
+<quantiteAlarme>433</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-12</dateCreation>
+<dateModification>2010-07-15</dateModification>
+<auteurCreation>Decker</auteurCreation>
+<auteurModification>Mallory
+</auteurModification>
+</row>
+<row idProduit="7016">
+<idAlarme>7609</idAlarme>
+<nomProduit>ONDANSETRON TEVA 8 mg cp orodispers</nomProduit>
+<codeProduit>9d71e0</codeProduit>
+<prixProduit>1035.0</prixProduit>
+<quantiteActuel>1736</quantiteActuel>
+<quantiteAlarme>261</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-09-28</dateModification>
+<auteurCreation>Cabrera</auteurCreation>
+<auteurModification>Timon
+</auteurModification>
+</row>
+<row idProduit="7017">
+<idAlarme>8144</idAlarme>
+<nomProduit>ONDANSETRON TEVA 8mg cp pellic</nomProduit>
+<codeProduit>2a186e</codeProduit>
+<prixProduit>886.0</prixProduit>
+<quantiteActuel>2406</quantiteActuel>
+<quantiteAlarme>482</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-07-17</dateModification>
+<auteurCreation>Nicholson</auteurCreation>
+<auteurModification>Mariko
+</auteurModification>
+</row>
+<row idProduit="7018">
+<idAlarme>4946</idAlarme>
+<nomProduit>ONDANSETRON WINTHROP 2 mg/ml sol inj</nomProduit>
+<codeProduit>45db89</codeProduit>
+<prixProduit>230.0</prixProduit>
+<quantiteActuel>1600</quantiteActuel>
+<quantiteAlarme>289</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-09-25</dateModification>
+<auteurCreation>Levine</auteurCreation>
+<auteurModification>Kevin
+</auteurModification>
+</row>
+<row idProduit="7019">
+<idAlarme>1916</idAlarme>
+<nomProduit>ONDANSETRON WINTHROP 8mg cp orodispers</nomProduit>
+<codeProduit>cf7933</codeProduit>
+<prixProduit>1163.0</prixProduit>
+<quantiteActuel>1785</quantiteActuel>
+<quantiteAlarme>213</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Cotton</auteurCreation>
+<auteurModification>Gail
+</auteurModification>
+</row>
+<row idProduit="7020">
+<idAlarme>10030</idAlarme>
+<nomProduit>ONDANSETRON WINTHROP 8mg cp pellic</nomProduit>
+<codeProduit>296268</codeProduit>
+<prixProduit>1266.0</prixProduit>
+<quantiteActuel>2366</quantiteActuel>
+<quantiteAlarme>196</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-07-24</dateModification>
+<auteurCreation>Serrano</auteurCreation>
+<auteurModification>Reese
+</auteurModification>
+</row>
+<row idProduit="7021">
+<idAlarme>8818</idAlarme>
+<nomProduit>ONDANSETRON ZYDUS 8mg cp orodispers</nomProduit>
+<codeProduit>8c0397</codeProduit>
+<prixProduit>337.0</prixProduit>
+<quantiteActuel>1604</quantiteActuel>
+<quantiteAlarme>103</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-07-18</dateModification>
+<auteurCreation>Sexton</auteurCreation>
+<auteurModification>Laith
+</auteurModification>
+</row>
+<row idProduit="7022">
+<idAlarme>2532</idAlarme>
+<nomProduit>ONDANSETRON ZYDUS 8mg cp pellic</nomProduit>
+<codeProduit>eabda8</codeProduit>
+<prixProduit>1333.0</prixProduit>
+<quantiteActuel>1712</quantiteActuel>
+<quantiteAlarme>322</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-07-30</dateModification>
+<auteurCreation>Wells</auteurCreation>
+<auteurModification>Whoopi
+</auteurModification>
+</row>
+<row idProduit="7023">
+<idAlarme>8683</idAlarme>
+<nomProduit>ONGLYZA 5 mg cp pellic</nomProduit>
+<codeProduit>55d1f6</codeProduit>
+<prixProduit>757.0</prixProduit>
+<quantiteActuel>2453</quantiteActuel>
+<quantiteAlarme>443</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-09-17</dateModification>
+<auteurCreation>Owens</auteurCreation>
+<auteurModification>Skyler
+</auteurModification>
+</row>
+<row idProduit="7024">
+<idAlarme>1379</idAlarme>
+<nomProduit>ONSENAL 400mg gel</nomProduit>
+<codeProduit>efe5af</codeProduit>
+<prixProduit>390.0</prixProduit>
+<quantiteActuel>1855</quantiteActuel>
+<quantiteAlarme>119</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-08-12</dateModification>
+<auteurCreation>Malone</auteurCreation>
+<auteurModification>Amethyst
+</auteurModification>
+</row>
+<row idProduit="7025">
+<idAlarme>6090</idAlarme>
+<nomProduit>ONYTEC 80 mg/g vernis a ongles medic</nomProduit>
+<codeProduit>0a52ac</codeProduit>
+<prixProduit>1061.0</prixProduit>
+<quantiteActuel>2469</quantiteActuel>
+<quantiteAlarme>135</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-08-16</dateModification>
+<auteurCreation>Green</auteurCreation>
+<auteurModification>Chester
+</auteurModification>
+</row>
+<row idProduit="7026">
+<idAlarme>9335</idAlarme>
+<nomProduit>OPALGYNE 0,1% sol vagin</nomProduit>
+<codeProduit>464488</codeProduit>
+<prixProduit>1214.0</prixProduit>
+<quantiteActuel>2221</quantiteActuel>
+<quantiteAlarme>464</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-09-05</dateModification>
+<auteurCreation>Sweeney</auteurCreation>
+<auteurModification>Risa
+</auteurModification>
+</row>
+<row idProduit="7027">
+<idAlarme>6605</idAlarme>
+<nomProduit>OPATANOL 1mg/ml collyre</nomProduit>
+<codeProduit>c1c120</codeProduit>
+<prixProduit>1283.0</prixProduit>
+<quantiteActuel>1704</quantiteActuel>
+<quantiteAlarme>418</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Cash</auteurCreation>
+<auteurModification>Otto
+</auteurModification>
+</row>
+<row idProduit="7028">
+<idAlarme>10358</idAlarme>
+<nomProduit>OPHTACALM 2% collyre sol unidose</nomProduit>
+<codeProduit>ca93c9</codeProduit>
+<prixProduit>155.0</prixProduit>
+<quantiteActuel>2194</quantiteActuel>
+<quantiteAlarme>175</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-09-28</dateModification>
+<auteurCreation>Whitfield</auteurCreation>
+<auteurModification>Kirestin
+</auteurModification>
+</row>
+<row idProduit="7029">
+<idAlarme>3589</idAlarme>
+<nomProduit>OPHTACALM collyre sol</nomProduit>
+<codeProduit>245960</codeProduit>
+<prixProduit>338.0</prixProduit>
+<quantiteActuel>1817</quantiteActuel>
+<quantiteAlarme>133</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Nichols</auteurCreation>
+<auteurModification>Ulysses
+</auteurModification>
+</row>
+<row idProduit="7030">
+<idAlarme>9190</idAlarme>
+<nomProduit>OPHTACALMFREE 2 % collyre sol</nomProduit>
+<codeProduit>cc906b</codeProduit>
+<prixProduit>1429.0</prixProduit>
+<quantiteActuel>2321</quantiteActuel>
+<quantiteAlarme>225</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-09-07</dateModification>
+<auteurCreation>Downs</auteurCreation>
+<auteurModification>Sage
+</auteurModification>
+</row>
+<row idProduit="7031">
+<idAlarme>7227</idAlarme>
+<nomProduit>OPHTASILOXANE collyre</nomProduit>
+<codeProduit>4e1ad4</codeProduit>
+<prixProduit>877.0</prixProduit>
+<quantiteActuel>2616</quantiteActuel>
+<quantiteAlarme>420</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-10-02</dateModification>
+<auteurCreation>Shaw</auteurCreation>
+<auteurModification>Amethyst
+</auteurModification>
+</row>
+<row idProduit="7032">
+<idAlarme>7604</idAlarme>
+<nomProduit>OPHTERGINE 1% pom ophtalm</nomProduit>
+<codeProduit>158e19</codeProduit>
+<prixProduit>257.0</prixProduit>
+<quantiteActuel>2321</quantiteActuel>
+<quantiteAlarme>468</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-08-21</dateModification>
+<auteurCreation>Jackson</auteurCreation>
+<auteurModification>Brenden
+</auteurModification>
+</row>
+<row idProduit="7033">
+<idAlarme>10221</idAlarme>
+<nomProduit>OPHTIM 0,25% collyre en recipient unidose</nomProduit>
+<codeProduit>2f8a77</codeProduit>
+<prixProduit>803.0</prixProduit>
+<quantiteActuel>2206</quantiteActuel>
+<quantiteAlarme>324</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-08-10</dateModification>
+<auteurCreation>Trevino</auteurCreation>
+<auteurModification>Nina
+</auteurModification>
+</row>
+<row idProduit="7034">
+<idAlarme>1765</idAlarme>
+<nomProduit>OPHTIM 0,5 % collyre en unidose</nomProduit>
+<codeProduit>5e5725</codeProduit>
+<prixProduit>884.0</prixProduit>
+<quantiteActuel>1541</quantiteActuel>
+<quantiteAlarme>350</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Mayer</auteurCreation>
+<auteurModification>Brady
+</auteurModification>
+</row>
+<row idProduit="7035">
+<idAlarme>6262</idAlarme>
+<nomProduit>OPO VEINOGENE sol buv</nomProduit>
+<codeProduit>ad64c2</codeProduit>
+<prixProduit>1408.0</prixProduit>
+<quantiteActuel>1629</quantiteActuel>
+<quantiteAlarme>470</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Mccoy</auteurCreation>
+<auteurModification>Kaitlin
+</auteurModification>
+</row>
+<row idProduit="7036">
+<idAlarme>705</idAlarme>
+<nomProduit>OPTICRON 2 % collyre en fl</nomProduit>
+<codeProduit>382048</codeProduit>
+<prixProduit>1250.0</prixProduit>
+<quantiteActuel>2587</quantiteActuel>
+<quantiteAlarme>270</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Merritt</auteurCreation>
+<auteurModification>Kirk
+</auteurModification>
+</row>
+<row idProduit="7037">
+<idAlarme>8504</idAlarme>
+<nomProduit>OPTICRON UNIDOSE collyre unidose</nomProduit>
+<codeProduit>732ba1</codeProduit>
+<prixProduit>948.0</prixProduit>
+<quantiteActuel>2856</quantiteActuel>
+<quantiteAlarme>157</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-07-18</dateModification>
+<auteurCreation>Bryan</auteurCreation>
+<auteurModification>Zelenia
+</auteurModification>
+</row>
+<row idProduit="7038">
+<idAlarme>2568</idAlarme>
+<nomProduit>OPTIJECT 240mg Iode/ml sol inj</nomProduit>
+<codeProduit>3be139</codeProduit>
+<prixProduit>545.0</prixProduit>
+<quantiteActuel>2076</quantiteActuel>
+<quantiteAlarme>237</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-09-26</dateModification>
+<auteurCreation>Guzman</auteurCreation>
+<auteurModification>Gemma
+</auteurModification>
+</row>
+<row idProduit="7039">
+<idAlarme>4699</idAlarme>
+<nomProduit>OPTIJECT 300mg Iode/ml sol inj</nomProduit>
+<codeProduit>98d531</codeProduit>
+<prixProduit>845.0</prixProduit>
+<quantiteActuel>1515</quantiteActuel>
+<quantiteAlarme>158</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-06-29</dateModification>
+<auteurCreation>Wise</auteurCreation>
+<auteurModification>Cassidy
+</auteurModification>
+</row>
+<row idProduit="7040">
+<idAlarme>2529</idAlarme>
+<nomProduit>OPTIJECT 350mg Iode/ml sol inj</nomProduit>
+<codeProduit>1b6bea</codeProduit>
+<prixProduit>1351.0</prixProduit>
+<quantiteActuel>1569</quantiteActuel>
+<quantiteAlarme>450</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-06-30</dateModification>
+<auteurCreation>Delacruz</auteurCreation>
+<auteurModification>Maggy
+</auteurModification>
+</row>
+<row idProduit="7041">
+<idAlarme>7342</idAlarme>
+<nomProduit>OPTIRAY 300 300 mg Iode/ml sol inj</nomProduit>
+<codeProduit>0dcc8a</codeProduit>
+<prixProduit>494.0</prixProduit>
+<quantiteActuel>2812</quantiteActuel>
+<quantiteAlarme>147</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-09-26</dateModification>
+<auteurCreation>Fitzpatrick</auteurCreation>
+<auteurModification>Regan
+</auteurModification>
+</row>
+<row idProduit="7042">
+<idAlarme>711</idAlarme>
+<nomProduit>OPTIRAY 350 350 mg Iode/ml sol inj</nomProduit>
+<codeProduit>544e40</codeProduit>
+<prixProduit>527.0</prixProduit>
+<quantiteActuel>2047</quantiteActuel>
+<quantiteAlarme>291</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-08-31</dateModification>
+<auteurCreation>Hull</auteurCreation>
+<auteurModification>Quyn
+</auteurModification>
+</row>
+<row idProduit="7043">
+<idAlarme>8806</idAlarme>
+<nomProduit>OPTREX sol p lav ocul</nomProduit>
+<codeProduit>f49b8a</codeProduit>
+<prixProduit>1270.0</prixProduit>
+<quantiteActuel>1615</quantiteActuel>
+<quantiteAlarme>142</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-08-24</dateModification>
+<auteurCreation>Cannon</auteurCreation>
+<auteurModification>Myles
+</auteurModification>
+</row>
+<row idProduit="7044">
+<idAlarme>10105</idAlarme>
+<nomProduit>OPTRUMA 60mg cp pellic</nomProduit>
+<codeProduit>1cd1fd</codeProduit>
+<prixProduit>1004.0</prixProduit>
+<quantiteActuel>2081</quantiteActuel>
+<quantiteAlarme>413</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-09-01</dateModification>
+<auteurCreation>Parrish</auteurCreation>
+<auteurModification>Shea
+</auteurModification>
+</row>
+<row idProduit="7045">
+<idAlarme>10367</idAlarme>
+<nomProduit>ORACEFAL 125 mg/5 ml pdre p susp buv</nomProduit>
+<codeProduit>bebd9f</codeProduit>
+<prixProduit>1356.0</prixProduit>
+<quantiteActuel>2851</quantiteActuel>
+<quantiteAlarme>278</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Hobbs</auteurCreation>
+<auteurModification>Keely
+</auteurModification>
+</row>
+<row idProduit="7046">
+<idAlarme>1143</idAlarme>
+<nomProduit>ORACEFAL 1g cp dispers</nomProduit>
+<codeProduit>5fd754</codeProduit>
+<prixProduit>1462.0</prixProduit>
+<quantiteActuel>1623</quantiteActuel>
+<quantiteAlarme>111</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-07-20</dateModification>
+<auteurCreation>Bentley</auteurCreation>
+<auteurModification>Jessamine
+</auteurModification>
+</row>
+<row idProduit="7047">
+<idAlarme>9016</idAlarme>
+<nomProduit>ORACEFAL 250 mg/5 ml pdre p susp buv</nomProduit>
+<codeProduit>c27468</codeProduit>
+<prixProduit>436.0</prixProduit>
+<quantiteActuel>1689</quantiteActuel>
+<quantiteAlarme>202</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Mitchell</auteurCreation>
+<auteurModification>Kenyon
+</auteurModification>
+</row>
+<row idProduit="7048">
+<idAlarme>4629</idAlarme>
+<nomProduit>ORACEFAL 500 mg gel</nomProduit>
+<codeProduit>b671d5</codeProduit>
+<prixProduit>559.0</prixProduit>
+<quantiteActuel>2359</quantiteActuel>
+<quantiteAlarme>277</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-09-05</dateModification>
+<auteurCreation>Clements</auteurCreation>
+<auteurModification>Mariko
+</auteurModification>
+</row>
+<row idProduit="7049">
+<idAlarme>5371</idAlarme>
+<nomProduit>ORACEFAL 500 mg/5 ml pdre p susp buv</nomProduit>
+<codeProduit>054dd3</codeProduit>
+<prixProduit>429.0</prixProduit>
+<quantiteActuel>1837</quantiteActuel>
+<quantiteAlarme>221</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-10-04</dateModification>
+<auteurCreation>Dale</auteurCreation>
+<auteurModification>Ishmael
+</auteurModification>
+</row>
+<row idProduit="7050">
+<idAlarme>3533</idAlarme>
+<nomProduit>ORACILLINE 1 M UI cp sec</nomProduit>
+<codeProduit>2653e1</codeProduit>
+<prixProduit>460.0</prixProduit>
+<quantiteActuel>2281</quantiteActuel>
+<quantiteAlarme>133</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-09-29</dateModification>
+<auteurCreation>Edwards</auteurCreation>
+<auteurModification>Ivana
+</auteurModification>
+</row>
+<row idProduit="7051">
+<idAlarme>1040</idAlarme>
+<nomProduit>ORACILLINE 1 M UI/10 ml susp buv</nomProduit>
+<codeProduit>cc0a77</codeProduit>
+<prixProduit>1327.0</prixProduit>
+<quantiteActuel>2094</quantiteActuel>
+<quantiteAlarme>121</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-07-31</dateModification>
+<auteurCreation>Dyer</auteurCreation>
+<auteurModification>Christopher
+</auteurModification>
+</row>
+<row idProduit="7052">
+<idAlarme>4247</idAlarme>
+<nomProduit>ORACILLINE 250 000 UI/5 ml susp buv</nomProduit>
+<codeProduit>13d56d</codeProduit>
+<prixProduit>726.0</prixProduit>
+<quantiteActuel>2355</quantiteActuel>
+<quantiteAlarme>313</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-09-24</dateModification>
+<auteurCreation>Moreno</auteurCreation>
+<auteurModification>Kyle
+</auteurModification>
+</row>
+<row idProduit="7053">
+<idAlarme>6540</idAlarme>
+<nomProduit>ORACILLINE 500 000 UI/5 ml susp buv</nomProduit>
+<codeProduit>b4c3a2</codeProduit>
+<prixProduit>761.0</prixProduit>
+<quantiteActuel>2922</quantiteActuel>
+<quantiteAlarme>101</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Parrish</auteurCreation>
+<auteurModification>Tad
+</auteurModification>
+</row>
+<row idProduit="7054">
+<idAlarme>2274</idAlarme>
+<nomProduit>ORAMORPH 100mg/5ml sol buv</nomProduit>
+<codeProduit>774be3</codeProduit>
+<prixProduit>412.0</prixProduit>
+<quantiteActuel>2947</quantiteActuel>
+<quantiteAlarme>266</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-06-27</dateModification>
+<auteurCreation>Hale</auteurCreation>
+<auteurModification>Nehru
+</auteurModification>
+</row>
+<row idProduit="7055">
+<idAlarme>6982</idAlarme>
+<nomProduit>ORAMORPH 10mg/5ml sol buv</nomProduit>
+<codeProduit>04b18b</codeProduit>
+<prixProduit>860.0</prixProduit>
+<quantiteActuel>1635</quantiteActuel>
+<quantiteAlarme>430</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-08-06</dateModification>
+<auteurCreation>Martin</auteurCreation>
+<auteurModification>Rogan
+</auteurModification>
+</row>
+<row idProduit="7056">
+<idAlarme>709</idAlarme>
+<nomProduit>ORAMORPH 20mg/1ml sol buv</nomProduit>
+<codeProduit>65f620</codeProduit>
+<prixProduit>1146.0</prixProduit>
+<quantiteActuel>1873</quantiteActuel>
+<quantiteAlarme>467</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-07-29</dateModification>
+<auteurCreation>Randolph</auteurCreation>
+<auteurModification>Kevin
+</auteurModification>
+</row>
+<row idProduit="7057">
+<idAlarme>1667</idAlarme>
+<nomProduit>ORAMORPH 30mg/5ml sol buv</nomProduit>
+<codeProduit>23582c</codeProduit>
+<prixProduit>1180.0</prixProduit>
+<quantiteActuel>2014</quantiteActuel>
+<quantiteAlarme>300</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-06-27</dateModification>
+<auteurCreation>Guzman</auteurCreation>
+<auteurModification>Rhona
+</auteurModification>
+</row>
+<row idProduit="7058">
+<idAlarme>7593</idAlarme>
+<nomProduit>ORAP 1 mg cp</nomProduit>
+<codeProduit>910740</codeProduit>
+<prixProduit>1349.0</prixProduit>
+<quantiteActuel>1741</quantiteActuel>
+<quantiteAlarme>159</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-12</dateCreation>
+<dateModification>2010-07-03</dateModification>
+<auteurCreation>Simon</auteurCreation>
+<auteurModification>Colt
+</auteurModification>
+</row>
+<row idProduit="7059">
+<idAlarme>1440</idAlarme>
+<nomProduit>ORAP 4 mg cp</nomProduit>
+<codeProduit>9f0de6</codeProduit>
+<prixProduit>405.0</prixProduit>
+<quantiteActuel>2514</quantiteActuel>
+<quantiteAlarme>393</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-09-07</dateModification>
+<auteurCreation>Martinez</auteurCreation>
+<auteurModification>Neve
+</auteurModification>
+</row>
+<row idProduit="7060">
+<idAlarme>1605</idAlarme>
+<nomProduit>ORAQIX gel periodontal</nomProduit>
+<codeProduit>3dc067</codeProduit>
+<prixProduit>1170.0</prixProduit>
+<quantiteActuel>2056</quantiteActuel>
+<quantiteAlarme>216</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-11</dateCreation>
+<dateModification>2010-08-25</dateModification>
+<auteurCreation>Melendez</auteurCreation>
+<auteurModification>September
+</auteurModification>
+</row>
+<row idProduit="7061">
+<idAlarme>4939</idAlarme>
+<nomProduit>ORAVIR 500mg cp pellic</nomProduit>
+<codeProduit>4fba92</codeProduit>
+<prixProduit>1407.0</prixProduit>
+<quantiteActuel>2838</quantiteActuel>
+<quantiteAlarme>183</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-09-07</dateModification>
+<auteurCreation>Craig</auteurCreation>
+<auteurModification>Louis
+</auteurModification>
+</row>
+<row idProduit="7062">
+<idAlarme>3323</idAlarme>
+<nomProduit>ORBENINE 1g/5ml pdre/sol p us parenter IM</nomProduit>
+<codeProduit>0cf158</codeProduit>
+<prixProduit>193.0</prixProduit>
+<quantiteActuel>2962</quantiteActuel>
+<quantiteAlarme>114</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-06-21</dateModification>
+<auteurCreation>Allison</auteurCreation>
+<auteurModification>Deanna
+</auteurModification>
+</row>
+<row idProduit="7063">
+<idAlarme>6516</idAlarme>
+<nomProduit>ORBENINE 1g/5ml pdre/sol p us parenter IV</nomProduit>
+<codeProduit>1ba0f3</codeProduit>
+<prixProduit>984.0</prixProduit>
+<quantiteActuel>2991</quantiteActuel>
+<quantiteAlarme>245</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-18</dateCreation>
+<dateModification>2010-07-20</dateModification>
+<auteurCreation>Rush</auteurCreation>
+<auteurModification>Palmer
+</auteurModification>
+</row>
+<row idProduit="7064">
+<idAlarme>9243</idAlarme>
+<nomProduit>ORBENINE 500mg gel</nomProduit>
+<codeProduit>76751f</codeProduit>
+<prixProduit>650.0</prixProduit>
+<quantiteActuel>2344</quantiteActuel>
+<quantiteAlarme>277</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-09-30</dateModification>
+<auteurCreation>Greer</auteurCreation>
+<auteurModification>Naomi
+</auteurModification>
+</row>
+<row idProduit="7065">
+<idAlarme>4149</idAlarme>
+<nomProduit>ORDIPHA 500 mg cp dispers sec</nomProduit>
+<codeProduit>d5306f</codeProduit>
+<prixProduit>943.0</prixProduit>
+<quantiteActuel>2518</quantiteActuel>
+<quantiteAlarme>268</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Gutierrez</auteurCreation>
+<auteurModification>Matthew
+</auteurModification>
+</row>
+<row idProduit="7066">
+<idAlarme>10250</idAlarme>
+<nomProduit>ORELOX 100mg cp pellic</nomProduit>
+<codeProduit>b429b4</codeProduit>
+<prixProduit>574.0</prixProduit>
+<quantiteActuel>1536</quantiteActuel>
+<quantiteAlarme>309</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Whitley</auteurCreation>
+<auteurModification>Latifah
+</auteurModification>
+</row>
+<row idProduit="7067">
+<idAlarme>7365</idAlarme>
+<nomProduit>ORELOX 8mg/ml gle p susp buv enfant nourrisson</nomProduit>
+<codeProduit>71431e</codeProduit>
+<prixProduit>518.0</prixProduit>
+<quantiteActuel>2203</quantiteActuel>
+<quantiteAlarme>487</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-07-21</dateModification>
+<auteurCreation>Rutledge</auteurCreation>
+<auteurModification>Amethyst
+</auteurModification>
+</row>
+<row idProduit="7068">
+<idAlarme>10097</idAlarme>
+<nomProduit>ORENCIA 250mg pdre p sol diluer p perf</nomProduit>
+<codeProduit>8e6ef6</codeProduit>
+<prixProduit>739.0</prixProduit>
+<quantiteActuel>2632</quantiteActuel>
+<quantiteAlarme>188</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-06-21</dateModification>
+<auteurCreation>Green</auteurCreation>
+<auteurModification>Stacey
+</auteurModification>
+</row>
+<row idProduit="7069">
+<idAlarme>2926</idAlarme>
+<nomProduit>ORFADIN 10mg gel</nomProduit>
+<codeProduit>e8c3d3</codeProduit>
+<prixProduit>196.0</prixProduit>
+<quantiteActuel>2017</quantiteActuel>
+<quantiteAlarme>225</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-07-30</dateModification>
+<auteurCreation>Nguyen</auteurCreation>
+<auteurModification>Martin
+</auteurModification>
+</row>
+<row idProduit="7070">
+<idAlarme>1651</idAlarme>
+<nomProduit>ORFADIN 2mg gel</nomProduit>
+<codeProduit>2c1bed</codeProduit>
+<prixProduit>460.0</prixProduit>
+<quantiteActuel>1661</quantiteActuel>
+<quantiteAlarme>302</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-08-13</dateModification>
+<auteurCreation>Marshall</auteurCreation>
+<auteurModification>Rhoda
+</auteurModification>
+</row>
+<row idProduit="7071">
+<idAlarme>4977</idAlarme>
+<nomProduit>ORFADIN 5mg gel</nomProduit>
+<codeProduit>6397ac</codeProduit>
+<prixProduit>396.0</prixProduit>
+<quantiteActuel>1918</quantiteActuel>
+<quantiteAlarme>218</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-09-25</dateModification>
+<auteurCreation>Richardson</auteurCreation>
+<auteurModification>Harding
+</auteurModification>
+</row>
+<row idProduit="7072">
+<idAlarme>6477</idAlarme>
+<nomProduit>ORGALUTRAN 0,25mg/0,5ml sol inj</nomProduit>
+<codeProduit>7951ad</codeProduit>
+<prixProduit>1169.0</prixProduit>
+<quantiteActuel>1660</quantiteActuel>
+<quantiteAlarme>209</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-06-22</dateModification>
+<auteurCreation>Becker</auteurCreation>
+<auteurModification>Colleen
+</auteurModification>
+</row>
+<row idProduit="7073">
+<idAlarme>10178</idAlarme>
+<nomProduit>ORGARAN 750UI anti-Xa/0,6ml sol inj</nomProduit>
+<codeProduit>79a7cb</codeProduit>
+<prixProduit>1217.0</prixProduit>
+<quantiteActuel>2611</quantiteActuel>
+<quantiteAlarme>465</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-07-30</dateModification>
+<auteurCreation>Rush</auteurCreation>
+<auteurModification>Sara
+</auteurModification>
+</row>
+<row idProduit="7074">
+<idAlarme>8866</idAlarme>
+<nomProduit>ORMANDYL 50mg cp pellic</nomProduit>
+<codeProduit>eb7c58</codeProduit>
+<prixProduit>224.0</prixProduit>
+<quantiteActuel>2154</quantiteActuel>
+<quantiteAlarme>251</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-06-26</dateModification>
+<auteurCreation>Warner</auteurCreation>
+<auteurModification>Emerson
+</auteurModification>
+</row>
+<row idProduit="7075">
+<idAlarme>5620</idAlarme>
+<nomProduit>OROCAL 500 mg cp a sucer</nomProduit>
+<codeProduit>e8edf4</codeProduit>
+<prixProduit>1477.0</prixProduit>
+<quantiteActuel>1569</quantiteActuel>
+<quantiteAlarme>153</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Soto</auteurCreation>
+<auteurModification>Larissa
+</auteurModification>
+</row>
+<row idProduit="7076">
+<idAlarme>5971</idAlarme>
+<nomProduit>OROCAL VITAMINE D3 1200 mg/800 U.I. pdre p susp buv</nomProduit>
+<codeProduit>df50e0</codeProduit>
+<prixProduit>1443.0</prixProduit>
+<quantiteActuel>1964</quantiteActuel>
+<quantiteAlarme>399</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-10-06</dateModification>
+<auteurCreation>Maldonado</auteurCreation>
+<auteurModification>Imogene
+</auteurModification>
+</row>
+<row idProduit="7077">
+<idAlarme>8419</idAlarme>
+<nomProduit>OROCAL VITAMINE D3 500 mg/400 UI cp a sucer</nomProduit>
+<codeProduit>fc1c54</codeProduit>
+<prixProduit>1434.0</prixProduit>
+<quantiteActuel>2083</quantiteActuel>
+<quantiteAlarme>490</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-09-23</dateModification>
+<auteurCreation>Rivas</auteurCreation>
+<auteurModification>Anjolie
+</auteurModification>
+</row>
+<row idProduit="7078">
+<idAlarme>5174</idAlarme>
+<nomProduit>OROCAL VITAMINE D3 500mg/200UI cp a sucer</nomProduit>
+<codeProduit>949052</codeProduit>
+<prixProduit>295.0</prixProduit>
+<quantiteActuel>1569</quantiteActuel>
+<quantiteAlarme>287</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-26</dateCreation>
+<dateModification>2010-06-20</dateModification>
+<auteurCreation>Petty</auteurCreation>
+<auteurModification>Amaya
+</auteurModification>
+</row>
+<row idProduit="7079">
+<idAlarme>10284</idAlarme>
+<nomProduit>OROKEN 100 mg/5 ml pdre p susp buv enf</nomProduit>
+<codeProduit>70aa86</codeProduit>
+<prixProduit>1488.0</prixProduit>
+<quantiteActuel>1758</quantiteActuel>
+<quantiteAlarme>241</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-07-31</dateModification>
+<auteurCreation>Salas</auteurCreation>
+<auteurModification>Kennan
+</auteurModification>
+</row>
+<row idProduit="7080">
+<idAlarme>330</idAlarme>
+<nomProduit>OROKEN 200mg cp pellic</nomProduit>
+<codeProduit>647a90</codeProduit>
+<prixProduit>1488.0</prixProduit>
+<quantiteActuel>2972</quantiteActuel>
+<quantiteAlarme>312</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-08-23</dateModification>
+<auteurCreation>Shepherd</auteurCreation>
+<auteurModification>Knox
+</auteurModification>
+</row>
+<row idProduit="7081">
+<idAlarme>6556</idAlarme>
+<nomProduit>OROKEN 40 mg/5 ml pdre p susp buv nour</nomProduit>
+<codeProduit>7a5791</codeProduit>
+<prixProduit>1024.0</prixProduit>
+<quantiteActuel>2273</quantiteActuel>
+<quantiteAlarme>214</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-07-21</dateModification>
+<auteurCreation>Mccoy</auteurCreation>
+<auteurModification>Tanner
+</auteurModification>
+</row>
+<row idProduit="7082">
+<idAlarme>801</idAlarme>
+<nomProduit>OROMAG cp a sucer</nomProduit>
+<codeProduit>7a740d</codeProduit>
+<prixProduit>933.0</prixProduit>
+<quantiteActuel>2176</quantiteActuel>
+<quantiteAlarme>227</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-09-14</dateModification>
+<auteurCreation>Thornton</auteurCreation>
+<auteurModification>Randall
+</auteurModification>
+</row>
+<row idProduit="7083">
+<idAlarme>4123</idAlarme>
+<nomProduit>OROMEDINE MAUX DE GORGE sol p pulv bucc</nomProduit>
+<codeProduit>0ac9ea</codeProduit>
+<prixProduit>1142.0</prixProduit>
+<quantiteActuel>2700</quantiteActuel>
+<quantiteAlarme>109</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Wolf</auteurCreation>
+<auteurModification>Trevor
+</auteurModification>
+</row>
+<row idProduit="7084">
+<idAlarme>7700</idAlarme>
+<nomProduit>OROMONE 1mg cp pellic</nomProduit>
+<codeProduit>91da8e</codeProduit>
+<prixProduit>346.0</prixProduit>
+<quantiteActuel>1830</quantiteActuel>
+<quantiteAlarme>265</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-07-26</dateModification>
+<auteurCreation>Reyes</auteurCreation>
+<auteurModification>Dean
+</auteurModification>
+</row>
+<row idProduit="7085">
+<idAlarme>8220</idAlarme>
+<nomProduit>OROMONE 2mg cp pellic</nomProduit>
+<codeProduit>c973eb</codeProduit>
+<prixProduit>262.0</prixProduit>
+<quantiteActuel>1885</quantiteActuel>
+<quantiteAlarme>158</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-08-24</dateModification>
+<auteurCreation>Lindsey</auteurCreation>
+<auteurModification>Katelyn
+</auteurModification>
+</row>
+<row idProduit="7086">
+<idAlarme>697</idAlarme>
+<nomProduit>OROPERIDYS 10mg cp orodispers</nomProduit>
+<codeProduit>9f7b83</codeProduit>
+<prixProduit>782.0</prixProduit>
+<quantiteActuel>2568</quantiteActuel>
+<quantiteAlarme>198</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-06-17</dateModification>
+<auteurCreation>Wiggins</auteurCreation>
+<auteurModification>Bree
+</auteurModification>
+</row>
+<row idProduit="7087">
+<idAlarme>9240</idAlarme>
+<nomProduit>OROZAMUDOL 50mg cp orodispers</nomProduit>
+<codeProduit>657f72</codeProduit>
+<prixProduit>1413.0</prixProduit>
+<quantiteActuel>2518</quantiteActuel>
+<quantiteAlarme>254</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-07-15</dateModification>
+<auteurCreation>Kerr</auteurCreation>
+<auteurModification>Nola
+</auteurModification>
+</row>
+<row idProduit="7088">
+<idAlarme>9277</idAlarme>
+<nomProduit>ORTHOCLONE OKT3 1mg/ml sol inj</nomProduit>
+<codeProduit>16188c</codeProduit>
+<prixProduit>303.0</prixProduit>
+<quantiteActuel>1763</quantiteActuel>
+<quantiteAlarme>253</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-08-25</dateModification>
+<auteurCreation>Page</auteurCreation>
+<auteurModification>Chantale
+</auteurModification>
+</row>
+<row idProduit="7089">
+<idAlarme>1203</idAlarme>
+<nomProduit>OSAFLEXAN 1178 mg pdre p sol buv</nomProduit>
+<codeProduit>e61893</codeProduit>
+<prixProduit>727.0</prixProduit>
+<quantiteActuel>2621</quantiteActuel>
+<quantiteAlarme>458</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-18</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Noble</auteurCreation>
+<auteurModification>Breanna
+</auteurModification>
+</row>
+<row idProduit="7090">
+<idAlarme>4531</idAlarme>
+<nomProduit>OSCILLOCOCCINUM globule</nomProduit>
+<codeProduit>6dbb1e</codeProduit>
+<prixProduit>1240.0</prixProduit>
+<quantiteActuel>2099</quantiteActuel>
+<quantiteAlarme>426</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Burns</auteurCreation>
+<auteurModification>Cassady
+</auteurModification>
+</row>
+<row idProduit="7091">
+<idAlarme>233</idAlarme>
+<nomProduit>OSIGRAFT 3,3mg pdre p susp implant</nomProduit>
+<codeProduit>a64d99</codeProduit>
+<prixProduit>1067.0</prixProduit>
+<quantiteActuel>2250</quantiteActuel>
+<quantiteAlarme>375</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-07-20</dateModification>
+<auteurCreation>Fuentes</auteurCreation>
+<auteurModification>Yoko
+</auteurModification>
+</row>
+<row idProduit="7092">
+<idAlarme>2089</idAlarme>
+<nomProduit>OSMOGEL gel p appl loc</nomProduit>
+<codeProduit>95cd48</codeProduit>
+<prixProduit>1201.0</prixProduit>
+<quantiteActuel>1830</quantiteActuel>
+<quantiteAlarme>218</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-09-18</dateModification>
+<auteurCreation>Martin</auteurCreation>
+<auteurModification>Calvin
+</auteurModification>
+</row>
+<row idProduit="7093">
+<idAlarme>10249</idAlarme>
+<nomProduit>OSMOTAN G 10% sol p perf</nomProduit>
+<codeProduit>4b2392</codeProduit>
+<prixProduit>228.0</prixProduit>
+<quantiteActuel>1894</quantiteActuel>
+<quantiteAlarme>201</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Cunningham</auteurCreation>
+<auteurModification>Clarke
+</auteurModification>
+</row>
+<row idProduit="7094">
+<idAlarme>6695</idAlarme>
+<nomProduit>OSMOTAN G 5% sol p perf</nomProduit>
+<codeProduit>61f118</codeProduit>
+<prixProduit>1205.0</prixProduit>
+<quantiteActuel>1877</quantiteActuel>
+<quantiteAlarme>436</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-08-23</dateModification>
+<auteurCreation>Keith</auteurCreation>
+<auteurModification>Athena
+</auteurModification>
+</row>
+<row idProduit="7095">
+<idAlarme>9763</idAlarme>
+<nomProduit>OSMOTOL sol p instil auric</nomProduit>
+<codeProduit>abdc79</codeProduit>
+<prixProduit>396.0</prixProduit>
+<quantiteActuel>1896</quantiteActuel>
+<quantiteAlarme>467</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-12</dateCreation>
+<dateModification>2010-09-02</dateModification>
+<auteurCreation>Mueller</auteurCreation>
+<auteurModification>Zenaida
+</auteurModification>
+</row>
+<row idProduit="7096">
+<idAlarme>9563</idAlarme>
+<nomProduit>OSOMOL 3 sol p us dent</nomProduit>
+<codeProduit>b9bf7f</codeProduit>
+<prixProduit>529.0</prixProduit>
+<quantiteActuel>2766</quantiteActuel>
+<quantiteAlarme>260</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Mckee</auteurCreation>
+<auteurModification>Idola
+</auteurModification>
+</row>
+<row idProduit="7097">
+<idAlarme>2036</idAlarme>
+<nomProduit>OSOMOL 4 sol p us dent</nomProduit>
+<codeProduit>762822</codeProduit>
+<prixProduit>542.0</prixProduit>
+<quantiteActuel>1522</quantiteActuel>
+<quantiteAlarme>285</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Riggs</auteurCreation>
+<auteurModification>Palmer
+</auteurModification>
+</row>
+<row idProduit="7098">
+<idAlarme>6858</idAlarme>
+<nomProduit>OSSEANS VITAMINE D3 500mg/400UI cp a croquer/sucer</nomProduit>
+<codeProduit>a0e47b</codeProduit>
+<prixProduit>957.0</prixProduit>
+<quantiteActuel>2990</quantiteActuel>
+<quantiteAlarme>181</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-09-02</dateModification>
+<auteurCreation>Todd</auteurCreation>
+<auteurModification>Aladdin
+</auteurModification>
+</row>
+<row idProduit="7099">
+<idAlarme>1870</idAlarme>
+<nomProduit>OSSOPAN 600mg cp pellic</nomProduit>
+<codeProduit>2d18e0</codeProduit>
+<prixProduit>605.0</prixProduit>
+<quantiteActuel>2504</quantiteActuel>
+<quantiteAlarme>287</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Reese</auteurCreation>
+<auteurModification>Isabella
+</auteurModification>
+</row>
+<row idProduit="7100">
+<idAlarme>7613</idAlarme>
+<nomProduit>OSTEOCAL 500mg cp a sucer</nomProduit>
+<codeProduit>418223</codeProduit>
+<prixProduit>1428.0</prixProduit>
+<quantiteActuel>2489</quantiteActuel>
+<quantiteAlarme>158</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-09-14</dateModification>
+<auteurCreation>Forbes</auteurCreation>
+<auteurModification>Stephen
+</auteurModification>
+</row>
+<row idProduit="7101">
+<idAlarme>1308</idAlarme>
+<nomProduit>OSTEOCAL D3 500mg/400UI cp a sucer</nomProduit>
+<codeProduit>43391a</codeProduit>
+<prixProduit>1170.0</prixProduit>
+<quantiteActuel>2242</quantiteActuel>
+<quantiteAlarme>193</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-08-14</dateModification>
+<auteurCreation>Ramsey</auteurCreation>
+<auteurModification>Jana
+</auteurModification>
+</row>
+<row idProduit="7102">
+<idAlarme>9970</idAlarme>
+<nomProduit>OSTEOCIS pdre p sol inj</nomProduit>
+<codeProduit>e3d111</codeProduit>
+<prixProduit>1413.0</prixProduit>
+<quantiteActuel>2495</quantiteActuel>
+<quantiteAlarme>425</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Hart</auteurCreation>
+<auteurModification>Dolan
+</auteurModification>
+</row>
+<row idProduit="7103">
+<idAlarme>9214</idAlarme>
+<nomProduit>OSTEOCYNESINE cp</nomProduit>
+<codeProduit>1426e2</codeProduit>
+<prixProduit>320.0</prixProduit>
+<quantiteActuel>2455</quantiteActuel>
+<quantiteAlarme>383</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-09-08</dateModification>
+<auteurCreation>Rich</auteurCreation>
+<auteurModification>Reuben
+</auteurModification>
+</row>
+<row idProduit="7104">
+<idAlarme>9106</idAlarme>
+<nomProduit>OSTEPAM 15mg/ml sol diluer p perf</nomProduit>
+<codeProduit>21a5c6</codeProduit>
+<prixProduit>1225.0</prixProduit>
+<quantiteActuel>2505</quantiteActuel>
+<quantiteAlarme>291</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-09-26</dateModification>
+<auteurCreation>Owen</auteurCreation>
+<auteurModification>Tatyana
+</auteurModification>
+</row>
+<row idProduit="7105">
+<idAlarme>6415</idAlarme>
+<nomProduit>OSTRAM 0,6 g pdre p susp buv</nomProduit>
+<codeProduit>233be0</codeProduit>
+<prixProduit>1033.0</prixProduit>
+<quantiteActuel>1735</quantiteActuel>
+<quantiteAlarme>455</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-09-16</dateModification>
+<auteurCreation>Rowe</auteurCreation>
+<auteurModification>Rylee
+</auteurModification>
+</row>
+<row idProduit="7106">
+<idAlarme>5144</idAlarme>
+<nomProduit>OSTRAM 1,2 g pdre p susp buv</nomProduit>
+<codeProduit>4f57cd</codeProduit>
+<prixProduit>1241.0</prixProduit>
+<quantiteActuel>1962</quantiteActuel>
+<quantiteAlarme>330</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-07-18</dateModification>
+<auteurCreation>Kaufman</auteurCreation>
+<auteurModification>Malik
+</auteurModification>
+</row>
+<row idProduit="7107">
+<idAlarme>6393</idAlarme>
+<nomProduit>OTIPAX sol p instil auric</nomProduit>
+<codeProduit>01a147</codeProduit>
+<prixProduit>261.0</prixProduit>
+<quantiteActuel>2574</quantiteActuel>
+<quantiteAlarme>199</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-11</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Richardson</auteurCreation>
+<auteurModification>Sawyer
+</auteurModification>
+</row>
+<row idProduit="7108">
+<idAlarme>517</idAlarme>
+<nomProduit>OTOFA sol auric</nomProduit>
+<codeProduit>555251</codeProduit>
+<prixProduit>503.0</prixProduit>
+<quantiteActuel>1813</quantiteActuel>
+<quantiteAlarme>315</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-06-28</dateModification>
+<auteurCreation>Moreno</auteurCreation>
+<auteurModification>Warren
+</auteurModification>
+</row>
+<row idProduit="7109">
+<idAlarme>10429</idAlarme>
+<nomProduit>OTOMIDE sol p instil auric</nomProduit>
+<codeProduit>5910ea</codeProduit>
+<prixProduit>1342.0</prixProduit>
+<quantiteActuel>2848</quantiteActuel>
+<quantiteAlarme>233</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-09-07</dateModification>
+<auteurCreation>Macias</auteurCreation>
+<auteurModification>Leslie
+</auteurModification>
+</row>
+<row idProduit="7110">
+<idAlarme>7885</idAlarme>
+<nomProduit>OTRASEL 1,25mg lyoph oral</nomProduit>
+<codeProduit>f05527</codeProduit>
+<prixProduit>678.0</prixProduit>
+<quantiteActuel>2613</quantiteActuel>
+<quantiteAlarme>266</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-07-01</dateModification>
+<auteurCreation>Keith</auteurCreation>
+<auteurModification>Brandon
+</auteurModification>
+</row>
+<row idProduit="7111">
+<idAlarme>4954</idAlarme>
+<nomProduit>OTYLOL sol p instil auric</nomProduit>
+<codeProduit>4ecc6c</codeProduit>
+<prixProduit>793.0</prixProduit>
+<quantiteActuel>2557</quantiteActuel>
+<quantiteAlarme>197</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Pitts</auteurCreation>
+<auteurModification>Uriah
+</auteurModification>
+</row>
+<row idProduit="7112">
+<idAlarme>5269</idAlarme>
+<nomProduit>OVITRELLE 250ug/0,5ml sol inj</nomProduit>
+<codeProduit>896c5c</codeProduit>
+<prixProduit>250.0</prixProduit>
+<quantiteActuel>2477</quantiteActuel>
+<quantiteAlarme>473</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-09-25</dateModification>
+<auteurCreation>Gross</auteurCreation>
+<auteurModification>Cedric
+</auteurModification>
+</row>
+<row idProduit="7113">
+<idAlarme>1144</idAlarme>
+<nomProduit>OVULES AU CALENDULA BOIRON ovule</nomProduit>
+<codeProduit>6de418</codeProduit>
+<prixProduit>568.0</prixProduit>
+<quantiteActuel>2624</quantiteActuel>
+<quantiteAlarme>158</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-29</dateCreation>
+<dateModification>2010-09-05</dateModification>
+<auteurCreation>Mccarty</auteurCreation>
+<auteurModification>Salvador
+</auteurModification>
+</row>
+<row idProduit="7114">
+<idAlarme>7307</idAlarme>
+<nomProduit>OVULES HYDRASTIS CALENDULA BOIRON ovule</nomProduit>
+<codeProduit>7026c6</codeProduit>
+<prixProduit>1212.0</prixProduit>
+<quantiteActuel>1681</quantiteActuel>
+<quantiteAlarme>125</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Oliver</auteurCreation>
+<auteurModification>Sara
+</auteurModification>
+</row>
+<row idProduit="7115">
+<idAlarme>607</idAlarme>
+<nomProduit>OXACILLINE PANPHARMA 1 g pdre p sol inj IM et p perf IV</nomProduit>
+<codeProduit>0844f8</codeProduit>
+<prixProduit>1241.0</prixProduit>
+<quantiteActuel>2328</quantiteActuel>
+<quantiteAlarme>122</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Patrick</auteurCreation>
+<auteurModification>Winifred
+</auteurModification>
+</row>
+<row idProduit="7116">
+<idAlarme>9835</idAlarme>
+<nomProduit>OXACILLINE PANPHARMA 500 mg pdre p sol inj IM et p perf IV</nomProduit>
+<codeProduit>e2757a</codeProduit>
+<prixProduit>924.0</prixProduit>
+<quantiteActuel>2050</quantiteActuel>
+<quantiteAlarme>389</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-09-25</dateModification>
+<auteurCreation>Hatfield</auteurCreation>
+<auteurModification>Derek
+</auteurModification>
+</row>
+<row idProduit="7117">
+<idAlarme>3302</idAlarme>
+<nomProduit>OXALIPLATINE ACTAVIS 5 mg/ml pdre p sol p perf</nomProduit>
+<codeProduit>d27386</codeProduit>
+<prixProduit>857.0</prixProduit>
+<quantiteActuel>1734</quantiteActuel>
+<quantiteAlarme>433</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-07-26</dateModification>
+<auteurCreation>Sargent</auteurCreation>
+<auteurModification>Henry
+</auteurModification>
+</row>
+<row idProduit="7118">
+<idAlarme>8357</idAlarme>
+<nomProduit>OXALIPLATINE DAKOTA PHARM 5mg/ml pdre p sol p perf</nomProduit>
+<codeProduit>69800e</codeProduit>
+<prixProduit>1428.0</prixProduit>
+<quantiteActuel>1939</quantiteActuel>
+<quantiteAlarme>315</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-29</dateCreation>
+<dateModification>2010-07-12</dateModification>
+<auteurCreation>Velasquez</auteurCreation>
+<auteurModification>MacKensie
+</auteurModification>
+</row>
+<row idProduit="7119">
+<idAlarme>4900</idAlarme>
+<nomProduit>OXALIPLATINE EBEWE 5mg/ml pdre p sol p perf</nomProduit>
+<codeProduit>bc955d</codeProduit>
+<prixProduit>493.0</prixProduit>
+<quantiteActuel>2254</quantiteActuel>
+<quantiteAlarme>230</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-09-08</dateModification>
+<auteurCreation>Hahn</auteurCreation>
+<auteurModification>Aretha
+</auteurModification>
+</row>
+<row idProduit="7120">
+<idAlarme>5967</idAlarme>
+<nomProduit>OXALIPLATINE HOSPIRA 5 mg/ml sol diluer p perf</nomProduit>
+<codeProduit>9cb10e</codeProduit>
+<prixProduit>898.0</prixProduit>
+<quantiteActuel>1749</quantiteActuel>
+<quantiteAlarme>198</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-29</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Hull</auteurCreation>
+<auteurModification>Emerald
+</auteurModification>
+</row>
+<row idProduit="7121">
+<idAlarme>4698</idAlarme>
+<nomProduit>OXALIPLATINE KABI 5 mg/ml sol diluer p perf</nomProduit>
+<codeProduit>73e24d</codeProduit>
+<prixProduit>754.0</prixProduit>
+<quantiteActuel>1882</quantiteActuel>
+<quantiteAlarme>262</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Beasley</auteurCreation>
+<auteurModification>Herrod
+</auteurModification>
+</row>
+<row idProduit="7122">
+<idAlarme>149</idAlarme>
+<nomProduit>OXALIPLATINE MEDAC 5mg/ml pdre p sol p perf</nomProduit>
+<codeProduit>4010d7</codeProduit>
+<prixProduit>1249.0</prixProduit>
+<quantiteActuel>2208</quantiteActuel>
+<quantiteAlarme>136</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-07-16</dateModification>
+<auteurCreation>Livingston</auteurCreation>
+<auteurModification>Wylie
+</auteurModification>
+</row>
+<row idProduit="7123">
+<idAlarme>2986</idAlarme>
+<nomProduit>OXALIPLATINE MYLAN 5 mg/ml pdre p sol p perf</nomProduit>
+<codeProduit>ed5261</codeProduit>
+<prixProduit>1110.0</prixProduit>
+<quantiteActuel>2875</quantiteActuel>
+<quantiteAlarme>321</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-07-28</dateModification>
+<auteurCreation>Daniel</auteurCreation>
+<auteurModification>Beatrice
+</auteurModification>
+</row>
+<row idProduit="7124">
+<idAlarme>1254</idAlarme>
+<nomProduit>OXALIPLATINE RATIOPHARM 5mg/ml pdre p sol p perf</nomProduit>
+<codeProduit>8e39b4</codeProduit>
+<prixProduit>1383.0</prixProduit>
+<quantiteActuel>2243</quantiteActuel>
+<quantiteAlarme>164</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-09-28</dateModification>
+<auteurCreation>Maddox</auteurCreation>
+<auteurModification>Zeus
+</auteurModification>
+</row>
+<row idProduit="7125">
+<idAlarme>8960</idAlarme>
+<nomProduit>OXALIPLATINE TEVA 5mg/ml sol diluer p perf</nomProduit>
+<codeProduit>15e368</codeProduit>
+<prixProduit>624.0</prixProduit>
+<quantiteActuel>2456</quantiteActuel>
+<quantiteAlarme>397</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Aguilar</auteurCreation>
+<auteurModification>Calvin
+</auteurModification>
+</row>
+<row idProduit="7126">
+<idAlarme>8746</idAlarme>
+<nomProduit>OXCARBAZEPINE MYLAN 150 mg cp pellic</nomProduit>
+<codeProduit>6b8c80</codeProduit>
+<prixProduit>383.0</prixProduit>
+<quantiteActuel>2895</quantiteActuel>
+<quantiteAlarme>369</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Wiggins</auteurCreation>
+<auteurModification>Gil
+</auteurModification>
+</row>
+<row idProduit="7127">
+<idAlarme>6413</idAlarme>
+<nomProduit>OXCARBAZEPINE MYLAN 300 mg cp pellic</nomProduit>
+<codeProduit>82691c</codeProduit>
+<prixProduit>793.0</prixProduit>
+<quantiteActuel>2316</quantiteActuel>
+<quantiteAlarme>283</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-08-12</dateModification>
+<auteurCreation>Cain</auteurCreation>
+<auteurModification>Regan
+</auteurModification>
+</row>
+<row idProduit="7128">
+<idAlarme>8563</idAlarme>
+<nomProduit>OXCARBAZEPINE MYLAN 600 mg cp pellic</nomProduit>
+<codeProduit>cca702</codeProduit>
+<prixProduit>1367.0</prixProduit>
+<quantiteActuel>2899</quantiteActuel>
+<quantiteAlarme>376</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-09-04</dateModification>
+<auteurCreation>Patton</auteurCreation>
+<auteurModification>Kieran
+</auteurModification>
+</row>
+<row idProduit="7129">
+<idAlarme>3881</idAlarme>
+<nomProduit>OXCARBAZEPINE TEVA 150 mg cp pellic</nomProduit>
+<codeProduit>1f5893</codeProduit>
+<prixProduit>991.0</prixProduit>
+<quantiteActuel>1877</quantiteActuel>
+<quantiteAlarme>440</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-08-04</dateModification>
+<auteurCreation>Delgado</auteurCreation>
+<auteurModification>Price
+</auteurModification>
+</row>
+<row idProduit="7130">
+<idAlarme>2147</idAlarme>
+<nomProduit>OXCARBAZEPINE TEVA 300 mg cp pellic</nomProduit>
+<codeProduit>1818b3</codeProduit>
+<prixProduit>1209.0</prixProduit>
+<quantiteActuel>2862</quantiteActuel>
+<quantiteAlarme>345</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Evans</auteurCreation>
+<auteurModification>Quail
+</auteurModification>
+</row>
+<row idProduit="7131">
+<idAlarme>334</idAlarme>
+<nomProduit>OXCARBAZEPINE TEVA 600 mg cp pellic</nomProduit>
+<codeProduit>cafcfa</codeProduit>
+<prixProduit>398.0</prixProduit>
+<quantiteActuel>2464</quantiteActuel>
+<quantiteAlarme>266</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-09-30</dateModification>
+<auteurCreation>Brennan</auteurCreation>
+<auteurModification>Tarik
+</auteurModification>
+</row>
+<row idProduit="7132">
+<idAlarme>3809</idAlarme>
+<nomProduit>OXEOL 10 mg cp sec</nomProduit>
+<codeProduit>3a58a3</codeProduit>
+<prixProduit>221.0</prixProduit>
+<quantiteActuel>2607</quantiteActuel>
+<quantiteAlarme>186</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-06-26</dateModification>
+<auteurCreation>French</auteurCreation>
+<auteurModification>Jackson
+</auteurModification>
+</row>
+<row idProduit="7133">
+<idAlarme>3648</idAlarme>
+<nomProduit>OXEOL 20 mg cp sec</nomProduit>
+<codeProduit>7d9fa7</codeProduit>
+<prixProduit>998.0</prixProduit>
+<quantiteActuel>2426</quantiteActuel>
+<quantiteAlarme>331</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-09-20</dateModification>
+<auteurCreation>Macdonald</auteurCreation>
+<auteurModification>Cade
+</auteurModification>
+</row>
+<row idProduit="7134">
+<idAlarme>6414</idAlarme>
+<nomProduit>OXINATE D&apos;INDIUM [111In] MALLINCKRODT Sol p marquage in vitro</nomProduit>
+<codeProduit>93c7ae</codeProduit>
+<prixProduit>1436.0</prixProduit>
+<quantiteActuel>2793</quantiteActuel>
+<quantiteAlarme>209</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-08-05</dateModification>
+<auteurCreation>Shannon</auteurCreation>
+<auteurModification>Quinlan
+</auteurModification>
+</row>
+<row idProduit="7135">
+<idAlarme>6853</idAlarme>
+<nomProduit>OXOGLURATE D&apos;ORNITHINE MYLAN 10 g pdre p sol buv</nomProduit>
+<codeProduit>a19249</codeProduit>
+<prixProduit>609.0</prixProduit>
+<quantiteActuel>1924</quantiteActuel>
+<quantiteAlarme>109</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-09-04</dateModification>
+<auteurCreation>Black</auteurCreation>
+<auteurModification>Fitzgerald
+</auteurModification>
+</row>
+<row idProduit="7136">
+<idAlarme>10416</idAlarme>
+<nomProduit>OXOGLURATE D&apos;ORNITHINE MYLAN 5 g pdre p sol buv</nomProduit>
+<codeProduit>8c55b0</codeProduit>
+<prixProduit>351.0</prixProduit>
+<quantiteActuel>1692</quantiteActuel>
+<quantiteAlarme>268</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-09-10</dateModification>
+<auteurCreation>Fox</auteurCreation>
+<auteurModification>Cameron
+</auteurModification>
+</row>
+<row idProduit="7137">
+<idAlarme>6611</idAlarme>
+<nomProduit>OXOGLURATE D&apos;ORNITHINE QUALIMED 5g pdre p sol buv/gast ent</nomProduit>
+<codeProduit>06c83f</codeProduit>
+<prixProduit>1263.0</prixProduit>
+<quantiteActuel>2058</quantiteActuel>
+<quantiteAlarme>302</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Rodriguez</auteurCreation>
+<auteurModification>Jamalia
+</auteurModification>
+</row>
+<row idProduit="7138">
+<idAlarme>103</idAlarme>
+<nomProduit>OXOMEMAZINE BIOGARAN 0,33 mg/ml sirop</nomProduit>
+<codeProduit>8087f2</codeProduit>
+<prixProduit>1254.0</prixProduit>
+<quantiteActuel>2517</quantiteActuel>
+<quantiteAlarme>106</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Lowe</auteurCreation>
+<auteurModification>Channing
+</auteurModification>
+</row>
+<row idProduit="7139">
+<idAlarme>568</idAlarme>
+<nomProduit>OXOMEMAZINE BIOGARAN 0,33 mg/ml sol buv sans sucre</nomProduit>
+<codeProduit>e74e2a</codeProduit>
+<prixProduit>680.0</prixProduit>
+<quantiteActuel>2341</quantiteActuel>
+<quantiteAlarme>183</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-09-16</dateModification>
+<auteurCreation>Kirkland</auteurCreation>
+<auteurModification>Steel
+</auteurModification>
+</row>
+<row idProduit="7140">
+<idAlarme>4301</idAlarme>
+<nomProduit>OXOMEMAZINE EG 0,33 mg/ml sirop</nomProduit>
+<codeProduit>572515</codeProduit>
+<prixProduit>843.0</prixProduit>
+<quantiteActuel>2305</quantiteActuel>
+<quantiteAlarme>435</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-08-20</dateModification>
+<auteurCreation>Oneil</auteurCreation>
+<auteurModification>Jin
+</auteurModification>
+</row>
+<row idProduit="7141">
+<idAlarme>5841</idAlarme>
+<nomProduit>OXOMEMAZINE EG 0,33 mg/ml sol buv sans sucre</nomProduit>
+<codeProduit>b72d07</codeProduit>
+<prixProduit>763.0</prixProduit>
+<quantiteActuel>1698</quantiteActuel>
+<quantiteAlarme>497</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-09-27</dateModification>
+<auteurCreation>Hughes</auteurCreation>
+<auteurModification>Harding
+</auteurModification>
+</row>
+<row idProduit="7142">
+<idAlarme>9277</idAlarme>
+<nomProduit>OXOMEMAZINE PHR LAB 0,33 mg/ml sirop</nomProduit>
+<codeProduit>1417f0</codeProduit>
+<prixProduit>1136.0</prixProduit>
+<quantiteActuel>1604</quantiteActuel>
+<quantiteAlarme>389</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-06-28</dateModification>
+<auteurCreation>Cotton</auteurCreation>
+<auteurModification>Madeson
+</auteurModification>
+</row>
+<row idProduit="7143">
+<idAlarme>3583</idAlarme>
+<nomProduit>OXOMEMAZINE TEVA 0,33 mg/ml sirop</nomProduit>
+<codeProduit>188bde</codeProduit>
+<prixProduit>497.0</prixProduit>
+<quantiteActuel>2501</quantiteActuel>
+<quantiteAlarme>417</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>Lopez</auteurCreation>
+<auteurModification>Leonard
+</auteurModification>
+</row>
+<row idProduit="7144">
+<idAlarme>8887</idAlarme>
+<nomProduit>OXOMEMAZINE TEVA 0,33 mg/ml sol buv sans sucre</nomProduit>
+<codeProduit>35c687</codeProduit>
+<prixProduit>479.0</prixProduit>
+<quantiteActuel>2107</quantiteActuel>
+<quantiteAlarme>197</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-07-18</dateModification>
+<auteurCreation>Keller</auteurCreation>
+<auteurModification>Audra
+</auteurModification>
+</row>
+<row idProduit="7145">
+<idAlarme>10247</idAlarme>
+<nomProduit>OXOMEMAZINE WINTHROP 0,33 mg/ml sirop</nomProduit>
+<codeProduit>0aaa84</codeProduit>
+<prixProduit>1208.0</prixProduit>
+<quantiteActuel>1923</quantiteActuel>
+<quantiteAlarme>447</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-27</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Thompson</auteurCreation>
+<auteurModification>Kenneth
+</auteurModification>
+</row>
+<row idProduit="7146">
+<idAlarme>1935</idAlarme>
+<nomProduit>OXOMEMAZINE WINTHROP 0,33 mg/ml sol buv sans sucre</nomProduit>
+<codeProduit>cb28d8</codeProduit>
+<prixProduit>622.0</prixProduit>
+<quantiteActuel>2482</quantiteActuel>
+<quantiteAlarme>186</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-07-29</dateModification>
+<auteurCreation>Berger</auteurCreation>
+<auteurModification>Lilah
+</auteurModification>
+</row>
+<row idProduit="7147">
+<idAlarme>1050</idAlarme>
+<nomProduit>OXYBOLDINE cp efferv</nomProduit>
+<codeProduit>e7587a</codeProduit>
+<prixProduit>1462.0</prixProduit>
+<quantiteActuel>2310</quantiteActuel>
+<quantiteAlarme>500</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-09-06</dateModification>
+<auteurCreation>Horn</auteurCreation>
+<auteurModification>Rashad
+</auteurModification>
+</row>
+<row idProduit="7148">
+<idAlarme>92</idAlarme>
+<nomProduit>OXYBUTYNINE BIOGARAN 5mg cp sec</nomProduit>
+<codeProduit>c0192b</codeProduit>
+<prixProduit>644.0</prixProduit>
+<quantiteActuel>2694</quantiteActuel>
+<quantiteAlarme>124</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Meadows</auteurCreation>
+<auteurModification>Mechelle
+</auteurModification>
+</row>
+<row idProduit="7149">
+<idAlarme>2344</idAlarme>
+<nomProduit>OXYBUTYNINE EG 5 mg cp sec</nomProduit>
+<codeProduit>927235</codeProduit>
+<prixProduit>157.0</prixProduit>
+<quantiteActuel>2948</quantiteActuel>
+<quantiteAlarme>390</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-08-04</dateModification>
+<auteurCreation>Parker</auteurCreation>
+<auteurModification>Orson
+</auteurModification>
+</row>
+<row idProduit="7150">
+<idAlarme>4140</idAlarme>
+<nomProduit>OXYBUTYNINE MYLAN 5 mg cp sec</nomProduit>
+<codeProduit>179935</codeProduit>
+<prixProduit>937.0</prixProduit>
+<quantiteActuel>2877</quantiteActuel>
+<quantiteAlarme>136</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-07-30</dateModification>
+<auteurCreation>Finley</auteurCreation>
+<auteurModification>Adam
+</auteurModification>
+</row>
+<row idProduit="7151">
+<idAlarme>4518</idAlarme>
+<nomProduit>OXYBUTYNINE RATIOPHARM 5 mg cp sec</nomProduit>
+<codeProduit>b2200a</codeProduit>
+<prixProduit>168.0</prixProduit>
+<quantiteActuel>1873</quantiteActuel>
+<quantiteAlarme>257</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-07-22</dateModification>
+<auteurCreation>Silva</auteurCreation>
+<auteurModification>Kennan
+</auteurModification>
+</row>
+<row idProduit="7152">
+<idAlarme>1338</idAlarme>
+<nomProduit>OXYBUTYNINE SANDOZ 5mg cp sec</nomProduit>
+<codeProduit>db5e58</codeProduit>
+<prixProduit>1149.0</prixProduit>
+<quantiteActuel>2675</quantiteActuel>
+<quantiteAlarme>293</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-09-13</dateModification>
+<auteurCreation>Tyson</auteurCreation>
+<auteurModification>Kirby
+</auteurModification>
+</row>
+<row idProduit="7153">
+<idAlarme>1595</idAlarme>
+<nomProduit>OXYCONTIN LP 10 mg cp pellic LP</nomProduit>
+<codeProduit>3def65</codeProduit>
+<prixProduit>258.0</prixProduit>
+<quantiteActuel>2349</quantiteActuel>
+<quantiteAlarme>204</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Combs</auteurCreation>
+<auteurModification>Rafael
+</auteurModification>
+</row>
+<row idProduit="7154">
+<idAlarme>5005</idAlarme>
+<nomProduit>OXYCONTIN LP 120mg cp pellic LP</nomProduit>
+<codeProduit>4ef260</codeProduit>
+<prixProduit>521.0</prixProduit>
+<quantiteActuel>1532</quantiteActuel>
+<quantiteAlarme>418</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-08-18</dateModification>
+<auteurCreation>Hamilton</auteurCreation>
+<auteurModification>Ahmed
+</auteurModification>
+</row>
+<row idProduit="7155">
+<idAlarme>9698</idAlarme>
+<nomProduit>OXYCONTIN LP 20 mg cp pellic LP</nomProduit>
+<codeProduit>c671e5</codeProduit>
+<prixProduit>1356.0</prixProduit>
+<quantiteActuel>2672</quantiteActuel>
+<quantiteAlarme>434</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-09-13</dateModification>
+<auteurCreation>Camacho</auteurCreation>
+<auteurModification>Adena
+</auteurModification>
+</row>
+<row idProduit="7156">
+<idAlarme>9657</idAlarme>
+<nomProduit>OXYCONTIN LP 40 mg cp pellic LP</nomProduit>
+<codeProduit>03389b</codeProduit>
+<prixProduit>682.0</prixProduit>
+<quantiteActuel>2791</quantiteActuel>
+<quantiteAlarme>415</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Johnson</auteurCreation>
+<auteurModification>Cullen
+</auteurModification>
+</row>
+<row idProduit="7157">
+<idAlarme>1073</idAlarme>
+<nomProduit>OXYCONTIN LP 5mg cp pellic LP</nomProduit>
+<codeProduit>cc3a12</codeProduit>
+<prixProduit>1287.0</prixProduit>
+<quantiteActuel>2407</quantiteActuel>
+<quantiteAlarme>185</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-08-04</dateModification>
+<auteurCreation>Bradley</auteurCreation>
+<auteurModification>Malcolm
+</auteurModification>
+</row>
+<row idProduit="7158">
+<idAlarme>9478</idAlarme>
+<nomProduit>OXYCONTIN LP 80 mg cp pellic LP</nomProduit>
+<codeProduit>4c6f80</codeProduit>
+<prixProduit>1205.0</prixProduit>
+<quantiteActuel>2940</quantiteActuel>
+<quantiteAlarme>348</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-08-23</dateModification>
+<auteurCreation>Oneill</auteurCreation>
+<auteurModification>Cyrus
+</auteurModification>
+</row>
+<row idProduit="7159">
+<idAlarme>7021</idAlarme>
+<nomProduit>OXYDE MERCURIQUE JAUNE CHAUVIN 1% pom ophtalm</nomProduit>
+<codeProduit>765dc0</codeProduit>
+<prixProduit>391.0</prixProduit>
+<quantiteActuel>2764</quantiteActuel>
+<quantiteAlarme>273</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-10-06</dateModification>
+<auteurCreation>Goff</auteurCreation>
+<auteurModification>Lev
+</auteurModification>
+</row>
+<row idProduit="7160">
+<idAlarme>6243</idAlarme>
+<nomProduit>OXYGENE MEDICAL AIR LIQUIDE SANTE FR gaz p inhal</nomProduit>
+<codeProduit>b32f7a</codeProduit>
+<prixProduit>849.0</prixProduit>
+<quantiteActuel>2987</quantiteActuel>
+<quantiteAlarme>168</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Oliver</auteurCreation>
+<auteurModification>Bevis
+</auteurModification>
+</row>
+<row idProduit="7161">
+<idAlarme>9685</idAlarme>
+<nomProduit>OXYGENE MEDICAL AIR LIQUIDE SANTE FR gaz p inhal evap</nomProduit>
+<codeProduit>e0d6aa</codeProduit>
+<prixProduit>426.0</prixProduit>
+<quantiteActuel>1909</quantiteActuel>
+<quantiteAlarme>258</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-09-07</dateModification>
+<auteurCreation>Kramer</auteurCreation>
+<auteurModification>Jordan
+</auteurModification>
+</row>
+<row idProduit="7162">
+<idAlarme>6673</idAlarme>
+<nomProduit>OXYGENE MEDICAL APM 200bar gaz p inhal</nomProduit>
+<codeProduit>a545d7</codeProduit>
+<prixProduit>1242.0</prixProduit>
+<quantiteActuel>2965</quantiteActuel>
+<quantiteAlarme>193</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-07-11</dateModification>
+<auteurCreation>Simpson</auteurCreation>
+<auteurModification>Shad
+</auteurModification>
+</row>
+<row idProduit="7163">
+<idAlarme>2757</idAlarme>
+<nomProduit>OXYGENE MEDICAL SOL FRANCE gaz p inhal en evap fixe</nomProduit>
+<codeProduit>63cf08</codeProduit>
+<prixProduit>152.0</prixProduit>
+<quantiteActuel>2965</quantiteActuel>
+<quantiteAlarme>201</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Thompson</auteurCreation>
+<auteurModification>Hope
+</auteurModification>
+</row>
+<row idProduit="7164">
+<idAlarme>9242</idAlarme>
+<nomProduit>OXYGENE MEDICAL SOL FRANCE gaz p inhal en evap mobile</nomProduit>
+<codeProduit>77c8c0</codeProduit>
+<prixProduit>1345.0</prixProduit>
+<quantiteActuel>2630</quantiteActuel>
+<quantiteAlarme>333</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-08-25</dateModification>
+<auteurCreation>Holt</auteurCreation>
+<auteurModification>Amena
+</auteurModification>
+</row>
+<row idProduit="7165">
+<idAlarme>9947</idAlarme>
+<nomProduit>OXYGENE MEDICINAL AIR LIQUIDE SANTE FRANCE 200 bar gaz p inhal</nomProduit>
+<codeProduit>201aa2</codeProduit>
+<prixProduit>1260.0</prixProduit>
+<quantiteActuel>2596</quantiteActuel>
+<quantiteAlarme>466</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-07-30</dateModification>
+<auteurCreation>England</auteurCreation>
+<auteurModification>Clare
+</auteurModification>
+</row>
+<row idProduit="7166">
+<idAlarme>1537</idAlarme>
+<nomProduit>OXYGENE MEDICINAL B.T.G. 200 bar gaz p inhal</nomProduit>
+<codeProduit>4d5dba</codeProduit>
+<prixProduit>672.0</prixProduit>
+<quantiteActuel>1599</quantiteActuel>
+<quantiteAlarme>311</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Alvarez</auteurCreation>
+<auteurModification>Devin
+</auteurModification>
+</row>
+<row idProduit="7167">
+<idAlarme>8451</idAlarme>
+<nomProduit>OXYGENE MEDICINAL LINDE HEALTHCARE 200 bar gaz p inhal en bout</nomProduit>
+<codeProduit>e595dc</codeProduit>
+<prixProduit>301.0</prixProduit>
+<quantiteActuel>2809</quantiteActuel>
+<quantiteAlarme>491</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Byers</auteurCreation>
+<auteurModification>Gage
+</auteurModification>
+</row>
+<row idProduit="7168">
+<idAlarme>10405</idAlarme>
+<nomProduit>OXYGENE MEDICINAL LIQUIDE LINDE HEALTHCARE gaz p inhal en evap mobile</nomProduit>
+<codeProduit>f4fc46</codeProduit>
+<prixProduit>696.0</prixProduit>
+<quantiteActuel>1621</quantiteActuel>
+<quantiteAlarme>492</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-09-09</dateModification>
+<auteurCreation>Day</auteurCreation>
+<auteurModification>Tad
+</auteurModification>
+</row>
+<row idProduit="7169">
+<idAlarme>208</idAlarme>
+<nomProduit>OXYGENE MEDICINAL LIQUIDE LINDE HEALTHCARE gaz p inhal p evaporateur fixe</nomProduit>
+<codeProduit>b9c2c0</codeProduit>
+<prixProduit>205.0</prixProduit>
+<quantiteActuel>2866</quantiteActuel>
+<quantiteAlarme>411</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-09-29</dateModification>
+<auteurCreation>Colon</auteurCreation>
+<auteurModification>Thor
+</auteurModification>
+</row>
+<row idProduit="7170">
+<idAlarme>4299</idAlarme>
+<nomProduit>OXYGENE MEDICINAL SOL FRANCE 200 bar gaz p inhal</nomProduit>
+<codeProduit>d17cd4</codeProduit>
+<prixProduit>1298.0</prixProduit>
+<quantiteActuel>2289</quantiteActuel>
+<quantiteAlarme>487</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Velez</auteurCreation>
+<auteurModification>May
+</auteurModification>
+</row>
+<row idProduit="7171">
+<idAlarme>9259</idAlarme>
+<nomProduit>OXYNORM 10 mg gel</nomProduit>
+<codeProduit>7af7eb</codeProduit>
+<prixProduit>183.0</prixProduit>
+<quantiteActuel>1555</quantiteActuel>
+<quantiteAlarme>328</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-09-23</dateModification>
+<auteurCreation>Frost</auteurCreation>
+<auteurModification>Barclay
+</auteurModification>
+</row>
+<row idProduit="7172">
+<idAlarme>6765</idAlarme>
+<nomProduit>OXYNORM 10mg/ml sol inj</nomProduit>
+<codeProduit>3dad9c</codeProduit>
+<prixProduit>702.0</prixProduit>
+<quantiteActuel>2281</quantiteActuel>
+<quantiteAlarme>158</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-09-02</dateModification>
+<auteurCreation>Porter</auteurCreation>
+<auteurModification>Plato
+</auteurModification>
+</row>
+<row idProduit="7173">
+<idAlarme>5212</idAlarme>
+<nomProduit>OXYNORM 20mg gel</nomProduit>
+<codeProduit>6a5644</codeProduit>
+<prixProduit>407.0</prixProduit>
+<quantiteActuel>2394</quantiteActuel>
+<quantiteAlarme>264</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-08-21</dateModification>
+<auteurCreation>Hess</auteurCreation>
+<auteurModification>Noelle
+</auteurModification>
+</row>
+<row idProduit="7174">
+<idAlarme>9349</idAlarme>
+<nomProduit>OXYNORM 50 mg/ml sol inj</nomProduit>
+<codeProduit>685405</codeProduit>
+<prixProduit>291.0</prixProduit>
+<quantiteActuel>1854</quantiteActuel>
+<quantiteAlarme>318</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-07-05</dateModification>
+<auteurCreation>Waller</auteurCreation>
+<auteurModification>Rhiannon
+</auteurModification>
+</row>
+<row idProduit="7175">
+<idAlarme>6170</idAlarme>
+<nomProduit>OXYNORM 5mg gel</nomProduit>
+<codeProduit>598155</codeProduit>
+<prixProduit>1438.0</prixProduit>
+<quantiteActuel>2622</quantiteActuel>
+<quantiteAlarme>416</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Weber</auteurCreation>
+<auteurModification>Norman
+</auteurModification>
+</row>
+<row idProduit="7176">
+<idAlarme>629</idAlarme>
+<nomProduit>OXYNORMORO 10 mg cp orodispers</nomProduit>
+<codeProduit>278f17</codeProduit>
+<prixProduit>1462.0</prixProduit>
+<quantiteActuel>2791</quantiteActuel>
+<quantiteAlarme>461</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-08-17</dateModification>
+<auteurCreation>Camacho</auteurCreation>
+<auteurModification>Sawyer
+</auteurModification>
+</row>
+<row idProduit="7177">
+<idAlarme>2195</idAlarme>
+<nomProduit>OXYNORMORO 20 mg cp orodispers</nomProduit>
+<codeProduit>5519be</codeProduit>
+<prixProduit>1291.0</prixProduit>
+<quantiteActuel>1859</quantiteActuel>
+<quantiteAlarme>194</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Rojas</auteurCreation>
+<auteurModification>Lev
+</auteurModification>
+</row>
+<row idProduit="7178">
+<idAlarme>5802</idAlarme>
+<nomProduit>OXYNORMORO 5 mg cp orodispers</nomProduit>
+<codeProduit>6643f1</codeProduit>
+<prixProduit>1018.0</prixProduit>
+<quantiteActuel>2788</quantiteActuel>
+<quantiteAlarme>187</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-08-05</dateModification>
+<auteurCreation>Mullins</auteurCreation>
+<auteurModification>Cooper
+</auteurModification>
+</row>
+<row idProduit="7179">
+<idAlarme>5453</idAlarme>
+<nomProduit>OXYNOX 135 Gaz inh</nomProduit>
+<codeProduit>fabb4c</codeProduit>
+<prixProduit>756.0</prixProduit>
+<quantiteActuel>1816</quantiteActuel>
+<quantiteAlarme>267</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-09-14</dateModification>
+<auteurCreation>Pierce</auteurCreation>
+<auteurModification>Macey
+</auteurModification>
+</row>
+<row idProduit="7180">
+<idAlarme>10144</idAlarme>
+<nomProduit>OXYPLASTINE 46 % pom</nomProduit>
+<codeProduit>8d1818</codeProduit>
+<prixProduit>1271.0</prixProduit>
+<quantiteActuel>2300</quantiteActuel>
+<quantiteAlarme>361</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Goodwin</auteurCreation>
+<auteurModification>Rama
+</auteurModification>
+</row>
+<row idProduit="7181">
+<idAlarme>5344</idAlarme>
+<nomProduit>OXYTHYOL pate p appl cutanee</nomProduit>
+<codeProduit>553aee</codeProduit>
+<prixProduit>234.0</prixProduit>
+<quantiteActuel>2398</quantiteActuel>
+<quantiteAlarme>153</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Mathews</auteurCreation>
+<auteurModification>Elizabeth
+</auteurModification>
+</row>
+<row idProduit="7182">
+<idAlarme>9161</idAlarme>
+<nomProduit>OZIDIA 10mg cp LP</nomProduit>
+<codeProduit>a23637</codeProduit>
+<prixProduit>301.0</prixProduit>
+<quantiteActuel>2503</quantiteActuel>
+<quantiteAlarme>122</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-08-01</dateModification>
+<auteurCreation>Craig</auteurCreation>
+<auteurModification>Ivor
+</auteurModification>
+</row>
+<row idProduit="7183">
+<idAlarme>8096</idAlarme>
+<nomProduit>OZIDIA 5mg cp LP</nomProduit>
+<codeProduit>1d918a</codeProduit>
+<prixProduit>976.0</prixProduit>
+<quantiteActuel>2945</quantiteActuel>
+<quantiteAlarme>355</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-06-20</dateModification>
+<auteurCreation>Hull</auteurCreation>
+<auteurModification>Clio
+</auteurModification>
+</row>
+<row idProduit="7184">
+<idAlarme>5947</idAlarme>
+<nomProduit>OZOTHINE 30 mg suppos enf</nomProduit>
+<codeProduit>c37325</codeProduit>
+<prixProduit>911.0</prixProduit>
+<quantiteActuel>2532</quantiteActuel>
+<quantiteAlarme>281</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-08-18</dateModification>
+<auteurCreation>Haynes</auteurCreation>
+<auteurModification>Donna
+</auteurModification>
+</row>
+<row idProduit="7185">
+<idAlarme>2451</idAlarme>
+<nomProduit>OZOTHINE 60 mg suppos ad</nomProduit>
+<codeProduit>68507a</codeProduit>
+<prixProduit>499.0</prixProduit>
+<quantiteActuel>2831</quantiteActuel>
+<quantiteAlarme>463</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Galloway</auteurCreation>
+<auteurModification>Hu
+</auteurModification>
+</row>
+<row idProduit="7186">
+<idAlarme>8541</idAlarme>
+<nomProduit>OZOTHINE A LA DIPROPHYLLINE cp enr</nomProduit>
+<codeProduit>ee3975</codeProduit>
+<prixProduit>1099.0</prixProduit>
+<quantiteActuel>1906</quantiteActuel>
+<quantiteAlarme>200</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-22</dateCreation>
+<dateModification>2010-09-20</dateModification>
+<auteurCreation>Petersen</auteurCreation>
+<auteurModification>Phoebe
+</auteurModification>
+</row>
+<row idProduit="7187">
+<idAlarme>9811</idAlarme>
+<nomProduit>OZOTHINE A LA DIPROPHYLLINE suppos adulte</nomProduit>
+<codeProduit>2069ff</codeProduit>
+<prixProduit>559.0</prixProduit>
+<quantiteActuel>2417</quantiteActuel>
+<quantiteAlarme>454</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-07-21</dateModification>
+<auteurCreation>Merritt</auteurCreation>
+<auteurModification>Bianca
+</auteurModification>
+</row>
+<row idProduit="7188">
+<idAlarme>6182</idAlarme>
+<nomProduit>OZOTHINE A LA DIPROPHYLLINE suppos enfant</nomProduit>
+<codeProduit>5a2731</codeProduit>
+<prixProduit>471.0</prixProduit>
+<quantiteActuel>2752</quantiteActuel>
+<quantiteAlarme>126</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-09-27</dateModification>
+<auteurCreation>Stafford</auteurCreation>
+<auteurModification>Dora
+</auteurModification>
+</row>
+</root>

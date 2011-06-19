@@ -1,48 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
-<!-- Generated 27 avr. 2011 12:11:52 by Hibernate Tools 3.4.0.CR1 -->
-<hibernate-mapping>
-  <class catalog="corepharma" name="Produits" table="produits">
-    <id name="idProduit" type="java.lang.Integer">
-      <column name="idProduit" not-null="true"/>
-      <generator class="identity"/>
-    </id>
-    <property name="idAlarme" type="java.lang.Integer">
-      <column name="idAlarme"/>
-    </property>
-    <property name="nomProduit" type="string">
-      <column length="254" name="nomProduit"/>
-    </property>
-    <property name="codeProduit" type="string">
-      <column length="254" name="codeProduit"/>
-    </property>
-    <property name="prixProduit" type="java.lang.Integer">
-      <column name="prixProduit" precision="8" scale="0"/>
-    </property>
-    <property name="quantiteActuel" type="java.lang.Integer">
-      <column name="quantiteActuel"/>
-    </property>
-    <property name="quantiteAlarme" type="java.lang.Integer">
-      <column name="quantiteAlarme"/>
-    </property>
-    <property name="datePeremption" type="string">
-      <column length="254" name="datePeremption"/>
-    </property>
-    <property name="dateCreation" type="string">
-      <column length="254" name="dateCreation"/>
-    </property>
-    <property name="dateModification" type="string">
-      <column length="254" name="dateModification"/>
-    </property>
-    <property name="auteurCreation" type="string">
-      <column length="254" name="auteurCreation"/>
-    </property>
-    <property name="auteurModification" type="string">
-      <column length="254" name="auteurModification"/>
-    </property>
-    <bag inverse="true" name="vente" table="ventes">
-      <key column="idProduit"/>
-      <many-to-many class="Ventes" column="idVente"/>
-    </bag>
-  </class>
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 15 juin 2011 16:02:57 by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping package="corepharma.domain">
+    <class name="Produits" table="produits" catalog="corepharma">
+        <id name="idProduit" type="java.lang.Integer">
+            <column name="idProduit" />
+            <generator class="identity" />
+        </id>
+        <property name="idAlarme" type="java.lang.Integer">
+            <column name="idAlarme" />
+        </property>
+        <property name="nomProduit" type="string">
+            <column name="nomProduit" length="254" />
+        </property>
+        <property name="codeProduit" type="string">
+            <column name="codeProduit" length="254" />
+        </property>
+        <property name="prixProduit" type="java.lang.Integer">
+            <column name="prixProduit" precision="8" scale="0" />
+        </property>
+        <property name="quantiteActuel" type="java.lang.Integer">
+            <column name="quantiteActuel" />
+        </property>
+        <property name="quantiteAlarme" type="java.lang.Integer">
+            <column name="quantiteAlarme" />
+        </property>
+        <property name="datePeremption" type="string">
+            <column name="datePeremption" length="254" />
+        </property>
+        <property name="dateCreation" type="string">
+            <column name="dateCreation" length="254" />
+        </property>
+        <property name="dateModification" type="string">
+            <column name="dateModification" length="254" />
+        </property>
+        <property name="auteurCreation" type="string">
+            <column name="auteurCreation" length="254" />
+        </property>
+        <property name="auteurModification" type="string">
+            <column name="auteurModification" length="254" />
+        </property>
+    </class>
 </hibernate-mapping>

@@ -70,8 +70,8 @@
 					Ventes
 					</a>
 					<ul>
-                                                <li><a href="#">Vendre produits</a></li>
-                                                <li><a href="#">Consulter vente</a></li>
+                        <li><a href="ventes/vente_produits">Vendre produits</a></li>
+                        <li><a href="#">Consulter vente</a></li>
 					</ul>
 				</li>
                 

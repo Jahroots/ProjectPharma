@@ -1,0 +1,1739 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<root>
+<row idProduit="5168">
+<idAlarme>9895</idAlarme>
+<nomProduit>KABIVEN emuls p perf</nomProduit>
+<codeProduit>66af04</codeProduit>
+<prixProduit>820.0</prixProduit>
+<quantiteActuel>2067</quantiteActuel>
+<quantiteAlarme>429</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-05</dateCreation>
+<dateModification>2010-08-16</dateModification>
+<auteurCreation>Flynn</auteurCreation>
+<auteurModification>Fay
+</auteurModification>
+</row>
+<row idProduit="5169">
+<idAlarme>5286</idAlarme>
+<nomProduit>KALEORID 1000mg cp enr LP</nomProduit>
+<codeProduit>196d20</codeProduit>
+<prixProduit>354.0</prixProduit>
+<quantiteActuel>1756</quantiteActuel>
+<quantiteAlarme>241</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-06-21</dateModification>
+<auteurCreation>Valdez</auteurCreation>
+<auteurModification>Guy
+</auteurModification>
+</row>
+<row idProduit="5170">
+<idAlarme>6139</idAlarme>
+<nomProduit>KALEORID 600mg cp enr LP</nomProduit>
+<codeProduit>305cef</codeProduit>
+<prixProduit>550.0</prixProduit>
+<quantiteActuel>2017</quantiteActuel>
+<quantiteAlarme>272</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-06-27</dateModification>
+<auteurCreation>Banks</auteurCreation>
+<auteurModification>Chaney
+</auteurModification>
+</row>
+<row idProduit="5171">
+<idAlarme>6625</idAlarme>
+<nomProduit>KALETRA 100mg/25mg cp pellic</nomProduit>
+<codeProduit>8db3b0</codeProduit>
+<prixProduit>1068.0</prixProduit>
+<quantiteActuel>2648</quantiteActuel>
+<quantiteAlarme>167</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-08-20</dateModification>
+<auteurCreation>Hahn</auteurCreation>
+<auteurModification>Odysseus
+</auteurModification>
+</row>
+<row idProduit="5172">
+<idAlarme>2048</idAlarme>
+<nomProduit>KALETRA 200mg/50mg cp pellic</nomProduit>
+<codeProduit>a352eb</codeProduit>
+<prixProduit>563.0</prixProduit>
+<quantiteActuel>2078</quantiteActuel>
+<quantiteAlarme>292</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-09-01</dateModification>
+<auteurCreation>Shaw</auteurCreation>
+<auteurModification>Mia
+</auteurModification>
+</row>
+<row idProduit="5173">
+<idAlarme>5754</idAlarme>
+<nomProduit>KALETRA 80mg/20mg sol buv</nomProduit>
+<codeProduit>8fbc43</codeProduit>
+<prixProduit>243.0</prixProduit>
+<quantiteActuel>1529</quantiteActuel>
+<quantiteAlarme>308</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-29</dateCreation>
+<dateModification>2010-08-05</dateModification>
+<auteurCreation>Mccoy</auteurCreation>
+<auteurModification>Jamalia
+</auteurModification>
+</row>
+<row idProduit="5174">
+<idAlarme>2365</idAlarme>
+<nomProduit>KALINOX 170bar gaz p inhal</nomProduit>
+<codeProduit>9947e0</codeProduit>
+<prixProduit>350.0</prixProduit>
+<quantiteActuel>2336</quantiteActuel>
+<quantiteAlarme>368</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-07-03</dateModification>
+<auteurCreation>Berg</auteurCreation>
+<auteurModification>Galena
+</auteurModification>
+</row>
+<row idProduit="5175">
+<idAlarme>2299</idAlarme>
+<nomProduit>KANEURON 5,4% sol buv en gte</nomProduit>
+<codeProduit>816b42</codeProduit>
+<prixProduit>1144.0</prixProduit>
+<quantiteActuel>2601</quantiteActuel>
+<quantiteAlarme>453</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-08-06</dateModification>
+<auteurCreation>Pratt</auteurCreation>
+<auteurModification>Lavinia
+</auteurModification>
+</row>
+<row idProduit="5176">
+<idAlarme>8862</idAlarme>
+<nomProduit>KANOKAD 25 UI/ml de facteur IX pdre/solv p sol inj</nomProduit>
+<codeProduit>f9ffe6</codeProduit>
+<prixProduit>1143.0</prixProduit>
+<quantiteActuel>2329</quantiteActuel>
+<quantiteAlarme>357</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-09-01</dateModification>
+<auteurCreation>Doyle</auteurCreation>
+<auteurModification>Beau
+</auteurModification>
+</row>
+<row idProduit="5177">
+<idAlarme>10077</idAlarme>
+<nomProduit>KAOBROL cp a croquer</nomProduit>
+<codeProduit>0f1a45</codeProduit>
+<prixProduit>1316.0</prixProduit>
+<quantiteActuel>2765</quantiteActuel>
+<quantiteAlarme>352</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-09-23</dateModification>
+<auteurCreation>Skinner</auteurCreation>
+<auteurModification>Vielka
+</auteurModification>
+</row>
+<row idProduit="5178">
+<idAlarme>7147</idAlarme>
+<nomProduit>KAOLOGEAIS gle</nomProduit>
+<codeProduit>11ad86</codeProduit>
+<prixProduit>1267.0</prixProduit>
+<quantiteActuel>2895</quantiteActuel>
+<quantiteAlarme>439</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Christensen</auteurCreation>
+<auteurModification>Chester
+</auteurModification>
+</row>
+<row idProduit="5179">
+<idAlarme>1664</idAlarme>
+<nomProduit>KAOMUTH pdre p susp buv en sach</nomProduit>
+<codeProduit>cbc189</codeProduit>
+<prixProduit>259.0</prixProduit>
+<quantiteActuel>2419</quantiteActuel>
+<quantiteAlarme>164</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Mckinney</auteurCreation>
+<auteurModification>Guy
+</auteurModification>
+</row>
+<row idProduit="5180">
+<idAlarme>6252</idAlarme>
+<nomProduit>KARAYAL gle</nomProduit>
+<codeProduit>48a60d</codeProduit>
+<prixProduit>689.0</prixProduit>
+<quantiteActuel>2238</quantiteActuel>
+<quantiteAlarme>296</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-09-04</dateModification>
+<auteurCreation>Key</auteurCreation>
+<auteurModification>Carissa
+</auteurModification>
+</row>
+<row idProduit="5181">
+<idAlarme>771</idAlarme>
+<nomProduit>KARDEGIC 160 mg pdre p sol buv</nomProduit>
+<codeProduit>d54bb0</codeProduit>
+<prixProduit>688.0</prixProduit>
+<quantiteActuel>1768</quantiteActuel>
+<quantiteAlarme>213</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-09-30</dateModification>
+<auteurCreation>Oconnor</auteurCreation>
+<auteurModification>Veronica
+</auteurModification>
+</row>
+<row idProduit="5182">
+<idAlarme>4321</idAlarme>
+<nomProduit>KARDEGIC 300 mg pdre p sol buv</nomProduit>
+<codeProduit>808b46</codeProduit>
+<prixProduit>1105.0</prixProduit>
+<quantiteActuel>2577</quantiteActuel>
+<quantiteAlarme>214</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Phelps</auteurCreation>
+<auteurModification>Cairo
+</auteurModification>
+</row>
+<row idProduit="5183">
+<idAlarme>5709</idAlarme>
+<nomProduit>KARDEGIC 500 mg/5 ml pdre/solv p sol inj IV</nomProduit>
+<codeProduit>514a14</codeProduit>
+<prixProduit>951.0</prixProduit>
+<quantiteActuel>1875</quantiteActuel>
+<quantiteAlarme>282</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-07-10</dateModification>
+<auteurCreation>Kim</auteurCreation>
+<auteurModification>Zephr
+</auteurModification>
+</row>
+<row idProduit="5184">
+<idAlarme>7086</idAlarme>
+<nomProduit>KARDEGIC 500mg/5ml pdre p sol inj</nomProduit>
+<codeProduit>49a94e</codeProduit>
+<prixProduit>1195.0</prixProduit>
+<quantiteActuel>2263</quantiteActuel>
+<quantiteAlarme>210</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Haney</auteurCreation>
+<auteurModification>Martin
+</auteurModification>
+</row>
+<row idProduit="5185">
+<idAlarme>7858</idAlarme>
+<nomProduit>KARDEGIC 75 mg pdre p sol buv</nomProduit>
+<codeProduit>0adc3d</codeProduit>
+<prixProduit>161.0</prixProduit>
+<quantiteActuel>1849</quantiteActuel>
+<quantiteAlarme>457</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-08-18</dateModification>
+<auteurCreation>Santos</auteurCreation>
+<auteurModification>Brady
+</auteurModification>
+</row>
+<row idProduit="5186">
+<idAlarme>4113</idAlarme>
+<nomProduit>KASKADIL pdre/solv p sol inj</nomProduit>
+<codeProduit>6cdfbd</codeProduit>
+<prixProduit>766.0</prixProduit>
+<quantiteActuel>1793</quantiteActuel>
+<quantiteAlarme>215</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-07-03</dateModification>
+<auteurCreation>Patrick</auteurCreation>
+<auteurModification>Kaseem
+</auteurModification>
+</row>
+<row idProduit="5187">
+<idAlarme>10146</idAlarme>
+<nomProduit>KAYEXALATE pdre p susp buv/rect</nomProduit>
+<codeProduit>3806dc</codeProduit>
+<prixProduit>457.0</prixProduit>
+<quantiteActuel>2678</quantiteActuel>
+<quantiteAlarme>376</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Diaz</auteurCreation>
+<auteurModification>Fulton
+</auteurModification>
+</row>
+<row idProduit="5188">
+<idAlarme>8394</idAlarme>
+<nomProduit>KEAL 1g cp sec</nomProduit>
+<codeProduit>62fa9f</codeProduit>
+<prixProduit>310.0</prixProduit>
+<quantiteActuel>2182</quantiteActuel>
+<quantiteAlarme>316</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Benton</auteurCreation>
+<auteurModification>Brennan
+</auteurModification>
+</row>
+<row idProduit="5189">
+<idAlarme>3295</idAlarme>
+<nomProduit>KEAL 1g susp buv</nomProduit>
+<codeProduit>530945</codeProduit>
+<prixProduit>713.0</prixProduit>
+<quantiteActuel>2288</quantiteActuel>
+<quantiteAlarme>114</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Mcknight</auteurCreation>
+<auteurModification>Gavin
+</auteurModification>
+</row>
+<row idProduit="5190">
+<idAlarme>916</idAlarme>
+<nomProduit>KEAL 2g susp buv</nomProduit>
+<codeProduit>7d826f</codeProduit>
+<prixProduit>816.0</prixProduit>
+<quantiteActuel>1522</quantiteActuel>
+<quantiteAlarme>114</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-08-17</dateModification>
+<auteurCreation>Parks</auteurCreation>
+<auteurModification>Karleigh
+</auteurModification>
+</row>
+<row idProduit="5191">
+<idAlarme>5408</idAlarme>
+<nomProduit>KEFORAL 1 g cp pellic</nomProduit>
+<codeProduit>5ccb75</codeProduit>
+<prixProduit>572.0</prixProduit>
+<quantiteActuel>2642</quantiteActuel>
+<quantiteAlarme>136</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-06-26</dateModification>
+<auteurCreation>Meadows</auteurCreation>
+<auteurModification>Alan
+</auteurModification>
+</row>
+<row idProduit="5192">
+<idAlarme>1928</idAlarme>
+<nomProduit>KEFORAL 125mg/5ml pdre p susp buv</nomProduit>
+<codeProduit>babe38</codeProduit>
+<prixProduit>1316.0</prixProduit>
+<quantiteActuel>2739</quantiteActuel>
+<quantiteAlarme>233</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-06-30</dateModification>
+<auteurCreation>Odonnell</auteurCreation>
+<auteurModification>Tashya
+</auteurModification>
+</row>
+<row idProduit="5193">
+<idAlarme>6546</idAlarme>
+<nomProduit>KEFORAL 250mg/5ml pdre p susp buv en flacon</nomProduit>
+<codeProduit>c36d59</codeProduit>
+<prixProduit>618.0</prixProduit>
+<quantiteActuel>1764</quantiteActuel>
+<quantiteAlarme>255</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-09-29</dateModification>
+<auteurCreation>Ratliff</auteurCreation>
+<auteurModification>Sasha
+</auteurModification>
+</row>
+<row idProduit="5194">
+<idAlarme>4956</idAlarme>
+<nomProduit>KEFORAL 500 mg cp pellic</nomProduit>
+<codeProduit>da5559</codeProduit>
+<prixProduit>808.0</prixProduit>
+<quantiteActuel>1810</quantiteActuel>
+<quantiteAlarme>468</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-22</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Sheppard</auteurCreation>
+<auteurModification>Cleo
+</auteurModification>
+</row>
+<row idProduit="5195">
+<idAlarme>8319</idAlarme>
+<nomProduit>KELOCYANOR 1,5% sol inj</nomProduit>
+<codeProduit>2e07b0</codeProduit>
+<prixProduit>955.0</prixProduit>
+<quantiteActuel>2328</quantiteActuel>
+<quantiteAlarme>318</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-06-21</dateModification>
+<auteurCreation>Stark</auteurCreation>
+<auteurModification>Raymond
+</auteurModification>
+</row>
+<row idProduit="5196">
+<idAlarme>5834</idAlarme>
+<nomProduit>KENACORT RETARD 40mg/1ml susp inj</nomProduit>
+<codeProduit>a8fa97</codeProduit>
+<prixProduit>1157.0</prixProduit>
+<quantiteActuel>2811</quantiteActuel>
+<quantiteAlarme>451</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Cantu</auteurCreation>
+<auteurModification>Olivia
+</auteurModification>
+</row>
+<row idProduit="5197">
+<idAlarme>127</idAlarme>
+<nomProduit>KENACORT RETARD 80mg/2ml susp inj</nomProduit>
+<codeProduit>945a95</codeProduit>
+<prixProduit>623.0</prixProduit>
+<quantiteActuel>2298</quantiteActuel>
+<quantiteAlarme>230</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-09-30</dateModification>
+<auteurCreation>Stark</auteurCreation>
+<auteurModification>Cade
+</auteurModification>
+</row>
+<row idProduit="5198">
+<idAlarme>68</idAlarme>
+<nomProduit>KENDIX 5 % creme</nomProduit>
+<codeProduit>f06010</codeProduit>
+<prixProduit>274.0</prixProduit>
+<quantiteActuel>1939</quantiteActuel>
+<quantiteAlarme>186</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Mckinney</auteurCreation>
+<auteurModification>Kenneth
+</auteurModification>
+</row>
+<row idProduit="5199">
+<idAlarme>9312</idAlarme>
+<nomProduit>KENZEN 16 mg cp sec</nomProduit>
+<codeProduit>3bff83</codeProduit>
+<prixProduit>583.0</prixProduit>
+<quantiteActuel>2983</quantiteActuel>
+<quantiteAlarme>223</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-06-26</dateModification>
+<auteurCreation>Landry</auteurCreation>
+<auteurModification>Delilah
+</auteurModification>
+</row>
+<row idProduit="5200">
+<idAlarme>1307</idAlarme>
+<nomProduit>KENZEN 32 mg cp sec</nomProduit>
+<codeProduit>ec598e</codeProduit>
+<prixProduit>1187.0</prixProduit>
+<quantiteActuel>2884</quantiteActuel>
+<quantiteAlarme>229</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Melton</auteurCreation>
+<auteurModification>Cole
+</auteurModification>
+</row>
+<row idProduit="5201">
+<idAlarme>3502</idAlarme>
+<nomProduit>KENZEN 4 mg cp sec</nomProduit>
+<codeProduit>aac169</codeProduit>
+<prixProduit>187.0</prixProduit>
+<quantiteActuel>1957</quantiteActuel>
+<quantiteAlarme>169</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-07-10</dateModification>
+<auteurCreation>Puckett</auteurCreation>
+<auteurModification>Shellie
+</auteurModification>
+</row>
+<row idProduit="5202">
+<idAlarme>7036</idAlarme>
+<nomProduit>KENZEN 8 mg cp sec</nomProduit>
+<codeProduit>a5f6d0</codeProduit>
+<prixProduit>1008.0</prixProduit>
+<quantiteActuel>2487</quantiteActuel>
+<quantiteAlarme>320</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Hopkins</auteurCreation>
+<auteurModification>Aquila
+</auteurModification>
+</row>
+<row idProduit="5203">
+<idAlarme>4099</idAlarme>
+<nomProduit>KEPIVANCE 6,25mg pdre p sol inj</nomProduit>
+<codeProduit>6c56d6</codeProduit>
+<prixProduit>1400.0</prixProduit>
+<quantiteActuel>2056</quantiteActuel>
+<quantiteAlarme>494</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-06-21</dateModification>
+<auteurCreation>Miranda</auteurCreation>
+<auteurModification>Keegan
+</auteurModification>
+</row>
+<row idProduit="5204">
+<idAlarme>6492</idAlarme>
+<nomProduit>KEPPRA 1000mg cp pellic</nomProduit>
+<codeProduit>71b6c9</codeProduit>
+<prixProduit>1110.0</prixProduit>
+<quantiteActuel>1905</quantiteActuel>
+<quantiteAlarme>108</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-07-15</dateModification>
+<auteurCreation>Patterson</auteurCreation>
+<auteurModification>Allegra
+</auteurModification>
+</row>
+<row idProduit="5205">
+<idAlarme>9743</idAlarme>
+<nomProduit>KEPPRA 100mg/ml sol buv</nomProduit>
+<codeProduit>801630</codeProduit>
+<prixProduit>1323.0</prixProduit>
+<quantiteActuel>1515</quantiteActuel>
+<quantiteAlarme>496</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-08-01</dateModification>
+<auteurCreation>Mccormick</auteurCreation>
+<auteurModification>Shaeleigh
+</auteurModification>
+</row>
+<row idProduit="5206">
+<idAlarme>9695</idAlarme>
+<nomProduit>KEPPRA 100mg/ml sol diluer p perf</nomProduit>
+<codeProduit>3978eb</codeProduit>
+<prixProduit>171.0</prixProduit>
+<quantiteActuel>1772</quantiteActuel>
+<quantiteAlarme>329</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-09-09</dateModification>
+<auteurCreation>Pruitt</auteurCreation>
+<auteurModification>Merritt
+</auteurModification>
+</row>
+<row idProduit="5207">
+<idAlarme>4227</idAlarme>
+<nomProduit>KEPPRA 250mg cp pellic</nomProduit>
+<codeProduit>3390c5</codeProduit>
+<prixProduit>1297.0</prixProduit>
+<quantiteActuel>2022</quantiteActuel>
+<quantiteAlarme>494</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-08-14</dateModification>
+<auteurCreation>Herman</auteurCreation>
+<auteurModification>Risa
+</auteurModification>
+</row>
+<row idProduit="5208">
+<idAlarme>2583</idAlarme>
+<nomProduit>KEPPRA 500mg cp pellic</nomProduit>
+<codeProduit>6c37ad</codeProduit>
+<prixProduit>307.0</prixProduit>
+<quantiteActuel>2994</quantiteActuel>
+<quantiteAlarme>173</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-07-01</dateModification>
+<auteurCreation>Jones</auteurCreation>
+<auteurModification>Bo
+</auteurModification>
+</row>
+<row idProduit="5209">
+<idAlarme>6644</idAlarme>
+<nomProduit>KERAFILM sol p appl loc</nomProduit>
+<codeProduit>8f075d</codeProduit>
+<prixProduit>678.0</prixProduit>
+<quantiteActuel>2382</quantiteActuel>
+<quantiteAlarme>231</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-07-12</dateModification>
+<auteurCreation>Hopkins</auteurCreation>
+<auteurModification>Lewis
+</auteurModification>
+</row>
+<row idProduit="5210">
+<idAlarme>7714</idAlarme>
+<nomProduit>KERLONE 20mg cp pellic sec</nomProduit>
+<codeProduit>4e8f29</codeProduit>
+<prixProduit>1238.0</prixProduit>
+<quantiteActuel>1820</quantiteActuel>
+<quantiteAlarme>222</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>House</auteurCreation>
+<auteurModification>Britanni
+</auteurModification>
+</row>
+<row idProduit="5211">
+<idAlarme>5406</idAlarme>
+<nomProduit>KESTIN 10mg cp pellic</nomProduit>
+<codeProduit>43edec</codeProduit>
+<prixProduit>194.0</prixProduit>
+<quantiteActuel>2650</quantiteActuel>
+<quantiteAlarme>454</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Richards</auteurCreation>
+<auteurModification>Timothy
+</auteurModification>
+</row>
+<row idProduit="5212">
+<idAlarme>7726</idAlarme>
+<nomProduit>KESTINLYO 10mg lyoph oral</nomProduit>
+<codeProduit>086532</codeProduit>
+<prixProduit>625.0</prixProduit>
+<quantiteActuel>1587</quantiteActuel>
+<quantiteAlarme>263</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-09-07</dateModification>
+<auteurCreation>Blair</auteurCreation>
+<auteurModification>Lance
+</auteurModification>
+</row>
+<row idProduit="5213">
+<idAlarme>8390</idAlarme>
+<nomProduit>KETAMINE PANPHARMA 250mg/5ml sol inj</nomProduit>
+<codeProduit>760873</codeProduit>
+<prixProduit>164.0</prixProduit>
+<quantiteActuel>2880</quantiteActuel>
+<quantiteAlarme>152</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-07-17</dateModification>
+<auteurCreation>Lane</auteurCreation>
+<auteurModification>Stewart
+</auteurModification>
+</row>
+<row idProduit="5214">
+<idAlarme>6043</idAlarme>
+<nomProduit>KETAMINE PANPHARMA 50mg/5ml sol inj</nomProduit>
+<codeProduit>867f7a</codeProduit>
+<prixProduit>577.0</prixProduit>
+<quantiteActuel>1573</quantiteActuel>
+<quantiteAlarme>184</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-07-21</dateModification>
+<auteurCreation>Mccullough</auteurCreation>
+<auteurModification>Vladimir
+</auteurModification>
+</row>
+<row idProduit="5215">
+<idAlarme>8627</idAlarme>
+<nomProduit>KETEK 400mg cp pellic</nomProduit>
+<codeProduit>cd514b</codeProduit>
+<prixProduit>805.0</prixProduit>
+<quantiteActuel>2252</quantiteActuel>
+<quantiteAlarme>171</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-06-21</dateModification>
+<auteurCreation>Klein</auteurCreation>
+<auteurModification>Nissim
+</auteurModification>
+</row>
+<row idProduit="5216">
+<idAlarme>3117</idAlarme>
+<nomProduit>KETOCONAZOLE ARROW 2 % gel en sach-dose</nomProduit>
+<codeProduit>ff4229</codeProduit>
+<prixProduit>580.0</prixProduit>
+<quantiteActuel>2779</quantiteActuel>
+<quantiteAlarme>427</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-06-22</dateModification>
+<auteurCreation>Hewitt</auteurCreation>
+<auteurModification>Nola
+</auteurModification>
+</row>
+<row idProduit="5217">
+<idAlarme>2775</idAlarme>
+<nomProduit>KETOCONAZOLE ARROW 2% gel en rec unid</nomProduit>
+<codeProduit>f0195b</codeProduit>
+<prixProduit>952.0</prixProduit>
+<quantiteActuel>2053</quantiteActuel>
+<quantiteAlarme>470</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-29</dateCreation>
+<dateModification>2010-07-31</dateModification>
+<auteurCreation>Mccoy</auteurCreation>
+<auteurModification>Hayes
+</auteurModification>
+</row>
+<row idProduit="5218">
+<idAlarme>4350</idAlarme>
+<nomProduit>KETOCONAZOLE BIOGARAN 2% gel en rec unidose</nomProduit>
+<codeProduit>215507</codeProduit>
+<prixProduit>1152.0</prixProduit>
+<quantiteActuel>1987</quantiteActuel>
+<quantiteAlarme>131</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Koch</auteurCreation>
+<auteurModification>Acton
+</auteurModification>
+</row>
+<row idProduit="5219">
+<idAlarme>9600</idAlarme>
+<nomProduit>KETOCONAZOLE BIOGARAN 2% gel en sach-dose</nomProduit>
+<codeProduit>6efd8a</codeProduit>
+<prixProduit>1005.0</prixProduit>
+<quantiteActuel>2176</quantiteActuel>
+<quantiteAlarme>100</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Burks</auteurCreation>
+<auteurModification>Jeremy
+</auteurModification>
+</row>
+<row idProduit="5220">
+<idAlarme>6899</idAlarme>
+<nomProduit>KETOCONAZOLE CRISTERS 2 % gel en rec unid</nomProduit>
+<codeProduit>9b6750</codeProduit>
+<prixProduit>982.0</prixProduit>
+<quantiteActuel>2393</quantiteActuel>
+<quantiteAlarme>174</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-08-18</dateModification>
+<auteurCreation>Hardin</auteurCreation>
+<auteurModification>Jordan
+</auteurModification>
+</row>
+<row idProduit="5221">
+<idAlarme>3985</idAlarme>
+<nomProduit>KETOCONAZOLE CRISTERS 2 % gel en sach-dose</nomProduit>
+<codeProduit>ff387c</codeProduit>
+<prixProduit>907.0</prixProduit>
+<quantiteActuel>2469</quantiteActuel>
+<quantiteAlarme>480</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-10-02</dateModification>
+<auteurCreation>Dunlap</auteurCreation>
+<auteurModification>Ulysses
+</auteurModification>
+</row>
+<row idProduit="5222">
+<idAlarme>7586</idAlarme>
+<nomProduit>KETOCONAZOLE EG 2% gel en rec unid</nomProduit>
+<codeProduit>3f1f8f</codeProduit>
+<prixProduit>1091.0</prixProduit>
+<quantiteActuel>2727</quantiteActuel>
+<quantiteAlarme>105</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-08-02</dateModification>
+<auteurCreation>Dixon</auteurCreation>
+<auteurModification>Vivian
+</auteurModification>
+</row>
+<row idProduit="5223">
+<idAlarme>9315</idAlarme>
+<nomProduit>KETOCONAZOLE EG 2% gel en sach-dose</nomProduit>
+<codeProduit>c4de9c</codeProduit>
+<prixProduit>457.0</prixProduit>
+<quantiteActuel>1716</quantiteActuel>
+<quantiteAlarme>162</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-09-17</dateModification>
+<auteurCreation>Heath</auteurCreation>
+<auteurModification>Rooney
+</auteurModification>
+</row>
+<row idProduit="5224">
+<idAlarme>269</idAlarme>
+<nomProduit>KETOCONAZOLE MYLAN 2 % gel en rec unid</nomProduit>
+<codeProduit>57c796</codeProduit>
+<prixProduit>205.0</prixProduit>
+<quantiteActuel>1670</quantiteActuel>
+<quantiteAlarme>100</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-08-13</dateModification>
+<auteurCreation>Frederick</auteurCreation>
+<auteurModification>Stephen
+</auteurModification>
+</row>
+<row idProduit="5225">
+<idAlarme>10371</idAlarme>
+<nomProduit>KETOCONAZOLE MYLAN 2 % gel en sach-dose</nomProduit>
+<codeProduit>cd1c8f</codeProduit>
+<prixProduit>668.0</prixProduit>
+<quantiteActuel>2053</quantiteActuel>
+<quantiteAlarme>237</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-07-02</dateModification>
+<auteurCreation>Pacheco</auteurCreation>
+<auteurModification>Victor
+</auteurModification>
+</row>
+<row idProduit="5226">
+<idAlarme>4863</idAlarme>
+<nomProduit>KETOCONAZOLE RATIOPHARM 2 % gel en rec unid</nomProduit>
+<codeProduit>9143f4</codeProduit>
+<prixProduit>715.0</prixProduit>
+<quantiteActuel>1869</quantiteActuel>
+<quantiteAlarme>500</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-08-11</dateModification>
+<auteurCreation>Simmons</auteurCreation>
+<auteurModification>Amanda
+</auteurModification>
+</row>
+<row idProduit="5227">
+<idAlarme>3483</idAlarme>
+<nomProduit>KETOCONAZOLE RATIOPHARM 2 % gel en sach-dose</nomProduit>
+<codeProduit>12733c</codeProduit>
+<prixProduit>1499.0</prixProduit>
+<quantiteActuel>1544</quantiteActuel>
+<quantiteAlarme>326</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-08-01</dateModification>
+<auteurCreation>Luna</auteurCreation>
+<auteurModification>Craig
+</auteurModification>
+</row>
+<row idProduit="5228">
+<idAlarme>1370</idAlarme>
+<nomProduit>KETOCONAZOLE SANDOZ 2 % gel en rec unid</nomProduit>
+<codeProduit>cd8133</codeProduit>
+<prixProduit>299.0</prixProduit>
+<quantiteActuel>2523</quantiteActuel>
+<quantiteAlarme>411</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-07-21</dateModification>
+<auteurCreation>Gomez</auteurCreation>
+<auteurModification>Quintessa
+</auteurModification>
+</row>
+<row idProduit="5229">
+<idAlarme>4447</idAlarme>
+<nomProduit>KETOCONAZOLE SANDOZ 2 % gel en sach-dose</nomProduit>
+<codeProduit>379032</codeProduit>
+<prixProduit>1352.0</prixProduit>
+<quantiteActuel>2959</quantiteActuel>
+<quantiteAlarme>113</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-08-29</dateModification>
+<auteurCreation>Cross</auteurCreation>
+<auteurModification>Kadeem
+</auteurModification>
+</row>
+<row idProduit="5230">
+<idAlarme>1130</idAlarme>
+<nomProduit>KETOCONAZOLE TEVA 2 % gel en rec unid</nomProduit>
+<codeProduit>5b56f6</codeProduit>
+<prixProduit>252.0</prixProduit>
+<quantiteActuel>1965</quantiteActuel>
+<quantiteAlarme>278</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-07-14</dateModification>
+<auteurCreation>Frederick</auteurCreation>
+<auteurModification>Rigel
+</auteurModification>
+</row>
+<row idProduit="5231">
+<idAlarme>3652</idAlarme>
+<nomProduit>KETOCONAZOLE TEVA 2 % gel en sach-dose</nomProduit>
+<codeProduit>f62d76</codeProduit>
+<prixProduit>1448.0</prixProduit>
+<quantiteActuel>2479</quantiteActuel>
+<quantiteAlarme>458</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-08-16</dateModification>
+<auteurCreation>Lynch</auteurCreation>
+<auteurModification>Jasper
+</auteurModification>
+</row>
+<row idProduit="5232">
+<idAlarme>1957</idAlarme>
+<nomProduit>KETOCONAZOLE WINTHROP 2 % gel en rec unid</nomProduit>
+<codeProduit>ac48c8</codeProduit>
+<prixProduit>277.0</prixProduit>
+<quantiteActuel>2350</quantiteActuel>
+<quantiteAlarme>185</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-09-12</dateModification>
+<auteurCreation>Olsen</auteurCreation>
+<auteurModification>Brenna
+</auteurModification>
+</row>
+<row idProduit="5233">
+<idAlarme>5677</idAlarme>
+<nomProduit>KETOCONAZOLE WINTHROP 2 % gel en sach-dose</nomProduit>
+<codeProduit>1d770a</codeProduit>
+<prixProduit>1333.0</prixProduit>
+<quantiteActuel>2641</quantiteActuel>
+<quantiteAlarme>204</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-09-18</dateModification>
+<auteurCreation>Dillard</auteurCreation>
+<auteurModification>Lillian
+</auteurModification>
+</row>
+<row idProduit="5234">
+<idAlarme>6613</idAlarme>
+<nomProduit>KETOCONAZOLE ZYDUS 2 % gel sachet-dose</nomProduit>
+<codeProduit>4d8cc2</codeProduit>
+<prixProduit>1374.0</prixProduit>
+<quantiteActuel>2778</quantiteActuel>
+<quantiteAlarme>120</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Joseph</auteurCreation>
+<auteurModification>Callie
+</auteurModification>
+</row>
+<row idProduit="5235">
+<idAlarme>5533</idAlarme>
+<nomProduit>KETODERM 2 % creme</nomProduit>
+<codeProduit>226a4a</codeProduit>
+<prixProduit>967.0</prixProduit>
+<quantiteActuel>2788</quantiteActuel>
+<quantiteAlarme>435</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-08-28</dateModification>
+<auteurCreation>Lara</auteurCreation>
+<auteurModification>Alec
+</auteurModification>
+</row>
+<row idProduit="5236">
+<idAlarme>9615</idAlarme>
+<nomProduit>KETODERM 2% gel en rec unid</nomProduit>
+<codeProduit>6e62c2</codeProduit>
+<prixProduit>1178.0</prixProduit>
+<quantiteActuel>1573</quantiteActuel>
+<quantiteAlarme>439</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-07-15</dateModification>
+<auteurCreation>York</auteurCreation>
+<auteurModification>Kirsten
+</auteurModification>
+</row>
+<row idProduit="5237">
+<idAlarme>7135</idAlarme>
+<nomProduit>KETODERM 2% gel en sach-dose</nomProduit>
+<codeProduit>2666cb</codeProduit>
+<prixProduit>906.0</prixProduit>
+<quantiteActuel>2813</quantiteActuel>
+<quantiteAlarme>102</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>Raymond</auteurCreation>
+<auteurModification>McKenzie
+</auteurModification>
+</row>
+<row idProduit="5238">
+<idAlarme>5148</idAlarme>
+<nomProduit>KETOPROFENE ARROW 150 mg cp sec</nomProduit>
+<codeProduit>250992</codeProduit>
+<prixProduit>881.0</prixProduit>
+<quantiteActuel>2268</quantiteActuel>
+<quantiteAlarme>139</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Cleveland</auteurCreation>
+<auteurModification>Baxter
+</auteurModification>
+</row>
+<row idProduit="5239">
+<idAlarme>10114</idAlarme>
+<nomProduit>KETOPROFENE ARROW 2,5% gel</nomProduit>
+<codeProduit>58064a</codeProduit>
+<prixProduit>848.0</prixProduit>
+<quantiteActuel>2989</quantiteActuel>
+<quantiteAlarme>138</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Galloway</auteurCreation>
+<auteurModification>Burton
+</auteurModification>
+</row>
+<row idProduit="5240">
+<idAlarme>5542</idAlarme>
+<nomProduit>KETOPROFENE ARROW LP 200 mg gel LP</nomProduit>
+<codeProduit>ba2399</codeProduit>
+<prixProduit>368.0</prixProduit>
+<quantiteActuel>2899</quantiteActuel>
+<quantiteAlarme>193</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-09-16</dateModification>
+<auteurCreation>Ray</auteurCreation>
+<auteurModification>Talon
+</auteurModification>
+</row>
+<row idProduit="5241">
+<idAlarme>7170</idAlarme>
+<nomProduit>KETOPROFENE BGR 2,5% gel</nomProduit>
+<codeProduit>4e43b0</codeProduit>
+<prixProduit>480.0</prixProduit>
+<quantiteActuel>2381</quantiteActuel>
+<quantiteAlarme>402</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-07-03</dateModification>
+<auteurCreation>Hart</auteurCreation>
+<auteurModification>Martin
+</auteurModification>
+</row>
+<row idProduit="5242">
+<idAlarme>6961</idAlarme>
+<nomProduit>KETOPROFENE BIOGARAN 150 mg cp sec</nomProduit>
+<codeProduit>df8f8b</codeProduit>
+<prixProduit>468.0</prixProduit>
+<quantiteActuel>1514</quantiteActuel>
+<quantiteAlarme>317</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-09-29</dateModification>
+<auteurCreation>Golden</auteurCreation>
+<auteurModification>Conan
+</auteurModification>
+</row>
+<row idProduit="5243">
+<idAlarme>2550</idAlarme>
+<nomProduit>KETOPROFENE BIOGARAN 2,5 % gel p appl cutanee</nomProduit>
+<codeProduit>754a0e</codeProduit>
+<prixProduit>1097.0</prixProduit>
+<quantiteActuel>1639</quantiteActuel>
+<quantiteAlarme>314</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-08-07</dateModification>
+<auteurCreation>Patton</auteurCreation>
+<auteurModification>Rahim
+</auteurModification>
+</row>
+<row idProduit="5244">
+<idAlarme>7881</idAlarme>
+<nomProduit>KETOPROFENE EG 150 mg cp sec</nomProduit>
+<codeProduit>bd2b10</codeProduit>
+<prixProduit>560.0</prixProduit>
+<quantiteActuel>2649</quantiteActuel>
+<quantiteAlarme>349</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-08-16</dateModification>
+<auteurCreation>Donaldson</auteurCreation>
+<auteurModification>Deacon
+</auteurModification>
+</row>
+<row idProduit="5245">
+<idAlarme>9411</idAlarme>
+<nomProduit>KETOPROFENE EG 2,5 % gel</nomProduit>
+<codeProduit>d94833</codeProduit>
+<prixProduit>1045.0</prixProduit>
+<quantiteActuel>1828</quantiteActuel>
+<quantiteAlarme>188</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-08-13</dateModification>
+<auteurCreation>Riddle</auteurCreation>
+<auteurModification>Leroy
+</auteurModification>
+</row>
+<row idProduit="5246">
+<idAlarme>6445</idAlarme>
+<nomProduit>KETOPROFENE MYLAN 2,5 % gel</nomProduit>
+<codeProduit>524edb</codeProduit>
+<prixProduit>364.0</prixProduit>
+<quantiteActuel>2866</quantiteActuel>
+<quantiteAlarme>459</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-09-26</dateModification>
+<auteurCreation>Hays</auteurCreation>
+<auteurModification>Kenyon
+</auteurModification>
+</row>
+<row idProduit="5247">
+<idAlarme>4946</idAlarme>
+<nomProduit>KETOPROFENE MYLAN LP 200 mg gel LP</nomProduit>
+<codeProduit>adc446</codeProduit>
+<prixProduit>1058.0</prixProduit>
+<quantiteActuel>2385</quantiteActuel>
+<quantiteAlarme>456</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-07-21</dateModification>
+<auteurCreation>Zimmerman</auteurCreation>
+<auteurModification>Yoshio
+</auteurModification>
+</row>
+<row idProduit="5248">
+<idAlarme>8385</idAlarme>
+<nomProduit>KETOPROFENE MYLAN PHARMA 2,5 % gel p appl loc</nomProduit>
+<codeProduit>255cd8</codeProduit>
+<prixProduit>975.0</prixProduit>
+<quantiteActuel>1588</quantiteActuel>
+<quantiteAlarme>153</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-07-13</dateModification>
+<auteurCreation>Mclaughlin</auteurCreation>
+<auteurModification>Quin
+</auteurModification>
+</row>
+<row idProduit="5249">
+<idAlarme>1652</idAlarme>
+<nomProduit>KETOPROFENE PHARMY II 100mg/2ml sol inj</nomProduit>
+<codeProduit>8b48bc</codeProduit>
+<prixProduit>921.0</prixProduit>
+<quantiteActuel>2714</quantiteActuel>
+<quantiteAlarme>297</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-07-01</dateModification>
+<auteurCreation>Russell</auteurCreation>
+<auteurModification>Shad
+</auteurModification>
+</row>
+<row idProduit="5250">
+<idAlarme>3268</idAlarme>
+<nomProduit>KETOPROFENE QUALIMED 2,5 % gel</nomProduit>
+<codeProduit>631073</codeProduit>
+<prixProduit>220.0</prixProduit>
+<quantiteActuel>2480</quantiteActuel>
+<quantiteAlarme>357</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-08-04</dateModification>
+<auteurCreation>Rodgers</auteurCreation>
+<auteurModification>Amal
+</auteurModification>
+</row>
+<row idProduit="5251">
+<idAlarme>2455</idAlarme>
+<nomProduit>KETOPROFENE RANBAXY 100 mg cp pellic</nomProduit>
+<codeProduit>01e032</codeProduit>
+<prixProduit>336.0</prixProduit>
+<quantiteActuel>2084</quantiteActuel>
+<quantiteAlarme>144</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-06-22</dateModification>
+<auteurCreation>Larsen</auteurCreation>
+<auteurModification>Rama
+</auteurModification>
+</row>
+<row idProduit="5252">
+<idAlarme>4084</idAlarme>
+<nomProduit>KETOPROFENE RANBAXY LP 200 mg cp enr LP</nomProduit>
+<codeProduit>1e3bd3</codeProduit>
+<prixProduit>1022.0</prixProduit>
+<quantiteActuel>2488</quantiteActuel>
+<quantiteAlarme>487</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Franklin</auteurCreation>
+<auteurModification>Mufutau
+</auteurModification>
+</row>
+<row idProduit="5253">
+<idAlarme>8635</idAlarme>
+<nomProduit>KETOPROFENE RATIO 2,5% gel</nomProduit>
+<codeProduit>a1d3b9</codeProduit>
+<prixProduit>1202.0</prixProduit>
+<quantiteActuel>2949</quantiteActuel>
+<quantiteAlarme>311</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-08-28</dateModification>
+<auteurCreation>Wilkinson</auteurCreation>
+<auteurModification>Whilemina
+</auteurModification>
+</row>
+<row idProduit="5254">
+<idAlarme>2380</idAlarme>
+<nomProduit>KETOPROFENE RATIOPHARM 2,5% gel</nomProduit>
+<codeProduit>ef9aeb</codeProduit>
+<prixProduit>776.0</prixProduit>
+<quantiteActuel>1791</quantiteActuel>
+<quantiteAlarme>246</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-12</dateCreation>
+<dateModification>2010-09-06</dateModification>
+<auteurCreation>Yates</auteurCreation>
+<auteurModification>Connor
+</auteurModification>
+</row>
+<row idProduit="5255">
+<idAlarme>6624</idAlarme>
+<nomProduit>KETOPROFENE SANDOZ 2,5% gel</nomProduit>
+<codeProduit>ad9e3b</codeProduit>
+<prixProduit>938.0</prixProduit>
+<quantiteActuel>2792</quantiteActuel>
+<quantiteAlarme>421</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>Larsen</auteurCreation>
+<auteurModification>Miranda
+</auteurModification>
+</row>
+<row idProduit="5256">
+<idAlarme>7846</idAlarme>
+<nomProduit>KETOPROFENE SANDOZ 200mg gel LP</nomProduit>
+<codeProduit>4700ad</codeProduit>
+<prixProduit>460.0</prixProduit>
+<quantiteActuel>2186</quantiteActuel>
+<quantiteAlarme>197</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Moody</auteurCreation>
+<auteurModification>Jeremy
+</auteurModification>
+</row>
+<row idProduit="5257">
+<idAlarme>7598</idAlarme>
+<nomProduit>KETOPROFENE TEVA 150 mg cp sec</nomProduit>
+<codeProduit>e83aa9</codeProduit>
+<prixProduit>657.0</prixProduit>
+<quantiteActuel>2129</quantiteActuel>
+<quantiteAlarme>374</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-09-07</dateModification>
+<auteurCreation>Campos</auteurCreation>
+<auteurModification>Sacha
+</auteurModification>
+</row>
+<row idProduit="5258">
+<idAlarme>3451</idAlarme>
+<nomProduit>KETOPROFENE TEVA 2,5 % gel</nomProduit>
+<codeProduit>e73187</codeProduit>
+<prixProduit>1290.0</prixProduit>
+<quantiteActuel>2315</quantiteActuel>
+<quantiteAlarme>337</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-07-15</dateModification>
+<auteurCreation>Brown</auteurCreation>
+<auteurModification>Ulysses
+</auteurModification>
+</row>
+<row idProduit="5259">
+<idAlarme>2607</idAlarme>
+<nomProduit>KETOPROFENE TEVA LP 200 mg gel LP</nomProduit>
+<codeProduit>494514</codeProduit>
+<prixProduit>1038.0</prixProduit>
+<quantiteActuel>2608</quantiteActuel>
+<quantiteAlarme>413</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Pickett</auteurCreation>
+<auteurModification>Yardley
+</auteurModification>
+</row>
+<row idProduit="5260">
+<idAlarme>6144</idAlarme>
+<nomProduit>KETOPROFENE TEVA SANTE 2,5 % gel</nomProduit>
+<codeProduit>f988e9</codeProduit>
+<prixProduit>1244.0</prixProduit>
+<quantiteActuel>2132</quantiteActuel>
+<quantiteAlarme>368</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-07-05</dateModification>
+<auteurCreation>Parrish</auteurCreation>
+<auteurModification>Roth
+</auteurModification>
+</row>
+<row idProduit="5261">
+<idAlarme>2168</idAlarme>
+<nomProduit>KETOPROFENE WINTHROP 2,5% gel</nomProduit>
+<codeProduit>9ab4a5</codeProduit>
+<prixProduit>823.0</prixProduit>
+<quantiteActuel>2425</quantiteActuel>
+<quantiteAlarme>202</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-10-01</dateModification>
+<auteurCreation>Robinson</auteurCreation>
+<auteurModification>Imelda
+</auteurModification>
+</row>
+<row idProduit="5262">
+<idAlarme>872</idAlarme>
+<nomProduit>KETREL 0,05 % creme</nomProduit>
+<codeProduit>665ebb</codeProduit>
+<prixProduit>688.0</prixProduit>
+<quantiteActuel>1786</quantiteActuel>
+<quantiteAlarme>367</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-09-17</dateModification>
+<auteurCreation>Weber</auteurCreation>
+<auteurModification>Talon
+</auteurModification>
+</row>
+<row idProduit="5263">
+<idAlarme>1951</idAlarme>
+<nomProduit>KETUM 100 mg cp pellic</nomProduit>
+<codeProduit>9f26bd</codeProduit>
+<prixProduit>1399.0</prixProduit>
+<quantiteActuel>2939</quantiteActuel>
+<quantiteAlarme>219</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-09-06</dateModification>
+<auteurCreation>Raymond</auteurCreation>
+<auteurModification>Cruz
+</auteurModification>
+</row>
+<row idProduit="5264">
+<idAlarme>1287</idAlarme>
+<nomProduit>KETUM 2,5 % gel p appl loc</nomProduit>
+<codeProduit>947cfd</codeProduit>
+<prixProduit>1385.0</prixProduit>
+<quantiteActuel>2122</quantiteActuel>
+<quantiteAlarme>308</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-07-26</dateModification>
+<auteurCreation>Pace</auteurCreation>
+<auteurModification>Eagan
+</auteurModification>
+</row>
+<row idProduit="5265">
+<idAlarme>1255</idAlarme>
+<nomProduit>KETUM 200mg gel LP</nomProduit>
+<codeProduit>cb9195</codeProduit>
+<prixProduit>726.0</prixProduit>
+<quantiteActuel>2573</quantiteActuel>
+<quantiteAlarme>204</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-08-02</dateModification>
+<auteurCreation>Moody</auteurCreation>
+<auteurModification>Keaton
+</auteurModification>
+</row>
+<row idProduit="5266">
+<idAlarme>4871</idAlarme>
+<nomProduit>KIDROLASE 10 000 UI pdre/solv p sol inj</nomProduit>
+<codeProduit>1b6b3f</codeProduit>
+<prixProduit>872.0</prixProduit>
+<quantiteActuel>2596</quantiteActuel>
+<quantiteAlarme>286</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-08-02</dateModification>
+<auteurCreation>Hendricks</auteurCreation>
+<auteurModification>Myles
+</auteurModification>
+</row>
+<row idProduit="5267">
+<idAlarme>367</idAlarme>
+<nomProduit>KINERET 100mg sol inj en ser</nomProduit>
+<codeProduit>ff0b37</codeProduit>
+<prixProduit>196.0</prixProduit>
+<quantiteActuel>2033</quantiteActuel>
+<quantiteAlarme>145</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-26</dateCreation>
+<dateModification>2010-06-20</dateModification>
+<auteurCreation>Kirby</auteurCreation>
+<auteurModification>Macon
+</auteurModification>
+</row>
+<row idProduit="5268">
+<idAlarme>863</idAlarme>
+<nomProduit>KINOX 225ppmmole/mole gaz p inhal en bout</nomProduit>
+<codeProduit>00a9cd</codeProduit>
+<prixProduit>461.0</prixProduit>
+<quantiteActuel>2227</quantiteActuel>
+<quantiteAlarme>171</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Dotson</auteurCreation>
+<auteurModification>Beau
+</auteurModification>
+</row>
+<row idProduit="5269">
+<idAlarme>8486</idAlarme>
+<nomProduit>KINOX 450ppmmole/mole gaz p inhal en bout</nomProduit>
+<codeProduit>f29c5a</codeProduit>
+<prixProduit>1177.0</prixProduit>
+<quantiteActuel>1619</quantiteActuel>
+<quantiteAlarme>440</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Valdez</auteurCreation>
+<auteurModification>Cameron
+</auteurModification>
+</row>
+<row idProduit="5270">
+<idAlarme>9839</idAlarme>
+<nomProduit>KINUREA H sol inj</nomProduit>
+<codeProduit>5411bb</codeProduit>
+<prixProduit>1231.0</prixProduit>
+<quantiteActuel>1680</quantiteActuel>
+<quantiteAlarme>350</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-07-17</dateModification>
+<auteurCreation>Lucas</auteurCreation>
+<auteurModification>Keely
+</auteurModification>
+</row>
+<row idProduit="5271">
+<idAlarme>9402</idAlarme>
+<nomProduit>KIOVIG 100 mg/ml sol p perf</nomProduit>
+<codeProduit>871171</codeProduit>
+<prixProduit>771.0</prixProduit>
+<quantiteActuel>2106</quantiteActuel>
+<quantiteAlarme>482</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-07-09</dateModification>
+<auteurCreation>Benton</auteurCreation>
+<auteurModification>Lester
+</auteurModification>
+</row>
+<row idProduit="5272">
+<idAlarme>7181</idAlarme>
+<nomProduit>KIVEXA cp pellic</nomProduit>
+<codeProduit>c91cd6</codeProduit>
+<prixProduit>516.0</prixProduit>
+<quantiteActuel>2782</quantiteActuel>
+<quantiteAlarme>105</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-09-28</dateModification>
+<auteurCreation>Mercado</auteurCreation>
+<auteurModification>Garrett
+</auteurModification>
+</row>
+<row idProduit="5273">
+<idAlarme>1097</idAlarme>
+<nomProduit>KLEAN PREP pdre p sol buv</nomProduit>
+<codeProduit>6a038d</codeProduit>
+<prixProduit>852.0</prixProduit>
+<quantiteActuel>2748</quantiteActuel>
+<quantiteAlarme>390</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Castro</auteurCreation>
+<auteurModification>Ila
+</auteurModification>
+</row>
+<row idProduit="5274">
+<idAlarme>4889</idAlarme>
+<nomProduit>KLIOGEST cp pellic</nomProduit>
+<codeProduit>b0b4af</codeProduit>
+<prixProduit>326.0</prixProduit>
+<quantiteActuel>1784</quantiteActuel>
+<quantiteAlarme>454</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-06-23</dateModification>
+<auteurCreation>Hartman</auteurCreation>
+<auteurModification>Amity
+</auteurModification>
+</row>
+<row idProduit="5275">
+<idAlarme>3654</idAlarme>
+<nomProduit>KLIPAL CODEINE 300 mg/25 mg cp</nomProduit>
+<codeProduit>f8ed6b</codeProduit>
+<prixProduit>957.0</prixProduit>
+<quantiteActuel>2710</quantiteActuel>
+<quantiteAlarme>216</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-18</dateCreation>
+<dateModification>2010-08-02</dateModification>
+<auteurCreation>Dean</auteurCreation>
+<auteurModification>Nigel
+</auteurModification>
+</row>
+<row idProduit="5276">
+<idAlarme>6716</idAlarme>
+<nomProduit>KLIPAL CODEINE 600 mg/50 mg cp</nomProduit>
+<codeProduit>c1792c</codeProduit>
+<prixProduit>987.0</prixProduit>
+<quantiteActuel>1617</quantiteActuel>
+<quantiteAlarme>258</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-07-23</dateModification>
+<auteurCreation>Cantrell</auteurCreation>
+<auteurModification>Duncan
+</auteurModification>
+</row>
+<row idProduit="5277">
+<idAlarme>3833</idAlarme>
+<nomProduit>KOGENATE BAYER 1000UI (Bio-Set) pdre/solv p sol inj</nomProduit>
+<codeProduit>593d87</codeProduit>
+<prixProduit>563.0</prixProduit>
+<quantiteActuel>2181</quantiteActuel>
+<quantiteAlarme>366</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-09-07</dateModification>
+<auteurCreation>Monroe</auteurCreation>
+<auteurModification>Jael
+</auteurModification>
+</row>
+<row idProduit="5278">
+<idAlarme>5527</idAlarme>
+<nomProduit>KOGENATE BAYER 2000UI pdre/solv p sol inj</nomProduit>
+<codeProduit>2684f8</codeProduit>
+<prixProduit>1287.0</prixProduit>
+<quantiteActuel>2353</quantiteActuel>
+<quantiteAlarme>128</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-09-13</dateModification>
+<auteurCreation>Larson</auteurCreation>
+<auteurModification>Cleo
+</auteurModification>
+</row>
+<row idProduit="5279">
+<idAlarme>5225</idAlarme>
+<nomProduit>KOGENATE BAYER 250UI (Bio-Set) pdre/solv p sol inj</nomProduit>
+<codeProduit>2fe21e</codeProduit>
+<prixProduit>499.0</prixProduit>
+<quantiteActuel>2634</quantiteActuel>
+<quantiteAlarme>133</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-12</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Brennan</auteurCreation>
+<auteurModification>Venus
+</auteurModification>
+</row>
+<row idProduit="5280">
+<idAlarme>1776</idAlarme>
+<nomProduit>KOGENATE BAYER 500UI (Bio-Set) pdre/solv p sol inj</nomProduit>
+<codeProduit>29419e</codeProduit>
+<prixProduit>1019.0</prixProduit>
+<quantiteActuel>1621</quantiteActuel>
+<quantiteAlarme>335</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-08-31</dateModification>
+<auteurCreation>Haynes</auteurCreation>
+<auteurModification>Larissa
+</auteurModification>
+</row>
+<row idProduit="5281">
+<idAlarme>4487</idAlarme>
+<nomProduit>KOREC 20mg cp enr sec</nomProduit>
+<codeProduit>4e0788</codeProduit>
+<prixProduit>1424.0</prixProduit>
+<quantiteActuel>2583</quantiteActuel>
+<quantiteAlarme>447</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-06-26</dateModification>
+<auteurCreation>Miller</auteurCreation>
+<auteurModification>Kathleen
+</auteurModification>
+</row>
+<row idProduit="5282">
+<idAlarme>866</idAlarme>
+<nomProduit>KOREC 5mg cp pellic sec</nomProduit>
+<codeProduit>a4edfd</codeProduit>
+<prixProduit>1064.0</prixProduit>
+<quantiteActuel>1622</quantiteActuel>
+<quantiteAlarme>155</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-07-20</dateModification>
+<auteurCreation>Graham</auteurCreation>
+<auteurModification>Yoshio
+</auteurModification>
+</row>
+<row idProduit="5283">
+<idAlarme>9826</idAlarme>
+<nomProduit>KORETIC 20mg/12,5mg cp pellic sec</nomProduit>
+<codeProduit>6a4d3a</codeProduit>
+<prixProduit>1167.0</prixProduit>
+<quantiteActuel>1637</quantiteActuel>
+<quantiteAlarme>367</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-09-12</dateModification>
+<auteurCreation>Fletcher</auteurCreation>
+<auteurModification>Chastity
+</auteurModification>
+</row>
+<row idProduit="5284">
+<idAlarme>10507</idAlarme>
+<nomProduit>KREDEX 12,5 mg cp sec</nomProduit>
+<codeProduit>adb17e</codeProduit>
+<prixProduit>465.0</prixProduit>
+<quantiteActuel>2411</quantiteActuel>
+<quantiteAlarme>261</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Frazier</auteurCreation>
+<auteurModification>Stephen
+</auteurModification>
+</row>
+<row idProduit="5285">
+<idAlarme>6687</idAlarme>
+<nomProduit>KREDEX 25 mg cp sec</nomProduit>
+<codeProduit>301965</codeProduit>
+<prixProduit>1099.0</prixProduit>
+<quantiteActuel>1913</quantiteActuel>
+<quantiteAlarme>339</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-07-16</dateModification>
+<auteurCreation>Mcdonald</auteurCreation>
+<auteurModification>Willow
+</auteurModification>
+</row>
+<row idProduit="5286">
+<idAlarme>6411</idAlarme>
+<nomProduit>KREDEX 6,25 mg cp sec</nomProduit>
+<codeProduit>359038</codeProduit>
+<prixProduit>1159.0</prixProduit>
+<quantiteActuel>2325</quantiteActuel>
+<quantiteAlarme>485</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Hudson</auteurCreation>
+<auteurModification>Karen
+</auteurModification>
+</row>
+<row idProduit="5287">
+<idAlarme>7892</idAlarme>
+<nomProduit>KRENOSIN 6mg/2ml sol inj</nomProduit>
+<codeProduit>1afbe7</codeProduit>
+<prixProduit>1482.0</prixProduit>
+<quantiteActuel>2496</quantiteActuel>
+<quantiteAlarme>324</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-09-16</dateModification>
+<auteurCreation>Marquez</auteurCreation>
+<auteurModification>Shannon
+</auteurModification>
+</row>
+<row idProduit="5288">
+<idAlarme>3547</idAlarme>
+<nomProduit>KUVAN 100 mg cp p sol buv</nomProduit>
+<codeProduit>dbc42d</codeProduit>
+<prixProduit>1069.0</prixProduit>
+<quantiteActuel>2493</quantiteActuel>
+<quantiteAlarme>197</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-07-26</dateModification>
+<auteurCreation>Mayer</auteurCreation>
+<auteurModification>Lamar
+</auteurModification>
+</row>
+<row idProduit="5289">
+<idAlarme>8783</idAlarme>
+<nomProduit>KYTRIL 1mg cp pellic</nomProduit>
+<codeProduit>40af8c</codeProduit>
+<prixProduit>183.0</prixProduit>
+<quantiteActuel>2499</quantiteActuel>
+<quantiteAlarme>435</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-07-11</dateModification>
+<auteurCreation>Howard</auteurCreation>
+<auteurModification>Ava
+</auteurModification>
+</row>
+<row idProduit="5290">
+<idAlarme>719</idAlarme>
+<nomProduit>KYTRIL 2mg cp pellic</nomProduit>
+<codeProduit>9749bd</codeProduit>
+<prixProduit>544.0</prixProduit>
+<quantiteActuel>1835</quantiteActuel>
+<quantiteAlarme>108</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-09-08</dateModification>
+<auteurCreation>Tyler</auteurCreation>
+<auteurModification>Cally
+</auteurModification>
+</row>
+<row idProduit="5291">
+<idAlarme>5690</idAlarme>
+<nomProduit>KYTRIL 3mg/3ml sol inj</nomProduit>
+<codeProduit>64186d</codeProduit>
+<prixProduit>939.0</prixProduit>
+<quantiteActuel>2353</quantiteActuel>
+<quantiteAlarme>312</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-26</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Berger</auteurCreation>
+<auteurModification>Kay
+</auteurModification>
+</row>
+</root>

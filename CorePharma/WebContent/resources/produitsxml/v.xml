@@ -1,0 +1,4721 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<root>
+<row idProduit="9971">
+<idAlarme>3842</idAlarme>
+<nomProduit>VACCIN BCG SSI pdre/solv p susp inj</nomProduit>
+<codeProduit>db9a11</codeProduit>
+<prixProduit>755.0</prixProduit>
+<quantiteActuel>2005</quantiteActuel>
+<quantiteAlarme>377</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-07-30</dateModification>
+<auteurCreation>Frost</auteurCreation>
+<auteurModification>Hedley
+</auteurModification>
+</row>
+<row idProduit="9972">
+<idAlarme>4791</idAlarme>
+<nomProduit>VACCIN GENHEVAC B PASTEUR 20ug/0,5ml susp inj</nomProduit>
+<codeProduit>b9fefd</codeProduit>
+<prixProduit>296.0</prixProduit>
+<quantiteActuel>2084</quantiteActuel>
+<quantiteAlarme>457</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-09-08</dateModification>
+<auteurCreation>Bowen</auteurCreation>
+<auteurModification>Tashya
+</auteurModification>
+</row>
+<row idProduit="9973">
+<idAlarme>9073</idAlarme>
+<nomProduit>VACCIN MENINGOCOCCIQUE A+C POLYOSIDIQUE pdre/solv p susp inj</nomProduit>
+<codeProduit>c83330</codeProduit>
+<prixProduit>242.0</prixProduit>
+<quantiteActuel>2060</quantiteActuel>
+<quantiteAlarme>464</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-08-05</dateModification>
+<auteurCreation>Diaz</auteurCreation>
+<auteurModification>Allen
+</auteurModification>
+</row>
+<row idProduit="9974">
+<idAlarme>5272</idAlarme>
+<nomProduit>VACCIN RABIQUE PASTEUR pdre/solv p susp inj en ser</nomProduit>
+<codeProduit>20a944</codeProduit>
+<prixProduit>967.0</prixProduit>
+<quantiteActuel>1590</quantiteActuel>
+<quantiteAlarme>251</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Perkins</auteurCreation>
+<auteurModification>Magee
+</auteurModification>
+</row>
+<row idProduit="9975">
+<idAlarme>2485</idAlarme>
+<nomProduit>VACCIN TETANIQUE PASTEUR Susp inj</nomProduit>
+<codeProduit>72b367</codeProduit>
+<prixProduit>725.0</prixProduit>
+<quantiteActuel>1763</quantiteActuel>
+<quantiteAlarme>125</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-08-14</dateModification>
+<auteurCreation>Griffith</auteurCreation>
+<auteurModification>Arthur
+</auteurModification>
+</row>
+<row idProduit="9976">
+<idAlarme>7975</idAlarme>
+<nomProduit>VADILEX 20mg cp pellic</nomProduit>
+<codeProduit>eb1062</codeProduit>
+<prixProduit>991.0</prixProduit>
+<quantiteActuel>2921</quantiteActuel>
+<quantiteAlarme>247</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-07-11</dateModification>
+<auteurCreation>Holmes</auteurCreation>
+<auteurModification>Britanni
+</auteurModification>
+</row>
+<row idProduit="9977">
+<idAlarme>8448</idAlarme>
+<nomProduit>VAGOSTABYL cp enr</nomProduit>
+<codeProduit>ec960a</codeProduit>
+<prixProduit>966.0</prixProduit>
+<quantiteActuel>2824</quantiteActuel>
+<quantiteAlarme>468</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-07-27</dateModification>
+<auteurCreation>Gray</auteurCreation>
+<auteurModification>Jack
+</auteurModification>
+</row>
+<row idProduit="9978">
+<idAlarme>9065</idAlarme>
+<nomProduit>VALACICLOVIR ACTAVIS 500 mg cp pellic</nomProduit>
+<codeProduit>47dde2</codeProduit>
+<prixProduit>1024.0</prixProduit>
+<quantiteActuel>2896</quantiteActuel>
+<quantiteAlarme>299</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-07-14</dateModification>
+<auteurCreation>Santiago</auteurCreation>
+<auteurModification>Alfreda
+</auteurModification>
+</row>
+<row idProduit="9979">
+<idAlarme>10097</idAlarme>
+<nomProduit>VALACICLOVIR ALMUS 500 mg cp pellic sec</nomProduit>
+<codeProduit>2b980b</codeProduit>
+<prixProduit>447.0</prixProduit>
+<quantiteActuel>2404</quantiteActuel>
+<quantiteAlarme>315</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-07-14</dateModification>
+<auteurCreation>Cunningham</auteurCreation>
+<auteurModification>Zachary
+</auteurModification>
+</row>
+<row idProduit="9980">
+<idAlarme>7015</idAlarme>
+<nomProduit>VALACICLOVIR ALTER 500 mg cp pellic</nomProduit>
+<codeProduit>4e4f59</codeProduit>
+<prixProduit>363.0</prixProduit>
+<quantiteActuel>2840</quantiteActuel>
+<quantiteAlarme>261</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-07-20</dateModification>
+<auteurCreation>Velazquez</auteurCreation>
+<auteurModification>Constance
+</auteurModification>
+</row>
+<row idProduit="9981">
+<idAlarme>10029</idAlarme>
+<nomProduit>VALACICLOVIR ARROW GENERIQUES 500 mg cp pellic</nomProduit>
+<codeProduit>073e2f</codeProduit>
+<prixProduit>640.0</prixProduit>
+<quantiteActuel>2721</quantiteActuel>
+<quantiteAlarme>295</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-09-27</dateModification>
+<auteurCreation>Olsen</auteurCreation>
+<auteurModification>Hyacinth
+</auteurModification>
+</row>
+<row idProduit="9982">
+<idAlarme>10527</idAlarme>
+<nomProduit>VALACICLOVIR BIOGARAN 500 mg cp enr</nomProduit>
+<codeProduit>e2ebe6</codeProduit>
+<prixProduit>1290.0</prixProduit>
+<quantiteActuel>2800</quantiteActuel>
+<quantiteAlarme>313</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-08-14</dateModification>
+<auteurCreation>Garrett</auteurCreation>
+<auteurModification>Hedwig
+</auteurModification>
+</row>
+<row idProduit="9983">
+<idAlarme>6554</idAlarme>
+<nomProduit>VALACICLOVIR BOUCHARA-RECORDATI 500 mg cp pellic</nomProduit>
+<codeProduit>42349b</codeProduit>
+<prixProduit>374.0</prixProduit>
+<quantiteActuel>1669</quantiteActuel>
+<quantiteAlarme>202</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-07-16</dateModification>
+<auteurCreation>Pena</auteurCreation>
+<auteurModification>Ferdinand
+</auteurModification>
+</row>
+<row idProduit="9984">
+<idAlarme>4220</idAlarme>
+<nomProduit>VALACICLOVIR CRISTERS 500 mg cp pellic</nomProduit>
+<codeProduit>749cf0</codeProduit>
+<prixProduit>530.0</prixProduit>
+<quantiteActuel>2989</quantiteActuel>
+<quantiteAlarme>394</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-09-20</dateModification>
+<auteurCreation>Dudley</auteurCreation>
+<auteurModification>Cassidy
+</auteurModification>
+</row>
+<row idProduit="9985">
+<idAlarme>1610</idAlarme>
+<nomProduit>VALACICLOVIR EG 500 mg cp pellic</nomProduit>
+<codeProduit>584571</codeProduit>
+<prixProduit>177.0</prixProduit>
+<quantiteActuel>2221</quantiteActuel>
+<quantiteAlarme>435</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-06-28</dateModification>
+<auteurCreation>Shepherd</auteurCreation>
+<auteurModification>Yeo
+</auteurModification>
+</row>
+<row idProduit="9986">
+<idAlarme>9330</idAlarme>
+<nomProduit>VALACICLOVIR ISOMED 500 mg cp pellic</nomProduit>
+<codeProduit>248e33</codeProduit>
+<prixProduit>216.0</prixProduit>
+<quantiteActuel>2146</quantiteActuel>
+<quantiteAlarme>442</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-09-10</dateModification>
+<auteurCreation>Hansen</auteurCreation>
+<auteurModification>Desiree
+</auteurModification>
+</row>
+<row idProduit="9987">
+<idAlarme>8682</idAlarme>
+<nomProduit>VALACICLOVIR MYLAN 500 mg cp pellic</nomProduit>
+<codeProduit>536085</codeProduit>
+<prixProduit>319.0</prixProduit>
+<quantiteActuel>1537</quantiteActuel>
+<quantiteAlarme>147</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-07-21</dateModification>
+<auteurCreation>Fleming</auteurCreation>
+<auteurModification>Clementine
+</auteurModification>
+</row>
+<row idProduit="9988">
+<idAlarme>7177</idAlarme>
+<nomProduit>VALACICLOVIR MYLAN PHARMA 500 mg cp pellic</nomProduit>
+<codeProduit>9905c1</codeProduit>
+<prixProduit>1338.0</prixProduit>
+<quantiteActuel>2588</quantiteActuel>
+<quantiteAlarme>300</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Durham</auteurCreation>
+<auteurModification>Samuel
+</auteurModification>
+</row>
+<row idProduit="9989">
+<idAlarme>7934</idAlarme>
+<nomProduit>VALACICLOVIR PHR LAB 500 mg cp pellic</nomProduit>
+<codeProduit>ccc584</codeProduit>
+<prixProduit>1074.0</prixProduit>
+<quantiteActuel>1519</quantiteActuel>
+<quantiteAlarme>383</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-09-09</dateModification>
+<auteurCreation>Austin</auteurCreation>
+<auteurModification>Jael
+</auteurModification>
+</row>
+<row idProduit="9990">
+<idAlarme>10422</idAlarme>
+<nomProduit>VALACICLOVIR QUALIMED 500 mg cp pellic</nomProduit>
+<codeProduit>dd4a5a</codeProduit>
+<prixProduit>1143.0</prixProduit>
+<quantiteActuel>2529</quantiteActuel>
+<quantiteAlarme>119</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-06-20</dateModification>
+<auteurCreation>Goodwin</auteurCreation>
+<auteurModification>Chase
+</auteurModification>
+</row>
+<row idProduit="9991">
+<idAlarme>6913</idAlarme>
+<nomProduit>VALACICLOVIR RANBAXY 500 mg cp pellic sec</nomProduit>
+<codeProduit>fe56b3</codeProduit>
+<prixProduit>710.0</prixProduit>
+<quantiteActuel>2069</quantiteActuel>
+<quantiteAlarme>115</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-10-06</dateModification>
+<auteurCreation>Cole</auteurCreation>
+<auteurModification>Kyla
+</auteurModification>
+</row>
+<row idProduit="9992">
+<idAlarme>7640</idAlarme>
+<nomProduit>VALACICLOVIR RATIOPHARM 500 mg cp pellic</nomProduit>
+<codeProduit>3293d0</codeProduit>
+<prixProduit>365.0</prixProduit>
+<quantiteActuel>2758</quantiteActuel>
+<quantiteAlarme>310</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-06-26</dateModification>
+<auteurCreation>Hyde</auteurCreation>
+<auteurModification>Flynn
+</auteurModification>
+</row>
+<row idProduit="9993">
+<idAlarme>6237</idAlarme>
+<nomProduit>VALACICLOVIR SANDOZ 500 mg cp pellic</nomProduit>
+<codeProduit>033c91</codeProduit>
+<prixProduit>1472.0</prixProduit>
+<quantiteActuel>2871</quantiteActuel>
+<quantiteAlarme>315</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-08-25</dateModification>
+<auteurCreation>Benson</auteurCreation>
+<auteurModification>Daria
+</auteurModification>
+</row>
+<row idProduit="9994">
+<idAlarme>2915</idAlarme>
+<nomProduit>VALACICLOVIR TEVA PHARMA 500 mg cp pellic</nomProduit>
+<codeProduit>47e204</codeProduit>
+<prixProduit>914.0</prixProduit>
+<quantiteActuel>1873</quantiteActuel>
+<quantiteAlarme>300</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-07-13</dateModification>
+<auteurCreation>Mason</auteurCreation>
+<auteurModification>Nigel
+</auteurModification>
+</row>
+<row idProduit="9995">
+<idAlarme>7515</idAlarme>
+<nomProduit>VALACICLOVIR WINTHROP 500 mg cp enr</nomProduit>
+<codeProduit>4d8f9c</codeProduit>
+<prixProduit>204.0</prixProduit>
+<quantiteActuel>1521</quantiteActuel>
+<quantiteAlarme>370</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-07-30</dateModification>
+<auteurCreation>Torres</auteurCreation>
+<auteurModification>Lewis
+</auteurModification>
+</row>
+<row idProduit="9996">
+<idAlarme>2638</idAlarme>
+<nomProduit>VALACICLOVIR ZYDUS FRANCE 500 mg cp pellic</nomProduit>
+<codeProduit>2ccc27</codeProduit>
+<prixProduit>258.0</prixProduit>
+<quantiteActuel>2005</quantiteActuel>
+<quantiteAlarme>461</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Peck</auteurCreation>
+<auteurModification>Deirdre
+</auteurModification>
+</row>
+<row idProduit="9997">
+<idAlarme>148</idAlarme>
+<nomProduit>VALDA IRRITATIONS DE LA GORGE pate a sucer</nomProduit>
+<codeProduit>f09cc6</codeProduit>
+<prixProduit>1126.0</prixProduit>
+<quantiteActuel>1929</quantiteActuel>
+<quantiteAlarme>465</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-07-22</dateModification>
+<auteurCreation>Tanner</auteurCreation>
+<auteurModification>Seth
+</auteurModification>
+</row>
+<row idProduit="9998">
+<idAlarme>2316</idAlarme>
+<nomProduit>VALDA IRRITATIONS DE LA GORGE SANS SUCRE past</nomProduit>
+<codeProduit>9ce548</codeProduit>
+<prixProduit>1382.0</prixProduit>
+<quantiteActuel>2011</quantiteActuel>
+<quantiteAlarme>439</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-10-05</dateModification>
+<auteurCreation>Weaver</auteurCreation>
+<auteurModification>Price
+</auteurModification>
+</row>
+<row idProduit="9999">
+<idAlarme>920</idAlarme>
+<nomProduit>VALDOXAN 25 mg cp pellic</nomProduit>
+<codeProduit>f8f2a7</codeProduit>
+<prixProduit>529.0</prixProduit>
+<quantiteActuel>2283</quantiteActuel>
+<quantiteAlarme>381</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Petersen</auteurCreation>
+<auteurModification>Claudia
+</auteurModification>
+</row>
+<row idProduit="10000">
+<idAlarme>5039</idAlarme>
+<nomProduit>VALIUM ROCHE 1 % sol buv</nomProduit>
+<codeProduit>abf157</codeProduit>
+<prixProduit>511.0</prixProduit>
+<quantiteActuel>2465</quantiteActuel>
+<quantiteAlarme>333</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-06-20</dateModification>
+<auteurCreation>Trujillo</auteurCreation>
+<auteurModification>Ivory
+</auteurModification>
+</row>
+<row idProduit="10001">
+<idAlarme>9131</idAlarme>
+<nomProduit>VALIUM ROCHE 10 mg cp sec</nomProduit>
+<codeProduit>dc5afb</codeProduit>
+<prixProduit>787.0</prixProduit>
+<quantiteActuel>1822</quantiteActuel>
+<quantiteAlarme>464</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-09-27</dateModification>
+<auteurCreation>Price</auteurCreation>
+<auteurModification>Risa
+</auteurModification>
+</row>
+<row idProduit="10002">
+<idAlarme>8294</idAlarme>
+<nomProduit>VALIUM ROCHE 10mg/2ml sol inj</nomProduit>
+<codeProduit>742e82</codeProduit>
+<prixProduit>351.0</prixProduit>
+<quantiteActuel>1969</quantiteActuel>
+<quantiteAlarme>157</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-07-18</dateModification>
+<auteurCreation>Duncan</auteurCreation>
+<auteurModification>David
+</auteurModification>
+</row>
+<row idProduit="10003">
+<idAlarme>3955</idAlarme>
+<nomProduit>VALIUM ROCHE 2 mg cp sec</nomProduit>
+<codeProduit>f2df5c</codeProduit>
+<prixProduit>702.0</prixProduit>
+<quantiteActuel>2144</quantiteActuel>
+<quantiteAlarme>474</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-06-20</dateModification>
+<auteurCreation>Madden</auteurCreation>
+<auteurModification>Cathleen
+</auteurModification>
+</row>
+<row idProduit="10004">
+<idAlarme>1316</idAlarme>
+<nomProduit>VALIUM ROCHE 5 mg cp sec</nomProduit>
+<codeProduit>08fa63</codeProduit>
+<prixProduit>236.0</prixProduit>
+<quantiteActuel>2253</quantiteActuel>
+<quantiteAlarme>181</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-07-22</dateModification>
+<auteurCreation>Romero</auteurCreation>
+<auteurModification>Christopher
+</auteurModification>
+</row>
+<row idProduit="10005">
+<idAlarme>5145</idAlarme>
+<nomProduit>VALPROATE DE SODIUM AGUETTANT 400mg/4ml sol inj</nomProduit>
+<codeProduit>07c913</codeProduit>
+<prixProduit>1221.0</prixProduit>
+<quantiteActuel>2298</quantiteActuel>
+<quantiteAlarme>116</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Blackwell</auteurCreation>
+<auteurModification>Carlos
+</auteurModification>
+</row>
+<row idProduit="10006">
+<idAlarme>4684</idAlarme>
+<nomProduit>VALPROATE DE SODIUM ALTER L.P. 500mg cp pellic sec LP</nomProduit>
+<codeProduit>80e5bc</codeProduit>
+<prixProduit>1179.0</prixProduit>
+<quantiteActuel>2123</quantiteActuel>
+<quantiteAlarme>287</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-07-17</dateModification>
+<auteurCreation>Branch</auteurCreation>
+<auteurModification>Stacey
+</auteurModification>
+</row>
+<row idProduit="10007">
+<idAlarme>7052</idAlarme>
+<nomProduit>VALPROATE DE SODIUM ARROW L.P. 500mg cp pellic sec LP</nomProduit>
+<codeProduit>380e6a</codeProduit>
+<prixProduit>409.0</prixProduit>
+<quantiteActuel>1610</quantiteActuel>
+<quantiteAlarme>273</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-07-18</dateModification>
+<auteurCreation>Leon</auteurCreation>
+<auteurModification>Laith
+</auteurModification>
+</row>
+<row idProduit="10008">
+<idAlarme>4336</idAlarme>
+<nomProduit>VALPROATE DE SODIUM BIOGARAN L.P. 500mg cp pellic sec LP</nomProduit>
+<codeProduit>5e09a9</codeProduit>
+<prixProduit>489.0</prixProduit>
+<quantiteActuel>2147</quantiteActuel>
+<quantiteAlarme>299</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-08-04</dateModification>
+<auteurCreation>Parrish</auteurCreation>
+<auteurModification>Samuel
+</auteurModification>
+</row>
+<row idProduit="10009">
+<idAlarme>7654</idAlarme>
+<nomProduit>VALPROATE DE SODIUM EG L.P. 500mg cp pellic sec LP</nomProduit>
+<codeProduit>9b531e</codeProduit>
+<prixProduit>883.0</prixProduit>
+<quantiteActuel>1804</quantiteActuel>
+<quantiteAlarme>381</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Henderson</auteurCreation>
+<auteurModification>Len
+</auteurModification>
+</row>
+<row idProduit="10010">
+<idAlarme>1714</idAlarme>
+<nomProduit>VALPROATE DE SODIUM MYLAN L.P. 500 mg cp pellic sec LP</nomProduit>
+<codeProduit>a62646</codeProduit>
+<prixProduit>433.0</prixProduit>
+<quantiteActuel>2065</quantiteActuel>
+<quantiteAlarme>237</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-08-09</dateModification>
+<auteurCreation>Wiley</auteurCreation>
+<auteurModification>Rafael
+</auteurModification>
+</row>
+<row idProduit="10011">
+<idAlarme>5922</idAlarme>
+<nomProduit>VALPROATE DE SODIUM QUALIMED L.P. 500mg cp pellic sec LP</nomProduit>
+<codeProduit>f1fa9c</codeProduit>
+<prixProduit>1155.0</prixProduit>
+<quantiteActuel>2123</quantiteActuel>
+<quantiteAlarme>366</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-07-12</dateModification>
+<auteurCreation>Dunlap</auteurCreation>
+<auteurModification>Camden
+</auteurModification>
+</row>
+<row idProduit="10012">
+<idAlarme>571</idAlarme>
+<nomProduit>VALPROATE DE SODIUM RATIOPHARM L.P. 500mg cp pellic sec LP</nomProduit>
+<codeProduit>c6779d</codeProduit>
+<prixProduit>632.0</prixProduit>
+<quantiteActuel>2614</quantiteActuel>
+<quantiteAlarme>246</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-29</dateCreation>
+<dateModification>2010-07-05</dateModification>
+<auteurCreation>Padilla</auteurCreation>
+<auteurModification>Idola
+</auteurModification>
+</row>
+<row idProduit="10013">
+<idAlarme>9730</idAlarme>
+<nomProduit>VALPROATE DE SODIUM RPG L.P. 500mg cp pellic sec LP</nomProduit>
+<codeProduit>01c454</codeProduit>
+<prixProduit>1349.0</prixProduit>
+<quantiteActuel>2385</quantiteActuel>
+<quantiteAlarme>185</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-11</dateCreation>
+<dateModification>2010-09-28</dateModification>
+<auteurCreation>Kinney</auteurCreation>
+<auteurModification>Walker
+</auteurModification>
+</row>
+<row idProduit="10014">
+<idAlarme>4331</idAlarme>
+<nomProduit>VALPROATE DE SODIUM SANDOZ L.P. 500mg cp pellic sec LP</nomProduit>
+<codeProduit>96ca8e</codeProduit>
+<prixProduit>1081.0</prixProduit>
+<quantiteActuel>2310</quantiteActuel>
+<quantiteAlarme>373</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-07-13</dateModification>
+<auteurCreation>Charles</auteurCreation>
+<auteurModification>Hiroko
+</auteurModification>
+</row>
+<row idProduit="10015">
+<idAlarme>1554</idAlarme>
+<nomProduit>VALPROATE DE SODIUM TEVA L.P. 500mg cp pellic sec LP</nomProduit>
+<codeProduit>677b37</codeProduit>
+<prixProduit>1062.0</prixProduit>
+<quantiteActuel>1828</quantiteActuel>
+<quantiteAlarme>234</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Saunders</auteurCreation>
+<auteurModification>Jaquelyn
+</auteurModification>
+</row>
+<row idProduit="10016">
+<idAlarme>2890</idAlarme>
+<nomProduit>VALPROATE DE SODIUM WINTHROP 20% sol buv</nomProduit>
+<codeProduit>0deb72</codeProduit>
+<prixProduit>523.0</prixProduit>
+<quantiteActuel>2193</quantiteActuel>
+<quantiteAlarme>265</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-06-27</dateModification>
+<auteurCreation>Stafford</auteurCreation>
+<auteurModification>Ashely
+</auteurModification>
+</row>
+<row idProduit="10017">
+<idAlarme>9724</idAlarme>
+<nomProduit>VALPROATE DE SODIUM WINTHROP 200mg cp enr gastroresis</nomProduit>
+<codeProduit>c39787</codeProduit>
+<prixProduit>1377.0</prixProduit>
+<quantiteActuel>2025</quantiteActuel>
+<quantiteAlarme>299</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Kirkland</auteurCreation>
+<auteurModification>Noah
+</auteurModification>
+</row>
+<row idProduit="10018">
+<idAlarme>1649</idAlarme>
+<nomProduit>VALPROATE DE SODIUM WINTHROP 500mg cp gastroresis</nomProduit>
+<codeProduit>ed32d4</codeProduit>
+<prixProduit>664.0</prixProduit>
+<quantiteActuel>2186</quantiteActuel>
+<quantiteAlarme>487</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Kennedy</auteurCreation>
+<auteurModification>Nadine
+</auteurModification>
+</row>
+<row idProduit="10019">
+<idAlarme>218</idAlarme>
+<nomProduit>VALPROATE DE SODIUM WINTHROP L.P. 500 mg cp pellic sec LP</nomProduit>
+<codeProduit>9b8724</codeProduit>
+<prixProduit>720.0</prixProduit>
+<quantiteActuel>2485</quantiteActuel>
+<quantiteAlarme>367</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-06-21</dateModification>
+<auteurCreation>Gill</auteurCreation>
+<auteurModification>Keegan
+</auteurModification>
+</row>
+<row idProduit="10020">
+<idAlarme>8322</idAlarme>
+<nomProduit>VAMINE GLUCOSE sol p perf</nomProduit>
+<codeProduit>ac60b1</codeProduit>
+<prixProduit>1072.0</prixProduit>
+<quantiteActuel>2891</quantiteActuel>
+<quantiteAlarme>382</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-10-06</dateModification>
+<auteurCreation>Park</auteurCreation>
+<auteurModification>Marsden
+</auteurModification>
+</row>
+<row idProduit="10021">
+<idAlarme>707</idAlarme>
+<nomProduit>VAMINOLACT sol p perf IV</nomProduit>
+<codeProduit>15cadf</codeProduit>
+<prixProduit>270.0</prixProduit>
+<quantiteActuel>1719</quantiteActuel>
+<quantiteAlarme>219</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-07-16</dateModification>
+<auteurCreation>Jarvis</auteurCreation>
+<auteurModification>Eleanor
+</auteurModification>
+</row>
+<row idProduit="10022">
+<idAlarme>9174</idAlarme>
+<nomProduit>VANCOMYCINE MYLAN 1 g pdre p sol p perf IV</nomProduit>
+<codeProduit>281179</codeProduit>
+<prixProduit>796.0</prixProduit>
+<quantiteActuel>1799</quantiteActuel>
+<quantiteAlarme>447</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-07-10</dateModification>
+<auteurCreation>Ramsey</auteurCreation>
+<auteurModification>Holmes
+</auteurModification>
+</row>
+<row idProduit="10023">
+<idAlarme>2902</idAlarme>
+<nomProduit>VANCOMYCINE MYLAN 125 mg pdre p sol p perf</nomProduit>
+<codeProduit>b74795</codeProduit>
+<prixProduit>1113.0</prixProduit>
+<quantiteActuel>1871</quantiteActuel>
+<quantiteAlarme>170</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-08-19</dateModification>
+<auteurCreation>Parks</auteurCreation>
+<auteurModification>Indira
+</auteurModification>
+</row>
+<row idProduit="10024">
+<idAlarme>8619</idAlarme>
+<nomProduit>VANCOMYCINE MYLAN 250 mg pdre p sol p perf</nomProduit>
+<codeProduit>bc21c4</codeProduit>
+<prixProduit>216.0</prixProduit>
+<quantiteActuel>1850</quantiteActuel>
+<quantiteAlarme>210</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-07-09</dateModification>
+<auteurCreation>Grant</auteurCreation>
+<auteurModification>Slade
+</auteurModification>
+</row>
+<row idProduit="10025">
+<idAlarme>2144</idAlarme>
+<nomProduit>VANCOMYCINE MYLAN 500 mg pdre p sol p perf</nomProduit>
+<codeProduit>11f849</codeProduit>
+<prixProduit>1370.0</prixProduit>
+<quantiteActuel>2048</quantiteActuel>
+<quantiteAlarme>449</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-08-14</dateModification>
+<auteurCreation>Santana</auteurCreation>
+<auteurModification>Sierra
+</auteurModification>
+</row>
+<row idProduit="10026">
+<idAlarme>5461</idAlarme>
+<nomProduit>VANCOMYCINE SANDOZ 125mg pdre p sol p perf</nomProduit>
+<codeProduit>689433</codeProduit>
+<prixProduit>657.0</prixProduit>
+<quantiteActuel>2770</quantiteActuel>
+<quantiteAlarme>232</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-08-20</dateModification>
+<auteurCreation>Ramos</auteurCreation>
+<auteurModification>Tamara
+</auteurModification>
+</row>
+<row idProduit="10027">
+<idAlarme>5319</idAlarme>
+<nomProduit>VANCOMYCINE SANDOZ 1g pdre p sol p perf</nomProduit>
+<codeProduit>4daeef</codeProduit>
+<prixProduit>213.0</prixProduit>
+<quantiteActuel>1738</quantiteActuel>
+<quantiteAlarme>159</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-11</dateCreation>
+<dateModification>2010-09-12</dateModification>
+<auteurCreation>Mccarthy</auteurCreation>
+<auteurModification>Lunea
+</auteurModification>
+</row>
+<row idProduit="10028">
+<idAlarme>814</idAlarme>
+<nomProduit>VANCOMYCINE SANDOZ 250mg pdre p sol p perf</nomProduit>
+<codeProduit>bcc681</codeProduit>
+<prixProduit>1471.0</prixProduit>
+<quantiteActuel>2964</quantiteActuel>
+<quantiteAlarme>329</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-07-13</dateModification>
+<auteurCreation>Reyes</auteurCreation>
+<auteurModification>Evangeline
+</auteurModification>
+</row>
+<row idProduit="10029">
+<idAlarme>7107</idAlarme>
+<nomProduit>VANCOMYCINE SANDOZ 500mg pdre p sol p perf</nomProduit>
+<codeProduit>5e345a</codeProduit>
+<prixProduit>798.0</prixProduit>
+<quantiteActuel>1851</quantiteActuel>
+<quantiteAlarme>361</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-08-19</dateModification>
+<auteurCreation>Greene</auteurCreation>
+<auteurModification>Malachi
+</auteurModification>
+</row>
+<row idProduit="10030">
+<idAlarme>6017</idAlarme>
+<nomProduit>VANILONE INFANTILE gle</nomProduit>
+<codeProduit>3f1cc2</codeProduit>
+<prixProduit>460.0</prixProduit>
+<quantiteActuel>2199</quantiteActuel>
+<quantiteAlarme>150</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-07-31</dateModification>
+<auteurCreation>Zamora</auteurCreation>
+<auteurModification>Jessamine
+</auteurModification>
+</row>
+<row idProduit="10031">
+<idAlarme>8457</idAlarme>
+<nomProduit>VANIQA 11,5 % creme</nomProduit>
+<codeProduit>3155af</codeProduit>
+<prixProduit>1391.0</prixProduit>
+<quantiteActuel>2807</quantiteActuel>
+<quantiteAlarme>310</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-07-16</dateModification>
+<auteurCreation>Dominguez</auteurCreation>
+<auteurModification>Cally
+</auteurModification>
+</row>
+<row idProduit="10032">
+<idAlarme>8328</idAlarme>
+<nomProduit>VARILRIX pdre/solv p sol inj</nomProduit>
+<codeProduit>1f3b70</codeProduit>
+<prixProduit>571.0</prixProduit>
+<quantiteActuel>2337</quantiteActuel>
+<quantiteAlarme>459</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-08-09</dateModification>
+<auteurCreation>Briggs</auteurCreation>
+<auteurModification>Norman
+</auteurModification>
+</row>
+<row idProduit="10033">
+<idAlarme>3389</idAlarme>
+<nomProduit>VARIVAX pdre/solv p susp inj</nomProduit>
+<codeProduit>2d5684</codeProduit>
+<prixProduit>158.0</prixProduit>
+<quantiteActuel>1673</quantiteActuel>
+<quantiteAlarme>148</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Wagner</auteurCreation>
+<auteurModification>Russell
+</auteurModification>
+</row>
+<row idProduit="10034">
+<idAlarme>10510</idAlarme>
+<nomProduit>VARNOLINE CONTINU cp pellic</nomProduit>
+<codeProduit>167c53</codeProduit>
+<prixProduit>300.0</prixProduit>
+<quantiteActuel>2938</quantiteActuel>
+<quantiteAlarme>488</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-09-29</dateModification>
+<auteurCreation>Cline</auteurCreation>
+<auteurModification>Rana
+</auteurModification>
+</row>
+<row idProduit="10035">
+<idAlarme>8027</idAlarme>
+<nomProduit>VARNOLINE cp</nomProduit>
+<codeProduit>5a2104</codeProduit>
+<prixProduit>1084.0</prixProduit>
+<quantiteActuel>1639</quantiteActuel>
+<quantiteAlarme>462</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Whitfield</auteurCreation>
+<auteurModification>Byron
+</auteurModification>
+</row>
+<row idProduit="10036">
+<idAlarme>7079</idAlarme>
+<nomProduit>VASCOCITROL sol buv</nomProduit>
+<codeProduit>760936</codeProduit>
+<prixProduit>848.0</prixProduit>
+<quantiteActuel>1826</quantiteActuel>
+<quantiteAlarme>132</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Martinez</auteurCreation>
+<auteurModification>Darius
+</auteurModification>
+</row>
+<row idProduit="10037">
+<idAlarme>5176</idAlarme>
+<nomProduit>VASCODRAN gle</nomProduit>
+<codeProduit>29fa7d</codeProduit>
+<prixProduit>1457.0</prixProduit>
+<quantiteActuel>2094</quantiteActuel>
+<quantiteAlarme>331</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-07-17</dateModification>
+<auteurCreation>Pace</auteurCreation>
+<auteurModification>Tobias
+</auteurModification>
+</row>
+<row idProduit="10038">
+<idAlarme>2777</idAlarme>
+<nomProduit>VASCOFLOR gle</nomProduit>
+<codeProduit>3dde62</codeProduit>
+<prixProduit>523.0</prixProduit>
+<quantiteActuel>1764</quantiteActuel>
+<quantiteAlarme>112</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-07-20</dateModification>
+<auteurCreation>Nieves</auteurCreation>
+<auteurModification>Melissa
+</auteurModification>
+</row>
+<row idProduit="10039">
+<idAlarme>5021</idAlarme>
+<nomProduit>VASCULOCIS trousse p prep radiopharma</nomProduit>
+<codeProduit>f86d6a</codeProduit>
+<prixProduit>558.0</prixProduit>
+<quantiteActuel>1613</quantiteActuel>
+<quantiteAlarme>303</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-08-29</dateModification>
+<auteurCreation>Cotton</auteurCreation>
+<auteurModification>Dillon
+</auteurModification>
+</row>
+<row idProduit="10040">
+<idAlarme>9934</idAlarme>
+<nomProduit>VASELINE AU CALENDULA BOIRON 4 % pom</nomProduit>
+<codeProduit>52477f</codeProduit>
+<prixProduit>896.0</prixProduit>
+<quantiteActuel>1923</quantiteActuel>
+<quantiteAlarme>187</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-07-10</dateModification>
+<auteurCreation>Guzman</auteurCreation>
+<auteurModification>Erica
+</auteurModification>
+</row>
+<row idProduit="10041">
+<idAlarme>262</idAlarme>
+<nomProduit>VASELINE GOMENOLEE 5 % pom</nomProduit>
+<codeProduit>695b5c</codeProduit>
+<prixProduit>415.0</prixProduit>
+<quantiteActuel>2438</quantiteActuel>
+<quantiteAlarme>491</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-26</dateCreation>
+<dateModification>2010-06-23</dateModification>
+<auteurCreation>Frank</auteurCreation>
+<auteurModification>Vladimir
+</auteurModification>
+</row>
+<row idProduit="10042">
+<idAlarme>3600</idAlarme>
+<nomProduit>VASELINE OFFICINALE COOPER pom</nomProduit>
+<codeProduit>224165</codeProduit>
+<prixProduit>1321.0</prixProduit>
+<quantiteActuel>2884</quantiteActuel>
+<quantiteAlarme>469</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-11</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Fields</auteurCreation>
+<auteurModification>Irene
+</auteurModification>
+</row>
+<row idProduit="10043">
+<idAlarme>5705</idAlarme>
+<nomProduit>VASELINE PURE CODEX pom</nomProduit>
+<codeProduit>e2d303</codeProduit>
+<prixProduit>794.0</prixProduit>
+<quantiteActuel>2802</quantiteActuel>
+<quantiteAlarme>320</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-08-14</dateModification>
+<auteurCreation>Strickland</auteurCreation>
+<auteurModification>Jordan
+</auteurModification>
+</row>
+<row idProduit="10044">
+<idAlarme>3365</idAlarme>
+<nomProduit>VASELINE STERILISEE COOPER pom</nomProduit>
+<codeProduit>a464af</codeProduit>
+<prixProduit>447.0</prixProduit>
+<quantiteActuel>1699</quantiteActuel>
+<quantiteAlarme>433</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-07-27</dateModification>
+<auteurCreation>Wilder</auteurCreation>
+<auteurModification>Cassady
+</auteurModification>
+</row>
+<row idProduit="10045">
+<idAlarme>2833</idAlarme>
+<nomProduit>VASOBRAL cp sec</nomProduit>
+<codeProduit>959a5f</codeProduit>
+<prixProduit>742.0</prixProduit>
+<quantiteActuel>1787</quantiteActuel>
+<quantiteAlarme>226</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Edwards</auteurCreation>
+<auteurModification>Hall
+</auteurModification>
+</row>
+<row idProduit="10046">
+<idAlarme>7372</idAlarme>
+<nomProduit>VASOBRAL sol buv</nomProduit>
+<codeProduit>b4c39a</codeProduit>
+<prixProduit>416.0</prixProduit>
+<quantiteActuel>1568</quantiteActuel>
+<quantiteAlarme>254</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-06-26</dateModification>
+<auteurCreation>Alford</auteurCreation>
+<auteurModification>Emmanuel
+</auteurModification>
+</row>
+<row idProduit="10047">
+<idAlarme>513</idAlarme>
+<nomProduit>VASTAREL 20 mg cp pellic</nomProduit>
+<codeProduit>4c28d4</codeProduit>
+<prixProduit>1061.0</prixProduit>
+<quantiteActuel>2198</quantiteActuel>
+<quantiteAlarme>451</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Salas</auteurCreation>
+<auteurModification>Steven
+</auteurModification>
+</row>
+<row idProduit="10048">
+<idAlarme>240</idAlarme>
+<nomProduit>VASTAREL 20 mg/ml sol buv</nomProduit>
+<codeProduit>c6b94e</codeProduit>
+<prixProduit>619.0</prixProduit>
+<quantiteActuel>1559</quantiteActuel>
+<quantiteAlarme>275</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-18</dateCreation>
+<dateModification>2010-09-04</dateModification>
+<auteurCreation>Leach</auteurCreation>
+<auteurModification>Micah
+</auteurModification>
+</row>
+<row idProduit="10049">
+<idAlarme>683</idAlarme>
+<nomProduit>VASTAREL 35 mg cp pellic LM</nomProduit>
+<codeProduit>8a5eec</codeProduit>
+<prixProduit>362.0</prixProduit>
+<quantiteActuel>2222</quantiteActuel>
+<quantiteAlarme>496</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-09-04</dateModification>
+<auteurCreation>Tyson</auteurCreation>
+<auteurModification>Octavius
+</auteurModification>
+</row>
+<row idProduit="10050">
+<idAlarme>3206</idAlarme>
+<nomProduit>VASTEN 10mg cp sec</nomProduit>
+<codeProduit>fbfb1c</codeProduit>
+<prixProduit>746.0</prixProduit>
+<quantiteActuel>1729</quantiteActuel>
+<quantiteAlarme>160</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Mcdowell</auteurCreation>
+<auteurModification>Medge
+</auteurModification>
+</row>
+<row idProduit="10051">
+<idAlarme>6270</idAlarme>
+<nomProduit>VASTEN 20mg cp sec</nomProduit>
+<codeProduit>f65abf</codeProduit>
+<prixProduit>1469.0</prixProduit>
+<quantiteActuel>2188</quantiteActuel>
+<quantiteAlarme>311</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-07-23</dateModification>
+<auteurCreation>Lindsay</auteurCreation>
+<auteurModification>Brenda
+</auteurModification>
+</row>
+<row idProduit="10052">
+<idAlarme>8146</idAlarme>
+<nomProduit>VASTEN 40mg cp</nomProduit>
+<codeProduit>20fd58</codeProduit>
+<prixProduit>1491.0</prixProduit>
+<quantiteActuel>1822</quantiteActuel>
+<quantiteAlarme>176</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-09-01</dateModification>
+<auteurCreation>Torres</auteurCreation>
+<auteurModification>TaShya
+</auteurModification>
+</row>
+<row idProduit="10053">
+<idAlarme>7996</idAlarme>
+<nomProduit>VAXIGRIP susp inj SC IM en ser</nomProduit>
+<codeProduit>39144a</codeProduit>
+<prixProduit>875.0</prixProduit>
+<quantiteActuel>2511</quantiteActuel>
+<quantiteAlarme>275</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-07-03</dateModification>
+<auteurCreation>Leonard</auteurCreation>
+<auteurModification>Stone
+</auteurModification>
+</row>
+<row idProduit="10054">
+<idAlarme>6607</idAlarme>
+<nomProduit>VECTARION 50 mg cp enr sec</nomProduit>
+<codeProduit>388174</codeProduit>
+<prixProduit>985.0</prixProduit>
+<quantiteActuel>1842</quantiteActuel>
+<quantiteAlarme>395</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-07-05</dateModification>
+<auteurCreation>Gaines</auteurCreation>
+<auteurModification>Indira
+</auteurModification>
+</row>
+<row idProduit="10055">
+<idAlarme>2851</idAlarme>
+<nomProduit>VECTARION pdre/solv p sol p perf</nomProduit>
+<codeProduit>8a4699</codeProduit>
+<prixProduit>184.0</prixProduit>
+<quantiteActuel>2304</quantiteActuel>
+<quantiteAlarme>443</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Simmons</auteurCreation>
+<auteurModification>Jelani
+</auteurModification>
+</row>
+<row idProduit="10056">
+<idAlarme>8279</idAlarme>
+<nomProduit>VECTIBIX 20mg/ml sol diluer p perf</nomProduit>
+<codeProduit>f33263</codeProduit>
+<prixProduit>778.0</prixProduit>
+<quantiteActuel>1993</quantiteActuel>
+<quantiteAlarme>228</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-10-05</dateModification>
+<auteurCreation>Christian</auteurCreation>
+<auteurModification>Ariel
+</auteurModification>
+</row>
+<row idProduit="10057">
+<idAlarme>2010</idAlarme>
+<nomProduit>VECTRINE 300 mg gel</nomProduit>
+<codeProduit>16cffa</codeProduit>
+<prixProduit>744.0</prixProduit>
+<quantiteActuel>2059</quantiteActuel>
+<quantiteAlarme>107</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-10-01</dateModification>
+<auteurCreation>Terrell</auteurCreation>
+<auteurModification>Addison
+</auteurModification>
+</row>
+<row idProduit="10058">
+<idAlarme>6688</idAlarme>
+<nomProduit>VECTRINE 300 mg pdre p susp buv</nomProduit>
+<codeProduit>e07d2f</codeProduit>
+<prixProduit>1493.0</prixProduit>
+<quantiteActuel>2174</quantiteActuel>
+<quantiteAlarme>325</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-11</dateCreation>
+<dateModification>2010-06-23</dateModification>
+<auteurCreation>Glover</auteurCreation>
+<auteurModification>Faith
+</auteurModification>
+</row>
+<row idProduit="10059">
+<idAlarme>7082</idAlarme>
+<nomProduit>VEDROP 50 mg/ml sol buv</nomProduit>
+<codeProduit>677ffc</codeProduit>
+<prixProduit>553.0</prixProduit>
+<quantiteActuel>2953</quantiteActuel>
+<quantiteAlarme>251</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-08-29</dateModification>
+<auteurCreation>Marquez</auteurCreation>
+<auteurModification>Hannah
+</auteurModification>
+</row>
+<row idProduit="10060">
+<idAlarme>8226</idAlarme>
+<nomProduit>VEGETOSERUM sirop ad</nomProduit>
+<codeProduit>78578e</codeProduit>
+<prixProduit>1156.0</prixProduit>
+<quantiteActuel>1660</quantiteActuel>
+<quantiteAlarme>191</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-08-18</dateModification>
+<auteurCreation>Castaneda</auteurCreation>
+<auteurModification>Kuame
+</auteurModification>
+</row>
+<row idProduit="10061">
+<idAlarme>7467</idAlarme>
+<nomProduit>VEINAMITOL 3 500 mg pdre p sol buv</nomProduit>
+<codeProduit>5f4e82</codeProduit>
+<prixProduit>1028.0</prixProduit>
+<quantiteActuel>2919</quantiteActuel>
+<quantiteAlarme>293</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-08-17</dateModification>
+<auteurCreation>Castaneda</auteurCreation>
+<auteurModification>Troy
+</auteurModification>
+</row>
+<row idProduit="10062">
+<idAlarme>8398</idAlarme>
+<nomProduit>VEINAMITOL 3500 mg sol buv</nomProduit>
+<codeProduit>9a13a1</codeProduit>
+<prixProduit>901.0</prixProduit>
+<quantiteActuel>2389</quantiteActuel>
+<quantiteAlarme>481</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-09-24</dateModification>
+<auteurCreation>Christian</auteurCreation>
+<auteurModification>Hadassah
+</auteurModification>
+</row>
+<row idProduit="10063">
+<idAlarme>9395</idAlarme>
+<nomProduit>VEINAMITOL 3500mg/7ml sol buv a diluer</nomProduit>
+<codeProduit>6141ed</codeProduit>
+<prixProduit>1179.0</prixProduit>
+<quantiteActuel>2028</quantiteActuel>
+<quantiteAlarme>107</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-07-15</dateModification>
+<auteurCreation>Washington</auteurCreation>
+<auteurModification>Tana
+</auteurModification>
+</row>
+<row idProduit="10064">
+<idAlarme>10297</idAlarme>
+<nomProduit>VEINOBIASE cp efferv</nomProduit>
+<codeProduit>2a39f9</codeProduit>
+<prixProduit>201.0</prixProduit>
+<quantiteActuel>1656</quantiteActuel>
+<quantiteAlarme>313</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Sheppard</auteurCreation>
+<auteurModification>Jerome
+</auteurModification>
+</row>
+<row idProduit="10065">
+<idAlarme>1605</idAlarme>
+<nomProduit>VEINOSTASE sol buv</nomProduit>
+<codeProduit>9bfd10</codeProduit>
+<prixProduit>855.0</prixProduit>
+<quantiteActuel>2043</quantiteActuel>
+<quantiteAlarme>140</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-09-01</dateModification>
+<auteurCreation>Reed</auteurCreation>
+<auteurModification>Hedy
+</auteurModification>
+</row>
+<row idProduit="10066">
+<idAlarme>850</idAlarme>
+<nomProduit>VEINOTONYL 75 mg gel</nomProduit>
+<codeProduit>a091f2</codeProduit>
+<prixProduit>1385.0</prixProduit>
+<quantiteActuel>2703</quantiteActuel>
+<quantiteAlarme>439</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Larsen</auteurCreation>
+<auteurModification>Aristotle
+</auteurModification>
+</row>
+<row idProduit="10067">
+<idAlarme>5502</idAlarme>
+<nomProduit>VELBE 10 mg pdre p sol inj IV</nomProduit>
+<codeProduit>305437</codeProduit>
+<prixProduit>1177.0</prixProduit>
+<quantiteActuel>1775</quantiteActuel>
+<quantiteAlarme>296</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-09-01</dateModification>
+<auteurCreation>Dillard</auteurCreation>
+<auteurModification>Meredith
+</auteurModification>
+</row>
+<row idProduit="10068">
+<idAlarme>966</idAlarme>
+<nomProduit>VELCADE 1 mg pdre p sol inj</nomProduit>
+<codeProduit>7186d6</codeProduit>
+<prixProduit>216.0</prixProduit>
+<quantiteActuel>2918</quantiteActuel>
+<quantiteAlarme>445</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-07-30</dateModification>
+<auteurCreation>Gonzalez</auteurCreation>
+<auteurModification>Rhonda
+</auteurModification>
+</row>
+<row idProduit="10069">
+<idAlarme>9166</idAlarme>
+<nomProduit>VELCADE 3,5mg pdre p sol inj</nomProduit>
+<codeProduit>e37c93</codeProduit>
+<prixProduit>654.0</prixProduit>
+<quantiteActuel>2109</quantiteActuel>
+<quantiteAlarme>175</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-08-24</dateModification>
+<auteurCreation>Mercado</auteurCreation>
+<auteurModification>Isaac
+</auteurModification>
+</row>
+<row idProduit="10070">
+<idAlarme>10107</idAlarme>
+<nomProduit>VELITEN cp pellic</nomProduit>
+<codeProduit>6f4902</codeProduit>
+<prixProduit>1478.0</prixProduit>
+<quantiteActuel>2167</quantiteActuel>
+<quantiteAlarme>226</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-08-14</dateModification>
+<auteurCreation>Stark</auteurCreation>
+<auteurModification>Noelani
+</auteurModification>
+</row>
+<row idProduit="10071">
+<idAlarme>6949</idAlarme>
+<nomProduit>VELMETIA 50 mg/1000 mg cp pellic</nomProduit>
+<codeProduit>3c4fb2</codeProduit>
+<prixProduit>431.0</prixProduit>
+<quantiteActuel>1511</quantiteActuel>
+<quantiteAlarme>155</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-08-23</dateModification>
+<auteurCreation>Golden</auteurCreation>
+<auteurModification>Brynne
+</auteurModification>
+</row>
+<row idProduit="10072">
+<idAlarme>3655</idAlarme>
+<nomProduit>VENIRENE 300mg cp pellic</nomProduit>
+<codeProduit>8c373c</codeProduit>
+<prixProduit>483.0</prixProduit>
+<quantiteActuel>2610</quantiteActuel>
+<quantiteAlarme>383</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-09-13</dateModification>
+<auteurCreation>Cabrera</auteurCreation>
+<auteurModification>Leo
+</auteurModification>
+</row>
+<row idProduit="10073">
+<idAlarme>7386</idAlarme>
+<nomProduit>VENIRENE 600mg cp pellic</nomProduit>
+<codeProduit>1e0c59</codeProduit>
+<prixProduit>811.0</prixProduit>
+<quantiteActuel>1942</quantiteActuel>
+<quantiteAlarme>371</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-11</dateCreation>
+<dateModification>2010-06-21</dateModification>
+<auteurCreation>Bentley</auteurCreation>
+<auteurModification>Nehru
+</auteurModification>
+</row>
+<row idProduit="10074">
+<idAlarme>4167</idAlarme>
+<nomProduit>VENLAFAXINE ACTAVIS 50 mg cp pellic</nomProduit>
+<codeProduit>332f59</codeProduit>
+<prixProduit>795.0</prixProduit>
+<quantiteActuel>2875</quantiteActuel>
+<quantiteAlarme>447</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-08-28</dateModification>
+<auteurCreation>Armstrong</auteurCreation>
+<auteurModification>Natalie
+</auteurModification>
+</row>
+<row idProduit="10075">
+<idAlarme>9448</idAlarme>
+<nomProduit>VENLAFAXINE ACTAVIS LP 37,5 mg gel LP</nomProduit>
+<codeProduit>2a374f</codeProduit>
+<prixProduit>193.0</prixProduit>
+<quantiteActuel>2547</quantiteActuel>
+<quantiteAlarme>441</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-06-22</dateModification>
+<auteurCreation>Guerrero</auteurCreation>
+<auteurModification>Josiah
+</auteurModification>
+</row>
+<row idProduit="10076">
+<idAlarme>4840</idAlarme>
+<nomProduit>VENLAFAXINE ACTAVIS LP 75 mg gel LP</nomProduit>
+<codeProduit>d5998f</codeProduit>
+<prixProduit>1014.0</prixProduit>
+<quantiteActuel>2539</quantiteActuel>
+<quantiteAlarme>329</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-09-12</dateModification>
+<auteurCreation>Barlow</auteurCreation>
+<auteurModification>Erich
+</auteurModification>
+</row>
+<row idProduit="10077">
+<idAlarme>10452</idAlarme>
+<nomProduit>VENLAFAXINE ALMUS LP 37,5 mg gel LP</nomProduit>
+<codeProduit>8a861d</codeProduit>
+<prixProduit>1390.0</prixProduit>
+<quantiteActuel>2791</quantiteActuel>
+<quantiteAlarme>336</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Contreras</auteurCreation>
+<auteurModification>Ivana
+</auteurModification>
+</row>
+<row idProduit="10078">
+<idAlarme>9094</idAlarme>
+<nomProduit>VENLAFAXINE ALMUS LP 75 mg gel LP</nomProduit>
+<codeProduit>704d54</codeProduit>
+<prixProduit>798.0</prixProduit>
+<quantiteActuel>2455</quantiteActuel>
+<quantiteAlarme>412</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-07-02</dateModification>
+<auteurCreation>Navarro</auteurCreation>
+<auteurModification>Finn
+</auteurModification>
+</row>
+<row idProduit="10079">
+<idAlarme>3431</idAlarme>
+<nomProduit>VENLAFAXINE ALTER LP 37,5 mg gel LP</nomProduit>
+<codeProduit>dc2057</codeProduit>
+<prixProduit>214.0</prixProduit>
+<quantiteActuel>1581</quantiteActuel>
+<quantiteAlarme>431</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Logan</auteurCreation>
+<auteurModification>Lucian
+</auteurModification>
+</row>
+<row idProduit="10080">
+<idAlarme>6828</idAlarme>
+<nomProduit>VENLAFAXINE ALTER LP 75 mg gel LP</nomProduit>
+<codeProduit>6cbbac</codeProduit>
+<prixProduit>1215.0</prixProduit>
+<quantiteActuel>1734</quantiteActuel>
+<quantiteAlarme>436</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-11</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Gallegos</auteurCreation>
+<auteurModification>Tanner
+</auteurModification>
+</row>
+<row idProduit="10081">
+<idAlarme>6157</idAlarme>
+<nomProduit>VENLAFAXINE ARROW 50 mg cp sec</nomProduit>
+<codeProduit>e9d633</codeProduit>
+<prixProduit>877.0</prixProduit>
+<quantiteActuel>2047</quantiteActuel>
+<quantiteAlarme>441</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-07-13</dateModification>
+<auteurCreation>Curry</auteurCreation>
+<auteurModification>Charity
+</auteurModification>
+</row>
+<row idProduit="10082">
+<idAlarme>3443</idAlarme>
+<nomProduit>VENLAFAXINE ARROW LP 37,5 mg gel LP</nomProduit>
+<codeProduit>665ad5</codeProduit>
+<prixProduit>152.0</prixProduit>
+<quantiteActuel>1624</quantiteActuel>
+<quantiteAlarme>109</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-08-07</dateModification>
+<auteurCreation>Savage</auteurCreation>
+<auteurModification>Evan
+</auteurModification>
+</row>
+<row idProduit="10083">
+<idAlarme>5723</idAlarme>
+<nomProduit>VENLAFAXINE ARROW LP 75 mg gel LP</nomProduit>
+<codeProduit>ea40a3</codeProduit>
+<prixProduit>195.0</prixProduit>
+<quantiteActuel>1640</quantiteActuel>
+<quantiteAlarme>286</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-09-03</dateModification>
+<auteurCreation>Sutton</auteurCreation>
+<auteurModification>Kyle
+</auteurModification>
+</row>
+<row idProduit="10084">
+<idAlarme>6651</idAlarme>
+<nomProduit>VENLAFAXINE BIOGARAN 50 mg cp</nomProduit>
+<codeProduit>95e794</codeProduit>
+<prixProduit>150.0</prixProduit>
+<quantiteActuel>2359</quantiteActuel>
+<quantiteAlarme>489</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-09-01</dateModification>
+<auteurCreation>Hughes</auteurCreation>
+<auteurModification>Caldwell
+</auteurModification>
+</row>
+<row idProduit="10085">
+<idAlarme>8687</idAlarme>
+<nomProduit>VENLAFAXINE BIOGARAN LP 37,5 mg gel LP</nomProduit>
+<codeProduit>c33e5e</codeProduit>
+<prixProduit>1247.0</prixProduit>
+<quantiteActuel>2330</quantiteActuel>
+<quantiteAlarme>484</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-07-23</dateModification>
+<auteurCreation>Benson</auteurCreation>
+<auteurModification>Tarik
+</auteurModification>
+</row>
+<row idProduit="10086">
+<idAlarme>2720</idAlarme>
+<nomProduit>VENLAFAXINE BIOGARAN LP 75 mg gel LP</nomProduit>
+<codeProduit>86cfcc</codeProduit>
+<prixProduit>752.0</prixProduit>
+<quantiteActuel>1668</quantiteActuel>
+<quantiteAlarme>392</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-08-21</dateModification>
+<auteurCreation>Leblanc</auteurCreation>
+<auteurModification>Octavia
+</auteurModification>
+</row>
+<row idProduit="10087">
+<idAlarme>6758</idAlarme>
+<nomProduit>VENLAFAXINE BOUCHARA RECORDATI L.P. 37,5 mg gel LP</nomProduit>
+<codeProduit>4093a4</codeProduit>
+<prixProduit>1327.0</prixProduit>
+<quantiteActuel>1816</quantiteActuel>
+<quantiteAlarme>461</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-07-06</dateModification>
+<auteurCreation>Cash</auteurCreation>
+<auteurModification>Kareem
+</auteurModification>
+</row>
+<row idProduit="10088">
+<idAlarme>6619</idAlarme>
+<nomProduit>VENLAFAXINE BOUCHARA RECORDATI L.P. 75 mg gel LP</nomProduit>
+<codeProduit>4a2f8b</codeProduit>
+<prixProduit>817.0</prixProduit>
+<quantiteActuel>2592</quantiteActuel>
+<quantiteAlarme>230</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-18</dateCreation>
+<dateModification>2010-07-24</dateModification>
+<auteurCreation>Fox</auteurCreation>
+<auteurModification>Justine
+</auteurModification>
+</row>
+<row idProduit="10089">
+<idAlarme>5835</idAlarme>
+<nomProduit>VENLAFAXINE CRISTERS LP 37,5 mg gel LP</nomProduit>
+<codeProduit>77b1ca</codeProduit>
+<prixProduit>331.0</prixProduit>
+<quantiteActuel>1938</quantiteActuel>
+<quantiteAlarme>436</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Fischer</auteurCreation>
+<auteurModification>Jennifer
+</auteurModification>
+</row>
+<row idProduit="10090">
+<idAlarme>6595</idAlarme>
+<nomProduit>VENLAFAXINE CRISTERS LP 75 mg gel LP</nomProduit>
+<codeProduit>74e366</codeProduit>
+<prixProduit>840.0</prixProduit>
+<quantiteActuel>2535</quantiteActuel>
+<quantiteAlarme>157</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Baxter</auteurCreation>
+<auteurModification>Brennan
+</auteurModification>
+</row>
+<row idProduit="10091">
+<idAlarme>2246</idAlarme>
+<nomProduit>VENLAFAXINE EG 50 mg cp sec</nomProduit>
+<codeProduit>a75cec</codeProduit>
+<prixProduit>1295.0</prixProduit>
+<quantiteActuel>2385</quantiteActuel>
+<quantiteAlarme>485</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-09-06</dateModification>
+<auteurCreation>Spencer</auteurCreation>
+<auteurModification>Yetta
+</auteurModification>
+</row>
+<row idProduit="10092">
+<idAlarme>3762</idAlarme>
+<nomProduit>VENLAFAXINE EG LABO 37,5 mg gel LP</nomProduit>
+<codeProduit>2e2aff</codeProduit>
+<prixProduit>712.0</prixProduit>
+<quantiteActuel>2287</quantiteActuel>
+<quantiteAlarme>149</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-07-23</dateModification>
+<auteurCreation>Tucker</auteurCreation>
+<auteurModification>Virginia
+</auteurModification>
+</row>
+<row idProduit="10093">
+<idAlarme>1230</idAlarme>
+<nomProduit>VENLAFAXINE EG LP 37,5 mg gel LP</nomProduit>
+<codeProduit>474d05</codeProduit>
+<prixProduit>1094.0</prixProduit>
+<quantiteActuel>2423</quantiteActuel>
+<quantiteAlarme>367</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-06-23</dateModification>
+<auteurCreation>Soto</auteurCreation>
+<auteurModification>Emily
+</auteurModification>
+</row>
+<row idProduit="10094">
+<idAlarme>9460</idAlarme>
+<nomProduit>VENLAFAXINE EG LP 75 mg gel LP</nomProduit>
+<codeProduit>7dbaa6</codeProduit>
+<prixProduit>201.0</prixProduit>
+<quantiteActuel>2565</quantiteActuel>
+<quantiteAlarme>237</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Witt</auteurCreation>
+<auteurModification>Cheryl
+</auteurModification>
+</row>
+<row idProduit="10095">
+<idAlarme>3735</idAlarme>
+<nomProduit>VENLAFAXINE ISOMED LP 37,5 mg gel LP</nomProduit>
+<codeProduit>e711e3</codeProduit>
+<prixProduit>1389.0</prixProduit>
+<quantiteActuel>2036</quantiteActuel>
+<quantiteAlarme>159</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-09-05</dateModification>
+<auteurCreation>Zamora</auteurCreation>
+<auteurModification>Jerry
+</auteurModification>
+</row>
+<row idProduit="10096">
+<idAlarme>390</idAlarme>
+<nomProduit>VENLAFAXINE ISOMED LP 75 mg gel LP</nomProduit>
+<codeProduit>843360</codeProduit>
+<prixProduit>1263.0</prixProduit>
+<quantiteActuel>1909</quantiteActuel>
+<quantiteAlarme>477</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-12</dateCreation>
+<dateModification>2010-09-30</dateModification>
+<auteurCreation>Downs</auteurCreation>
+<auteurModification>Eleanor
+</auteurModification>
+</row>
+<row idProduit="10097">
+<idAlarme>3781</idAlarme>
+<nomProduit>VENLAFAXINE MYLAN 50 mg cp pellic</nomProduit>
+<codeProduit>015ff3</codeProduit>
+<prixProduit>612.0</prixProduit>
+<quantiteActuel>1592</quantiteActuel>
+<quantiteAlarme>461</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Wright</auteurCreation>
+<auteurModification>Joel
+</auteurModification>
+</row>
+<row idProduit="10098">
+<idAlarme>428</idAlarme>
+<nomProduit>VENLAFAXINE MYLAN LP 37,5 mg gel LP</nomProduit>
+<codeProduit>c1c890</codeProduit>
+<prixProduit>977.0</prixProduit>
+<quantiteActuel>2852</quantiteActuel>
+<quantiteAlarme>247</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-09-20</dateModification>
+<auteurCreation>Floyd</auteurCreation>
+<auteurModification>Celeste
+</auteurModification>
+</row>
+<row idProduit="10099">
+<idAlarme>6935</idAlarme>
+<nomProduit>VENLAFAXINE MYLAN LP 75 mg gel LP</nomProduit>
+<codeProduit>9f0586</codeProduit>
+<prixProduit>157.0</prixProduit>
+<quantiteActuel>2014</quantiteActuel>
+<quantiteAlarme>370</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Moody</auteurCreation>
+<auteurModification>Elton
+</auteurModification>
+</row>
+<row idProduit="10100">
+<idAlarme>4089</idAlarme>
+<nomProduit>VENLAFAXINE QUALIMED 50 mg cp pellic</nomProduit>
+<codeProduit>946aeb</codeProduit>
+<prixProduit>526.0</prixProduit>
+<quantiteActuel>2495</quantiteActuel>
+<quantiteAlarme>260</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-06-21</dateModification>
+<auteurCreation>Graham</auteurCreation>
+<auteurModification>Christen
+</auteurModification>
+</row>
+<row idProduit="10101">
+<idAlarme>6558</idAlarme>
+<nomProduit>VENLAFAXINE QUALIMED LP 37,5 mg gel LP</nomProduit>
+<codeProduit>cb12ca</codeProduit>
+<prixProduit>284.0</prixProduit>
+<quantiteActuel>1985</quantiteActuel>
+<quantiteAlarme>440</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Sims</auteurCreation>
+<auteurModification>Todd
+</auteurModification>
+</row>
+<row idProduit="10102">
+<idAlarme>5561</idAlarme>
+<nomProduit>VENLAFAXINE QUALIMED LP 75 mg gel LP</nomProduit>
+<codeProduit>760147</codeProduit>
+<prixProduit>634.0</prixProduit>
+<quantiteActuel>1686</quantiteActuel>
+<quantiteAlarme>128</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-08-21</dateModification>
+<auteurCreation>Moon</auteurCreation>
+<auteurModification>Lynn
+</auteurModification>
+</row>
+<row idProduit="10103">
+<idAlarme>2279</idAlarme>
+<nomProduit>VENLAFAXINE RANBAXY 50 mg cp sec</nomProduit>
+<codeProduit>bb5064</codeProduit>
+<prixProduit>892.0</prixProduit>
+<quantiteActuel>1993</quantiteActuel>
+<quantiteAlarme>386</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-09-25</dateModification>
+<auteurCreation>Nash</auteurCreation>
+<auteurModification>Grace
+</auteurModification>
+</row>
+<row idProduit="10104">
+<idAlarme>6614</idAlarme>
+<nomProduit>VENLAFAXINE RANBAXY LP 75 mg gel LP</nomProduit>
+<codeProduit>aebe77</codeProduit>
+<prixProduit>593.0</prixProduit>
+<quantiteActuel>2086</quantiteActuel>
+<quantiteAlarme>213</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-07-02</dateModification>
+<auteurCreation>Chang</auteurCreation>
+<auteurModification>Yvonne
+</auteurModification>
+</row>
+<row idProduit="10105">
+<idAlarme>7912</idAlarme>
+<nomProduit>VENLAFAXINE RATIOPHARM 50 mg cp pellic</nomProduit>
+<codeProduit>ab8e9f</codeProduit>
+<prixProduit>1349.0</prixProduit>
+<quantiteActuel>1638</quantiteActuel>
+<quantiteAlarme>223</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-09-06</dateModification>
+<auteurCreation>Wilkins</auteurCreation>
+<auteurModification>Rinah
+</auteurModification>
+</row>
+<row idProduit="10106">
+<idAlarme>3415</idAlarme>
+<nomProduit>VENLAFAXINE RATIOPHARM LP 37,5 mg gel LP</nomProduit>
+<codeProduit>3abdab</codeProduit>
+<prixProduit>459.0</prixProduit>
+<quantiteActuel>2998</quantiteActuel>
+<quantiteAlarme>175</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-06-30</dateModification>
+<auteurCreation>Mccormick</auteurCreation>
+<auteurModification>Phoebe
+</auteurModification>
+</row>
+<row idProduit="10107">
+<idAlarme>6592</idAlarme>
+<nomProduit>VENLAFAXINE RATIOPHARM LP 75 mg gel LP</nomProduit>
+<codeProduit>1f05ef</codeProduit>
+<prixProduit>487.0</prixProduit>
+<quantiteActuel>2373</quantiteActuel>
+<quantiteAlarme>309</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-09-08</dateModification>
+<auteurCreation>Smith</auteurCreation>
+<auteurModification>Lucy
+</auteurModification>
+</row>
+<row idProduit="10108">
+<idAlarme>4994</idAlarme>
+<nomProduit>VENLAFAXINE SANDOZ LP 37,5 mg gel LP</nomProduit>
+<codeProduit>6e7a25</codeProduit>
+<prixProduit>257.0</prixProduit>
+<quantiteActuel>2801</quantiteActuel>
+<quantiteAlarme>276</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Hart</auteurCreation>
+<auteurModification>Inez
+</auteurModification>
+</row>
+<row idProduit="10109">
+<idAlarme>916</idAlarme>
+<nomProduit>VENLAFAXINE SANDOZ LP 75 mg gel LP</nomProduit>
+<codeProduit>18b72d</codeProduit>
+<prixProduit>889.0</prixProduit>
+<quantiteActuel>2388</quantiteActuel>
+<quantiteAlarme>157</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-07-30</dateModification>
+<auteurCreation>Britt</auteurCreation>
+<auteurModification>Claudia
+</auteurModification>
+</row>
+<row idProduit="10110">
+<idAlarme>9496</idAlarme>
+<nomProduit>VENLAFAXINE TEVA 37,5 mg gel LP</nomProduit>
+<codeProduit>6f9bb9</codeProduit>
+<prixProduit>794.0</prixProduit>
+<quantiteActuel>2484</quantiteActuel>
+<quantiteAlarme>150</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Villarreal</auteurCreation>
+<auteurModification>Howard
+</auteurModification>
+</row>
+<row idProduit="10111">
+<idAlarme>10307</idAlarme>
+<nomProduit>VENLAFAXINE TEVA 50 mg cp</nomProduit>
+<codeProduit>408c29</codeProduit>
+<prixProduit>921.0</prixProduit>
+<quantiteActuel>1781</quantiteActuel>
+<quantiteAlarme>306</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-08-20</dateModification>
+<auteurCreation>Lester</auteurCreation>
+<auteurModification>Regina
+</auteurModification>
+</row>
+<row idProduit="10112">
+<idAlarme>1539</idAlarme>
+<nomProduit>VENLAFAXINE TEVA 75 mg gel LP</nomProduit>
+<codeProduit>0fb5bf</codeProduit>
+<prixProduit>553.0</prixProduit>
+<quantiteActuel>2913</quantiteActuel>
+<quantiteAlarme>191</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>Stafford</auteurCreation>
+<auteurModification>Xanthus
+</auteurModification>
+</row>
+<row idProduit="10113">
+<idAlarme>5033</idAlarme>
+<nomProduit>VENLAFAXINE WINTHROP 50 mg cp</nomProduit>
+<codeProduit>d5ef6e</codeProduit>
+<prixProduit>986.0</prixProduit>
+<quantiteActuel>2819</quantiteActuel>
+<quantiteAlarme>270</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-07-10</dateModification>
+<auteurCreation>Gilbert</auteurCreation>
+<auteurModification>Destiny
+</auteurModification>
+</row>
+<row idProduit="10114">
+<idAlarme>2361</idAlarme>
+<nomProduit>VENLAFAXINE WINTHROP LP 37,5mg gel LP</nomProduit>
+<codeProduit>051618</codeProduit>
+<prixProduit>1114.0</prixProduit>
+<quantiteActuel>2633</quantiteActuel>
+<quantiteAlarme>153</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Odom</auteurCreation>
+<auteurModification>Dominic
+</auteurModification>
+</row>
+<row idProduit="10115">
+<idAlarme>9136</idAlarme>
+<nomProduit>VENLAFAXINE WINTHROP LP 75mg gel LP</nomProduit>
+<codeProduit>798a52</codeProduit>
+<prixProduit>1231.0</prixProduit>
+<quantiteActuel>1728</quantiteActuel>
+<quantiteAlarme>244</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>Woodward</auteurCreation>
+<auteurModification>Wade
+</auteurModification>
+</row>
+<row idProduit="10116">
+<idAlarme>3837</idAlarme>
+<nomProduit>VENLAFAXINE WYETH LP 37,5 mg gel LP</nomProduit>
+<codeProduit>11494b</codeProduit>
+<prixProduit>373.0</prixProduit>
+<quantiteActuel>2239</quantiteActuel>
+<quantiteAlarme>367</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-08-16</dateModification>
+<auteurCreation>Ruiz</auteurCreation>
+<auteurModification>Adrienne
+</auteurModification>
+</row>
+<row idProduit="10117">
+<idAlarme>2779</idAlarme>
+<nomProduit>VENLAFAXINE WYETH LP 75 mg gel LP</nomProduit>
+<codeProduit>3cb853</codeProduit>
+<prixProduit>772.0</prixProduit>
+<quantiteActuel>1699</quantiteActuel>
+<quantiteAlarme>153</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-07-14</dateModification>
+<auteurCreation>Rasmussen</auteurCreation>
+<auteurModification>Dillon
+</auteurModification>
+</row>
+<row idProduit="10118">
+<idAlarme>8071</idAlarme>
+<nomProduit>VENLAFAXINE ZYDUS 50 mg cp</nomProduit>
+<codeProduit>ee84bc</codeProduit>
+<prixProduit>771.0</prixProduit>
+<quantiteActuel>1826</quantiteActuel>
+<quantiteAlarme>275</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Lamb</auteurCreation>
+<auteurModification>Ella
+</auteurModification>
+</row>
+<row idProduit="10119">
+<idAlarme>4067</idAlarme>
+<nomProduit>VENLAFAXINE ZYDUS FRANCE LP 37,5 mg gel LP</nomProduit>
+<codeProduit>b839bf</codeProduit>
+<prixProduit>1175.0</prixProduit>
+<quantiteActuel>1593</quantiteActuel>
+<quantiteAlarme>440</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Cobb</auteurCreation>
+<auteurModification>Unity
+</auteurModification>
+</row>
+<row idProduit="10120">
+<idAlarme>3640</idAlarme>
+<nomProduit>VENLAFAXINE ZYDUS FRANCE LP 75 mg gel LP</nomProduit>
+<codeProduit>4a3379</codeProduit>
+<prixProduit>755.0</prixProduit>
+<quantiteActuel>2182</quantiteActuel>
+<quantiteAlarme>429</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-07-11</dateModification>
+<auteurCreation>Marsh</auteurCreation>
+<auteurModification>Regina
+</auteurModification>
+</row>
+<row idProduit="10121">
+<idAlarme>3061</idAlarme>
+<nomProduit>VENOFER 100mg/5ml sol inj IV</nomProduit>
+<codeProduit>5cb919</codeProduit>
+<prixProduit>1313.0</prixProduit>
+<quantiteActuel>1851</quantiteActuel>
+<quantiteAlarme>242</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-10-01</dateModification>
+<auteurCreation>Dalton</auteurCreation>
+<auteurModification>Perry
+</auteurModification>
+</row>
+<row idProduit="10122">
+<idAlarme>5183</idAlarme>
+<nomProduit>VENTAVIS 10ug/ml sol p inhal p nebulis</nomProduit>
+<codeProduit>f07e35</codeProduit>
+<prixProduit>573.0</prixProduit>
+<quantiteActuel>1573</quantiteActuel>
+<quantiteAlarme>196</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-07-11</dateModification>
+<auteurCreation>Phelps</auteurCreation>
+<auteurModification>Cameran
+</auteurModification>
+</row>
+<row idProduit="10123">
+<idAlarme>1370</idAlarme>
+<nomProduit>VENTILASTIN NOVOLIZER 100ug/dose pdre p inhal</nomProduit>
+<codeProduit>53bd15</codeProduit>
+<prixProduit>565.0</prixProduit>
+<quantiteActuel>2247</quantiteActuel>
+<quantiteAlarme>279</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-07-30</dateModification>
+<auteurCreation>Stanley</auteurCreation>
+<auteurModification>Leilani
+</auteurModification>
+</row>
+<row idProduit="10124">
+<idAlarme>8536</idAlarme>
+<nomProduit>VENTOLINE 0,5mg/1ml sol inj SC</nomProduit>
+<codeProduit>3c2f8e</codeProduit>
+<prixProduit>375.0</prixProduit>
+<quantiteActuel>2130</quantiteActuel>
+<quantiteAlarme>342</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-07-26</dateModification>
+<auteurCreation>Moody</auteurCreation>
+<auteurModification>Athena
+</auteurModification>
+</row>
+<row idProduit="10125">
+<idAlarme>9509</idAlarme>
+<nomProduit>VENTOLINE 1,25mg/2,5ml sol p inhal p nebulis</nomProduit>
+<codeProduit>3da5a2</codeProduit>
+<prixProduit>506.0</prixProduit>
+<quantiteActuel>1515</quantiteActuel>
+<quantiteAlarme>362</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-09-03</dateModification>
+<auteurCreation>Barrera</auteurCreation>
+<auteurModification>Kibo
+</auteurModification>
+</row>
+<row idProduit="10126">
+<idAlarme>9202</idAlarme>
+<nomProduit>VENTOLINE 100 ug susp p inhal</nomProduit>
+<codeProduit>902f12</codeProduit>
+<prixProduit>164.0</prixProduit>
+<quantiteActuel>2348</quantiteActuel>
+<quantiteAlarme>132</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-29</dateCreation>
+<dateModification>2010-09-29</dateModification>
+<auteurCreation>Ray</auteurCreation>
+<auteurModification>Ramona
+</auteurModification>
+</row>
+<row idProduit="10127">
+<idAlarme>2034</idAlarme>
+<nomProduit>VENTOLINE 2,5mg/2,5ml sol p inhal p nebulis</nomProduit>
+<codeProduit>a838b1</codeProduit>
+<prixProduit>339.0</prixProduit>
+<quantiteActuel>2346</quantiteActuel>
+<quantiteAlarme>162</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-07-14</dateModification>
+<auteurCreation>Mcdaniel</auteurCreation>
+<auteurModification>Akeem
+</auteurModification>
+</row>
+<row idProduit="10128">
+<idAlarme>10277</idAlarme>
+<nomProduit>VENTOLINE 5mg/2,5ml sol p inhal p nebulis</nomProduit>
+<codeProduit>ae49e9</codeProduit>
+<prixProduit>355.0</prixProduit>
+<quantiteActuel>2084</quantiteActuel>
+<quantiteAlarme>190</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-06-27</dateModification>
+<auteurCreation>Higgins</auteurCreation>
+<auteurModification>Colette
+</auteurModification>
+</row>
+<row idProduit="10129">
+<idAlarme>9915</idAlarme>
+<nomProduit>VEPESIDE 50mg caps</nomProduit>
+<codeProduit>e486c5</codeProduit>
+<prixProduit>978.0</prixProduit>
+<quantiteActuel>2852</quantiteActuel>
+<quantiteAlarme>473</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-09-25</dateModification>
+<auteurCreation>Paul</auteurCreation>
+<auteurModification>Stewart
+</auteurModification>
+</row>
+<row idProduit="10130">
+<idAlarme>9242</idAlarme>
+<nomProduit>VERAPAMIL BIOGARAN LP 240 mg gel LP</nomProduit>
+<codeProduit>871d67</codeProduit>
+<prixProduit>945.0</prixProduit>
+<quantiteActuel>1739</quantiteActuel>
+<quantiteAlarme>190</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Livingston</auteurCreation>
+<auteurModification>Teegan
+</auteurModification>
+</row>
+<row idProduit="10131">
+<idAlarme>1770</idAlarme>
+<nomProduit>VERAPAMIL EG LP 240 mg cp pellic sec LP</nomProduit>
+<codeProduit>9af80a</codeProduit>
+<prixProduit>591.0</prixProduit>
+<quantiteActuel>2880</quantiteActuel>
+<quantiteAlarme>149</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-07-02</dateModification>
+<auteurCreation>Berg</auteurCreation>
+<auteurModification>Jaime
+</auteurModification>
+</row>
+<row idProduit="10132">
+<idAlarme>5894</idAlarme>
+<nomProduit>VERAPAMIL MYLAN L.P. 120 mg cp enr LP</nomProduit>
+<codeProduit>7fc161</codeProduit>
+<prixProduit>554.0</prixProduit>
+<quantiteActuel>1965</quantiteActuel>
+<quantiteAlarme>477</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Scott</auteurCreation>
+<auteurModification>Talon
+</auteurModification>
+</row>
+<row idProduit="10133">
+<idAlarme>7908</idAlarme>
+<nomProduit>VERAPAMIL MYLAN L.P. 240 mg cp pellic sec LP</nomProduit>
+<codeProduit>b897c7</codeProduit>
+<prixProduit>981.0</prixProduit>
+<quantiteActuel>1930</quantiteActuel>
+<quantiteAlarme>141</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Macias</auteurCreation>
+<auteurModification>Elvis
+</auteurModification>
+</row>
+<row idProduit="10134">
+<idAlarme>10251</idAlarme>
+<nomProduit>VERAPAMIL RATIOPHARM 120 mg cp pellic</nomProduit>
+<codeProduit>043445</codeProduit>
+<prixProduit>1004.0</prixProduit>
+<quantiteActuel>1939</quantiteActuel>
+<quantiteAlarme>221</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Williams</auteurCreation>
+<auteurModification>Adam
+</auteurModification>
+</row>
+<row idProduit="10135">
+<idAlarme>1567</idAlarme>
+<nomProduit>VERAPAMIL RATIOPHARM 240mg cp pellic sec LP</nomProduit>
+<codeProduit>224480</codeProduit>
+<prixProduit>1278.0</prixProduit>
+<quantiteActuel>1539</quantiteActuel>
+<quantiteAlarme>491</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-07-28</dateModification>
+<auteurCreation>Woods</auteurCreation>
+<auteurModification>Carol
+</auteurModification>
+</row>
+<row idProduit="10136">
+<idAlarme>8253</idAlarme>
+<nomProduit>VERAPAMIL RATIOPHARM 40 mg cp pellic</nomProduit>
+<codeProduit>1e92db</codeProduit>
+<prixProduit>635.0</prixProduit>
+<quantiteActuel>2173</quantiteActuel>
+<quantiteAlarme>427</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Russell</auteurCreation>
+<auteurModification>Diana
+</auteurModification>
+</row>
+<row idProduit="10137">
+<idAlarme>1840</idAlarme>
+<nomProduit>VERAPAMIL SANDOZ 120mg cp pellic</nomProduit>
+<codeProduit>b32e28</codeProduit>
+<prixProduit>1063.0</prixProduit>
+<quantiteActuel>2169</quantiteActuel>
+<quantiteAlarme>135</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-09-01</dateModification>
+<auteurCreation>Avery</auteurCreation>
+<auteurModification>Noelle
+</auteurModification>
+</row>
+<row idProduit="10138">
+<idAlarme>1343</idAlarme>
+<nomProduit>VERAPAMIL SANDOZ LP 240 mg cp pellic sec LP</nomProduit>
+<codeProduit>a31db7</codeProduit>
+<prixProduit>1352.0</prixProduit>
+<quantiteActuel>1763</quantiteActuel>
+<quantiteAlarme>331</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Greer</auteurCreation>
+<auteurModification>Yvette
+</auteurModification>
+</row>
+<row idProduit="10139">
+<idAlarme>7695</idAlarme>
+<nomProduit>VERAPAMIL TEVA LP 120 mg gel LP</nomProduit>
+<codeProduit>1b4764</codeProduit>
+<prixProduit>248.0</prixProduit>
+<quantiteActuel>2869</quantiteActuel>
+<quantiteAlarme>312</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Morse</auteurCreation>
+<auteurModification>Dean
+</auteurModification>
+</row>
+<row idProduit="10140">
+<idAlarme>3829</idAlarme>
+<nomProduit>VERAPAMIL TEVA LP 240 mg gel LP</nomProduit>
+<codeProduit>4b2d7e</codeProduit>
+<prixProduit>1111.0</prixProduit>
+<quantiteActuel>2036</quantiteActuel>
+<quantiteAlarme>481</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-09-20</dateModification>
+<auteurCreation>Castaneda</auteurCreation>
+<auteurModification>Mark
+</auteurModification>
+</row>
+<row idProduit="10141">
+<idAlarme>5895</idAlarme>
+<nomProduit>VERASKIN gel p appl cut</nomProduit>
+<codeProduit>73915d</codeProduit>
+<prixProduit>356.0</prixProduit>
+<quantiteActuel>2783</quantiteActuel>
+<quantiteAlarme>428</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-07-06</dateModification>
+<auteurCreation>Copeland</auteurCreation>
+<auteurModification>Akeem
+</auteurModification>
+</row>
+<row idProduit="10142">
+<idAlarme>8579</idAlarme>
+<nomProduit>VERATRAN 10mg cp sec</nomProduit>
+<codeProduit>02c560</codeProduit>
+<prixProduit>727.0</prixProduit>
+<quantiteActuel>2804</quantiteActuel>
+<quantiteAlarme>448</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-08-10</dateModification>
+<auteurCreation>Myers</auteurCreation>
+<auteurModification>Karleigh
+</auteurModification>
+</row>
+<row idProduit="10143">
+<idAlarme>28</idAlarme>
+<nomProduit>VERATRAN 5mg cp</nomProduit>
+<codeProduit>866070</codeProduit>
+<prixProduit>500.0</prixProduit>
+<quantiteActuel>1950</quantiteActuel>
+<quantiteAlarme>440</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-10-02</dateModification>
+<auteurCreation>Forbes</auteurCreation>
+<auteurModification>Quinn
+</auteurModification>
+</row>
+<row idProduit="10144">
+<idAlarme>5488</idAlarme>
+<nomProduit>VERCYTE 25 mg cp</nomProduit>
+<codeProduit>2b05cb</codeProduit>
+<prixProduit>502.0</prixProduit>
+<quantiteActuel>2271</quantiteActuel>
+<quantiteAlarme>257</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-09-24</dateModification>
+<auteurCreation>Baker</auteurCreation>
+<auteurModification>Guinevere
+</auteurModification>
+</row>
+<row idProduit="10145">
+<idAlarme>7868</idAlarme>
+<nomProduit>VERMIFUGE SORIN 10 % sirop</nomProduit>
+<codeProduit>11bc9a</codeProduit>
+<prixProduit>892.0</prixProduit>
+<quantiteActuel>2378</quantiteActuel>
+<quantiteAlarme>405</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-09-29</dateModification>
+<auteurCreation>Richard</auteurCreation>
+<auteurModification>Peter
+</auteurModification>
+</row>
+<row idProduit="10146">
+<idAlarme>10516</idAlarme>
+<nomProduit>VERRUFILM sol p appl loc</nomProduit>
+<codeProduit>d70560</codeProduit>
+<prixProduit>1220.0</prixProduit>
+<quantiteActuel>2378</quantiteActuel>
+<quantiteAlarme>308</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-10-05</dateModification>
+<auteurCreation>Osborne</auteurCreation>
+<auteurModification>Uriel
+</auteurModification>
+</row>
+<row idProduit="10147">
+<idAlarme>5950</idAlarme>
+<nomProduit>VERRULIA cp a sucer</nomProduit>
+<codeProduit>3fff90</codeProduit>
+<prixProduit>1011.0</prixProduit>
+<quantiteActuel>2388</quantiteActuel>
+<quantiteAlarme>488</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-09-12</dateModification>
+<auteurCreation>Munoz</auteurCreation>
+<auteurModification>Brennan
+</auteurModification>
+</row>
+<row idProduit="10148">
+<idAlarme>10260</idAlarme>
+<nomProduit>VERRULYSE-METHIONINE cp enr</nomProduit>
+<codeProduit>90f44b</codeProduit>
+<prixProduit>1133.0</prixProduit>
+<quantiteActuel>2647</quantiteActuel>
+<quantiteAlarme>135</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-11</dateCreation>
+<dateModification>2010-07-02</dateModification>
+<auteurCreation>Monroe</auteurCreation>
+<auteurModification>Jeremy
+</auteurModification>
+</row>
+<row idProduit="10149">
+<idAlarme>831</idAlarme>
+<nomProduit>VERRUPAN sol p appl loc</nomProduit>
+<codeProduit>432c38</codeProduit>
+<prixProduit>856.0</prixProduit>
+<quantiteActuel>1958</quantiteActuel>
+<quantiteAlarme>229</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Hood</auteurCreation>
+<auteurModification>Logan
+</auteurModification>
+</row>
+<row idProduit="10150">
+<idAlarme>1545</idAlarme>
+<nomProduit>VERSATIS 5% emplatre medicamenteux</nomProduit>
+<codeProduit>b54992</codeProduit>
+<prixProduit>1071.0</prixProduit>
+<quantiteActuel>2568</quantiteActuel>
+<quantiteAlarme>383</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-06-27</dateModification>
+<auteurCreation>Rodriguez</auteurCreation>
+<auteurModification>Autumn
+</auteurModification>
+</row>
+<row idProduit="10151">
+<idAlarme>5335</idAlarme>
+<nomProduit>VERSED 2 mg/2 ml sol inj IV</nomProduit>
+<codeProduit>3ef251</codeProduit>
+<prixProduit>711.0</prixProduit>
+<quantiteActuel>2360</quantiteActuel>
+<quantiteAlarme>222</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Hickman</auteurCreation>
+<auteurModification>Mia
+</auteurModification>
+</row>
+<row idProduit="10152">
+<idAlarme>9898</idAlarme>
+<nomProduit>VESANOID 10mg caps</nomProduit>
+<codeProduit>053712</codeProduit>
+<prixProduit>1058.0</prixProduit>
+<quantiteActuel>2250</quantiteActuel>
+<quantiteAlarme>472</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-09-02</dateModification>
+<auteurCreation>Snow</auteurCreation>
+<auteurModification>Charity
+</auteurModification>
+</row>
+<row idProduit="10153">
+<idAlarme>4247</idAlarme>
+<nomProduit>VESICARE 10mg cp pellic</nomProduit>
+<codeProduit>6dcb9a</codeProduit>
+<prixProduit>239.0</prixProduit>
+<quantiteActuel>2741</quantiteActuel>
+<quantiteAlarme>175</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Carver</auteurCreation>
+<auteurModification>Nell
+</auteurModification>
+</row>
+<row idProduit="10154">
+<idAlarme>2451</idAlarme>
+<nomProduit>VESICARE 5mg cp pellic</nomProduit>
+<codeProduit>c2e0a1</codeProduit>
+<prixProduit>894.0</prixProduit>
+<quantiteActuel>1973</quantiteActuel>
+<quantiteAlarme>436</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-07-30</dateModification>
+<auteurCreation>Barron</auteurCreation>
+<auteurModification>Steven
+</auteurModification>
+</row>
+<row idProduit="10155">
+<idAlarme>4453</idAlarme>
+<nomProduit>VEXOL 1% collyre</nomProduit>
+<codeProduit>73462f</codeProduit>
+<prixProduit>1494.0</prixProduit>
+<quantiteActuel>1513</quantiteActuel>
+<quantiteAlarme>392</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-08-25</dateModification>
+<auteurCreation>Willis</auteurCreation>
+<auteurModification>Len
+</auteurModification>
+</row>
+<row idProduit="10156">
+<idAlarme>1432</idAlarme>
+<nomProduit>VFEND 200mg cp pellic</nomProduit>
+<codeProduit>2489bc</codeProduit>
+<prixProduit>1051.0</prixProduit>
+<quantiteActuel>1502</quantiteActuel>
+<quantiteAlarme>329</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-09-05</dateModification>
+<auteurCreation>Jennings</auteurCreation>
+<auteurModification>Edan
+</auteurModification>
+</row>
+<row idProduit="10157">
+<idAlarme>632</idAlarme>
+<nomProduit>VFEND 200mg pdre p sol p perf</nomProduit>
+<codeProduit>6cbaa2</codeProduit>
+<prixProduit>291.0</prixProduit>
+<quantiteActuel>2844</quantiteActuel>
+<quantiteAlarme>204</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-09-30</dateModification>
+<auteurCreation>Chapman</auteurCreation>
+<auteurModification>Kelly
+</auteurModification>
+</row>
+<row idProduit="10158">
+<idAlarme>7625</idAlarme>
+<nomProduit>VFEND 40mg/ml pdre p susp</nomProduit>
+<codeProduit>5e715c</codeProduit>
+<prixProduit>263.0</prixProduit>
+<quantiteActuel>1919</quantiteActuel>
+<quantiteAlarme>413</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-09-21</dateModification>
+<auteurCreation>Bates</auteurCreation>
+<auteurModification>Malcolm
+</auteurModification>
+</row>
+<row idProduit="10159">
+<idAlarme>4292</idAlarme>
+<nomProduit>VFEND 50mg cp pellic</nomProduit>
+<codeProduit>9a60bd</codeProduit>
+<prixProduit>514.0</prixProduit>
+<quantiteActuel>1735</quantiteActuel>
+<quantiteAlarme>468</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Ware</auteurCreation>
+<auteurModification>Yolanda
+</auteurModification>
+</row>
+<row idProduit="10160">
+<idAlarme>8287</idAlarme>
+<nomProduit>VIAGRA 100mg cp pellic</nomProduit>
+<codeProduit>458d14</codeProduit>
+<prixProduit>1224.0</prixProduit>
+<quantiteActuel>2897</quantiteActuel>
+<quantiteAlarme>119</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-09-21</dateModification>
+<auteurCreation>Pitts</auteurCreation>
+<auteurModification>Carl
+</auteurModification>
+</row>
+<row idProduit="10161">
+<idAlarme>9451</idAlarme>
+<nomProduit>VIAGRA 25mg cp pellic</nomProduit>
+<codeProduit>6a0a2d</codeProduit>
+<prixProduit>299.0</prixProduit>
+<quantiteActuel>2265</quantiteActuel>
+<quantiteAlarme>356</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-08-11</dateModification>
+<auteurCreation>Mathis</auteurCreation>
+<auteurModification>Jocelyn
+</auteurModification>
+</row>
+<row idProduit="10162">
+<idAlarme>6180</idAlarme>
+<nomProduit>VIAGRA 50mg cp pellic</nomProduit>
+<codeProduit>c10468</codeProduit>
+<prixProduit>362.0</prixProduit>
+<quantiteActuel>2485</quantiteActuel>
+<quantiteAlarme>294</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-06-17</dateModification>
+<auteurCreation>Lynn</auteurCreation>
+<auteurModification>Tamekah
+</auteurModification>
+</row>
+<row idProduit="10163">
+<idAlarme>563</idAlarme>
+<nomProduit>VIALEBEX 200mg/ml sol p perf</nomProduit>
+<codeProduit>f7a574</codeProduit>
+<prixProduit>225.0</prixProduit>
+<quantiteActuel>2327</quantiteActuel>
+<quantiteAlarme>465</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-08-14</dateModification>
+<auteurCreation>Richard</auteurCreation>
+<auteurModification>Ursa
+</auteurModification>
+</row>
+<row idProduit="10164">
+<idAlarme>6378</idAlarme>
+<nomProduit>VIALEBEX 200mg/ml sol p perf nouveau-ne et nourrisson</nomProduit>
+<codeProduit>bf02f3</codeProduit>
+<prixProduit>1365.0</prixProduit>
+<quantiteActuel>1565</quantiteActuel>
+<quantiteAlarme>218</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-09-02</dateModification>
+<auteurCreation>Schmidt</auteurCreation>
+<auteurModification>Knox
+</auteurModification>
+</row>
+<row idProduit="10165">
+<idAlarme>2661</idAlarme>
+<nomProduit>VIALEBEX 40mg/ml sol p perf</nomProduit>
+<codeProduit>b424b8</codeProduit>
+<prixProduit>933.0</prixProduit>
+<quantiteActuel>1899</quantiteActuel>
+<quantiteAlarme>234</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-07-05</dateModification>
+<auteurCreation>Walls</auteurCreation>
+<auteurModification>Nayda
+</auteurModification>
+</row>
+<row idProduit="10166">
+<idAlarme>3066</idAlarme>
+<nomProduit>VIALEBEX 50mg/ml sol p perf</nomProduit>
+<codeProduit>bb38a7</codeProduit>
+<prixProduit>984.0</prixProduit>
+<quantiteActuel>1813</quantiteActuel>
+<quantiteAlarme>444</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-18</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Baird</auteurCreation>
+<auteurModification>Colleen
+</auteurModification>
+</row>
+<row idProduit="10167">
+<idAlarme>4815</idAlarme>
+<nomProduit>VIBRAMYCINE N 100 mg cp sec</nomProduit>
+<codeProduit>2976c6</codeProduit>
+<prixProduit>153.0</prixProduit>
+<quantiteActuel>2865</quantiteActuel>
+<quantiteAlarme>146</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Soto</auteurCreation>
+<auteurModification>Lucas
+</auteurModification>
+</row>
+<row idProduit="10168">
+<idAlarme>8573</idAlarme>
+<nomProduit>VIBRAVEINEUSE sol inj p perf IV</nomProduit>
+<codeProduit>4ed0d4</codeProduit>
+<prixProduit>1413.0</prixProduit>
+<quantiteActuel>1689</quantiteActuel>
+<quantiteAlarme>491</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-07-31</dateModification>
+<auteurCreation>Bradley</auteurCreation>
+<auteurModification>Hedley
+</auteurModification>
+</row>
+<row idProduit="10169">
+<idAlarme>10283</idAlarme>
+<nomProduit>VIBTIL 250 mg cp enr</nomProduit>
+<codeProduit>4c95b0</codeProduit>
+<prixProduit>1407.0</prixProduit>
+<quantiteActuel>2319</quantiteActuel>
+<quantiteAlarme>179</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-07-06</dateModification>
+<auteurCreation>Workman</auteurCreation>
+<auteurModification>Harding
+</auteurModification>
+</row>
+<row idProduit="10170">
+<idAlarme>8508</idAlarme>
+<nomProduit>VICKS 0,15% sirop pectoral</nomProduit>
+<codeProduit>cda386</codeProduit>
+<prixProduit>1250.0</prixProduit>
+<quantiteActuel>2768</quantiteActuel>
+<quantiteAlarme>500</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-07-02</dateModification>
+<auteurCreation>Lee</auteurCreation>
+<auteurModification>Salvador
+</auteurModification>
+</row>
+<row idProduit="10171">
+<idAlarme>2200</idAlarme>
+<nomProduit>VICKS ADULTES TOUX SECHE MIEL 0,133% sirop</nomProduit>
+<codeProduit>8a8886</codeProduit>
+<prixProduit>1122.0</prixProduit>
+<quantiteActuel>2109</quantiteActuel>
+<quantiteAlarme>277</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Raymond</auteurCreation>
+<auteurModification>Lacey
+</auteurModification>
+</row>
+<row idProduit="10172">
+<idAlarme>1345</idAlarme>
+<nomProduit>VICKS EXPECTORANT GUAIFENESINE 1,33 % ADULTES MIEL sirop</nomProduit>
+<codeProduit>db8796</codeProduit>
+<prixProduit>1451.0</prixProduit>
+<quantiteActuel>2482</quantiteActuel>
+<quantiteAlarme>226</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-06-20</dateModification>
+<auteurCreation>Herman</auteurCreation>
+<auteurModification>Wynne
+</auteurModification>
+</row>
+<row idProduit="10173">
+<idAlarme>4277</idAlarme>
+<nomProduit>VICKS INHALER tampon impreg p inhal p fumig</nomProduit>
+<codeProduit>da8e13</codeProduit>
+<prixProduit>484.0</prixProduit>
+<quantiteActuel>2301</quantiteActuel>
+<quantiteAlarme>150</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-07-29</dateModification>
+<auteurCreation>Hansen</auteurCreation>
+<auteurModification>Kibo
+</auteurModification>
+</row>
+<row idProduit="10174">
+<idAlarme>6341</idAlarme>
+<nomProduit>VICKS VAPORUB pom</nomProduit>
+<codeProduit>43a251</codeProduit>
+<prixProduit>1157.0</prixProduit>
+<quantiteActuel>2990</quantiteActuel>
+<quantiteAlarme>106</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-10-01</dateModification>
+<auteurCreation>Conner</auteurCreation>
+<auteurModification>Phoebe
+</auteurModification>
+</row>
+<row idProduit="10175">
+<idAlarme>4266</idAlarme>
+<nomProduit>VICTAN 2mg cp pellic sec</nomProduit>
+<codeProduit>ce97b9</codeProduit>
+<prixProduit>1320.0</prixProduit>
+<quantiteActuel>2617</quantiteActuel>
+<quantiteAlarme>399</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-09-16</dateModification>
+<auteurCreation>Riddle</auteurCreation>
+<auteurModification>Sawyer
+</auteurModification>
+</row>
+<row idProduit="10176">
+<idAlarme>8117</idAlarme>
+<nomProduit>VICTOZA 6 mg/ml sol inj en stylo</nomProduit>
+<codeProduit>a8a4b1</codeProduit>
+<prixProduit>1225.0</prixProduit>
+<quantiteActuel>2695</quantiteActuel>
+<quantiteAlarme>406</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Fletcher</auteurCreation>
+<auteurModification>Kibo
+</auteurModification>
+</row>
+<row idProduit="10177">
+<idAlarme>4105</idAlarme>
+<nomProduit>VIDAZA 25 mg/ml pdre p susp inj</nomProduit>
+<codeProduit>55a9d2</codeProduit>
+<prixProduit>631.0</prixProduit>
+<quantiteActuel>1682</quantiteActuel>
+<quantiteAlarme>408</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-07-30</dateModification>
+<auteurCreation>Delacruz</auteurCreation>
+<auteurModification>Vernon
+</auteurModification>
+</row>
+<row idProduit="10178">
+<idAlarme>6794</idAlarme>
+<nomProduit>VIDEX 100mg cp a croquer/dispers</nomProduit>
+<codeProduit>23fc37</codeProduit>
+<prixProduit>809.0</prixProduit>
+<quantiteActuel>2551</quantiteActuel>
+<quantiteAlarme>144</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-09-03</dateModification>
+<auteurCreation>Levy</auteurCreation>
+<auteurModification>Althea
+</auteurModification>
+</row>
+<row idProduit="10179">
+<idAlarme>6723</idAlarme>
+<nomProduit>VIDEX 125mg gel gastroresis</nomProduit>
+<codeProduit>c191e9</codeProduit>
+<prixProduit>287.0</prixProduit>
+<quantiteActuel>1669</quantiteActuel>
+<quantiteAlarme>214</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-08-19</dateModification>
+<auteurCreation>Juarez</auteurCreation>
+<auteurModification>Tobias
+</auteurModification>
+</row>
+<row idProduit="10180">
+<idAlarme>4806</idAlarme>
+<nomProduit>VIDEX 150mg cp a croquer/dispers</nomProduit>
+<codeProduit>01a2f7</codeProduit>
+<prixProduit>196.0</prixProduit>
+<quantiteActuel>2515</quantiteActuel>
+<quantiteAlarme>170</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Buckner</auteurCreation>
+<auteurModification>Raja
+</auteurModification>
+</row>
+<row idProduit="10181">
+<idAlarme>2841</idAlarme>
+<nomProduit>VIDEX 2 g pdre p sol buv</nomProduit>
+<codeProduit>a4b0e6</codeProduit>
+<prixProduit>1253.0</prixProduit>
+<quantiteActuel>2658</quantiteActuel>
+<quantiteAlarme>424</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-09-25</dateModification>
+<auteurCreation>Marquez</auteurCreation>
+<auteurModification>Otto
+</auteurModification>
+</row>
+<row idProduit="10182">
+<idAlarme>4256</idAlarme>
+<nomProduit>VIDEX 200mg gel gastroresis</nomProduit>
+<codeProduit>edf557</codeProduit>
+<prixProduit>853.0</prixProduit>
+<quantiteActuel>2937</quantiteActuel>
+<quantiteAlarme>385</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Holder</auteurCreation>
+<auteurModification>Adria
+</auteurModification>
+</row>
+<row idProduit="10183">
+<idAlarme>5</idAlarme>
+<nomProduit>VIDEX 250mg gel gastroresis</nomProduit>
+<codeProduit>2eb5db</codeProduit>
+<prixProduit>704.0</prixProduit>
+<quantiteActuel>2772</quantiteActuel>
+<quantiteAlarme>433</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Fuentes</auteurCreation>
+<auteurModification>Robin
+</auteurModification>
+</row>
+<row idProduit="10184">
+<idAlarme>4279</idAlarme>
+<nomProduit>VIDEX 25mg cp a croquer/dispers</nomProduit>
+<codeProduit>f9301d</codeProduit>
+<prixProduit>1314.0</prixProduit>
+<quantiteActuel>2202</quantiteActuel>
+<quantiteAlarme>376</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-08-18</dateModification>
+<auteurCreation>Robles</auteurCreation>
+<auteurModification>Aimee
+</auteurModification>
+</row>
+<row idProduit="10185">
+<idAlarme>9392</idAlarme>
+<nomProduit>VIDEX 400mg gel gastroresis</nomProduit>
+<codeProduit>401922</codeProduit>
+<prixProduit>1094.0</prixProduit>
+<quantiteActuel>2262</quantiteActuel>
+<quantiteAlarme>364</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-09-14</dateModification>
+<auteurCreation>Moon</auteurCreation>
+<auteurModification>Colin
+</auteurModification>
+</row>
+<row idProduit="10186">
+<idAlarme>8956</idAlarme>
+<nomProduit>VIDEX 50mg cp a croquer/dispers</nomProduit>
+<codeProduit>a357c5</codeProduit>
+<prixProduit>687.0</prixProduit>
+<quantiteActuel>2204</quantiteActuel>
+<quantiteAlarme>425</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-08-16</dateModification>
+<auteurCreation>Hutchinson</auteurCreation>
+<auteurModification>Winter
+</auteurModification>
+</row>
+<row idProduit="10187">
+<idAlarme>937</idAlarme>
+<nomProduit>VIDORA 25 mg cp</nomProduit>
+<codeProduit>cab14f</codeProduit>
+<prixProduit>1182.0</prixProduit>
+<quantiteActuel>2454</quantiteActuel>
+<quantiteAlarme>337</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-09-10</dateModification>
+<auteurCreation>Ortiz</auteurCreation>
+<auteurModification>Jack
+</auteurModification>
+</row>
+<row idProduit="10188">
+<idAlarme>3566</idAlarme>
+<nomProduit>VIMPAT 10 mg/ml sol p perf</nomProduit>
+<codeProduit>0e2bb9</codeProduit>
+<prixProduit>216.0</prixProduit>
+<quantiteActuel>2074</quantiteActuel>
+<quantiteAlarme>117</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-09-03</dateModification>
+<auteurCreation>Stout</auteurCreation>
+<auteurModification>Eric
+</auteurModification>
+</row>
+<row idProduit="10189">
+<idAlarme>6272</idAlarme>
+<nomProduit>VIMPAT 100 mg cp pellic</nomProduit>
+<codeProduit>55abf9</codeProduit>
+<prixProduit>647.0</prixProduit>
+<quantiteActuel>2665</quantiteActuel>
+<quantiteAlarme>145</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-09-02</dateModification>
+<auteurCreation>Howe</auteurCreation>
+<auteurModification>Mia
+</auteurModification>
+</row>
+<row idProduit="10190">
+<idAlarme>4728</idAlarme>
+<nomProduit>VIMPAT 15 mg/ml sirop</nomProduit>
+<codeProduit>773839</codeProduit>
+<prixProduit>885.0</prixProduit>
+<quantiteActuel>1885</quantiteActuel>
+<quantiteAlarme>240</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-08-14</dateModification>
+<auteurCreation>Higgins</auteurCreation>
+<auteurModification>Eugenia
+</auteurModification>
+</row>
+<row idProduit="10191">
+<idAlarme>10508</idAlarme>
+<nomProduit>VIMPAT 150 mg cp pellic</nomProduit>
+<codeProduit>a85621</codeProduit>
+<prixProduit>385.0</prixProduit>
+<quantiteActuel>2707</quantiteActuel>
+<quantiteAlarme>122</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-09-03</dateModification>
+<auteurCreation>Pennington</auteurCreation>
+<auteurModification>Carter
+</auteurModification>
+</row>
+<row idProduit="10192">
+<idAlarme>4977</idAlarme>
+<nomProduit>VIMPAT 200 mg cp pellic</nomProduit>
+<codeProduit>9bae52</codeProduit>
+<prixProduit>810.0</prixProduit>
+<quantiteActuel>2551</quantiteActuel>
+<quantiteAlarme>350</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-09-25</dateModification>
+<auteurCreation>Reeves</auteurCreation>
+<auteurModification>Colleen
+</auteurModification>
+</row>
+<row idProduit="10193">
+<idAlarme>2389</idAlarme>
+<nomProduit>VIMPAT 50 mg cp pellic</nomProduit>
+<codeProduit>a8631f</codeProduit>
+<prixProduit>1045.0</prixProduit>
+<quantiteActuel>2738</quantiteActuel>
+<quantiteAlarme>217</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Richmond</auteurCreation>
+<auteurModification>Quynn
+</auteurModification>
+</row>
+<row idProduit="10194">
+<idAlarme>1799</idAlarme>
+<nomProduit>VINCARUTINE gel</nomProduit>
+<codeProduit>80fb5c</codeProduit>
+<prixProduit>780.0</prixProduit>
+<quantiteActuel>2734</quantiteActuel>
+<quantiteAlarme>177</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-08-19</dateModification>
+<auteurCreation>Wong</auteurCreation>
+<auteurModification>Donovan
+</auteurModification>
+</row>
+<row idProduit="10195">
+<idAlarme>3316</idAlarme>
+<nomProduit>VINCRISTINE HOSPIRA 2 mg/2 ml sol inj</nomProduit>
+<codeProduit>e4df27</codeProduit>
+<prixProduit>988.0</prixProduit>
+<quantiteActuel>2895</quantiteActuel>
+<quantiteAlarme>237</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Hendrix</auteurCreation>
+<auteurModification>Linda
+</auteurModification>
+</row>
+<row idProduit="10196">
+<idAlarme>5543</idAlarme>
+<nomProduit>VINCRISTINE TEVA 0,1 % (1 mg/1 ml) sol inj IV</nomProduit>
+<codeProduit>db435d</codeProduit>
+<prixProduit>751.0</prixProduit>
+<quantiteActuel>1538</quantiteActuel>
+<quantiteAlarme>175</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-09-14</dateModification>
+<auteurCreation>Wells</auteurCreation>
+<auteurModification>Wanda
+</auteurModification>
+</row>
+<row idProduit="10197">
+<idAlarme>1372</idAlarme>
+<nomProduit>VINCRISTINE TEVA 1 mg/ml sol inj</nomProduit>
+<codeProduit>f7dff4</codeProduit>
+<prixProduit>1433.0</prixProduit>
+<quantiteActuel>2025</quantiteActuel>
+<quantiteAlarme>330</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-08-16</dateModification>
+<auteurCreation>Smith</auteurCreation>
+<auteurModification>Julian
+</auteurModification>
+</row>
+<row idProduit="10198">
+<idAlarme>5117</idAlarme>
+<nomProduit>VINORELBINE ACTAVIS 10 mg/ml sol diluer p perf</nomProduit>
+<codeProduit>eb745f</codeProduit>
+<prixProduit>1416.0</prixProduit>
+<quantiteActuel>1766</quantiteActuel>
+<quantiteAlarme>313</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-08-07</dateModification>
+<auteurCreation>Meadows</auteurCreation>
+<auteurModification>Kieran
+</auteurModification>
+</row>
+<row idProduit="10199">
+<idAlarme>1464</idAlarme>
+<nomProduit>VINORELBINE EBEWE 10mg/ml sol inj</nomProduit>
+<codeProduit>1045cc</codeProduit>
+<prixProduit>666.0</prixProduit>
+<quantiteActuel>2562</quantiteActuel>
+<quantiteAlarme>153</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-10-05</dateModification>
+<auteurCreation>Le</auteurCreation>
+<auteurModification>Hayley
+</auteurModification>
+</row>
+<row idProduit="10200">
+<idAlarme>7573</idAlarme>
+<nomProduit>VINORELBINE MYLAN 10 mg/ml sol diluer p perf</nomProduit>
+<codeProduit>686b40</codeProduit>
+<prixProduit>697.0</prixProduit>
+<quantiteActuel>1889</quantiteActuel>
+<quantiteAlarme>287</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-22</dateCreation>
+<dateModification>2010-09-09</dateModification>
+<auteurCreation>Flowers</auteurCreation>
+<auteurModification>Chadwick
+</auteurModification>
+</row>
+<row idProduit="10201">
+<idAlarme>1572</idAlarme>
+<nomProduit>VINORELBINE TEVA 10mg/ml sol inj</nomProduit>
+<codeProduit>d63ad6</codeProduit>
+<prixProduit>413.0</prixProduit>
+<quantiteActuel>1599</quantiteActuel>
+<quantiteAlarme>376</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-08-16</dateModification>
+<auteurCreation>Duffy</auteurCreation>
+<auteurModification>Hasad
+</auteurModification>
+</row>
+<row idProduit="10202">
+<idAlarme>3796</idAlarme>
+<nomProduit>VINTENE sol p perf IV</nomProduit>
+<codeProduit>ecd406</codeProduit>
+<prixProduit>467.0</prixProduit>
+<quantiteActuel>2624</quantiteActuel>
+<quantiteAlarme>448</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-09-01</dateModification>
+<auteurCreation>Dunn</auteurCreation>
+<auteurModification>Odessa
+</auteurModification>
+</row>
+<row idProduit="10203">
+<idAlarme>664</idAlarme>
+<nomProduit>VIPERFAV sol diluer p perf IV en fl</nomProduit>
+<codeProduit>75d173</codeProduit>
+<prixProduit>1485.0</prixProduit>
+<quantiteActuel>2824</quantiteActuel>
+<quantiteAlarme>295</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-09-09</dateModification>
+<auteurCreation>Vaughn</auteurCreation>
+<auteurModification>Xander
+</auteurModification>
+</row>
+<row idProduit="10204">
+<idAlarme>8097</idAlarme>
+<nomProduit>VIRACEPT 250mg cp pellic</nomProduit>
+<codeProduit>100046</codeProduit>
+<prixProduit>1108.0</prixProduit>
+<quantiteActuel>1870</quantiteActuel>
+<quantiteAlarme>202</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-08-24</dateModification>
+<auteurCreation>Barton</auteurCreation>
+<auteurModification>Amy
+</auteurModification>
+</row>
+<row idProduit="10205">
+<idAlarme>6617</idAlarme>
+<nomProduit>VIRACEPT 50 mg/g pdre oral</nomProduit>
+<codeProduit>035919</codeProduit>
+<prixProduit>176.0</prixProduit>
+<quantiteActuel>1975</quantiteActuel>
+<quantiteAlarme>400</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Daniels</auteurCreation>
+<auteurModification>Brent
+</auteurModification>
+</row>
+<row idProduit="10206">
+<idAlarme>2785</idAlarme>
+<nomProduit>VIRAFERONPEG 100ug pdre/solv p sol inj en stylo</nomProduit>
+<codeProduit>fb0da6</codeProduit>
+<prixProduit>1148.0</prixProduit>
+<quantiteActuel>2063</quantiteActuel>
+<quantiteAlarme>494</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-10-02</dateModification>
+<auteurCreation>Hatfield</auteurCreation>
+<auteurModification>Melissa
+</auteurModification>
+</row>
+<row idProduit="10207">
+<idAlarme>1905</idAlarme>
+<nomProduit>VIRAFERONPEG 120ug pdre/solv p sol inj en stylo</nomProduit>
+<codeProduit>253d9e</codeProduit>
+<prixProduit>385.0</prixProduit>
+<quantiteActuel>1894</quantiteActuel>
+<quantiteAlarme>243</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-09-23</dateModification>
+<auteurCreation>Carey</auteurCreation>
+<auteurModification>Hadley
+</auteurModification>
+</row>
+<row idProduit="10208">
+<idAlarme>9426</idAlarme>
+<nomProduit>VIRAFERONPEG 150ug pdre/solv p sol inj en stylo</nomProduit>
+<codeProduit>6b2cd3</codeProduit>
+<prixProduit>770.0</prixProduit>
+<quantiteActuel>2059</quantiteActuel>
+<quantiteAlarme>342</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-08-21</dateModification>
+<auteurCreation>Pickett</auteurCreation>
+<auteurModification>Yasir
+</auteurModification>
+</row>
+<row idProduit="10209">
+<idAlarme>4301</idAlarme>
+<nomProduit>VIRAFERONPEG 50ug pdre/solv p sol inj en stylo</nomProduit>
+<codeProduit>e4fced</codeProduit>
+<prixProduit>622.0</prixProduit>
+<quantiteActuel>2032</quantiteActuel>
+<quantiteAlarme>302</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-09-07</dateModification>
+<auteurCreation>Greer</auteurCreation>
+<auteurModification>Kennan
+</auteurModification>
+</row>
+<row idProduit="10210">
+<idAlarme>1752</idAlarme>
+<nomProduit>VIRAFERONPEG 80ug pdre/solv p sol inj en stylo</nomProduit>
+<codeProduit>003376</codeProduit>
+<prixProduit>1049.0</prixProduit>
+<quantiteActuel>1930</quantiteActuel>
+<quantiteAlarme>223</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-08-07</dateModification>
+<auteurCreation>Sargent</auteurCreation>
+<auteurModification>Clio
+</auteurModification>
+</row>
+<row idProduit="10211">
+<idAlarme>898</idAlarme>
+<nomProduit>VIRAMUNE 200 mg cp</nomProduit>
+<codeProduit>b4273c</codeProduit>
+<prixProduit>702.0</prixProduit>
+<quantiteActuel>2537</quantiteActuel>
+<quantiteAlarme>435</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Tucker</auteurCreation>
+<auteurModification>Wallace
+</auteurModification>
+</row>
+<row idProduit="10212">
+<idAlarme>8590</idAlarme>
+<nomProduit>VIRAMUNE 50mg/5ml susp buv pediatrique</nomProduit>
+<codeProduit>f6d722</codeProduit>
+<prixProduit>675.0</prixProduit>
+<quantiteActuel>2459</quantiteActuel>
+<quantiteAlarme>485</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-08-23</dateModification>
+<auteurCreation>Deleon</auteurCreation>
+<auteurModification>Uriel
+</auteurModification>
+</row>
+<row idProduit="10213">
+<idAlarme>8810</idAlarme>
+<nomProduit>VIREAD 245mg cp pellic</nomProduit>
+<codeProduit>aee78e</codeProduit>
+<prixProduit>1382.0</prixProduit>
+<quantiteActuel>2217</quantiteActuel>
+<quantiteAlarme>499</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-07-21</dateModification>
+<auteurCreation>Raymond</auteurCreation>
+<auteurModification>Octavia
+</auteurModification>
+</row>
+<row idProduit="10214">
+<idAlarme>5648</idAlarme>
+<nomProduit>VIRGAN 1,5mg/g gel ophtalm</nomProduit>
+<codeProduit>e64bd2</codeProduit>
+<prixProduit>303.0</prixProduit>
+<quantiteActuel>2599</quantiteActuel>
+<quantiteAlarme>403</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-09-23</dateModification>
+<auteurCreation>Pearson</auteurCreation>
+<auteurModification>September
+</auteurModification>
+</row>
+<row idProduit="10215">
+<idAlarme>9191</idAlarme>
+<nomProduit>VIRLIX 10mg cp pellic sec</nomProduit>
+<codeProduit>b3de47</codeProduit>
+<prixProduit>931.0</prixProduit>
+<quantiteActuel>2074</quantiteActuel>
+<quantiteAlarme>442</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-07-31</dateModification>
+<auteurCreation>Slater</auteurCreation>
+<auteurModification>Amena
+</auteurModification>
+</row>
+<row idProduit="10216">
+<idAlarme>7898</idAlarme>
+<nomProduit>VIRLIX 10mg/ml sol buv</nomProduit>
+<codeProduit>28b904</codeProduit>
+<prixProduit>459.0</prixProduit>
+<quantiteActuel>2422</quantiteActuel>
+<quantiteAlarme>118</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-10-06</dateModification>
+<auteurCreation>Blanchard</auteurCreation>
+<auteurModification>Sophia
+</auteurModification>
+</row>
+<row idProduit="10217">
+<idAlarme>7938</idAlarme>
+<nomProduit>VIROPHTA 1 % lyoph/solv p collyre</nomProduit>
+<codeProduit>923bbc</codeProduit>
+<prixProduit>1232.0</prixProduit>
+<quantiteActuel>2034</quantiteActuel>
+<quantiteAlarme>371</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-07-18</dateModification>
+<auteurCreation>Peck</auteurCreation>
+<auteurModification>Velma
+</auteurModification>
+</row>
+<row idProduit="10218">
+<idAlarme>3585</idAlarme>
+<nomProduit>VIRUCALM 5 % creme</nomProduit>
+<codeProduit>c55dea</codeProduit>
+<prixProduit>388.0</prixProduit>
+<quantiteActuel>2400</quantiteActuel>
+<quantiteAlarme>302</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-07-28</dateModification>
+<auteurCreation>Hanson</auteurCreation>
+<auteurModification>Ebony
+</auteurModification>
+</row>
+<row idProduit="10219">
+<idAlarme>1380</idAlarme>
+<nomProduit>VISANNE 2 mg cp</nomProduit>
+<codeProduit>aaee1c</codeProduit>
+<prixProduit>302.0</prixProduit>
+<quantiteActuel>2017</quantiteActuel>
+<quantiteAlarme>400</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-07-27</dateModification>
+<auteurCreation>Dennis</auteurCreation>
+<auteurModification>Deanna
+</auteurModification>
+</row>
+<row idProduit="10220">
+<idAlarme>4381</idAlarme>
+<nomProduit>VISCERALGINE 50mg cp pellic</nomProduit>
+<codeProduit>63c4b1</codeProduit>
+<prixProduit>1301.0</prixProduit>
+<quantiteActuel>2455</quantiteActuel>
+<quantiteAlarme>316</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-10-01</dateModification>
+<auteurCreation>Pruitt</auteurCreation>
+<auteurModification>Hiram
+</auteurModification>
+</row>
+<row idProduit="10221">
+<idAlarme>5313</idAlarme>
+<nomProduit>VISIODOSE collyre</nomProduit>
+<codeProduit>0262cc</codeProduit>
+<prixProduit>419.0</prixProduit>
+<quantiteActuel>2467</quantiteActuel>
+<quantiteAlarme>500</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-08-10</dateModification>
+<auteurCreation>Powers</auteurCreation>
+<auteurModification>Lewis
+</auteurModification>
+</row>
+<row idProduit="10222">
+<idAlarme>511</idAlarme>
+<nomProduit>VISIPAQUE 270 mg Iode/ml sol inj</nomProduit>
+<codeProduit>b5a6c3</codeProduit>
+<prixProduit>1237.0</prixProduit>
+<quantiteActuel>1933</quantiteActuel>
+<quantiteAlarme>470</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Gibbs</auteurCreation>
+<auteurModification>Brielle
+</auteurModification>
+</row>
+<row idProduit="10223">
+<idAlarme>10127</idAlarme>
+<nomProduit>VISIPAQUE 320 mg Iode/ml sol inj</nomProduit>
+<codeProduit>7c5b81</codeProduit>
+<prixProduit>1187.0</prixProduit>
+<quantiteActuel>2674</quantiteActuel>
+<quantiteAlarme>239</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-09-12</dateModification>
+<auteurCreation>Wood</auteurCreation>
+<auteurModification>Vladimir
+</auteurModification>
+</row>
+<row idProduit="10224">
+<idAlarme>348</idAlarme>
+<nomProduit>VISKALDIX cp</nomProduit>
+<codeProduit>cb8181</codeProduit>
+<prixProduit>422.0</prixProduit>
+<quantiteActuel>2110</quantiteActuel>
+<quantiteAlarme>397</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-26</dateCreation>
+<dateModification>2010-08-16</dateModification>
+<auteurCreation>Savage</auteurCreation>
+<auteurModification>Simon
+</auteurModification>
+</row>
+<row idProduit="10225">
+<idAlarme>9843</idAlarme>
+<nomProduit>VISKEN 5 mg cp</nomProduit>
+<codeProduit>5f42a0</codeProduit>
+<prixProduit>975.0</prixProduit>
+<quantiteActuel>2656</quantiteActuel>
+<quantiteAlarme>239</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-09-21</dateModification>
+<auteurCreation>Hood</auteurCreation>
+<auteurModification>Cedric
+</auteurModification>
+</row>
+<row idProduit="10226">
+<idAlarme>6655</idAlarme>
+<nomProduit>VISKEN QUINZE 15 mg cp sec</nomProduit>
+<codeProduit>654fa3</codeProduit>
+<prixProduit>1185.0</prixProduit>
+<quantiteActuel>2945</quantiteActuel>
+<quantiteAlarme>414</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Lambert</auteurCreation>
+<auteurModification>Ira
+</auteurModification>
+</row>
+<row idProduit="10227">
+<idAlarme>10027</idAlarme>
+<nomProduit>VISTABEL 4UAllergan/0,1ml pdre p sol inj</nomProduit>
+<codeProduit>04bc24</codeProduit>
+<prixProduit>1126.0</prixProduit>
+<quantiteActuel>2961</quantiteActuel>
+<quantiteAlarme>123</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-09-29</dateModification>
+<auteurCreation>Duran</auteurCreation>
+<auteurModification>Imani
+</auteurModification>
+</row>
+<row idProduit="10228">
+<idAlarme>3388</idAlarme>
+<nomProduit>VISTIDE 75mg/ml sol diluer p perf</nomProduit>
+<codeProduit>b148c7</codeProduit>
+<prixProduit>1051.0</prixProduit>
+<quantiteActuel>1983</quantiteActuel>
+<quantiteAlarme>443</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-06-17</dateModification>
+<auteurCreation>Manning</auteurCreation>
+<auteurModification>Alvin
+</auteurModification>
+</row>
+<row idProduit="10229">
+<idAlarme>4042</idAlarme>
+<nomProduit>VISUDYNE 15mg pdre p sol p perf</nomProduit>
+<codeProduit>a2dbad</codeProduit>
+<prixProduit>197.0</prixProduit>
+<quantiteActuel>2312</quantiteActuel>
+<quantiteAlarme>143</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-09-21</dateModification>
+<auteurCreation>Wiggins</auteurCreation>
+<auteurModification>Fatima
+</auteurModification>
+</row>
+<row idProduit="10230">
+<idAlarme>5849</idAlarme>
+<nomProduit>VITABACT 0,05 % collyre</nomProduit>
+<codeProduit>e45c56</codeProduit>
+<prixProduit>465.0</prixProduit>
+<quantiteActuel>2130</quantiteActuel>
+<quantiteAlarme>232</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-08-18</dateModification>
+<auteurCreation>Gomez</auteurCreation>
+<auteurModification>Jorden
+</auteurModification>
+</row>
+<row idProduit="10231">
+<idAlarme>2072</idAlarme>
+<nomProduit>VITABACT 0,173 mg/0,4 ml collyre</nomProduit>
+<codeProduit>4537c3</codeProduit>
+<prixProduit>443.0</prixProduit>
+<quantiteActuel>1755</quantiteActuel>
+<quantiteAlarme>245</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-22</dateCreation>
+<dateModification>2010-07-10</dateModification>
+<auteurCreation>Orr</auteurCreation>
+<auteurModification>Kasper
+</auteurModification>
+</row>
+<row idProduit="10232">
+<idAlarme>5253</idAlarme>
+<nomProduit>VITACIC collyre en fl</nomProduit>
+<codeProduit>d9e120</codeProduit>
+<prixProduit>1026.0</prixProduit>
+<quantiteActuel>2818</quantiteActuel>
+<quantiteAlarme>403</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-22</dateCreation>
+<dateModification>2010-09-26</dateModification>
+<auteurCreation>Fuller</auteurCreation>
+<auteurModification>Montana
+</auteurModification>
+</row>
+<row idProduit="10233">
+<idAlarme>7376</idAlarme>
+<nomProduit>VITA-DERMACIDE creme</nomProduit>
+<codeProduit>b4380c</codeProduit>
+<prixProduit>1042.0</prixProduit>
+<quantiteActuel>2508</quantiteActuel>
+<quantiteAlarme>193</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-10-01</dateModification>
+<auteurCreation>Obrien</auteurCreation>
+<auteurModification>Odysseus
+</auteurModification>
+</row>
+<row idProduit="10234">
+<idAlarme>8322</idAlarme>
+<nomProduit>VITALIPIDE emuls p perf adulte</nomProduit>
+<codeProduit>6ca95b</codeProduit>
+<prixProduit>515.0</prixProduit>
+<quantiteActuel>1820</quantiteActuel>
+<quantiteAlarme>252</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-09-27</dateModification>
+<auteurCreation>Hayes</auteurCreation>
+<auteurModification>Jeanette
+</auteurModification>
+</row>
+<row idProduit="10235">
+<idAlarme>3087</idAlarme>
+<nomProduit>VITALIPIDE emuls p perf enfant</nomProduit>
+<codeProduit>ebe397</codeProduit>
+<prixProduit>741.0</prixProduit>
+<quantiteActuel>2756</quantiteActuel>
+<quantiteAlarme>145</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-09-08</dateModification>
+<auteurCreation>Stevens</auteurCreation>
+<auteurModification>Rina
+</auteurModification>
+</row>
+<row idProduit="10236">
+<idAlarme>2973</idAlarme>
+<nomProduit>VITALOGINK 40mg cp pellic</nomProduit>
+<codeProduit>d7943c</codeProduit>
+<prixProduit>748.0</prixProduit>
+<quantiteActuel>2630</quantiteActuel>
+<quantiteAlarme>498</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-26</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Simmons</auteurCreation>
+<auteurModification>Maggy
+</auteurModification>
+</row>
+<row idProduit="10237">
+<idAlarme>2359</idAlarme>
+<nomProduit>VITALOGINK 40mg/ml sol buv</nomProduit>
+<codeProduit>023a66</codeProduit>
+<prixProduit>676.0</prixProduit>
+<quantiteActuel>2103</quantiteActuel>
+<quantiteAlarme>439</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>Gamble</auteurCreation>
+<auteurModification>Petra
+</auteurModification>
+</row>
+<row idProduit="10238">
+<idAlarme>8465</idAlarme>
+<nomProduit>VITAMINE A DULCIS 25000UI/100g pom ophtalm</nomProduit>
+<codeProduit>4d03b8</codeProduit>
+<prixProduit>347.0</prixProduit>
+<quantiteActuel>1656</quantiteActuel>
+<quantiteAlarme>418</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Riggs</auteurCreation>
+<auteurModification>Perry
+</auteurModification>
+</row>
+<row idProduit="10239">
+<idAlarme>3503</idAlarme>
+<nomProduit>VITAMINE A FAURE 150 000 UI % collyre sol</nomProduit>
+<codeProduit>642cce</codeProduit>
+<prixProduit>542.0</prixProduit>
+<quantiteActuel>1879</quantiteActuel>
+<quantiteAlarme>370</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-07-11</dateModification>
+<auteurCreation>Koch</auteurCreation>
+<auteurModification>Emerson
+</auteurModification>
+</row>
+<row idProduit="10240">
+<idAlarme>9416</idAlarme>
+<nomProduit>VITAMINE A NEPALM 100 000 UI/2 ml sol inj</nomProduit>
+<codeProduit>53a25b</codeProduit>
+<prixProduit>1241.0</prixProduit>
+<quantiteActuel>1870</quantiteActuel>
+<quantiteAlarme>124</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-08-10</dateModification>
+<auteurCreation>Atkins</auteurCreation>
+<auteurModification>Orson
+</auteurModification>
+</row>
+<row idProduit="10241">
+<idAlarme>8456</idAlarme>
+<nomProduit>VITAMINE B 12 ALLERGAN FRANCE 0,2 mg/0,4 ml collyre sol en recipient unidose</nomProduit>
+<codeProduit>70378a</codeProduit>
+<prixProduit>266.0</prixProduit>
+<quantiteActuel>2610</quantiteActuel>
+<quantiteAlarme>118</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-09-04</dateModification>
+<auteurCreation>Simon</auteurCreation>
+<auteurModification>Evan
+</auteurModification>
+</row>
+<row idProduit="10242">
+<idAlarme>5948</idAlarme>
+<nomProduit>VITAMINE B1 B6 BAYER cp pellic</nomProduit>
+<codeProduit>10c413</codeProduit>
+<prixProduit>1273.0</prixProduit>
+<quantiteActuel>2996</quantiteActuel>
+<quantiteAlarme>410</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-09-14</dateModification>
+<auteurCreation>Byers</auteurCreation>
+<auteurModification>Jordan
+</auteurModification>
+</row>
+<row idProduit="10243">
+<idAlarme>9589</idAlarme>
+<nomProduit>VITAMINE B12 AGUETTANT 100 ug/ml sol buv et inj IM</nomProduit>
+<codeProduit>c5f721</codeProduit>
+<prixProduit>731.0</prixProduit>
+<quantiteActuel>2962</quantiteActuel>
+<quantiteAlarme>378</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-08-14</dateModification>
+<auteurCreation>Foster</auteurCreation>
+<auteurModification>Brody
+</auteurModification>
+</row>
+<row idProduit="10244">
+<idAlarme>497</idAlarme>
+<nomProduit>VITAMINE B12 AGUETTANT 1000ug/2ml sol buv/inj</nomProduit>
+<codeProduit>dec2ee</codeProduit>
+<prixProduit>1089.0</prixProduit>
+<quantiteActuel>2108</quantiteActuel>
+<quantiteAlarme>350</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>Levy</auteurCreation>
+<auteurModification>Giacomo
+</auteurModification>
+</row>
+<row idProduit="10245">
+<idAlarme>8181</idAlarme>
+<nomProduit>VITAMINE B12 ALLERGAN 0,05 % collyre sol</nomProduit>
+<codeProduit>72eef4</codeProduit>
+<prixProduit>852.0</prixProduit>
+<quantiteActuel>2700</quantiteActuel>
+<quantiteAlarme>265</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-09-14</dateModification>
+<auteurCreation>Cross</auteurCreation>
+<auteurModification>Dawn
+</auteurModification>
+</row>
+<row idProduit="10246">
+<idAlarme>5720</idAlarme>
+<nomProduit>VITAMINE B12 CHAUVIN 0,2mg/0,4ml collyre sol</nomProduit>
+<codeProduit>cae96b</codeProduit>
+<prixProduit>1218.0</prixProduit>
+<quantiteActuel>2504</quantiteActuel>
+<quantiteAlarme>308</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-08-05</dateModification>
+<auteurCreation>Noble</auteurCreation>
+<auteurModification>Shelby
+</auteurModification>
+</row>
+<row idProduit="10247">
+<idAlarme>1222</idAlarme>
+<nomProduit>VITAMINE B12 DELAGRANGE 1000 ug/2 ml sol buv/inj</nomProduit>
+<codeProduit>407f00</codeProduit>
+<prixProduit>1213.0</prixProduit>
+<quantiteActuel>1744</quantiteActuel>
+<quantiteAlarme>319</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-09-22</dateModification>
+<auteurCreation>Osborne</auteurCreation>
+<auteurModification>Madeline
+</auteurModification>
+</row>
+<row idProduit="10248">
+<idAlarme>10197</idAlarme>
+<nomProduit>VITAMINE B12 GERDA 1000ug sol buv/inj</nomProduit>
+<codeProduit>0a0a81</codeProduit>
+<prixProduit>441.0</prixProduit>
+<quantiteActuel>2336</quantiteActuel>
+<quantiteAlarme>382</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Huffman</auteurCreation>
+<auteurModification>Raven
+</auteurModification>
+</row>
+<row idProduit="10249">
+<idAlarme>10443</idAlarme>
+<nomProduit>VITAMINE B12 GERDA 250 ug cp sec</nomProduit>
+<codeProduit>be79e0</codeProduit>
+<prixProduit>1249.0</prixProduit>
+<quantiteActuel>1771</quantiteActuel>
+<quantiteAlarme>203</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-07-21</dateModification>
+<auteurCreation>Spence</auteurCreation>
+<auteurModification>Cassandra
+</auteurModification>
+</row>
+<row idProduit="10250">
+<idAlarme>7451</idAlarme>
+<nomProduit>VITAMINE B12 LAVOISIER 1000 ug/1 ml sol inj IM</nomProduit>
+<codeProduit>9258fb</codeProduit>
+<prixProduit>1374.0</prixProduit>
+<quantiteActuel>2167</quantiteActuel>
+<quantiteAlarme>358</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-07-06</dateModification>
+<auteurCreation>Harrison</auteurCreation>
+<auteurModification>Cassidy
+</auteurModification>
+</row>
+<row idProduit="10251">
+<idAlarme>5783</idAlarme>
+<nomProduit>VITAMINE B12 THEA 0,05 % collyre</nomProduit>
+<codeProduit>7d7125</codeProduit>
+<prixProduit>1063.0</prixProduit>
+<quantiteActuel>2636</quantiteActuel>
+<quantiteAlarme>254</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-06-27</dateModification>
+<auteurCreation>Castillo</auteurCreation>
+<auteurModification>Kirestin
+</auteurModification>
+</row>
+<row idProduit="10252">
+<idAlarme>3876</idAlarme>
+<nomProduit>VITAMINE B6 AGUETTANT 250mg/5ml sol inj</nomProduit>
+<codeProduit>fe0ae0</codeProduit>
+<prixProduit>636.0</prixProduit>
+<quantiteActuel>1857</quantiteActuel>
+<quantiteAlarme>126</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Rutledge</auteurCreation>
+<auteurModification>Timon
+</auteurModification>
+</row>
+<row idProduit="10253">
+<idAlarme>8313</idAlarme>
+<nomProduit>VITAMINE B6 RICHARD 250 mg cp quadrisec</nomProduit>
+<codeProduit>8c5424</codeProduit>
+<prixProduit>378.0</prixProduit>
+<quantiteActuel>2490</quantiteActuel>
+<quantiteAlarme>154</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-06-30</dateModification>
+<auteurCreation>Snider</auteurCreation>
+<auteurModification>Francesca
+</auteurModification>
+</row>
+<row idProduit="10254">
+<idAlarme>5532</idAlarme>
+<nomProduit>VITAMINE C AGUETTANT 10% sol inj p perf</nomProduit>
+<codeProduit>978114</codeProduit>
+<prixProduit>1448.0</prixProduit>
+<quantiteActuel>2725</quantiteActuel>
+<quantiteAlarme>328</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Whitfield</auteurCreation>
+<auteurModification>Vielka
+</auteurModification>
+</row>
+<row idProduit="10255">
+<idAlarme>3147</idAlarme>
+<nomProduit>VITAMINE C ARROW 1 g cp efferv</nomProduit>
+<codeProduit>0b5c82</codeProduit>
+<prixProduit>1201.0</prixProduit>
+<quantiteActuel>2302</quantiteActuel>
+<quantiteAlarme>265</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-08-29</dateModification>
+<auteurCreation>Buckner</auteurCreation>
+<auteurModification>Julian
+</auteurModification>
+</row>
+<row idProduit="10256">
+<idAlarme>4957</idAlarme>
+<nomProduit>VITAMINE C UPSA 1000mg cp efferv</nomProduit>
+<codeProduit>f02c49</codeProduit>
+<prixProduit>708.0</prixProduit>
+<quantiteActuel>2862</quantiteActuel>
+<quantiteAlarme>336</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-08-24</dateModification>
+<auteurCreation>Warren</auteurCreation>
+<auteurModification>Noel
+</auteurModification>
+</row>
+<row idProduit="10257">
+<idAlarme>141</idAlarme>
+<nomProduit>VITAMINE C UPSA 500mg cp a croquer</nomProduit>
+<codeProduit>a46586</codeProduit>
+<prixProduit>1074.0</prixProduit>
+<quantiteActuel>2275</quantiteActuel>
+<quantiteAlarme>131</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-10</dateCreation>
+<dateModification>2010-07-29</dateModification>
+<auteurCreation>Romero</auteurCreation>
+<auteurModification>May
+</auteurModification>
+</row>
+<row idProduit="10258">
+<idAlarme>10191</idAlarme>
+<nomProduit>VITAMINE C UPSA FRUIT EXOTIQUE 500mg cp a croquer</nomProduit>
+<codeProduit>509e03</codeProduit>
+<prixProduit>306.0</prixProduit>
+<quantiteActuel>2611</quantiteActuel>
+<quantiteAlarme>180</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-07-23</dateModification>
+<auteurCreation>Chavez</auteurCreation>
+<auteurModification>Elvis
+</auteurModification>
+</row>
+<row idProduit="10259">
+<idAlarme>10141</idAlarme>
+<nomProduit>VITAMINE D3 BON 200 000 UI/ml sol inj IM</nomProduit>
+<codeProduit>e64aa2</codeProduit>
+<prixProduit>482.0</prixProduit>
+<quantiteActuel>2889</quantiteActuel>
+<quantiteAlarme>377</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-09-08</dateModification>
+<auteurCreation>Conway</auteurCreation>
+<auteurModification>Knox
+</auteurModification>
+</row>
+<row idProduit="10260">
+<idAlarme>10471</idAlarme>
+<nomProduit>VITAMINE E MYLAN 500 mg caps</nomProduit>
+<codeProduit>6a33e4</codeProduit>
+<prixProduit>1488.0</prixProduit>
+<quantiteActuel>1504</quantiteActuel>
+<quantiteAlarme>161</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-08-04</dateModification>
+<auteurCreation>Rivera</auteurCreation>
+<auteurModification>Alvin
+</auteurModification>
+</row>
+<row idProduit="10261">
+<idAlarme>114</idAlarme>
+<nomProduit>VITAMINE E NEPALM 100mg/2ml sol inj</nomProduit>
+<codeProduit>3aaf50</codeProduit>
+<prixProduit>1215.0</prixProduit>
+<quantiteActuel>2452</quantiteActuel>
+<quantiteAlarme>279</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-09-13</dateModification>
+<auteurCreation>Haynes</auteurCreation>
+<auteurModification>Vladimir
+</auteurModification>
+</row>
+<row idProduit="10262">
+<idAlarme>5262</idAlarme>
+<nomProduit>VITAMINE E SANDOZ 500mg caps</nomProduit>
+<codeProduit>714043</codeProduit>
+<prixProduit>748.0</prixProduit>
+<quantiteActuel>1551</quantiteActuel>
+<quantiteAlarme>147</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-09-05</dateModification>
+<auteurCreation>Wells</auteurCreation>
+<auteurModification>Todd
+</auteurModification>
+</row>
+<row idProduit="10263">
+<idAlarme>6640</idAlarme>
+<nomProduit>VITAMINE K1 ROCHE 10mg/1ml sol buv/inj</nomProduit>
+<codeProduit>1179c1</codeProduit>
+<prixProduit>784.0</prixProduit>
+<quantiteActuel>2011</quantiteActuel>
+<quantiteAlarme>455</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-07-20</dateModification>
+<auteurCreation>Russo</auteurCreation>
+<auteurModification>Dale
+</auteurModification>
+</row>
+<row idProduit="10264">
+<idAlarme>1614</idAlarme>
+<nomProduit>VITAMINE K1 ROCHE 2mg/0,2ml sol buv/inj nourrisson</nomProduit>
+<codeProduit>cf6aac</codeProduit>
+<prixProduit>417.0</prixProduit>
+<quantiteActuel>1665</quantiteActuel>
+<quantiteAlarme>309</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>Barrett</auteurCreation>
+<auteurModification>Cadman
+</auteurModification>
+</row>
+<row idProduit="10265">
+<idAlarme>6582</idAlarme>
+<nomProduit>VITAMINE PP AGUETTANT 100 mg/2 ml sol inj</nomProduit>
+<codeProduit>78b30b</codeProduit>
+<prixProduit>1423.0</prixProduit>
+<quantiteActuel>2999</quantiteActuel>
+<quantiteAlarme>183</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>Keller</auteurCreation>
+<auteurModification>Troy
+</auteurModification>
+</row>
+<row idProduit="10266">
+<idAlarme>971</idAlarme>
+<nomProduit>VITARUTINE collyre</nomProduit>
+<codeProduit>2cf9da</codeProduit>
+<prixProduit>826.0</prixProduit>
+<quantiteActuel>1689</quantiteActuel>
+<quantiteAlarme>479</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-09-20</dateModification>
+<auteurCreation>Peters</auteurCreation>
+<auteurModification>Lynn
+</auteurModification>
+</row>
+<row idProduit="10267">
+<idAlarme>9468</idAlarme>
+<nomProduit>VITASCORBOL 1 g cp efferv</nomProduit>
+<codeProduit>a684cd</codeProduit>
+<prixProduit>438.0</prixProduit>
+<quantiteActuel>1819</quantiteActuel>
+<quantiteAlarme>388</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-02</dateCreation>
+<dateModification>2010-07-11</dateModification>
+<auteurCreation>Foster</auteurCreation>
+<auteurModification>Nicholas
+</auteurModification>
+</row>
+<row idProduit="10268">
+<idAlarme>7087</idAlarme>
+<nomProduit>VITASCORBOL SANS SUCRE TAMPONNE 500 mg cp a croquer</nomProduit>
+<codeProduit>a31e62</codeProduit>
+<prixProduit>1071.0</prixProduit>
+<quantiteActuel>2856</quantiteActuel>
+<quantiteAlarme>322</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-09-18</dateModification>
+<auteurCreation>Cunningham</auteurCreation>
+<auteurModification>Kirk
+</auteurModification>
+</row>
+<row idProduit="10269">
+<idAlarme>2060</idAlarme>
+<nomProduit>VITATHION gle efferv</nomProduit>
+<codeProduit>6a8edb</codeProduit>
+<prixProduit>807.0</prixProduit>
+<quantiteActuel>2145</quantiteActuel>
+<quantiteAlarme>263</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-06-30</dateModification>
+<auteurCreation>Fuller</auteurCreation>
+<auteurModification>Zeph
+</auteurModification>
+</row>
+<row idProduit="10270">
+<idAlarme>2269</idAlarme>
+<nomProduit>VIVAGLOBIN 160mg/ml sol inj</nomProduit>
+<codeProduit>88db36</codeProduit>
+<prixProduit>945.0</prixProduit>
+<quantiteActuel>2634</quantiteActuel>
+<quantiteAlarme>147</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-09-23</dateModification>
+<auteurCreation>Atkinson</auteurCreation>
+<auteurModification>Axel
+</auteurModification>
+</row>
+<row idProduit="10271">
+<idAlarme>9060</idAlarme>
+<nomProduit>VIVELLEDOT 100ug/24h disp transderm</nomProduit>
+<codeProduit>10851e</codeProduit>
+<prixProduit>488.0</prixProduit>
+<quantiteActuel>2002</quantiteActuel>
+<quantiteAlarme>183</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-07-28</dateModification>
+<auteurCreation>Adams</auteurCreation>
+<auteurModification>Alice
+</auteurModification>
+</row>
+<row idProduit="10272">
+<idAlarme>8086</idAlarme>
+<nomProduit>VIVELLEDOT 25ug/24h disp transderm</nomProduit>
+<codeProduit>82b466</codeProduit>
+<prixProduit>250.0</prixProduit>
+<quantiteActuel>2008</quantiteActuel>
+<quantiteAlarme>430</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Turner</auteurCreation>
+<auteurModification>Ruby
+</auteurModification>
+</row>
+<row idProduit="10273">
+<idAlarme>6013</idAlarme>
+<nomProduit>VIVELLEDOT 37,5ug/24h disp transderm</nomProduit>
+<codeProduit>060c1c</codeProduit>
+<prixProduit>1133.0</prixProduit>
+<quantiteActuel>1608</quantiteActuel>
+<quantiteAlarme>498</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-09-30</dateModification>
+<auteurCreation>Larsen</auteurCreation>
+<auteurModification>Emerald
+</auteurModification>
+</row>
+<row idProduit="10274">
+<idAlarme>8825</idAlarme>
+<nomProduit>VIVELLEDOT 50ug/24h disp transderm</nomProduit>
+<codeProduit>ef51e9</codeProduit>
+<prixProduit>1448.0</prixProduit>
+<quantiteActuel>2920</quantiteActuel>
+<quantiteAlarme>167</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-26</dateCreation>
+<dateModification>2010-06-23</dateModification>
+<auteurCreation>Higgins</auteurCreation>
+<auteurModification>Sebastian
+</auteurModification>
+</row>
+<row idProduit="10275">
+<idAlarme>1125</idAlarme>
+<nomProduit>VIVELLEDOT 75ug/24h disp transderm</nomProduit>
+<codeProduit>249776</codeProduit>
+<prixProduit>160.0</prixProduit>
+<quantiteActuel>2275</quantiteActuel>
+<quantiteAlarme>393</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-24</dateCreation>
+<dateModification>2010-08-01</dateModification>
+<auteurCreation>Higgins</auteurCreation>
+<auteurModification>Philip
+</auteurModification>
+</row>
+<row idProduit="10276">
+<idAlarme>1641</idAlarme>
+<nomProduit>VOCADYS pate a sucer</nomProduit>
+<codeProduit>630889</codeProduit>
+<prixProduit>309.0</prixProduit>
+<quantiteActuel>2581</quantiteActuel>
+<quantiteAlarme>232</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-06-23</dateModification>
+<auteurCreation>Dickson</auteurCreation>
+<auteurModification>Isabelle
+</auteurModification>
+</row>
+<row idProduit="10277">
+<idAlarme>954</idAlarme>
+<nomProduit>VOGALENE 0,1 % sol buv</nomProduit>
+<codeProduit>fa6fc0</codeProduit>
+<prixProduit>425.0</prixProduit>
+<quantiteActuel>1784</quantiteActuel>
+<quantiteAlarme>460</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-08-09</dateModification>
+<auteurCreation>Conley</auteurCreation>
+<auteurModification>Darrel
+</auteurModification>
+</row>
+<row idProduit="10278">
+<idAlarme>4473</idAlarme>
+<nomProduit>VOGALENE 0,4 % sol buv</nomProduit>
+<codeProduit>4dff23</codeProduit>
+<prixProduit>1220.0</prixProduit>
+<quantiteActuel>2237</quantiteActuel>
+<quantiteAlarme>445</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-10-04</dateModification>
+<auteurCreation>Estes</auteurCreation>
+<auteurModification>Porter
+</auteurModification>
+</row>
+<row idProduit="10279">
+<idAlarme>7768</idAlarme>
+<nomProduit>VOGALENE 10mg/1ml sol inj</nomProduit>
+<codeProduit>bc63ab</codeProduit>
+<prixProduit>1196.0</prixProduit>
+<quantiteActuel>2837</quantiteActuel>
+<quantiteAlarme>143</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-08-17</dateModification>
+<auteurCreation>George</auteurCreation>
+<auteurModification>Dora
+</auteurModification>
+</row>
+<row idProduit="10280">
+<idAlarme>619</idAlarme>
+<nomProduit>VOGALENE 15 mg gel</nomProduit>
+<codeProduit>9ce98f</codeProduit>
+<prixProduit>715.0</prixProduit>
+<quantiteActuel>2213</quantiteActuel>
+<quantiteAlarme>431</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-09-20</dateModification>
+<auteurCreation>Workman</auteurCreation>
+<auteurModification>Kimberly
+</auteurModification>
+</row>
+<row idProduit="10281">
+<idAlarme>6350</idAlarme>
+<nomProduit>VOGALENE 5mg suppos sec</nomProduit>
+<codeProduit>b124ff</codeProduit>
+<prixProduit>604.0</prixProduit>
+<quantiteActuel>2814</quantiteActuel>
+<quantiteAlarme>500</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-09-01</dateModification>
+<auteurCreation>Little</auteurCreation>
+<auteurModification>Rhea
+</auteurModification>
+</row>
+<row idProduit="10282">
+<idAlarme>9998</idAlarme>
+<nomProduit>VOGALENE LYOC 7,5 mg lyoph oral</nomProduit>
+<codeProduit>5f05a6</codeProduit>
+<prixProduit>1258.0</prixProduit>
+<quantiteActuel>1655</quantiteActuel>
+<quantiteAlarme>201</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-09-30</dateModification>
+<auteurCreation>Barron</auteurCreation>
+<auteurModification>Phillip
+</auteurModification>
+</row>
+<row idProduit="10283">
+<idAlarme>3587</idAlarme>
+<nomProduit>VOGALIB 7,5mg lyoph oral</nomProduit>
+<codeProduit>12db56</codeProduit>
+<prixProduit>565.0</prixProduit>
+<quantiteActuel>2011</quantiteActuel>
+<quantiteAlarme>259</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Cantu</auteurCreation>
+<auteurModification>Bruno
+</auteurModification>
+</row>
+<row idProduit="10284">
+<idAlarme>2051</idAlarme>
+<nomProduit>VOLIBRIS 10 mg cp pellic</nomProduit>
+<codeProduit>4c5131</codeProduit>
+<prixProduit>1173.0</prixProduit>
+<quantiteActuel>1939</quantiteActuel>
+<quantiteAlarme>231</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-09-15</dateModification>
+<auteurCreation>Brock</auteurCreation>
+<auteurModification>Ira
+</auteurModification>
+</row>
+<row idProduit="10285">
+<idAlarme>4715</idAlarme>
+<nomProduit>VOLIBRIS 5 mg cp pellic</nomProduit>
+<codeProduit>805a95</codeProduit>
+<prixProduit>837.0</prixProduit>
+<quantiteActuel>1689</quantiteActuel>
+<quantiteAlarme>490</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-09-30</dateModification>
+<auteurCreation>Kemp</auteurCreation>
+<auteurModification>Noel
+</auteurModification>
+</row>
+<row idProduit="10286">
+<idAlarme>9233</idAlarme>
+<nomProduit>VOLTAFLEX 625mg cp pellic</nomProduit>
+<codeProduit>b6e8ec</codeProduit>
+<prixProduit>943.0</prixProduit>
+<quantiteActuel>1977</quantiteActuel>
+<quantiteAlarme>482</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-08-31</dateModification>
+<auteurCreation>Soto</auteurCreation>
+<auteurModification>Bertha
+</auteurModification>
+</row>
+<row idProduit="10287">
+<idAlarme>126</idAlarme>
+<nomProduit>VOLTARENACTIGO 1 % gel en flacon pressurise</nomProduit>
+<codeProduit>127351</codeProduit>
+<prixProduit>1014.0</prixProduit>
+<quantiteActuel>2272</quantiteActuel>
+<quantiteAlarme>246</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-08-16</dateModification>
+<auteurCreation>Leblanc</auteurCreation>
+<auteurModification>Tiger
+</auteurModification>
+</row>
+<row idProduit="10288">
+<idAlarme>8246</idAlarme>
+<nomProduit>VOLTARENACTIGO 1% gel</nomProduit>
+<codeProduit>1e72a2</codeProduit>
+<prixProduit>1131.0</prixProduit>
+<quantiteActuel>2296</quantiteActuel>
+<quantiteAlarme>198</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-05</dateCreation>
+<dateModification>2010-08-28</dateModification>
+<auteurCreation>Elliott</auteurCreation>
+<auteurModification>Alden
+</auteurModification>
+</row>
+<row idProduit="10289">
+<idAlarme>4956</idAlarme>
+<nomProduit>VOLTARENDOLO 12,5mg cp enr</nomProduit>
+<codeProduit>b42a57</codeProduit>
+<prixProduit>1201.0</prixProduit>
+<quantiteActuel>2506</quantiteActuel>
+<quantiteAlarme>367</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-08-19</dateModification>
+<auteurCreation>Mckenzie</auteurCreation>
+<auteurModification>Salvador
+</auteurModification>
+</row>
+<row idProduit="10290">
+<idAlarme>1850</idAlarme>
+<nomProduit>VOLTARENE 0,1 % collyre</nomProduit>
+<codeProduit>930966</codeProduit>
+<prixProduit>641.0</prixProduit>
+<quantiteActuel>1848</quantiteActuel>
+<quantiteAlarme>163</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-06-28</dateModification>
+<auteurCreation>Aguirre</auteurCreation>
+<auteurModification>Stella
+</auteurModification>
+</row>
+<row idProduit="10291">
+<idAlarme>3656</idAlarme>
+<nomProduit>VOLTARENE 100 mg suppos</nomProduit>
+<codeProduit>b0ea6b</codeProduit>
+<prixProduit>705.0</prixProduit>
+<quantiteActuel>1677</quantiteActuel>
+<quantiteAlarme>226</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-08-20</dateModification>
+<auteurCreation>Nicholson</auteurCreation>
+<auteurModification>Curran
+</auteurModification>
+</row>
+<row idProduit="10292">
+<idAlarme>5677</idAlarme>
+<nomProduit>VOLTARENE 100mg cp enr LP</nomProduit>
+<codeProduit>29b6f3</codeProduit>
+<prixProduit>1005.0</prixProduit>
+<quantiteActuel>2416</quantiteActuel>
+<quantiteAlarme>356</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-07-15</dateModification>
+<auteurCreation>Alford</auteurCreation>
+<auteurModification>Wesley
+</auteurModification>
+</row>
+<row idProduit="10293">
+<idAlarme>145</idAlarme>
+<nomProduit>VOLTARENE 25 mg suppos</nomProduit>
+<codeProduit>ac40d0</codeProduit>
+<prixProduit>812.0</prixProduit>
+<quantiteActuel>1965</quantiteActuel>
+<quantiteAlarme>497</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-08-31</dateModification>
+<auteurCreation>Roman</auteurCreation>
+<auteurModification>Dillon
+</auteurModification>
+</row>
+<row idProduit="10294">
+<idAlarme>3354</idAlarme>
+<nomProduit>VOLTARENE 25mg cp enr gastroresis</nomProduit>
+<codeProduit>38699c</codeProduit>
+<prixProduit>1262.0</prixProduit>
+<quantiteActuel>2330</quantiteActuel>
+<quantiteAlarme>133</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-06-23</dateModification>
+<auteurCreation>Cortez</auteurCreation>
+<auteurModification>Zeph
+</auteurModification>
+</row>
+<row idProduit="10295">
+<idAlarme>4609</idAlarme>
+<nomProduit>VOLTARENE 50mg cp enr gastroresis</nomProduit>
+<codeProduit>ffef85</codeProduit>
+<prixProduit>917.0</prixProduit>
+<quantiteActuel>2924</quantiteActuel>
+<quantiteAlarme>356</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-07-16</dateModification>
+<auteurCreation>Moran</auteurCreation>
+<auteurModification>Dorian
+</auteurModification>
+</row>
+<row idProduit="10296">
+<idAlarme>7212</idAlarme>
+<nomProduit>VOLTARENE 75mg/3ml sol inj</nomProduit>
+<codeProduit>f6dab5</codeProduit>
+<prixProduit>1222.0</prixProduit>
+<quantiteActuel>2496</quantiteActuel>
+<quantiteAlarme>470</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-09-28</dateModification>
+<auteurCreation>Huffman</auteurCreation>
+<auteurModification>Whitney
+</auteurModification>
+</row>
+<row idProduit="10297">
+<idAlarme>9747</idAlarme>
+<nomProduit>VOLTARENE EMULGEL 1% gel flacon</nomProduit>
+<codeProduit>bd64e6</codeProduit>
+<prixProduit>293.0</prixProduit>
+<quantiteActuel>2025</quantiteActuel>
+<quantiteAlarme>296</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-27</dateCreation>
+<dateModification>2010-08-25</dateModification>
+<auteurCreation>Becker</auteurCreation>
+<auteurModification>Colton
+</auteurModification>
+</row>
+<row idProduit="10298">
+<idAlarme>2858</idAlarme>
+<nomProduit>VOLTARENE EMULGEL 1% gel tube</nomProduit>
+<codeProduit>439a6f</codeProduit>
+<prixProduit>541.0</prixProduit>
+<quantiteActuel>2697</quantiteActuel>
+<quantiteAlarme>364</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-08-23</dateModification>
+<auteurCreation>Bradshaw</auteurCreation>
+<auteurModification>Chase
+</auteurModification>
+</row>
+<row idProduit="10299">
+<idAlarme>9252</idAlarme>
+<nomProduit>VOLTARENE LP 75 mg cp enr LP</nomProduit>
+<codeProduit>f2064d</codeProduit>
+<prixProduit>1081.0</prixProduit>
+<quantiteActuel>1868</quantiteActuel>
+<quantiteAlarme>345</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Navarro</auteurCreation>
+<auteurModification>Iola
+</auteurModification>
+</row>
+<row idProduit="10300">
+<idAlarme>9881</idAlarme>
+<nomProduit>VOLTARENPLAST 1 % emplatre medicamenteux</nomProduit>
+<codeProduit>bfd974</codeProduit>
+<prixProduit>755.0</prixProduit>
+<quantiteActuel>1599</quantiteActuel>
+<quantiteAlarme>116</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-07-26</dateModification>
+<auteurCreation>Hutchinson</auteurCreation>
+<auteurModification>Kenneth
+</auteurModification>
+</row>
+<row idProduit="10301">
+<idAlarme>5720</idAlarme>
+<nomProduit>VOLUVEN sol p perf</nomProduit>
+<codeProduit>74d3bc</codeProduit>
+<prixProduit>321.0</prixProduit>
+<quantiteActuel>2749</quantiteActuel>
+<quantiteAlarme>315</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-09-28</dateModification>
+<auteurCreation>Puckett</auteurCreation>
+<auteurModification>Mira
+</auteurModification>
+</row>
+<row idProduit="10302">
+<idAlarme>5311</idAlarme>
+<nomProduit>VOTRIENT 200 mg cp pellic</nomProduit>
+<codeProduit>efbc57</codeProduit>
+<prixProduit>997.0</prixProduit>
+<quantiteActuel>1823</quantiteActuel>
+<quantiteAlarme>477</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>House</auteurCreation>
+<auteurModification>Aquila
+</auteurModification>
+</row>
+<row idProduit="10303">
+<idAlarme>8018</idAlarme>
+<nomProduit>VOTRIENT 400 mg cp pellic</nomProduit>
+<codeProduit>46db22</codeProduit>
+<prixProduit>1434.0</prixProduit>
+<quantiteActuel>2155</quantiteActuel>
+<quantiteAlarme>439</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>Lee</auteurCreation>
+<auteurModification>Eleanor
+</auteurModification>
+</row>
+<row idProduit="10304">
+<idAlarme>5436</idAlarme>
+<nomProduit>VOXPAX cp</nomProduit>
+<codeProduit>7ad93c</codeProduit>
+<prixProduit>703.0</prixProduit>
+<quantiteActuel>2743</quantiteActuel>
+<quantiteAlarme>371</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-03</dateCreation>
+<dateModification>2010-07-02</dateModification>
+<auteurCreation>Moody</auteurCreation>
+<auteurModification>Brielle
+</auteurModification>
+</row>
+<row idProduit="10305">
+<idAlarme>7528</idAlarme>
+<nomProduit>VOXYL past</nomProduit>
+<codeProduit>d9612b</codeProduit>
+<prixProduit>359.0</prixProduit>
+<quantiteActuel>2522</quantiteActuel>
+<quantiteAlarme>401</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Oconnor</auteurCreation>
+<auteurModification>Arden
+</auteurModification>
+</row>
+<row idProduit="10306">
+<idAlarme>10382</idAlarme>
+<nomProduit>VPRIV 400 U pdre p sol p perf</nomProduit>
+<codeProduit>17d990</codeProduit>
+<prixProduit>1073.0</prixProduit>
+<quantiteActuel>1832</quantiteActuel>
+<quantiteAlarme>223</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-08-09</dateModification>
+<auteurCreation>Woods</auteurCreation>
+<auteurModification>Susan
+</auteurModification>
+</row>
+<row idProduit="10307">
+<idAlarme>7177</idAlarme>
+<nomProduit>VULCASE 9 mg cp enr</nomProduit>
+<codeProduit>370e21</codeProduit>
+<prixProduit>614.0</prixProduit>
+<quantiteActuel>2577</quantiteActuel>
+<quantiteAlarme>338</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-08-28</dateModification>
+<auteurCreation>Miller</auteurCreation>
+<auteurModification>Garrett
+</auteurModification>
+</row>
+</root>

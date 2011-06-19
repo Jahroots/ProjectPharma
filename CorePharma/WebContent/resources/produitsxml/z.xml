@@ -1,0 +1,2438 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<root>
+<row idProduit="10383">
+<idAlarme>4261</idAlarme>
+<nomProduit>ZADITEN 0,25 mg/ml collyre en unidose</nomProduit>
+<codeProduit>fdbdd1</codeProduit>
+<prixProduit>223.0</prixProduit>
+<quantiteActuel>2667</quantiteActuel>
+<quantiteAlarme>127</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-09-06</dateModification>
+<auteurCreation>Alvarez</auteurCreation>
+<auteurModification>Maia
+</auteurModification>
+</row>
+<row idProduit="10384">
+<idAlarme>10194</idAlarme>
+<nomProduit>ZADITEN 0,25mg/ml collyre en sol</nomProduit>
+<codeProduit>2444cd</codeProduit>
+<prixProduit>424.0</prixProduit>
+<quantiteActuel>2242</quantiteActuel>
+<quantiteAlarme>176</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-08-07</dateModification>
+<auteurCreation>Villarreal</auteurCreation>
+<auteurModification>Veda
+</auteurModification>
+</row>
+<row idProduit="10385">
+<idAlarme>925</idAlarme>
+<nomProduit>ZADITEN 1 mg gel</nomProduit>
+<codeProduit>5fad7a</codeProduit>
+<prixProduit>953.0</prixProduit>
+<quantiteActuel>1938</quantiteActuel>
+<quantiteAlarme>224</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-10</dateCreation>
+<dateModification>2010-07-14</dateModification>
+<auteurCreation>Randall</auteurCreation>
+<auteurModification>Paula
+</auteurModification>
+</row>
+<row idProduit="10386">
+<idAlarme>582</idAlarme>
+<nomProduit>ZADITEN 1mg/5ml sol buv</nomProduit>
+<codeProduit>c2e513</codeProduit>
+<prixProduit>1329.0</prixProduit>
+<quantiteActuel>1526</quantiteActuel>
+<quantiteAlarme>366</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-07-01</dateModification>
+<auteurCreation>Burks</auteurCreation>
+<auteurModification>Addison
+</auteurModification>
+</row>
+<row idProduit="10387">
+<idAlarme>7955</idAlarme>
+<nomProduit>ZADITEN LP 2 mg cp LP</nomProduit>
+<codeProduit>5b78fa</codeProduit>
+<prixProduit>1181.0</prixProduit>
+<quantiteActuel>2900</quantiteActuel>
+<quantiteAlarme>441</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-07-21</dateModification>
+<auteurCreation>Salinas</auteurCreation>
+<auteurModification>Phoebe
+</auteurModification>
+</row>
+<row idProduit="10388">
+<idAlarme>4492</idAlarme>
+<nomProduit>ZALDIAR 37,5 mg/325 mg cp efferv</nomProduit>
+<codeProduit>af9178</codeProduit>
+<prixProduit>603.0</prixProduit>
+<quantiteActuel>2756</quantiteActuel>
+<quantiteAlarme>416</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-07-06</dateModification>
+<auteurCreation>Ortiz</auteurCreation>
+<auteurModification>Burke
+</auteurModification>
+</row>
+<row idProduit="10389">
+<idAlarme>2877</idAlarme>
+<nomProduit>ZALDIAR 37,5mg/325mg cp pellic</nomProduit>
+<codeProduit>74ae6c</codeProduit>
+<prixProduit>1379.0</prixProduit>
+<quantiteActuel>2733</quantiteActuel>
+<quantiteAlarme>111</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-09-30</dateModification>
+<auteurCreation>Palmer</auteurCreation>
+<auteurModification>Caleb
+</auteurModification>
+</row>
+<row idProduit="10390">
+<idAlarme>272</idAlarme>
+<nomProduit>ZALERG 0,25 mg/ml collyre sol</nomProduit>
+<codeProduit>eff013</codeProduit>
+<prixProduit>1107.0</prixProduit>
+<quantiteActuel>1813</quantiteActuel>
+<quantiteAlarme>262</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-09</dateCreation>
+<dateModification>2010-09-29</dateModification>
+<auteurCreation>Gray</auteurCreation>
+<auteurModification>Savannah
+</auteurModification>
+</row>
+<row idProduit="10391">
+<idAlarme>1155</idAlarme>
+<nomProduit>ZAMUDOL LP 100 mg gel LP</nomProduit>
+<codeProduit>49de24</codeProduit>
+<prixProduit>292.0</prixProduit>
+<quantiteActuel>2626</quantiteActuel>
+<quantiteAlarme>462</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Rocha</auteurCreation>
+<auteurModification>Elton
+</auteurModification>
+</row>
+<row idProduit="10392">
+<idAlarme>5532</idAlarme>
+<nomProduit>ZAMUDOL LP 150 mg gel LP</nomProduit>
+<codeProduit>2ae6f8</codeProduit>
+<prixProduit>1395.0</prixProduit>
+<quantiteActuel>2558</quantiteActuel>
+<quantiteAlarme>292</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Ward</auteurCreation>
+<auteurModification>Allistair
+</auteurModification>
+</row>
+<row idProduit="10393">
+<idAlarme>768</idAlarme>
+<nomProduit>ZAMUDOL LP 200mg gel LP</nomProduit>
+<codeProduit>65d144</codeProduit>
+<prixProduit>1483.0</prixProduit>
+<quantiteActuel>2683</quantiteActuel>
+<quantiteAlarme>147</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Copeland</auteurCreation>
+<auteurModification>Dean
+</auteurModification>
+</row>
+<row idProduit="10394">
+<idAlarme>600</idAlarme>
+<nomProduit>ZAMUDOL LP 50 mg gel LP</nomProduit>
+<codeProduit>f78bdb</codeProduit>
+<prixProduit>1017.0</prixProduit>
+<quantiteActuel>2669</quantiteActuel>
+<quantiteAlarme>228</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-05</dateCreation>
+<dateModification>2010-08-20</dateModification>
+<auteurCreation>Cunningham</auteurCreation>
+<auteurModification>Lana
+</auteurModification>
+</row>
+<row idProduit="10395">
+<idAlarme>684</idAlarme>
+<nomProduit>ZANEXTRA 20 mg/10 mg cp pellic</nomProduit>
+<codeProduit>d04642</codeProduit>
+<prixProduit>674.0</prixProduit>
+<quantiteActuel>2499</quantiteActuel>
+<quantiteAlarme>386</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-08-20</dateModification>
+<auteurCreation>Frye</auteurCreation>
+<auteurModification>Ursa
+</auteurModification>
+</row>
+<row idProduit="10396">
+<idAlarme>10345</idAlarme>
+<nomProduit>ZANIDIP 10mg cp pellic sec</nomProduit>
+<codeProduit>dd12f1</codeProduit>
+<prixProduit>231.0</prixProduit>
+<quantiteActuel>1702</quantiteActuel>
+<quantiteAlarme>169</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-08</dateCreation>
+<dateModification>2010-06-23</dateModification>
+<auteurCreation>Willis</auteurCreation>
+<auteurModification>Caleb
+</auteurModification>
+</row>
+<row idProduit="10397">
+<idAlarme>8782</idAlarme>
+<nomProduit>ZANIDIP 20mg cp pellic</nomProduit>
+<codeProduit>b2d7b0</codeProduit>
+<prixProduit>362.0</prixProduit>
+<quantiteActuel>1667</quantiteActuel>
+<quantiteAlarme>482</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-08-13</dateModification>
+<auteurCreation>Meyers</auteurCreation>
+<auteurModification>Mari
+</auteurModification>
+</row>
+<row idProduit="10398">
+<idAlarme>6517</idAlarme>
+<nomProduit>ZANOSAR lyoph p us parenter</nomProduit>
+<codeProduit>5577eb</codeProduit>
+<prixProduit>1412.0</prixProduit>
+<quantiteActuel>2908</quantiteActuel>
+<quantiteAlarme>402</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-07-18</dateModification>
+<auteurCreation>Carter</auteurCreation>
+<auteurModification>Azalia
+</auteurModification>
+</row>
+<row idProduit="10399">
+<idAlarme>7534</idAlarme>
+<nomProduit>ZAPRILIS 10 mg cp</nomProduit>
+<codeProduit>6aedef</codeProduit>
+<prixProduit>661.0</prixProduit>
+<quantiteActuel>1521</quantiteActuel>
+<quantiteAlarme>365</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-08-21</dateModification>
+<auteurCreation>Dickerson</auteurCreation>
+<auteurModification>MacKensie
+</auteurModification>
+</row>
+<row idProduit="10400">
+<idAlarme>127</idAlarme>
+<nomProduit>ZARONTIN 250mg/5ml sirop</nomProduit>
+<codeProduit>5067a9</codeProduit>
+<prixProduit>1216.0</prixProduit>
+<quantiteActuel>2436</quantiteActuel>
+<quantiteAlarme>361</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Alvarez</auteurCreation>
+<auteurModification>Justin
+</auteurModification>
+</row>
+<row idProduit="10401">
+<idAlarme>4157</idAlarme>
+<nomProduit>ZARZIO 30 MU/0,5 ml sol inj p perf</nomProduit>
+<codeProduit>0743af</codeProduit>
+<prixProduit>512.0</prixProduit>
+<quantiteActuel>2928</quantiteActuel>
+<quantiteAlarme>461</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-09-04</dateModification>
+<auteurCreation>Greene</auteurCreation>
+<auteurModification>Cassidy
+</auteurModification>
+</row>
+<row idProduit="10402">
+<idAlarme>7134</idAlarme>
+<nomProduit>ZARZIO 48 MU/0,5 ml sol inj p perf</nomProduit>
+<codeProduit>1be6b9</codeProduit>
+<prixProduit>910.0</prixProduit>
+<quantiteActuel>2750</quantiteActuel>
+<quantiteAlarme>136</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-08-01</dateModification>
+<auteurCreation>Strong</auteurCreation>
+<auteurModification>Olivia
+</auteurModification>
+</row>
+<row idProduit="10403">
+<idAlarme>6857</idAlarme>
+<nomProduit>ZAVEDOS 10 mg gel</nomProduit>
+<codeProduit>e04745</codeProduit>
+<prixProduit>199.0</prixProduit>
+<quantiteActuel>2754</quantiteActuel>
+<quantiteAlarme>325</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-11</dateCreation>
+<dateModification>2010-10-06</dateModification>
+<auteurCreation>Clemons</auteurCreation>
+<auteurModification>Wyatt
+</auteurModification>
+</row>
+<row idProduit="10404">
+<idAlarme>3579</idAlarme>
+<nomProduit>ZAVEDOS 10mg pdre p sol p perf</nomProduit>
+<codeProduit>efd648</codeProduit>
+<prixProduit>256.0</prixProduit>
+<quantiteActuel>2248</quantiteActuel>
+<quantiteAlarme>349</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-06-30</dateModification>
+<auteurCreation>Bartlett</auteurCreation>
+<auteurModification>Herrod
+</auteurModification>
+</row>
+<row idProduit="10405">
+<idAlarme>1078</idAlarme>
+<nomProduit>ZAVEDOS 25 mg gel</nomProduit>
+<codeProduit>7caa79</codeProduit>
+<prixProduit>1479.0</prixProduit>
+<quantiteActuel>2251</quantiteActuel>
+<quantiteAlarme>199</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-09-17</dateModification>
+<auteurCreation>Clemons</auteurCreation>
+<auteurModification>Iola
+</auteurModification>
+</row>
+<row idProduit="10406">
+<idAlarme>7401</idAlarme>
+<nomProduit>ZAVEDOS 5 mg gel</nomProduit>
+<codeProduit>7ebfe4</codeProduit>
+<prixProduit>1254.0</prixProduit>
+<quantiteActuel>2116</quantiteActuel>
+<quantiteAlarme>421</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-07-28</dateModification>
+<auteurCreation>Mack</auteurCreation>
+<auteurModification>Kirestin
+</auteurModification>
+</row>
+<row idProduit="10407">
+<idAlarme>10201</idAlarme>
+<nomProduit>ZAVEDOS 5mg pdre p sol p perf</nomProduit>
+<codeProduit>63c108</codeProduit>
+<prixProduit>907.0</prixProduit>
+<quantiteActuel>1647</quantiteActuel>
+<quantiteAlarme>121</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Reed</auteurCreation>
+<auteurModification>Dale
+</auteurModification>
+</row>
+<row idProduit="10408">
+<idAlarme>1897</idAlarme>
+<nomProduit>ZAVESCA 100mg gel</nomProduit>
+<codeProduit>664635</codeProduit>
+<prixProduit>1353.0</prixProduit>
+<quantiteActuel>1562</quantiteActuel>
+<quantiteAlarme>188</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Pitts</auteurCreation>
+<auteurModification>Hedy
+</auteurModification>
+</row>
+<row idProduit="10409">
+<idAlarme>8453</idAlarme>
+<nomProduit>ZECLAR 0,5g pdre p sol p perf</nomProduit>
+<codeProduit>45830d</codeProduit>
+<prixProduit>602.0</prixProduit>
+<quantiteActuel>2381</quantiteActuel>
+<quantiteAlarme>438</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-06-29</dateModification>
+<auteurCreation>Cohen</auteurCreation>
+<auteurModification>Naomi
+</auteurModification>
+</row>
+<row idProduit="10410">
+<idAlarme>6987</idAlarme>
+<nomProduit>ZECLAR 250mg cp pellic</nomProduit>
+<codeProduit>f0e0c4</codeProduit>
+<prixProduit>1464.0</prixProduit>
+<quantiteActuel>2902</quantiteActuel>
+<quantiteAlarme>365</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-08-27</dateModification>
+<auteurCreation>Valenzuela</auteurCreation>
+<auteurModification>Mufutau
+</auteurModification>
+</row>
+<row idProduit="10411">
+<idAlarme>2721</idAlarme>
+<nomProduit>ZECLAR 25mg/ml gle p susp buv</nomProduit>
+<codeProduit>b6239a</codeProduit>
+<prixProduit>223.0</prixProduit>
+<quantiteActuel>2637</quantiteActuel>
+<quantiteAlarme>231</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-08</dateCreation>
+<dateModification>2010-08-12</dateModification>
+<auteurCreation>Sherman</auteurCreation>
+<auteurModification>Melvin
+</auteurModification>
+</row>
+<row idProduit="10412">
+<idAlarme>2669</idAlarme>
+<nomProduit>ZECLAR 500mg cp pellic</nomProduit>
+<codeProduit>1eb100</codeProduit>
+<prixProduit>1220.0</prixProduit>
+<quantiteActuel>2095</quantiteActuel>
+<quantiteAlarme>270</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-09-08</dateModification>
+<auteurCreation>Gates</auteurCreation>
+<auteurModification>Odysseus
+</auteurModification>
+</row>
+<row idProduit="10413">
+<idAlarme>8797</idAlarme>
+<nomProduit>ZECLAR 50mg/ml gle p susp buv</nomProduit>
+<codeProduit>2b50b2</codeProduit>
+<prixProduit>1306.0</prixProduit>
+<quantiteActuel>2641</quantiteActuel>
+<quantiteAlarme>498</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Chaney</auteurCreation>
+<auteurModification>Yvette
+</auteurModification>
+</row>
+<row idProduit="10414">
+<idAlarme>285</idAlarme>
+<nomProduit>ZEFFIX 100mg cp pellic</nomProduit>
+<codeProduit>0c0414</codeProduit>
+<prixProduit>262.0</prixProduit>
+<quantiteActuel>1574</quantiteActuel>
+<quantiteAlarme>180</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-07-18</dateModification>
+<auteurCreation>Williams</auteurCreation>
+<auteurModification>Maryam
+</auteurModification>
+</row>
+<row idProduit="10415">
+<idAlarme>6518</idAlarme>
+<nomProduit>ZEFFIX 5 mg/ml sol buv</nomProduit>
+<codeProduit>95ba2a</codeProduit>
+<prixProduit>909.0</prixProduit>
+<quantiteActuel>2546</quantiteActuel>
+<quantiteAlarme>455</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-09-04</dateModification>
+<auteurCreation>King</auteurCreation>
+<auteurModification>Quinlan
+</auteurModification>
+</row>
+<row idProduit="10416">
+<idAlarme>8204</idAlarme>
+<nomProduit>ZELITREX 500mg cp enr</nomProduit>
+<codeProduit>b6bc9a</codeProduit>
+<prixProduit>681.0</prixProduit>
+<quantiteActuel>2597</quantiteActuel>
+<quantiteAlarme>335</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Delgado</auteurCreation>
+<auteurModification>Emery
+</auteurModification>
+</row>
+<row idProduit="10417">
+<idAlarme>461</idAlarme>
+<nomProduit>ZENALIA cp subling</nomProduit>
+<codeProduit>36121b</codeProduit>
+<prixProduit>498.0</prixProduit>
+<quantiteActuel>1548</quantiteActuel>
+<quantiteAlarme>450</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-02</dateCreation>
+<dateModification>2010-09-30</dateModification>
+<auteurCreation>Mccoy</auteurCreation>
+<auteurModification>Avye
+</auteurModification>
+</row>
+<row idProduit="10418">
+<idAlarme>8077</idAlarme>
+<nomProduit>ZENTEL 0,4g/10ml susp buv</nomProduit>
+<codeProduit>1e2d0c</codeProduit>
+<prixProduit>921.0</prixProduit>
+<quantiteActuel>1643</quantiteActuel>
+<quantiteAlarme>313</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-09-20</dateModification>
+<auteurCreation>Carson</auteurCreation>
+<auteurModification>Donovan
+</auteurModification>
+</row>
+<row idProduit="10419">
+<idAlarme>6749</idAlarme>
+<nomProduit>ZENTEL 400mg cp</nomProduit>
+<codeProduit>ec5b61</codeProduit>
+<prixProduit>596.0</prixProduit>
+<quantiteActuel>2077</quantiteActuel>
+<quantiteAlarme>470</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-09-12</dateModification>
+<auteurCreation>Roberson</auteurCreation>
+<auteurModification>Francesca
+</auteurModification>
+</row>
+<row idProduit="10420">
+<idAlarme>4976</idAlarme>
+<nomProduit>ZERIT 20 mg gel</nomProduit>
+<codeProduit>715fac</codeProduit>
+<prixProduit>880.0</prixProduit>
+<quantiteActuel>2753</quantiteActuel>
+<quantiteAlarme>372</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-09-14</dateModification>
+<auteurCreation>Fox</auteurCreation>
+<auteurModification>Marshall
+</auteurModification>
+</row>
+<row idProduit="10421">
+<idAlarme>8187</idAlarme>
+<nomProduit>ZERIT 200mg pdre p susp buv</nomProduit>
+<codeProduit>aaf08f</codeProduit>
+<prixProduit>329.0</prixProduit>
+<quantiteActuel>2752</quantiteActuel>
+<quantiteAlarme>300</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-29</dateCreation>
+<dateModification>2010-07-15</dateModification>
+<auteurCreation>Gill</auteurCreation>
+<auteurModification>Ann
+</auteurModification>
+</row>
+<row idProduit="10422">
+<idAlarme>3643</idAlarme>
+<nomProduit>ZERIT 30 mg gel</nomProduit>
+<codeProduit>a3877c</codeProduit>
+<prixProduit>162.0</prixProduit>
+<quantiteActuel>2878</quantiteActuel>
+<quantiteAlarme>354</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Barrett</auteurCreation>
+<auteurModification>Nicole
+</auteurModification>
+</row>
+<row idProduit="10423">
+<idAlarme>4402</idAlarme>
+<nomProduit>ZERIT 40 mg gel</nomProduit>
+<codeProduit>31099b</codeProduit>
+<prixProduit>1043.0</prixProduit>
+<quantiteActuel>2119</quantiteActuel>
+<quantiteAlarme>366</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Aguilar</auteurCreation>
+<auteurModification>Darius
+</auteurModification>
+</row>
+<row idProduit="10424">
+<idAlarme>5851</idAlarme>
+<nomProduit>ZESTORETIC 20 mg/12,5 mg cp sec</nomProduit>
+<codeProduit>fda556</codeProduit>
+<prixProduit>1137.0</prixProduit>
+<quantiteActuel>1957</quantiteActuel>
+<quantiteAlarme>443</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-10-06</dateModification>
+<auteurCreation>Lee</auteurCreation>
+<auteurModification>Kiayada
+</auteurModification>
+</row>
+<row idProduit="10425">
+<idAlarme>9211</idAlarme>
+<nomProduit>ZESTRIL 20 mg cp</nomProduit>
+<codeProduit>9086b3</codeProduit>
+<prixProduit>1494.0</prixProduit>
+<quantiteActuel>1723</quantiteActuel>
+<quantiteAlarme>205</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-10-06</dateModification>
+<auteurCreation>Parsons</auteurCreation>
+<auteurModification>Heidi
+</auteurModification>
+</row>
+<row idProduit="10426">
+<idAlarme>7766</idAlarme>
+<nomProduit>ZESTRIL 5 mg cp sec</nomProduit>
+<codeProduit>fc476a</codeProduit>
+<prixProduit>1294.0</prixProduit>
+<quantiteActuel>2992</quantiteActuel>
+<quantiteAlarme>112</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-07-02</dateModification>
+<auteurCreation>Contreras</auteurCreation>
+<auteurModification>Aaron
+</auteurModification>
+</row>
+<row idProduit="10427">
+<idAlarme>5746</idAlarme>
+<nomProduit>ZEVALIN 1,6 mg/ml trousse p prep radiopharma</nomProduit>
+<codeProduit>0c5ba9</codeProduit>
+<prixProduit>432.0</prixProduit>
+<quantiteActuel>2405</quantiteActuel>
+<quantiteAlarme>248</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-07-03</dateModification>
+<auteurCreation>Lucas</auteurCreation>
+<auteurModification>Henry
+</auteurModification>
+</row>
+<row idProduit="10428">
+<idAlarme>7860</idAlarme>
+<nomProduit>ZIACAINE 20 mg/ml ADRENALINEE au 1/80 000 sol inj p us dent</nomProduit>
+<codeProduit>675e25</codeProduit>
+<prixProduit>1237.0</prixProduit>
+<quantiteActuel>2625</quantiteActuel>
+<quantiteAlarme>100</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-08-20</dateModification>
+<auteurCreation>Paul</auteurCreation>
+<auteurModification>Lilah
+</auteurModification>
+</row>
+<row idProduit="10429">
+<idAlarme>7163</idAlarme>
+<nomProduit>ZIACAINE 20 mg/ml NORADRENALINEE au 1/25 000 sol inj p us dent</nomProduit>
+<codeProduit>1fcc7c</codeProduit>
+<prixProduit>1062.0</prixProduit>
+<quantiteActuel>2730</quantiteActuel>
+<quantiteAlarme>492</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-29</dateCreation>
+<dateModification>2010-08-12</dateModification>
+<auteurCreation>Bush</auteurCreation>
+<auteurModification>Keiko
+</auteurModification>
+</row>
+<row idProduit="10430">
+<idAlarme>4280</idAlarme>
+<nomProduit>ZIACAINE 30 mg/ml NORADRENALINEE au 1/25 000 sol inj p us dent</nomProduit>
+<codeProduit>1cb765</codeProduit>
+<prixProduit>1026.0</prixProduit>
+<quantiteActuel>2527</quantiteActuel>
+<quantiteAlarme>229</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-21</dateCreation>
+<dateModification>2010-08-25</dateModification>
+<auteurCreation>Weber</auteurCreation>
+<auteurModification>Porter
+</auteurModification>
+</row>
+<row idProduit="10431">
+<idAlarme>1214</idAlarme>
+<nomProduit>ZIACAINE compres impreg</nomProduit>
+<codeProduit>9f2f24</codeProduit>
+<prixProduit>1219.0</prixProduit>
+<quantiteActuel>2702</quantiteActuel>
+<quantiteAlarme>225</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-08-12</dateModification>
+<auteurCreation>Sampson</auteurCreation>
+<auteurModification>Amena
+</auteurModification>
+</row>
+<row idProduit="10432">
+<idAlarme>2756</idAlarme>
+<nomProduit>ZIACAINE sol p us dent</nomProduit>
+<codeProduit>7b093d</codeProduit>
+<prixProduit>1001.0</prixProduit>
+<quantiteActuel>2780</quantiteActuel>
+<quantiteAlarme>422</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Boyle</auteurCreation>
+<auteurModification>Jada
+</auteurModification>
+</row>
+<row idProduit="10433">
+<idAlarme>394</idAlarme>
+<nomProduit>ZIACAINE sol p us dent en flacon pulverisateur</nomProduit>
+<codeProduit>382ff7</codeProduit>
+<prixProduit>1266.0</prixProduit>
+<quantiteActuel>2111</quantiteActuel>
+<quantiteAlarme>259</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-07-18</dateModification>
+<auteurCreation>Gordon</auteurCreation>
+<auteurModification>Magee
+</auteurModification>
+</row>
+<row idProduit="10434">
+<idAlarme>3412</idAlarme>
+<nomProduit>ZIAGEL gel gingiv adulte</nomProduit>
+<codeProduit>b023dd</codeProduit>
+<prixProduit>329.0</prixProduit>
+<quantiteActuel>2585</quantiteActuel>
+<quantiteAlarme>346</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-10-06</dateModification>
+<auteurCreation>Rasmussen</auteurCreation>
+<auteurModification>Ivory
+</auteurModification>
+</row>
+<row idProduit="10435">
+<idAlarme>7631</idAlarme>
+<nomProduit>ZIAGEL gel gingiv enfant</nomProduit>
+<codeProduit>3a2382</codeProduit>
+<prixProduit>941.0</prixProduit>
+<quantiteActuel>1784</quantiteActuel>
+<quantiteAlarme>288</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Newton</auteurCreation>
+<auteurModification>Henry
+</auteurModification>
+</row>
+<row idProduit="10436">
+<idAlarme>8682</idAlarme>
+<nomProduit>ZIAGEN 20mg/ml sol buv</nomProduit>
+<codeProduit>d83659</codeProduit>
+<prixProduit>251.0</prixProduit>
+<quantiteActuel>2933</quantiteActuel>
+<quantiteAlarme>246</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Strong</auteurCreation>
+<auteurModification>Quentin
+</auteurModification>
+</row>
+<row idProduit="10437">
+<idAlarme>3089</idAlarme>
+<nomProduit>ZIAGEN 300mg cp pellic</nomProduit>
+<codeProduit>431f12</codeProduit>
+<prixProduit>150.0</prixProduit>
+<quantiteActuel>2753</quantiteActuel>
+<quantiteAlarme>421</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-08-25</dateModification>
+<auteurCreation>Hobbs</auteurCreation>
+<auteurModification>Lamar
+</auteurModification>
+</row>
+<row idProduit="10438">
+<idAlarme>10112</idAlarme>
+<nomProduit>ZIKIALE 30 ug/150 ug cp pellic</nomProduit>
+<codeProduit>3e317d</codeProduit>
+<prixProduit>1451.0</prixProduit>
+<quantiteActuel>2847</quantiteActuel>
+<quantiteAlarme>402</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-06-22</dateModification>
+<auteurCreation>Washington</auteurCreation>
+<auteurModification>Maite
+</auteurModification>
+</row>
+<row idProduit="10439">
+<idAlarme>4871</idAlarme>
+<nomProduit>ZINC INJECTABLE A sol p perf</nomProduit>
+<codeProduit>ea88dc</codeProduit>
+<prixProduit>684.0</prixProduit>
+<quantiteActuel>1907</quantiteActuel>
+<quantiteAlarme>443</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-27</dateCreation>
+<dateModification>2010-10-05</dateModification>
+<auteurCreation>Hull</auteurCreation>
+<auteurModification>Ali
+</auteurModification>
+</row>
+<row idProduit="10440">
+<idAlarme>6836</idAlarme>
+<nomProduit>ZINDACLINE 1% gel</nomProduit>
+<codeProduit>d151a0</codeProduit>
+<prixProduit>288.0</prixProduit>
+<quantiteActuel>1839</quantiteActuel>
+<quantiteAlarme>136</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-08-03</dateModification>
+<auteurCreation>Conrad</auteurCreation>
+<auteurModification>Moana
+</auteurModification>
+</row>
+<row idProduit="10441">
+<idAlarme>3041</idAlarme>
+<nomProduit>ZINNAT 1,5g pdre p sol p perf</nomProduit>
+<codeProduit>e3c1a0</codeProduit>
+<prixProduit>485.0</prixProduit>
+<quantiteActuel>2624</quantiteActuel>
+<quantiteAlarme>159</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-08-14</dateModification>
+<auteurCreation>Gay</auteurCreation>
+<auteurModification>Shaeleigh
+</auteurModification>
+</row>
+<row idProduit="10442">
+<idAlarme>2935</idAlarme>
+<nomProduit>ZINNAT 125mg cp pellic</nomProduit>
+<codeProduit>ab4216</codeProduit>
+<prixProduit>1060.0</prixProduit>
+<quantiteActuel>2573</quantiteActuel>
+<quantiteAlarme>438</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-09-12</dateModification>
+<auteurCreation>Horton</auteurCreation>
+<auteurModification>Felicia
+</auteurModification>
+</row>
+<row idProduit="10443">
+<idAlarme>9762</idAlarme>
+<nomProduit>ZINNAT 125mg gle p susp buv</nomProduit>
+<codeProduit>8837dc</codeProduit>
+<prixProduit>1200.0</prixProduit>
+<quantiteActuel>2407</quantiteActuel>
+<quantiteAlarme>491</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-09-04</dateModification>
+<auteurCreation>Mills</auteurCreation>
+<auteurModification>Jaime
+</auteurModification>
+</row>
+<row idProduit="10444">
+<idAlarme>4803</idAlarme>
+<nomProduit>ZINNAT 125mg/5ml gle p susp buv</nomProduit>
+<codeProduit>04d16c</codeProduit>
+<prixProduit>613.0</prixProduit>
+<quantiteActuel>2389</quantiteActuel>
+<quantiteAlarme>438</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-31</dateCreation>
+<dateModification>2010-07-29</dateModification>
+<auteurCreation>Chase</auteurCreation>
+<auteurModification>Ryder
+</auteurModification>
+</row>
+<row idProduit="10445">
+<idAlarme>3880</idAlarme>
+<nomProduit>ZINNAT 250 mg pdre p sol inj IM IV</nomProduit>
+<codeProduit>54e505</codeProduit>
+<prixProduit>1075.0</prixProduit>
+<quantiteActuel>1703</quantiteActuel>
+<quantiteAlarme>300</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-06-17</dateModification>
+<auteurCreation>Nixon</auteurCreation>
+<auteurModification>Aurora
+</auteurModification>
+</row>
+<row idProduit="10446">
+<idAlarme>7945</idAlarme>
+<nomProduit>ZINNAT 250mg cp pellic</nomProduit>
+<codeProduit>c20de8</codeProduit>
+<prixProduit>1317.0</prixProduit>
+<quantiteActuel>2393</quantiteActuel>
+<quantiteAlarme>268</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-07-20</dateModification>
+<auteurCreation>Church</auteurCreation>
+<auteurModification>Arden
+</auteurModification>
+</row>
+<row idProduit="10447">
+<idAlarme>2178</idAlarme>
+<nomProduit>ZINNAT 500mg cp pellic</nomProduit>
+<codeProduit>4caf85</codeProduit>
+<prixProduit>549.0</prixProduit>
+<quantiteActuel>1970</quantiteActuel>
+<quantiteAlarme>361</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-27</dateCreation>
+<dateModification>2010-10-05</dateModification>
+<auteurCreation>Leonard</auteurCreation>
+<auteurModification>Nerea
+</auteurModification>
+</row>
+<row idProduit="10448">
+<idAlarme>4895</idAlarme>
+<nomProduit>ZINNAT 750 mg pdre p sol inj IM IV</nomProduit>
+<codeProduit>b4d452</codeProduit>
+<prixProduit>1480.0</prixProduit>
+<quantiteActuel>1515</quantiteActuel>
+<quantiteAlarme>220</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-06-29</dateModification>
+<auteurCreation>Knox</auteurCreation>
+<auteurModification>Joseph
+</auteurModification>
+</row>
+<row idProduit="10449">
+<idAlarme>3956</idAlarme>
+<nomProduit>ZINNAT 750 mg pdre/solv p susp inj IM</nomProduit>
+<codeProduit>ce10c1</codeProduit>
+<prixProduit>1116.0</prixProduit>
+<quantiteActuel>2150</quantiteActuel>
+<quantiteAlarme>417</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Stokes</auteurCreation>
+<auteurModification>Todd
+</auteurModification>
+</row>
+<row idProduit="10450">
+<idAlarme>3696</idAlarme>
+<nomProduit>ZITHROMAX 250mg cp pellic</nomProduit>
+<codeProduit>01018d</codeProduit>
+<prixProduit>755.0</prixProduit>
+<quantiteActuel>2565</quantiteActuel>
+<quantiteAlarme>261</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-25</dateCreation>
+<dateModification>2010-07-31</dateModification>
+<auteurCreation>William</auteurCreation>
+<auteurModification>Adrian
+</auteurModification>
+</row>
+<row idProduit="10451">
+<idAlarme>9502</idAlarme>
+<nomProduit>ZITHROMAX 40 mg/ml pdre p susp buv enfant</nomProduit>
+<codeProduit>7d9b7c</codeProduit>
+<prixProduit>682.0</prixProduit>
+<quantiteActuel>1881</quantiteActuel>
+<quantiteAlarme>465</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Barr</auteurCreation>
+<auteurModification>Kevin
+</auteurModification>
+</row>
+<row idProduit="10452">
+<idAlarme>4141</idAlarme>
+<nomProduit>ZITHROMAX MONODOSE 250mg cp pellic</nomProduit>
+<codeProduit>fb9992</codeProduit>
+<prixProduit>163.0</prixProduit>
+<quantiteActuel>2415</quantiteActuel>
+<quantiteAlarme>169</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-31</dateCreation>
+<dateModification>2010-08-20</dateModification>
+<auteurCreation>Neal</auteurCreation>
+<auteurModification>Yael
+</auteurModification>
+</row>
+<row idProduit="10453">
+<idAlarme>6898</idAlarme>
+<nomProduit>ZOCOR 20mg cp enr sec</nomProduit>
+<codeProduit>fe842d</codeProduit>
+<prixProduit>237.0</prixProduit>
+<quantiteActuel>2974</quantiteActuel>
+<quantiteAlarme>206</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Duran</auteurCreation>
+<auteurModification>Sonya
+</auteurModification>
+</row>
+<row idProduit="10454">
+<idAlarme>5695</idAlarme>
+<nomProduit>ZOCOR 40mg cp pellic</nomProduit>
+<codeProduit>458a6b</codeProduit>
+<prixProduit>1097.0</prixProduit>
+<quantiteActuel>1727</quantiteActuel>
+<quantiteAlarme>190</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Hopkins</auteurCreation>
+<auteurModification>Amy
+</auteurModification>
+</row>
+<row idProduit="10455">
+<idAlarme>1052</idAlarme>
+<nomProduit>ZOCOR 5mg cp enr</nomProduit>
+<codeProduit>06413d</codeProduit>
+<prixProduit>312.0</prixProduit>
+<quantiteActuel>2513</quantiteActuel>
+<quantiteAlarme>272</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-09-17</dateModification>
+<auteurCreation>Aguilar</auteurCreation>
+<auteurModification>Christen
+</auteurModification>
+</row>
+<row idProduit="10456">
+<idAlarme>4851</idAlarme>
+<nomProduit>ZOFENIL 15 mg cp pellic</nomProduit>
+<codeProduit>832bec</codeProduit>
+<prixProduit>248.0</prixProduit>
+<quantiteActuel>1913</quantiteActuel>
+<quantiteAlarme>169</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-08-14</dateModification>
+<auteurCreation>Hunt</auteurCreation>
+<auteurModification>Camilla
+</auteurModification>
+</row>
+<row idProduit="10457">
+<idAlarme>500</idAlarme>
+<nomProduit>ZOFENIL 30mg cp pellic</nomProduit>
+<codeProduit>8a8a4a</codeProduit>
+<prixProduit>1106.0</prixProduit>
+<quantiteActuel>1805</quantiteActuel>
+<quantiteAlarme>488</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-07</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Anthony</auteurCreation>
+<auteurModification>Charles
+</auteurModification>
+</row>
+<row idProduit="10458">
+<idAlarme>3054</idAlarme>
+<nomProduit>ZOFENILDUO 30mg/12,5mg cp pellic</nomProduit>
+<codeProduit>7f40e7</codeProduit>
+<prixProduit>1420.0</prixProduit>
+<quantiteActuel>1797</quantiteActuel>
+<quantiteAlarme>220</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Valentine</auteurCreation>
+<auteurModification>Jocelyn
+</auteurModification>
+</row>
+<row idProduit="10459">
+<idAlarme>4210</idAlarme>
+<nomProduit>ZOFORA 20mg/1ml sol inj IM</nomProduit>
+<codeProduit>82cee7</codeProduit>
+<prixProduit>642.0</prixProduit>
+<quantiteActuel>2988</quantiteActuel>
+<quantiteAlarme>293</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-09-23</dateModification>
+<auteurCreation>Bray</auteurCreation>
+<auteurModification>Colorado
+</auteurModification>
+</row>
+<row idProduit="10460">
+<idAlarme>4056</idAlarme>
+<nomProduit>ZOLADEX 10,8 mg implant inj SC</nomProduit>
+<codeProduit>d7513e</codeProduit>
+<prixProduit>194.0</prixProduit>
+<quantiteActuel>2555</quantiteActuel>
+<quantiteAlarme>400</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-07-11</dateModification>
+<auteurCreation>Davidson</auteurCreation>
+<auteurModification>Linus
+</auteurModification>
+</row>
+<row idProduit="10461">
+<idAlarme>9504</idAlarme>
+<nomProduit>ZOLADEX 3,6mg implant inj</nomProduit>
+<codeProduit>dfd2ef</codeProduit>
+<prixProduit>858.0</prixProduit>
+<quantiteActuel>2298</quantiteActuel>
+<quantiteAlarme>198</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-27</dateCreation>
+<dateModification>2010-07-11</dateModification>
+<auteurCreation>Gibbs</auteurCreation>
+<auteurModification>Veronica
+</auteurModification>
+</row>
+<row idProduit="10462">
+<idAlarme>723</idAlarme>
+<nomProduit>ZOLOFT 25mg gel</nomProduit>
+<codeProduit>aaa0c7</codeProduit>
+<prixProduit>396.0</prixProduit>
+<quantiteActuel>1961</quantiteActuel>
+<quantiteAlarme>424</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-27</dateCreation>
+<dateModification>2010-09-05</dateModification>
+<auteurCreation>Lucas</auteurCreation>
+<auteurModification>Vera
+</auteurModification>
+</row>
+<row idProduit="10463">
+<idAlarme>9410</idAlarme>
+<nomProduit>ZOLOFT 50 mg gel</nomProduit>
+<codeProduit>31ff39</codeProduit>
+<prixProduit>1069.0</prixProduit>
+<quantiteActuel>2527</quantiteActuel>
+<quantiteAlarme>435</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-26</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Gilliam</auteurCreation>
+<auteurModification>Rafael
+</auteurModification>
+</row>
+<row idProduit="10464">
+<idAlarme>4065</idAlarme>
+<nomProduit>ZOLPIDEM ACTAVIS 10 mg cp pellic sec</nomProduit>
+<codeProduit>bbce87</codeProduit>
+<prixProduit>337.0</prixProduit>
+<quantiteActuel>1870</quantiteActuel>
+<quantiteAlarme>186</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Haley</auteurCreation>
+<auteurModification>McKenzie
+</auteurModification>
+</row>
+<row idProduit="10465">
+<idAlarme>590</idAlarme>
+<nomProduit>ZOLPIDEM ALMUS 10mg cp pellic sec</nomProduit>
+<codeProduit>c2d507</codeProduit>
+<prixProduit>729.0</prixProduit>
+<quantiteActuel>2798</quantiteActuel>
+<quantiteAlarme>437</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Payne</auteurCreation>
+<auteurModification>Mufutau
+</auteurModification>
+</row>
+<row idProduit="10466">
+<idAlarme>8928</idAlarme>
+<nomProduit>ZOLPIDEM ALTER 10 mg cp pellic sec</nomProduit>
+<codeProduit>7d4a20</codeProduit>
+<prixProduit>1349.0</prixProduit>
+<quantiteActuel>2503</quantiteActuel>
+<quantiteAlarme>273</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-09-05</dateModification>
+<auteurCreation>Ochoa</auteurCreation>
+<auteurModification>Victor
+</auteurModification>
+</row>
+<row idProduit="10467">
+<idAlarme>1806</idAlarme>
+<nomProduit>ZOLPIDEM ARROW 10mg cp pellic sec</nomProduit>
+<codeProduit>887712</codeProduit>
+<prixProduit>1092.0</prixProduit>
+<quantiteActuel>1787</quantiteActuel>
+<quantiteAlarme>394</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-08-28</dateModification>
+<auteurCreation>Kinney</auteurCreation>
+<auteurModification>Carl
+</auteurModification>
+</row>
+<row idProduit="10468">
+<idAlarme>1909</idAlarme>
+<nomProduit>ZOLPIDEM BIOGARAN 10mg cp pellic sec</nomProduit>
+<codeProduit>feec3c</codeProduit>
+<prixProduit>690.0</prixProduit>
+<quantiteActuel>2744</quantiteActuel>
+<quantiteAlarme>281</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-07-17</dateModification>
+<auteurCreation>King</auteurCreation>
+<auteurModification>Wesley
+</auteurModification>
+</row>
+<row idProduit="10469">
+<idAlarme>9058</idAlarme>
+<nomProduit>ZOLPIDEM CRISTERS 10 mg cp pellic sec</nomProduit>
+<codeProduit>e6e501</codeProduit>
+<prixProduit>759.0</prixProduit>
+<quantiteActuel>2315</quantiteActuel>
+<quantiteAlarme>291</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Roth</auteurCreation>
+<auteurModification>Lee
+</auteurModification>
+</row>
+<row idProduit="10470">
+<idAlarme>947</idAlarme>
+<nomProduit>ZOLPIDEM EG 10mg cp pellic sec</nomProduit>
+<codeProduit>ac34e0</codeProduit>
+<prixProduit>479.0</prixProduit>
+<quantiteActuel>2376</quantiteActuel>
+<quantiteAlarme>346</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-06-29</dateModification>
+<auteurCreation>Rodriquez</auteurCreation>
+<auteurModification>Lars
+</auteurModification>
+</row>
+<row idProduit="10471">
+<idAlarme>3500</idAlarme>
+<nomProduit>ZOLPIDEM MYLAN 10 mg cp pellic sec</nomProduit>
+<codeProduit>c358d7</codeProduit>
+<prixProduit>266.0</prixProduit>
+<quantiteActuel>2414</quantiteActuel>
+<quantiteAlarme>171</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-05</dateCreation>
+<dateModification>2010-08-06</dateModification>
+<auteurCreation>Best</auteurCreation>
+<auteurModification>Judith
+</auteurModification>
+</row>
+<row idProduit="10472">
+<idAlarme>10454</idAlarme>
+<nomProduit>ZOLPIDEM QUALIMED 10mg cp pellic sec</nomProduit>
+<codeProduit>60345d</codeProduit>
+<prixProduit>888.0</prixProduit>
+<quantiteActuel>1835</quantiteActuel>
+<quantiteAlarme>446</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-06-23</dateModification>
+<auteurCreation>Harding</auteurCreation>
+<auteurModification>Grant
+</auteurModification>
+</row>
+<row idProduit="10473">
+<idAlarme>1587</idAlarme>
+<nomProduit>ZOLPIDEM RATIOPHARM 10mg cp pellic sec</nomProduit>
+<codeProduit>4c4c2d</codeProduit>
+<prixProduit>333.0</prixProduit>
+<quantiteActuel>2790</quantiteActuel>
+<quantiteAlarme>140</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-09-25</dateModification>
+<auteurCreation>Case</auteurCreation>
+<auteurModification>Simone
+</auteurModification>
+</row>
+<row idProduit="10474">
+<idAlarme>8121</idAlarme>
+<nomProduit>ZOLPIDEM RPG 10mg cp pellic sec</nomProduit>
+<codeProduit>5d2a08</codeProduit>
+<prixProduit>1409.0</prixProduit>
+<quantiteActuel>1565</quantiteActuel>
+<quantiteAlarme>370</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-24</dateCreation>
+<dateModification>2010-08-28</dateModification>
+<auteurCreation>Pittman</auteurCreation>
+<auteurModification>Brielle
+</auteurModification>
+</row>
+<row idProduit="10475">
+<idAlarme>10205</idAlarme>
+<nomProduit>ZOLPIDEM SANDOZ 10mg cp pellic sec</nomProduit>
+<codeProduit>54aa0b</codeProduit>
+<prixProduit>1352.0</prixProduit>
+<quantiteActuel>2393</quantiteActuel>
+<quantiteAlarme>383</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-07-11</dateModification>
+<auteurCreation>Matthews</auteurCreation>
+<auteurModification>Rajah
+</auteurModification>
+</row>
+<row idProduit="10476">
+<idAlarme>5618</idAlarme>
+<nomProduit>ZOLPIDEM TEVA 10mg cp pellic sec</nomProduit>
+<codeProduit>b71d7f</codeProduit>
+<prixProduit>1283.0</prixProduit>
+<quantiteActuel>2887</quantiteActuel>
+<quantiteAlarme>410</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-07-16</dateModification>
+<auteurCreation>Lindsey</auteurCreation>
+<auteurModification>Solomon
+</auteurModification>
+</row>
+<row idProduit="10477">
+<idAlarme>2921</idAlarme>
+<nomProduit>ZOLPIDEM WINTHROP 10mg cp pellic sec</nomProduit>
+<codeProduit>35ff2d</codeProduit>
+<prixProduit>947.0</prixProduit>
+<quantiteActuel>2662</quantiteActuel>
+<quantiteAlarme>184</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Holder</auteurCreation>
+<auteurModification>Jolie
+</auteurModification>
+</row>
+<row idProduit="10478">
+<idAlarme>3728</idAlarme>
+<nomProduit>ZOLPIDEM ZYDUS 10mg cp pellic sec</nomProduit>
+<codeProduit>4d9175</codeProduit>
+<prixProduit>1104.0</prixProduit>
+<quantiteActuel>2341</quantiteActuel>
+<quantiteAlarme>316</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Duran</auteurCreation>
+<auteurModification>Benedict
+</auteurModification>
+</row>
+<row idProduit="10479">
+<idAlarme>1797</idAlarme>
+<nomProduit>ZOLTUM 10 mg gel (ugle gastroresis)</nomProduit>
+<codeProduit>36e53f</codeProduit>
+<prixProduit>1448.0</prixProduit>
+<quantiteActuel>1775</quantiteActuel>
+<quantiteAlarme>265</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-10-04</dateModification>
+<auteurCreation>Holman</auteurCreation>
+<auteurModification>Wilma
+</auteurModification>
+</row>
+<row idProduit="10480">
+<idAlarme>266</idAlarme>
+<nomProduit>ZOLTUM 20 mg gel (ugle gastroresis)</nomProduit>
+<codeProduit>367fbf</codeProduit>
+<prixProduit>621.0</prixProduit>
+<quantiteActuel>2256</quantiteActuel>
+<quantiteAlarme>461</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-07-15</dateModification>
+<auteurCreation>Joseph</auteurCreation>
+<auteurModification>Sage
+</auteurModification>
+</row>
+<row idProduit="10481">
+<idAlarme>853</idAlarme>
+<nomProduit>ZOMACTON 10mg/ml pdre/solv p sol inj</nomProduit>
+<codeProduit>f7849f</codeProduit>
+<prixProduit>158.0</prixProduit>
+<quantiteActuel>1924</quantiteActuel>
+<quantiteAlarme>364</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-22</dateCreation>
+<dateModification>2010-08-05</dateModification>
+<auteurCreation>Casey</auteurCreation>
+<auteurModification>Fleur
+</auteurModification>
+</row>
+<row idProduit="10482">
+<idAlarme>8552</idAlarme>
+<nomProduit>ZOMACTON 4mg pdre/solv p sol inj</nomProduit>
+<codeProduit>f7d762</codeProduit>
+<prixProduit>981.0</prixProduit>
+<quantiteActuel>1689</quantiteActuel>
+<quantiteAlarme>141</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-09-27</dateModification>
+<auteurCreation>Sparks</auteurCreation>
+<auteurModification>Logan
+</auteurModification>
+</row>
+<row idProduit="10483">
+<idAlarme>5656</idAlarme>
+<nomProduit>ZOMETA 4mg/5ml sol diluer p perf</nomProduit>
+<codeProduit>7f1266</codeProduit>
+<prixProduit>153.0</prixProduit>
+<quantiteActuel>2157</quantiteActuel>
+<quantiteAlarme>340</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-07-21</dateModification>
+<auteurCreation>Mack</auteurCreation>
+<auteurModification>Elvis
+</auteurModification>
+</row>
+<row idProduit="10484">
+<idAlarme>1986</idAlarme>
+<nomProduit>ZOMIG 2,5mg cp pellic</nomProduit>
+<codeProduit>3f1cf5</codeProduit>
+<prixProduit>769.0</prixProduit>
+<quantiteActuel>2571</quantiteActuel>
+<quantiteAlarme>351</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-10-05</dateModification>
+<auteurCreation>Mercer</auteurCreation>
+<auteurModification>Russell
+</auteurModification>
+</row>
+<row idProduit="10485">
+<idAlarme>9568</idAlarme>
+<nomProduit>ZOMIGORO 2,5mg cp orodispers</nomProduit>
+<codeProduit>18f8ee</codeProduit>
+<prixProduit>657.0</prixProduit>
+<quantiteActuel>2886</quantiteActuel>
+<quantiteAlarme>155</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-09-10</dateModification>
+<auteurCreation>Allison</auteurCreation>
+<auteurModification>Latifah
+</auteurModification>
+</row>
+<row idProduit="10486">
+<idAlarme>6427</idAlarme>
+<nomProduit>ZONDAR 50 mg gel</nomProduit>
+<codeProduit>3d17ca</codeProduit>
+<prixProduit>822.0</prixProduit>
+<quantiteActuel>1881</quantiteActuel>
+<quantiteAlarme>152</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-08-16</dateModification>
+<auteurCreation>Brooks</auteurCreation>
+<auteurModification>Chase
+</auteurModification>
+</row>
+<row idProduit="10487">
+<idAlarme>1660</idAlarme>
+<nomProduit>ZONEGRAN 100mg gel</nomProduit>
+<codeProduit>a8fb33</codeProduit>
+<prixProduit>394.0</prixProduit>
+<quantiteActuel>2547</quantiteActuel>
+<quantiteAlarme>285</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-07-29</dateModification>
+<auteurCreation>Long</auteurCreation>
+<auteurModification>Jackson
+</auteurModification>
+</row>
+<row idProduit="10488">
+<idAlarme>2531</idAlarme>
+<nomProduit>ZONEGRAN 25mg gel</nomProduit>
+<codeProduit>868c1a</codeProduit>
+<prixProduit>663.0</prixProduit>
+<quantiteActuel>2262</quantiteActuel>
+<quantiteAlarme>497</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Burnett</auteurCreation>
+<auteurModification>Blaze
+</auteurModification>
+</row>
+<row idProduit="10489">
+<idAlarme>6304</idAlarme>
+<nomProduit>ZONEGRAN 50mg gel</nomProduit>
+<codeProduit>016cc8</codeProduit>
+<prixProduit>539.0</prixProduit>
+<quantiteActuel>2012</quantiteActuel>
+<quantiteAlarme>479</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-08-04</dateModification>
+<auteurCreation>Russell</auteurCreation>
+<auteurModification>Karen
+</auteurModification>
+</row>
+<row idProduit="10490">
+<idAlarme>7580</idAlarme>
+<nomProduit>ZOPHREN 16 mg suppos</nomProduit>
+<codeProduit>ef55e8</codeProduit>
+<prixProduit>399.0</prixProduit>
+<quantiteActuel>2549</quantiteActuel>
+<quantiteAlarme>148</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-14</dateCreation>
+<dateModification>2010-08-10</dateModification>
+<auteurCreation>Bailey</auteurCreation>
+<auteurModification>Anthony
+</auteurModification>
+</row>
+<row idProduit="10491">
+<idAlarme>6633</idAlarme>
+<nomProduit>ZOPHREN 2mg/ml sol inj IV</nomProduit>
+<codeProduit>00f420</codeProduit>
+<prixProduit>294.0</prixProduit>
+<quantiteActuel>2797</quantiteActuel>
+<quantiteAlarme>434</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-09-08</dateModification>
+<auteurCreation>Harvey</auteurCreation>
+<auteurModification>Abraham
+</auteurModification>
+</row>
+<row idProduit="10492">
+<idAlarme>9489</idAlarme>
+<nomProduit>ZOPHREN 4 mg lyoph oral</nomProduit>
+<codeProduit>94f114</codeProduit>
+<prixProduit>1263.0</prixProduit>
+<quantiteActuel>2143</quantiteActuel>
+<quantiteAlarme>391</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-07</dateCreation>
+<dateModification>2010-10-06</dateModification>
+<auteurCreation>Richardson</auteurCreation>
+<auteurModification>Garth
+</auteurModification>
+</row>
+<row idProduit="10493">
+<idAlarme>5246</idAlarme>
+<nomProduit>ZOPHREN 4 mg/5 ml sirop</nomProduit>
+<codeProduit>85c7e3</codeProduit>
+<prixProduit>1218.0</prixProduit>
+<quantiteActuel>1963</quantiteActuel>
+<quantiteAlarme>116</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-09-29</dateModification>
+<auteurCreation>Quinn</auteurCreation>
+<auteurModification>Kylan
+</auteurModification>
+</row>
+<row idProduit="10494">
+<idAlarme>6403</idAlarme>
+<nomProduit>ZOPHREN 4mg cp pellic</nomProduit>
+<codeProduit>6f9ffb</codeProduit>
+<prixProduit>219.0</prixProduit>
+<quantiteActuel>2080</quantiteActuel>
+<quantiteAlarme>460</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-24</dateCreation>
+<dateModification>2010-08-11</dateModification>
+<auteurCreation>Woods</auteurCreation>
+<auteurModification>Indigo
+</auteurModification>
+</row>
+<row idProduit="10495">
+<idAlarme>451</idAlarme>
+<nomProduit>ZOPHREN 8 mg lyoph oral</nomProduit>
+<codeProduit>b4cf7c</codeProduit>
+<prixProduit>1257.0</prixProduit>
+<quantiteActuel>2963</quantiteActuel>
+<quantiteAlarme>203</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-06-25</dateModification>
+<auteurCreation>Cotton</auteurCreation>
+<auteurModification>Herrod
+</auteurModification>
+</row>
+<row idProduit="10496">
+<idAlarme>4055</idAlarme>
+<nomProduit>ZOPHREN 8mg cp pellic</nomProduit>
+<codeProduit>8cbf08</codeProduit>
+<prixProduit>175.0</prixProduit>
+<quantiteActuel>2279</quantiteActuel>
+<quantiteAlarme>332</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-14</dateCreation>
+<dateModification>2010-09-10</dateModification>
+<auteurCreation>Mccullough</auteurCreation>
+<auteurModification>Micah
+</auteurModification>
+</row>
+<row idProduit="10497">
+<idAlarme>4744</idAlarme>
+<nomProduit>ZOPICLONE ALTER 7,5mg cp pellic sec</nomProduit>
+<codeProduit>22a4aa</codeProduit>
+<prixProduit>862.0</prixProduit>
+<quantiteActuel>2945</quantiteActuel>
+<quantiteAlarme>118</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Nicholson</auteurCreation>
+<auteurModification>Kiara
+</auteurModification>
+</row>
+<row idProduit="10498">
+<idAlarme>2567</idAlarme>
+<nomProduit>ZOPICLONE ARROW 7,5mg cp pellic sec</nomProduit>
+<codeProduit>11a31b</codeProduit>
+<prixProduit>821.0</prixProduit>
+<quantiteActuel>2278</quantiteActuel>
+<quantiteAlarme>298</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-09-09</dateModification>
+<auteurCreation>Riddle</auteurCreation>
+<auteurModification>Gloria
+</auteurModification>
+</row>
+<row idProduit="10499">
+<idAlarme>10497</idAlarme>
+<nomProduit>ZOPICLONE BIOGARAN 7,5mg cp pellic sec</nomProduit>
+<codeProduit>c8a9cb</codeProduit>
+<prixProduit>1065.0</prixProduit>
+<quantiteActuel>2336</quantiteActuel>
+<quantiteAlarme>293</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-07-25</dateModification>
+<auteurCreation>Acevedo</auteurCreation>
+<auteurModification>Xavier
+</auteurModification>
+</row>
+<row idProduit="10500">
+<idAlarme>4373</idAlarme>
+<nomProduit>ZOPICLONE EG 7,5mg cp pellic sec</nomProduit>
+<codeProduit>e9fb48</codeProduit>
+<prixProduit>1246.0</prixProduit>
+<quantiteActuel>2252</quantiteActuel>
+<quantiteAlarme>343</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-16</dateCreation>
+<dateModification>2010-07-22</dateModification>
+<auteurCreation>Simon</auteurCreation>
+<auteurModification>Marvin
+</auteurModification>
+</row>
+<row idProduit="10501">
+<idAlarme>8429</idAlarme>
+<nomProduit>ZOPICLONE MYLAN 7,5 mg cp pellic sec</nomProduit>
+<codeProduit>d688f9</codeProduit>
+<prixProduit>1435.0</prixProduit>
+<quantiteActuel>2654</quantiteActuel>
+<quantiteAlarme>497</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-08-15</dateModification>
+<auteurCreation>Kirkland</auteurCreation>
+<auteurModification>Shea
+</auteurModification>
+</row>
+<row idProduit="10502">
+<idAlarme>1019</idAlarme>
+<nomProduit>ZOPICLONE QUALIMED 7,5mg cp pellic sec</nomProduit>
+<codeProduit>db22c7</codeProduit>
+<prixProduit>769.0</prixProduit>
+<quantiteActuel>2621</quantiteActuel>
+<quantiteAlarme>291</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-17</dateCreation>
+<dateModification>2010-09-26</dateModification>
+<auteurCreation>George</auteurCreation>
+<auteurModification>Alyssa
+</auteurModification>
+</row>
+<row idProduit="10503">
+<idAlarme>6088</idAlarme>
+<nomProduit>ZOPICLONE RANBAXY 7,5 mg cp pellic sec</nomProduit>
+<codeProduit>a9ed62</codeProduit>
+<prixProduit>1028.0</prixProduit>
+<quantiteActuel>2119</quantiteActuel>
+<quantiteAlarme>100</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-26</dateCreation>
+<dateModification>2010-07-16</dateModification>
+<auteurCreation>Gomez</auteurCreation>
+<auteurModification>Naida
+</auteurModification>
+</row>
+<row idProduit="10504">
+<idAlarme>2196</idAlarme>
+<nomProduit>ZOPICLONE RATIOPHARM 7,5mg cp pellic sec</nomProduit>
+<codeProduit>7b0483</codeProduit>
+<prixProduit>1264.0</prixProduit>
+<quantiteActuel>1937</quantiteActuel>
+<quantiteAlarme>398</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-30</dateCreation>
+<dateModification>2010-09-03</dateModification>
+<auteurCreation>Gross</auteurCreation>
+<auteurModification>Adena
+</auteurModification>
+</row>
+<row idProduit="10505">
+<idAlarme>4092</idAlarme>
+<nomProduit>ZOPICLONE SANDOZ 7,5mg cp pellic sec</nomProduit>
+<codeProduit>dd44c7</codeProduit>
+<prixProduit>271.0</prixProduit>
+<quantiteActuel>2213</quantiteActuel>
+<quantiteAlarme>433</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-22</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Woodard</auteurCreation>
+<auteurModification>Juliet
+</auteurModification>
+</row>
+<row idProduit="10506">
+<idAlarme>1430</idAlarme>
+<nomProduit>ZOPICLONE TEVA 7,5mg cp pellic sec</nomProduit>
+<codeProduit>32e869</codeProduit>
+<prixProduit>612.0</prixProduit>
+<quantiteActuel>2880</quantiteActuel>
+<quantiteAlarme>204</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-06</dateCreation>
+<dateModification>2010-09-20</dateModification>
+<auteurCreation>Cunningham</auteurCreation>
+<auteurModification>Jason
+</auteurModification>
+</row>
+<row idProduit="10507">
+<idAlarme>4051</idAlarme>
+<nomProduit>ZOPICLONE WINTHROP 7,5mg cpr pellic sec</nomProduit>
+<codeProduit>c18555</codeProduit>
+<prixProduit>669.0</prixProduit>
+<quantiteActuel>2353</quantiteActuel>
+<quantiteAlarme>352</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-04</dateCreation>
+<dateModification>2010-08-21</dateModification>
+<auteurCreation>Watkins</auteurCreation>
+<auteurModification>Aaron
+</auteurModification>
+</row>
+<row idProduit="10508">
+<idAlarme>5113</idAlarme>
+<nomProduit>ZOPICLONE ZYDUS 7,5mg cp pellic sec</nomProduit>
+<codeProduit>9160f0</codeProduit>
+<prixProduit>256.0</prixProduit>
+<quantiteActuel>2149</quantiteActuel>
+<quantiteAlarme>336</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Hardin</auteurCreation>
+<auteurModification>Ralph
+</auteurModification>
+</row>
+<row idProduit="10509">
+<idAlarme>5921</idAlarme>
+<nomProduit>ZORAC 0,05 % gel p appl cutanee</nomProduit>
+<codeProduit>8e68e4</codeProduit>
+<prixProduit>446.0</prixProduit>
+<quantiteActuel>2710</quantiteActuel>
+<quantiteAlarme>119</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-06-20</dateModification>
+<auteurCreation>Olsen</auteurCreation>
+<auteurModification>Nita
+</auteurModification>
+</row>
+<row idProduit="10510">
+<idAlarme>8749</idAlarme>
+<nomProduit>ZORAC 0,1 % gel p appl cutanee</nomProduit>
+<codeProduit>78e0f2</codeProduit>
+<prixProduit>871.0</prixProduit>
+<quantiteActuel>2665</quantiteActuel>
+<quantiteAlarme>106</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-09-10</dateModification>
+<auteurCreation>Clay</auteurCreation>
+<auteurModification>Kellie
+</auteurModification>
+</row>
+<row idProduit="10511">
+<idAlarme>5374</idAlarme>
+<nomProduit>ZOVIRAX 200 mg cp</nomProduit>
+<codeProduit>5ef03f</codeProduit>
+<prixProduit>1035.0</prixProduit>
+<quantiteActuel>2267</quantiteActuel>
+<quantiteAlarme>198</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-15</dateCreation>
+<dateModification>2010-08-30</dateModification>
+<auteurCreation>Barrera</auteurCreation>
+<auteurModification>Melanie
+</auteurModification>
+</row>
+<row idProduit="10512">
+<idAlarme>4874</idAlarme>
+<nomProduit>ZOVIRAX 200 mg/5 ml susp buv</nomProduit>
+<codeProduit>a85c41</codeProduit>
+<prixProduit>264.0</prixProduit>
+<quantiteActuel>2294</quantiteActuel>
+<quantiteAlarme>297</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-07-15</dateModification>
+<auteurCreation>Gallagher</auteurCreation>
+<auteurModification>Erasmus
+</auteurModification>
+</row>
+<row idProduit="10513">
+<idAlarme>1708</idAlarme>
+<nomProduit>ZOVIRAX 250mg pdre p sol inj IV</nomProduit>
+<codeProduit>166e11</codeProduit>
+<prixProduit>464.0</prixProduit>
+<quantiteActuel>2516</quantiteActuel>
+<quantiteAlarme>491</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-13</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Golden</auteurCreation>
+<auteurModification>Graiden
+</auteurModification>
+</row>
+<row idProduit="10514">
+<idAlarme>1531</idAlarme>
+<nomProduit>ZOVIRAX 3% pom ophtalm</nomProduit>
+<codeProduit>8b02d3</codeProduit>
+<prixProduit>206.0</prixProduit>
+<quantiteActuel>2385</quantiteActuel>
+<quantiteAlarme>110</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-30</dateCreation>
+<dateModification>2010-08-10</dateModification>
+<auteurCreation>York</auteurCreation>
+<auteurModification>Jin
+</auteurModification>
+</row>
+<row idProduit="10515">
+<idAlarme>5770</idAlarme>
+<nomProduit>ZOVIRAX 5 % creme en tube de 10 g</nomProduit>
+<codeProduit>b8933c</codeProduit>
+<prixProduit>875.0</prixProduit>
+<quantiteActuel>1815</quantiteActuel>
+<quantiteAlarme>491</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-28</dateCreation>
+<dateModification>2010-09-09</dateModification>
+<auteurCreation>Chen</auteurCreation>
+<auteurModification>Brenden
+</auteurModification>
+</row>
+<row idProduit="10516">
+<idAlarme>9069</idAlarme>
+<nomProduit>ZOVIRAX 5% creme en tube de 2g</nomProduit>
+<codeProduit>cdfbe6</codeProduit>
+<prixProduit>732.0</prixProduit>
+<quantiteActuel>2038</quantiteActuel>
+<quantiteAlarme>407</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-18</dateCreation>
+<dateModification>2010-09-02</dateModification>
+<auteurCreation>Powell</auteurCreation>
+<auteurModification>Hedda
+</auteurModification>
+</row>
+<row idProduit="10517">
+<idAlarme>5640</idAlarme>
+<nomProduit>ZOVIRAX 500mg pdre p sol inj IV</nomProduit>
+<codeProduit>70f503</codeProduit>
+<prixProduit>657.0</prixProduit>
+<quantiteActuel>1774</quantiteActuel>
+<quantiteAlarme>231</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-09-20</dateModification>
+<auteurCreation>Berry</auteurCreation>
+<auteurModification>Hayden
+</auteurModification>
+</row>
+<row idProduit="10518">
+<idAlarme>5839</idAlarme>
+<nomProduit>ZOVIRAX 800 mg cp</nomProduit>
+<codeProduit>d2b4c6</codeProduit>
+<prixProduit>1489.0</prixProduit>
+<quantiteActuel>2494</quantiteActuel>
+<quantiteAlarme>321</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-12</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Pittman</auteurCreation>
+<auteurModification>Rajah
+</auteurModification>
+</row>
+<row idProduit="10519">
+<idAlarme>6227</idAlarme>
+<nomProduit>ZOVIRAX 800 mg/10 ml susp buv</nomProduit>
+<codeProduit>97a573</codeProduit>
+<prixProduit>225.0</prixProduit>
+<quantiteActuel>1767</quantiteActuel>
+<quantiteAlarme>379</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-07-24</dateModification>
+<auteurCreation>Riddle</auteurCreation>
+<auteurModification>Germaine
+</auteurModification>
+</row>
+<row idProduit="10520">
+<idAlarme>9449</idAlarme>
+<nomProduit>ZOXAN L P 8 mg cp LP</nomProduit>
+<codeProduit>7ebbf0</codeProduit>
+<prixProduit>787.0</prixProduit>
+<quantiteActuel>2152</quantiteActuel>
+<quantiteAlarme>367</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-27</dateCreation>
+<dateModification>2010-08-19</dateModification>
+<auteurCreation>Scott</auteurCreation>
+<auteurModification>Kibo
+</auteurModification>
+</row>
+<row idProduit="10521">
+<idAlarme>5510</idAlarme>
+<nomProduit>ZOXAN LP 4 mg cp LP</nomProduit>
+<codeProduit>370558</codeProduit>
+<prixProduit>975.0</prixProduit>
+<quantiteActuel>2060</quantiteActuel>
+<quantiteAlarme>312</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-18</dateCreation>
+<dateModification>2010-10-02</dateModification>
+<auteurCreation>Charles</auteurCreation>
+<auteurModification>Candace
+</auteurModification>
+</row>
+<row idProduit="10522">
+<idAlarme>229</idAlarme>
+<nomProduit>ZOXAN LP 4 mg cpr LP</nomProduit>
+<codeProduit>b66879</codeProduit>
+<prixProduit>1434.0</prixProduit>
+<quantiteActuel>2254</quantiteActuel>
+<quantiteAlarme>209</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-08-08</dateModification>
+<auteurCreation>Lang</auteurCreation>
+<auteurModification>Desirae
+</auteurModification>
+</row>
+<row idProduit="10523">
+<idAlarme>2458</idAlarme>
+<nomProduit>ZOXAN LP 4mg cp LP</nomProduit>
+<codeProduit>631a67</codeProduit>
+<prixProduit>1361.0</prixProduit>
+<quantiteActuel>2036</quantiteActuel>
+<quantiteAlarme>183</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-07-12</dateModification>
+<auteurCreation>Kramer</auteurCreation>
+<auteurModification>Irma
+</auteurModification>
+</row>
+<row idProduit="10524">
+<idAlarme>3046</idAlarme>
+<nomProduit>ZOXAN LP 8 mg cp LP</nomProduit>
+<codeProduit>5b70f6</codeProduit>
+<prixProduit>625.0</prixProduit>
+<quantiteActuel>2790</quantiteActuel>
+<quantiteAlarme>485</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-15</dateCreation>
+<dateModification>2010-08-05</dateModification>
+<auteurCreation>Fletcher</auteurCreation>
+<auteurModification>Yen
+</auteurModification>
+</row>
+<row idProduit="10525">
+<idAlarme>4947</idAlarme>
+<nomProduit>ZUMALGIC 100 mg cp efferv</nomProduit>
+<codeProduit>f29e44</codeProduit>
+<prixProduit>473.0</prixProduit>
+<quantiteActuel>2607</quantiteActuel>
+<quantiteAlarme>221</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-09-11</dateModification>
+<auteurCreation>Bush</auteurCreation>
+<auteurModification>Curran
+</auteurModification>
+</row>
+<row idProduit="10526">
+<idAlarme>207</idAlarme>
+<nomProduit>ZUMALGIC 50mg cp efferv</nomProduit>
+<codeProduit>c520f4</codeProduit>
+<prixProduit>552.0</prixProduit>
+<quantiteActuel>2622</quantiteActuel>
+<quantiteAlarme>102</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-20</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Dominguez</auteurCreation>
+<auteurModification>Vincent
+</auteurModification>
+</row>
+<row idProduit="10527">
+<idAlarme>6008</idAlarme>
+<nomProduit>ZYBAN 150mg cp pellic LP</nomProduit>
+<codeProduit>0b4823</codeProduit>
+<prixProduit>1107.0</prixProduit>
+<quantiteActuel>2945</quantiteActuel>
+<quantiteAlarme>454</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-07-31</dateModification>
+<auteurCreation>Bradshaw</auteurCreation>
+<auteurModification>Kiona
+</auteurModification>
+</row>
+<row idProduit="10528">
+<idAlarme>2725</idAlarme>
+<nomProduit>ZYLORIC 100 mg cp</nomProduit>
+<codeProduit>be1ff0</codeProduit>
+<prixProduit>367.0</prixProduit>
+<quantiteActuel>2420</quantiteActuel>
+<quantiteAlarme>161</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-06-27</dateModification>
+<auteurCreation>Harding</auteurCreation>
+<auteurModification>Ina
+</auteurModification>
+</row>
+<row idProduit="10529">
+<idAlarme>2301</idAlarme>
+<nomProduit>ZYLORIC 200 mg cp</nomProduit>
+<codeProduit>a08cde</codeProduit>
+<prixProduit>856.0</prixProduit>
+<quantiteActuel>2279</quantiteActuel>
+<quantiteAlarme>246</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-01</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Terrell</auteurCreation>
+<auteurModification>Virginia
+</auteurModification>
+</row>
+<row idProduit="10530">
+<idAlarme>5443</idAlarme>
+<nomProduit>ZYLORIC 300 mg cp</nomProduit>
+<codeProduit>35a106</codeProduit>
+<prixProduit>1032.0</prixProduit>
+<quantiteActuel>1626</quantiteActuel>
+<quantiteAlarme>344</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-17</dateCreation>
+<dateModification>2010-07-04</dateModification>
+<auteurCreation>Wolfe</auteurCreation>
+<auteurModification>Vivian
+</auteurModification>
+</row>
+<row idProduit="10531">
+<idAlarme>2032</idAlarme>
+<nomProduit>ZYMAD 10MUI/ml sol buv</nomProduit>
+<codeProduit>bb9177</codeProduit>
+<prixProduit>893.0</prixProduit>
+<quantiteActuel>2176</quantiteActuel>
+<quantiteAlarme>268</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-23</dateCreation>
+<dateModification>2010-06-26</dateModification>
+<auteurCreation>Torres</auteurCreation>
+<auteurModification>Drew
+</auteurModification>
+</row>
+<row idProduit="10532">
+<idAlarme>5517</idAlarme>
+<nomProduit>ZYMAD 200 000 UI sol buv</nomProduit>
+<codeProduit>525190</codeProduit>
+<prixProduit>426.0</prixProduit>
+<quantiteActuel>1649</quantiteActuel>
+<quantiteAlarme>429</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-07-07</dateModification>
+<auteurCreation>Farrell</auteurCreation>
+<auteurModification>Grace
+</auteurModification>
+</row>
+<row idProduit="10533">
+<idAlarme>1202</idAlarme>
+<nomProduit>ZYMAD 80 000 UI sol buv</nomProduit>
+<codeProduit>4af058</codeProduit>
+<prixProduit>800.0</prixProduit>
+<quantiteActuel>2654</quantiteActuel>
+<quantiteAlarme>186</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-26</dateCreation>
+<dateModification>2010-10-03</dateModification>
+<auteurCreation>Levy</auteurCreation>
+<auteurModification>Kennan
+</auteurModification>
+</row>
+<row idProduit="10534">
+<idAlarme>10329</idAlarme>
+<nomProduit>ZYMADUO 150 UI sol buv</nomProduit>
+<codeProduit>9b5aa2</codeProduit>
+<prixProduit>452.0</prixProduit>
+<quantiteActuel>1868</quantiteActuel>
+<quantiteAlarme>322</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-27</dateCreation>
+<dateModification>2010-06-18</dateModification>
+<auteurCreation>Zamora</auteurCreation>
+<auteurModification>Brett
+</auteurModification>
+</row>
+<row idProduit="10535">
+<idAlarme>2078</idAlarme>
+<nomProduit>ZYMADUO 300 UI sol buv</nomProduit>
+<codeProduit>a4c6f3</codeProduit>
+<prixProduit>628.0</prixProduit>
+<quantiteActuel>1920</quantiteActuel>
+<quantiteAlarme>141</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-09-05</dateModification>
+<auteurCreation>Jackson</auteurCreation>
+<auteurModification>Cedric
+</auteurModification>
+</row>
+<row idProduit="10536">
+<idAlarme>3176</idAlarme>
+<nomProduit>ZYMAFLUOR 0,114% sol buv</nomProduit>
+<codeProduit>584136</codeProduit>
+<prixProduit>393.0</prixProduit>
+<quantiteActuel>2913</quantiteActuel>
+<quantiteAlarme>281</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-20</dateCreation>
+<dateModification>2010-06-24</dateModification>
+<auteurCreation>Battle</auteurCreation>
+<auteurModification>Blake
+</auteurModification>
+</row>
+<row idProduit="10537">
+<idAlarme>0</idAlarme>
+<nomProduit>ZYMAFLUOR 0,25 mg cp</nomProduit>
+<codeProduit>d04463</codeProduit>
+<prixProduit>1305.0</prixProduit>
+<quantiteActuel>1625</quantiteActuel>
+<quantiteAlarme>227</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-12</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Blake</auteurCreation>
+<auteurModification>Irene
+</auteurModification>
+</row>
+<row idProduit="10538">
+<idAlarme>3977</idAlarme>
+<nomProduit>ZYMAFLUOR 0,5 mg cp</nomProduit>
+<codeProduit>15d8b6</codeProduit>
+<prixProduit>163.0</prixProduit>
+<quantiteActuel>2492</quantiteActuel>
+<quantiteAlarme>435</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-12</dateCreation>
+<dateModification>2010-08-12</dateModification>
+<auteurCreation>Montgomery</auteurCreation>
+<auteurModification>Deborah
+</auteurModification>
+</row>
+<row idProduit="10539">
+<idAlarme>1855</idAlarme>
+<nomProduit>ZYMAFLUOR 0,75 mg cp</nomProduit>
+<codeProduit>9618f2</codeProduit>
+<prixProduit>627.0</prixProduit>
+<quantiteActuel>2184</quantiteActuel>
+<quantiteAlarme>386</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-03</dateCreation>
+<dateModification>2010-06-19</dateModification>
+<auteurCreation>Gonzalez</auteurCreation>
+<auteurModification>Raja
+</auteurModification>
+</row>
+<row idProduit="10540">
+<idAlarme>3288</idAlarme>
+<nomProduit>ZYMAFLUOR 1 mg cp</nomProduit>
+<codeProduit>c6cfb9</codeProduit>
+<prixProduit>1214.0</prixProduit>
+<quantiteActuel>2139</quantiteActuel>
+<quantiteAlarme>146</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-06</dateCreation>
+<dateModification>2010-09-06</dateModification>
+<auteurCreation>Joyner</auteurCreation>
+<auteurModification>Berk
+</auteurModification>
+</row>
+<row idProduit="10541">
+<idAlarme>2323</idAlarme>
+<nomProduit>ZYPADHERA 210 mg pdre/solv p susp inj Lp</nomProduit>
+<codeProduit>e34b58</codeProduit>
+<prixProduit>1284.0</prixProduit>
+<quantiteActuel>2576</quantiteActuel>
+<quantiteAlarme>429</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-28</dateCreation>
+<dateModification>2010-08-29</dateModification>
+<auteurCreation>Dalton</auteurCreation>
+<auteurModification>Shay
+</auteurModification>
+</row>
+<row idProduit="10542">
+<idAlarme>1893</idAlarme>
+<nomProduit>ZYPADHERA 300 mg pdre/solv p susp inj LP</nomProduit>
+<codeProduit>860578</codeProduit>
+<prixProduit>915.0</prixProduit>
+<quantiteActuel>1722</quantiteActuel>
+<quantiteAlarme>277</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-21</dateCreation>
+<dateModification>2010-09-19</dateModification>
+<auteurCreation>Barr</auteurCreation>
+<auteurModification>Ali
+</auteurModification>
+</row>
+<row idProduit="10543">
+<idAlarme>2353</idAlarme>
+<nomProduit>ZYPADHERA 405 mg pdre/solv p susp inj LP</nomProduit>
+<codeProduit>20d869</codeProduit>
+<prixProduit>1034.0</prixProduit>
+<quantiteActuel>2355</quantiteActuel>
+<quantiteAlarme>308</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-25</dateCreation>
+<dateModification>2010-07-26</dateModification>
+<auteurCreation>Beard</auteurCreation>
+<auteurModification>Nell
+</auteurModification>
+</row>
+<row idProduit="10544">
+<idAlarme>8163</idAlarme>
+<nomProduit>ZYPREXA 10mg cp enr</nomProduit>
+<codeProduit>e6eefa</codeProduit>
+<prixProduit>937.0</prixProduit>
+<quantiteActuel>2835</quantiteActuel>
+<quantiteAlarme>400</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-23</dateCreation>
+<dateModification>2010-07-08</dateModification>
+<auteurCreation>Hill</auteurCreation>
+<auteurModification>Gavin
+</auteurModification>
+</row>
+<row idProduit="10545">
+<idAlarme>6523</idAlarme>
+<nomProduit>ZYPREXA 10mg pdre p sol inj</nomProduit>
+<codeProduit>a844c8</codeProduit>
+<prixProduit>1195.0</prixProduit>
+<quantiteActuel>2630</quantiteActuel>
+<quantiteAlarme>111</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-09</dateCreation>
+<dateModification>2010-09-09</dateModification>
+<auteurCreation>Larson</auteurCreation>
+<auteurModification>Alvin
+</auteurModification>
+</row>
+<row idProduit="10546">
+<idAlarme>3747</idAlarme>
+<nomProduit>ZYPREXA 5mg cp enr</nomProduit>
+<codeProduit>5a33f7</codeProduit>
+<prixProduit>890.0</prixProduit>
+<quantiteActuel>2795</quantiteActuel>
+<quantiteAlarme>234</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-27</dateCreation>
+<dateModification>2010-08-17</dateModification>
+<auteurCreation>Underwood</auteurCreation>
+<auteurModification>Ishmael
+</auteurModification>
+</row>
+<row idProduit="10547">
+<idAlarme>9842</idAlarme>
+<nomProduit>ZYPREXA 7,5mg cp enr</nomProduit>
+<codeProduit>a9186b</codeProduit>
+<prixProduit>181.0</prixProduit>
+<quantiteActuel>2063</quantiteActuel>
+<quantiteAlarme>402</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-01</dateCreation>
+<dateModification>2010-09-14</dateModification>
+<auteurCreation>Langley</auteurCreation>
+<auteurModification>Cassandra
+</auteurModification>
+</row>
+<row idProduit="10548">
+<idAlarme>4275</idAlarme>
+<nomProduit>ZYPREXA VELOTAB 10mg cp orodispers</nomProduit>
+<codeProduit>1dd153</codeProduit>
+<prixProduit>1166.0</prixProduit>
+<quantiteActuel>2462</quantiteActuel>
+<quantiteAlarme>192</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-23</dateCreation>
+<dateModification>2010-08-26</dateModification>
+<auteurCreation>Washington</auteurCreation>
+<auteurModification>Irene
+</auteurModification>
+</row>
+<row idProduit="10549">
+<idAlarme>5671</idAlarme>
+<nomProduit>ZYPREXA VELOTAB 15mg cp orodispers</nomProduit>
+<codeProduit>8deb09</codeProduit>
+<prixProduit>1444.0</prixProduit>
+<quantiteActuel>2322</quantiteActuel>
+<quantiteAlarme>354</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-18</dateCreation>
+<dateModification>2010-09-02</dateModification>
+<auteurCreation>Zamora</auteurCreation>
+<auteurModification>Calista
+</auteurModification>
+</row>
+<row idProduit="10550">
+<idAlarme>3932</idAlarme>
+<nomProduit>ZYPREXA VELOTAB 20mg cp orodispers</nomProduit>
+<codeProduit>742191</codeProduit>
+<prixProduit>1275.0</prixProduit>
+<quantiteActuel>2203</quantiteActuel>
+<quantiteAlarme>128</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-28</dateCreation>
+<dateModification>2010-08-16</dateModification>
+<auteurCreation>Calhoun</auteurCreation>
+<auteurModification>Fallon
+</auteurModification>
+</row>
+<row idProduit="10551">
+<idAlarme>4196</idAlarme>
+<nomProduit>ZYPREXA VELOTAB 5mg cp orodispers</nomProduit>
+<codeProduit>a9d050</codeProduit>
+<prixProduit>1030.0</prixProduit>
+<quantiteActuel>2102</quantiteActuel>
+<quantiteAlarme>199</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-19</dateCreation>
+<dateModification>2010-08-12</dateModification>
+<auteurCreation>Arnold</auteurCreation>
+<auteurModification>Rigel
+</auteurModification>
+</row>
+<row idProduit="10552">
+<idAlarme>4490</idAlarme>
+<nomProduit>ZYRTEC 10 mg/ml sol buv</nomProduit>
+<codeProduit>41db52</codeProduit>
+<prixProduit>1457.0</prixProduit>
+<quantiteActuel>1801</quantiteActuel>
+<quantiteAlarme>491</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-16</dateCreation>
+<dateModification>2010-07-19</dateModification>
+<auteurCreation>Duran</auteurCreation>
+<auteurModification>Merrill
+</auteurModification>
+</row>
+<row idProduit="10553">
+<idAlarme>8675</idAlarme>
+<nomProduit>ZYRTECSET 10mg cp pellic sec</nomProduit>
+<codeProduit>d2a037</codeProduit>
+<prixProduit>1239.0</prixProduit>
+<quantiteActuel>2539</quantiteActuel>
+<quantiteAlarme>260</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-01-25</dateCreation>
+<dateModification>2010-07-06</dateModification>
+<auteurCreation>Perkins</auteurCreation>
+<auteurModification>Veronica
+</auteurModification>
+</row>
+<row idProduit="10554">
+<idAlarme>2116</idAlarme>
+<nomProduit>ZYVOXID 100mg/5ml gle p susp buv</nomProduit>
+<codeProduit>c044b6</codeProduit>
+<prixProduit>1201.0</prixProduit>
+<quantiteActuel>2889</quantiteActuel>
+<quantiteAlarme>363</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-13</dateCreation>
+<dateModification>2010-08-13</dateModification>
+<auteurCreation>Evans</auteurCreation>
+<auteurModification>Sage
+</auteurModification>
+</row>
+<row idProduit="10555">
+<idAlarme>2241</idAlarme>
+<nomProduit>ZYVOXID 2mg/ml sol p perf</nomProduit>
+<codeProduit>667c46</codeProduit>
+<prixProduit>1039.0</prixProduit>
+<quantiteActuel>2805</quantiteActuel>
+<quantiteAlarme>350</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-03-04</dateCreation>
+<dateModification>2010-07-29</dateModification>
+<auteurCreation>Acosta</auteurCreation>
+<auteurModification>Uta
+</auteurModification>
+</row>
+<row idProduit="10556">
+<idAlarme>5840</idAlarme>
+<nomProduit>ZYVOXID 600mg cp pell</nomProduit>
+<codeProduit>d862bb</codeProduit>
+<prixProduit>629.0</prixProduit>
+<quantiteActuel>0</quantiteActuel>
+<quantiteAlarme>241</quantiteAlarme>
+<datePeremption>2011-03-01</datePeremption>
+<dateCreation>2010-02-19</dateCreation>
+<dateModification>2010-08-22</dateModification>
+<auteurCreation>Cooke</auteurCreation>
+<auteurModification>Danielle</auteurModification>
+</row>
+</root>
