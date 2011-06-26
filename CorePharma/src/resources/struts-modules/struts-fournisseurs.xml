@@ -12,7 +12,7 @@
     <package name="fournisseurs" namespace="/fournisseurs" extends="hibernate-default">
     
 	     <action name="index">
-			<result>home/fournisseurs/index.jsp</result>
+			<result>/application/fournisseurs/index.jsp</result>
 		</action>       
 	    
     </package>
