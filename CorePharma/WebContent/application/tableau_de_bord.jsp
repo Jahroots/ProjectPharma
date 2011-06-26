@@ -102,9 +102,8 @@
 					Fournisseurs
 					</a>
 					<ul>
-						<li><a href="#">Sous menu 1</a></li>
-						<li><a href="#">Sous menu 2</a></li> 
-						<li><a href="#">Sous menu 3</a></li>
+						<li><a href="fournisseurs/index">Fournisseurs</a></li>
+						<li><a href="fournisseurs/NewFournisseurForm">Nouveau Fournisseur</a></li>
 					</ul>
 				</li>
                 
