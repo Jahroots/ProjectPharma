@@ -91,9 +91,8 @@
 					Clients
 					</a>
 					<ul>
-						<li><a href="#">Sous menu 1</a></li>
-						<li><a href="#">Sous menu 2</a></li> 
-						<li><a href="#">Sous menu 3</a></li>
+						<li><a href="clients/listeClient">Liste des clients</a></li>
+						<li><a href="clients/nouveauClient">Nouveau Client</a></li>
 					</ul>
 				</li>
                 

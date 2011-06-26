@@ -38,5 +38,6 @@
 	<include file="resources/struts-modules/struts-exemplemenu.xml"></include>
 	<include file="resources/struts-modules/struts-ventes.xml"></include>
 	<include file="resources/struts-modules/struts-fournisseurs.xml"></include>
+	<include file="resources/struts-modules/struts-clients.xml"></include>
 	
 </struts>
