@@ -28,6 +28,7 @@ public class Produits implements java.io.Serializable {
 	private String dateModification;
 	private String auteurCreation;
 	private String auteurModification;
+	private String produitPanier;
 
 	public Produits() {
 	}
@@ -158,6 +159,20 @@ public class Produits implements java.io.Serializable {
 
 	public void setAuteurModification(String auteurModification) {
 		this.auteurModification = auteurModification;
+	}
+
+	/**
+	 * @return the produitPanier
+	 */
+	public String getProduitPanier() {
+		return produitPanier;
+	}
+
+	/**
+	 * @param produitPanier the produitPanier to set
+	 */
+	public void setProduitPanier(String produitPanier) {
+		this.produitPanier = produitPanier;
 	}
 
 }

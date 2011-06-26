@@ -17,7 +17,7 @@ public class TableauDeBordAction extends ActionSupport {
     {
         //Entrée de l'action
         if(logger.isDebugEnabled())
-            logger.debug("Call Action ---> TableauDeBordAction");
+            logger.debug("Call Action ---> TableauDeBordAction.afficheTableauDeBord()");
         
         //Information quelconque à logger
         if(logger.isDebugEnabled())
@@ -25,7 +25,7 @@ public class TableauDeBordAction extends ActionSupport {
         
         //Sortie de l'action
         if(logger.isDebugEnabled())
-            logger.debug("Call Action <--- TableauDeBordAction OK");
+            logger.debug("Call Action <--- TableauDeBordAction.afficheTableauDeBord() OK");
         
         return "success";
     }

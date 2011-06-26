@@ -126,7 +126,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   
 	<body><div id="body-wrapper">
 		
-		<div id="sidebar"><div id="sidebar-wrapper"> 
+		<div id="sidebar"><div id="sidebar-wrapper">
 			
 			<h1 id="sidebar-title"><a href="#">CorePharma</a></h1>
 		  
@@ -240,26 +240,62 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 					
 						<h4>Rechercher le produit :</h4>
 						<p>
-						<table style="width: 29%"> 
-							<tr>
-								<td>
-									<input name="searchProduit" id="searchProduit" style="width: 292px" type="text" onkeydown="searchProduits(this.value)" onkeyup="searchProduits(this.value)"/>
-								</td>
-							</tr>
-							<tr>
-								<td>
-									<select name="produitsFind" id="produitsFind" size="6" style="width: 300px">
-									</select>
-								</td>
-							</tr>
-						</table>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in porta lectus. Maecenas dignissim enim quis ipsum mattis aliquet. Maecenas id velit et elit gravida bibendum. Duis nec rutrum lorem. Donec egestas metus a risus euismod ultricies. Maecenas lacinia orci at neque commodo commodo.
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in porta lectus. Maecenas dignissim enim quis ipsum mattis aliquet. Maecenas id velit et elit gravida bibendum. Duis nec rutrum lorem. Donec egestas metus a risus euismod ultricies. Maecenas lacinia orci at neque commodo commodo.
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in porta lectus. Maecenas dignissim enim quis ipsum mattis aliquet. Maecenas id velit et elit gravida bibendum. Duis nec rutrum lorem. Donec egestas metus a risus euismod ultricies. Maecenas lacinia orci at neque commodo commodo.
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in porta lectus. Maecenas dignissim enim quis ipsum mattis aliquet. Maecenas id velit et elit gravida bibendum. Duis nec rutrum lorem. Donec egestas metus a risus euismod ultricies. Maecenas lacinia orci at neque commodo commodo.
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in porta lectus. Maecenas dignissim enim quis ipsum mattis aliquet. Maecenas id velit et elit gravida bibendum. Duis nec rutrum lorem. Donec egestas metus a risus euismod ultricies. Maecenas lacinia orci at neque commodo commodo.
+					
+                        <table width="100%" border="0">
+                          <tr>
+                            <td style="width: 341px"><input name="searchProduit" id="searchProduit" style="width: 292px" type="text" onkeydown="searchProduits(this.value)" onkeyup="searchProduits(this.value)"/></td>
+                            <td rowspan="2">
+                            	<div>
+                                	<table border="0" style="width: 39%">
+                                      
+                                      <s:textfield name="prixProduit" label="Prix Produit" disabled="true" readonly="true" cssStyle="color:red;border:hidden;font-weight:bolder;width:400;background-color:#FFF"/>
+                                      
+                                      <s:textfield name="quantiteActuel" label="Quantite Actuel" disabled="true" readonly="true" cssStyle="color:red;border:hidden;font-weight:bolder;width:400;background-color:#FFF"/>
+                                      
+                                      <tr align="center">
+                                        <td colspan="2" align="center"><input type="button" value="Ajouter au panier" name="AjoutPanier" id="AjoutPanier" onclick="ajouterPanier()"/></td>
+                                      </tr>
+                                      
+                                      <tr align="center">
+                                        <td colspan="2" align="center"><input type="button" value="Ajouter à la future commande" name="AjoutCommande" id="AjoutCommande"/></td>
+                                      </tr>
+                                      
+                                    </table>
+                                </div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td style="width: 341px" style="background-color:#C0C0C0">
+                            	<select name="produitsFind" id="produitsFind" size="6" style="width: 300px" onchange="getProduitInfos()">
+								</select>
+                            </td>
+                          </tr>
+                        </table>
+                    
 						</p>
-						
+						<p>
+							Message : Vente effectuée avec succès ou impossible d'enregistrer la vente.
+							<%--<s:textfield name="idProduit" label="Id Produit" disabled="true" readonly="true" cssStyle="color:red;border:hidden;font-weight:bolder;width:400;background-color:#FFF"/><br/>
+						    <s:textfield name="idAlarme" label="Id Alarme" disabled="true" readonly="true" cssStyle="color:red;border:hidden;font-weight:bolder;width:400;background-color:#FFF"/><br/>
+						    <s:textfield name="nomProduit" label="Nom Produit" disabled="true" readonly="true" cssStyle="color:red;border:hidden;font-weight:bolder;width:400;background-color:#FFF"/><br/>
+						    <s:textfield name="codeProduit" label="Code Produit" disabled="true" readonly="true" cssStyle="color:red;border:hidden;font-weight:bolder;width:400;background-color:#FFF"/><br/>
+						    <s:textfield name="quantiteAlarme" label="Quantite Alarme" disabled="true" readonly="true" cssStyle="color:red;border:hidden;font-weight:bolder;width:400;background-color:#FFF"/><br/>
+						    <s:textfield name="datePeremption" label="Date Peremption" disabled="true" readonly="true" cssStyle="color:red;border:hidden;font-weight:bolder;width:400;background-color:#FFF"/><br/>
+						    <s:textfield name="dateCreation" label="Date Creation" disabled="true" readonly="true" cssStyle="color:red;border:hidden;font-weight:bolder;width:400;background-color:#FFF"/><br/>
+						    <s:textfield name="dateModification" label="Date Modification" disabled="true" readonly="true" cssStyle="color:red;border:hidden;font-weight:bolder;width:400;background-color:#FFF"/><br/>
+						    <s:textfield name="auteurCreation" label="Auteur Creation" disabled="true" readonly="true" cssStyle="color:red;border:hidden;font-weight:bolder;width:400;background-color:#FFF"/><br/>
+						    <s:textfield name="auteurModification" label="Auteur Modification" disabled="true" readonly="true" cssStyle="color:red;border:hidden;font-weight:bolder;width:400;background-color:#FFF"/><br/>--%>
+						    <s:hidden name="idProduit" label="Id Produit" disabled="true"/>
+						    <s:hidden name="idAlarme" label="Id Alarme" disabled="true"/>
+						    <s:hidden name="nomProduit" label="Nom Produit" disabled="true" />
+						    <s:hidden name="codeProduit" label="Code Produit" disabled="true" />
+						    <s:hidden name="quantiteAlarme" label="Quantite Alarme" disabled="true" />
+						    <s:hidden name="datePeremption" label="Date Peremption" disabled="true" />
+						    <s:hidden name="dateCreation" label="Date Creation" disabled="true" />
+						    <s:hidden name="dateModification" label="Date Modification" disabled="true" />
+						    <s:hidden name="auteurCreation" label="Auteur Creation" disabled="true" />
+						    <s:hidden name="auteurModification" label="Auteur Modification" disabled="true" />
+						</p>
 					</div> 
 					<div>
 						
@@ -270,7 +306,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 				<div class="content-box-header">
 					
 					<ul class="content-box-tabs">
-						<li><a href="#tab1" class="default-tab">Liste quelconque</a></li>
+						<li><a href="#tab1" class="default-tab">Panier</a></li>
 					</ul>
 					
 					<div class="clear"></div>
@@ -280,38 +316,37 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 				<div class="content-box-content">
 					
 					<div class="tab-content default-tab" id="tab1">
-						
-						<table>
-							
+					<s:form action="terminer_vente" method="POST" id="vente" name="vente">
+						<table id="tableauPanier">
 							<thead>
-								<tr>
+								<%--<tr>
 								   <th><input class="check-all" type="checkbox" /></th>
 								   <th>Column 1</th>
 								   <th>Column 2</th>
 								   <th>Column 3</th>
 								   <th>Column 4</th>
 								   <th>Column 5</th>
+								</tr>--%>
+								<tr style="background-color:gray; color:white;">
+								   <th>Action</th>
+								   <th>Nom du produit</th>
+								   <th>Prix du produit</th>
+								   <th>Quantité du produit</th>
 								</tr>
-								
 							</thead>
-						 
-							
-						 
+						  
 							<tbody>
-								<tr>
-									<td><input type="checkbox" /></td>
-									<td>Lorem ipsum dolor</td>
-									<td><a href="#" title="title">Sit amet</a></td>
-									<td>Consectetur adipiscing</td>
-									<td>Donec tortor diam</td>
+								<%--<tr>
 									<td>
 										<!-- Icons -->
-										 <a href="#" title="Edit"><img src="../resources/images/icons/pencil.png" alt="Edit" /></a>
-										 <a href="#" title="Delete"><img src="../resources/images/icons/cross.png" alt="Delete" /></a> 
+										 <a href="#" title="Delete"><img src="../resources/images/icons/cross.png" alt="Delete" /></a>
 									</td>
-								</tr>
+									<td>Lorem ipsum dolor</td>
+									<td>Consectetur adipiscing</td>
+									<td>Donec tortor diam</td>
+								</tr>--%>
 								
-								<tr>
+								<%-- <tr>
 									<td><input type="checkbox" /></td>
 									<td>Lorem ipsum dolor</td>
 									<td><a href="#" title="title">Sit amet</a></td>
@@ -435,12 +470,15 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 										 <a href="#" title="Delete"><img src="../resources/images/icons/cross.png" alt="Delete" /></a> 
 										 
 									</td>
-								</tr>
+								</tr> --%>
                                 
 							</tbody>
 							
 						</table>
-						
+							<%--<input type="button" value="Terminer la vente" onclick="creationFormVenteDyn()"/>--%>
+							<s:hidden name="produits.produitPanier" id="produits.produitPanier" value="1|2"/>
+							<input type="submit" value="Terminer la vente"/>
+						</s:form>
 					</div> 
 					
 				</div> 

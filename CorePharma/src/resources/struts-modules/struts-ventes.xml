@@ -11,13 +11,16 @@
     
     <package name="ventes" namespace="/ventes" extends="hibernate-default">
     
-	     <action name="vente_produits">
-			<result>/application/ventes/vente_produits.jsp</result>
+		<!--Action pour accéder à la page de vente de produits-->
+        <action name="vente_produits" method="affichageVenteProduit" class="corepharma.action.VentesAction">
+            <result name="success">/application/ventes/vente_produits.jsp</result>
+        </action>
+        
+        <!--Action pour terminer la vente des produits-->
+        <action name="terminer_vente" class="corepharma.action.VentesAction" method="terminerVente">
+		    <result name="success" type="redirectAction">vente_produits</result>
 		</action>
 		
-		<!-- <action name="vente_produits" class="corepharma.action.ProduitsAction" method="listeProduits">
-			<result name="success">/application/ventes/vente_produits.jsp</result>
-		</action>-->
 		
 		<!-- <action name="venteproduits" class="com.web.ProduitsAction" method="listProduits">
 		    
