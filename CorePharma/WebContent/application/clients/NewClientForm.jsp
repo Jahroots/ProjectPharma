@@ -18,12 +18,19 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 		<!-- Main Stylesheet -->
 		<link rel="stylesheet" href="../resources/css/style.css" type="text/css" media="screen" />
 		
+		
+		<!-- Collapsible Panel Stylesheet -->
+		<link rel="stylesheet" href="../resources/css/CSSCollaps.css" type="text/css" media="screen" />
+		
 		<!-- jQuery -->
 		<script type="text/javascript" src="../resources/scripts/jquery-1.3.2.min.js"></script>
 		
 		<!-- jQuery Configuration -->
 		<script type="text/javascript" src="../resources/scripts/simpla.jquery.configuration.js"></script>
 		
+		<!-- Collapsible Panel -->
+		<script type="text/javascript" src="../resources/scripts/JSCollaps.js"></script>
+			  
 	</head>
   
 	<body>
@@ -164,7 +171,17 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 				<div class="content-box-content">
 					
 					<div class="tab-content default-tab" id="tab2">
-					
+						
+						<div class="panel">
+						  <h2>Suivi de modifications</h2>
+						  <div class="panelcontent">
+							<p>Date de creation</p>
+							<p>Auteur de la creation</p>
+						    <p>Date de modification</p>
+						    <p>Auteur de la modification</p>
+						  </div>
+						</div>
+						
 						<form action="#" method="post">
 							
 							<fieldset> 
@@ -194,43 +211,64 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 									<thead>
 										<tr>
 										   <th><input class="check-all" type="checkbox" /></th>
-										   <th>Num. Client</th>
-										   <th>Nom</th>
-										   <th>Prénom</th>
-										   <th>Téléphone</th>
+										   <th>BANQUE</th>
+										   <th>IBAN</th>
+										   <th>PRINCIPAL</th>
+										   <th>ACTIF</th>
 										   <th></th>
-										</tr>
-										
-									</thead>							 
-									
+										</tr>										
+									</thead>
 								 
 									<tbody>    
 		                                
 		                                <tr>
 											<td><input type="checkbox" /></td>
-											<td><a href="#" title="Ouvrir la fiche Client">Lorem ipsum dolor</a></td>
-											<td>Sit amet</td>
-											<td>Consectetur adipiscing</td>
-											<td>Donec tortor diam</td>
+											<td>CAIC</td>
+											<td><a href="#" title="Ouvrir la fiche Client">123 456789101 112</a></td>
+											<td>Principal</td>
+											<td><input type="checkbox" checked="checked" /></td>
 											<td>
 												<!-- Icons -->
 												 <a href="#" title="Edit"><img src="../resources/images/icons/pencil.png" alt="Edit" /></a>
-												 <a href="#" title="Delete"><img src="../resources/images/icons/cross.png" alt="Delete" /></a> 
-												 
+												 <a href="#" title="Delete"><img src="../resources/images/icons/cross.png" alt="Delete" /></a>												 
 											</td>
 										</tr>
 		                                
 		                                <tr>
 											<td><input type="checkbox" /></td>
-											<td><a href="#" title="Ouvrir la fiche Client">Lorem ipsum dolor</a></td>
-											<td>Sit amet</td>
-											<td>Consectetur adipiscing</td>
-											<td>Donec tortor diam</td>
+											<td><label id="nomBanque" >BGFI</label></td>
+											<td><a href="#" title="Ouvrir la fiche Client">123 456789101 112</a></td>
+											<td>Secondaire</td>
+											<td><input type="checkbox" /></td>
 											<td>
 												<!-- Icons -->
 												 <a href="#" title="Edit"><img src="../resources/images/icons/pencil.png" alt="Edit" /></a>
-												 <a href="#" title="Delete"><img src="../resources/images/icons/cross.png" alt="Delete" /></a> 
-												 
+												 <a href="#" title="Delete"><img src="../resources/images/icons/cross.png" alt="Delete" /></a>												 
+											</td>
+										</tr>
+										
+		                                <tr>
+											<td><input type="checkbox" /></td>
+											<td>
+												<select name="selRow0">
+											    	<option value="value0">Credit du Congo</option>
+											    	<option value="value1">BEAC</option>
+											    	<option value="value1">BGFI</option>
+											    	<option value="value1">CAIC</option>
+											    </select>
+											</td>
+											<td><input type="text" value="123 456789101112 456"></INPUT></td>
+											<td>												
+												<select name="selRow1">
+											    	<option value="value0">Principal</option>
+											    	<option value="value1">Secondaire</option>
+											    </select>
+											</td>
+											<td><input type="checkbox" /></td>
+											<td>
+												<!-- Icons -->
+												 <a href="#" title="Edit"><img src="../resources/images/icons/pencil.png" alt="Edit" /></a>
+												 <a href="#" title="Delete"><img src="../resources/images/icons/cross.png" alt="Delete" /></a>												 
 											</td>
 										</tr>
 		                                
